@@ -1,0 +1,101 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/BodyPart",
+    "definitions": {
+        "BodyPart": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "$version": {
+                    "type": "string"
+                },
+                "$schema": {
+                    "type": "string"
+                },
+                "bodyParts": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/BodyPartElement"
+                    }
+                }
+            },
+            "required": [
+                "$schema",
+                "$version",
+                "bodyParts"
+            ],
+            "title": "BodyPart"
+        },
+        "RadlexID": {
+            "type": "string",
+            "pattern": "^RID\\d+(_RID\\d+)*$",
+            "title": "RadlexID"
+        },
+        "BodyPartElement": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "radlexId": {
+                    "$ref": "#/definitions/RadlexID"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "containedById": {
+                    "$ref": "#/definitions/RadlexID"
+                },
+                "synonyms": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "codes": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/Code"
+                    }
+                },
+                "partOfId": {
+                    "$ref": "#/definitions/RadlexID"
+                },
+                "leftId": {
+                    "$ref": "#/definitions/RadlexID"
+                },
+                "rightId": {
+                    "$ref": "#/definitions/RadlexID"
+                },
+                "sexSpecific": {
+                    "type": "string",
+                    "enum": ["Male", "Female"]
+                },
+                "unsidedId": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "containedById",
+                "description",
+                "radlexId"
+            ],
+            "title": "BodyPartElement"
+        },
+        "Code": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "system": {
+                    "type": "string"
+                },
+                "code": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "code",
+                "system"
+            ],
+            "title": "Code"
+        }
+    }
+}
