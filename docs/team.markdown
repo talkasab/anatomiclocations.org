@@ -5,10 +5,14 @@ permalink: /team/
 ---
 
 The Anatomic Locations team consists of:
-- Tarik K. Alkasab, MD, PhD
-- Srihari Lella, MD
-- Bita Hazhirkarzar, MD
-- Renata Almeida Bizzo, MD, PhD
-- Bernardo Bizzo, MD, PhD
+
+|  |  |
+|---|---|
+| Tarik K. Alkasab, MD, PhD | Mass General |
+| Srihari Lella, MD | Mass General |
+| Bita Hazhirkarzar, MD | Brookdale Hospital |
+| Renata Almeida Bizzo, MD, PhD | Brigham & Women's |
+| Bernardo Bizzo, MD, PhD | Mass General |
+| Brian Bialecki | American College of Radiology |
 
 Contact us at [info@anatomiclocations.org](mailto:info@anatomiclocations.org)
