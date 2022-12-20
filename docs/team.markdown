@@ -14,5 +14,6 @@ The Anatomic Locations team consists of:
 | Renata Almeida Bizzo, MD, PhD | Brigham & Women's |
 | Bernardo Bizzo, MD, PhD | Mass General |
 | Brian Bialecki | American College of Radiology |
+| Heather Chase | Nuance Communications |
 
 Contact us at [info@anatomiclocations.org](mailto:info@anatomiclocations.org)
