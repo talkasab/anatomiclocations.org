@@ -15,5 +15,6 @@ The Anatomic Locations team consists of:
 | Bernardo Bizzo, MD, PhD | Mass General |
 | Brian Bialecki | American College of Radiology |
 | Heather Chase | Nuance Communications |
+| Catherine Ladd | Nuance Communications |
 
 Contact us at [info@anatomiclocations.org](mailto:info@anatomiclocations.org)
