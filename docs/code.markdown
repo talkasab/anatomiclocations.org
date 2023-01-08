@@ -9,6 +9,7 @@ The index is contained in a JSON file available at the link below. The JSON vali
 
 - [body_parts.json](https://raw.githubusercontent.com/talkasab/anatomiclocations.org/main/data/body_parts.json)—currently at release 1.0.0-rc.1
 - [body_parts_schema.json](https://raw.githubusercontent.com/talkasab/anatomiclocations.org/main/data/body_parts_schema.json)
+- [CHANGELOG.md](https://github.com/talkasab/anatomiclocations.org/blob/main/data/CHANGELOG.md)
 
 ![Body parts data file JSON structure](/assets/JSONStructure.png "Body parts data file JSON structure")
 

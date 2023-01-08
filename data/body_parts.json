@@ -1,6 +1,6 @@
 {
   "$version": "1.0.0-rc.1",
-  "$schema": "body_parts_schema.json",
+  "$schema": "https://raw.githubusercontent.com/talkasab/anatomiclocations.org/09b1867a8c59e3914df454018436de9c60ead1cf/data/body_parts_schema.json",
   "bodyParts": [
     {
       "radlexId": "RID56",
