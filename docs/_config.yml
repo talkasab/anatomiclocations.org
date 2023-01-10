@@ -37,6 +37,7 @@ plugins:
 header_pages:
   - code.markdown
   - team.markdown
+  - tree.html
 
 
 # Exclude from processing.

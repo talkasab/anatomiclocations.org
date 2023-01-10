@@ -1,0 +1,40 @@
+---
+layout: page
+title: Hierarchy
+permalink: /hierarchy/
+---
+<div id="tree"></div>
+<button id="expandAll">Expand All</button>
+<button id="collapseAll">Collapse All</button>
+<script type="text/javascript" src="/assets/treeview.min.js"></script>
+<script type="text/javascript" src="/assets/body_part_tree.js"></script>
+<script type="text/javascript">
+    //
+    // Tree Structure
+    //
+    
+    //
+    // Grab expand/collapse buttons
+    //
+    var expandAll = document.getElementById('expandAll');
+    var collapseAll = document.getElementById('collapseAll');
+  
+    //
+    // Create tree
+    //
+  
+    var t = new TreeView(tree, 'tree');
+  
+    //
+    // Attach events
+    //
+  
+    expandAll.onclick = function () { t.expandAll(); };
+    collapseAll.onclick = function () { t.collapseAll(); };
+  
+/*     t.on('select', function () { alert('select'); });
+    t.on('expand', function () { alert('expand'); });
+    t.on('collapse', function () { alert('collapse'); });
+    t.on('expandAll', function () { alert('expand all'); });
+    t.on('collapseAll', function () { alert('collapse all'); }); */
+  </script>
