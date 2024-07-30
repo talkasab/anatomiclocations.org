@@ -1,0 +1,21 @@
+{
+  "name": "apex of right lung",
+  "anatomicLocationsId": "RID28584_RID5825",
+  "snomedId": "62884005",
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/apical-zone?lang=us"
+    }
+  ],
+  "containedByRef": [
+    {
+      "id": "RID1303",
+      "display": "upper lobe of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1303",
+    "display": "upper lobe of right lung"
+  }
+}
