@@ -1,0 +1,150 @@
+{
+  "_id": "RID1384",
+  "anatomicLocationsId": "RID1384",
+  "acrCommonId": "4014531",
+  "snomedId": "72410000",
+  "snomedDisplay": "Mediastinal structure",
+  "description": "mediastinum",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "containsRefs": [
+    {
+      "id": "RID581",
+      "display": "aortic arch"
+    },
+    {
+      "id": "RID580",
+      "display": "ascending aorta"
+    },
+    {
+      "id": "RID1246",
+      "display": "tracheobronchial tree"
+    },
+    {
+      "id": "RID1248",
+      "display": "carina"
+    },
+    {
+      "id": "RID35844",
+      "display": "descending thoracic aorta"
+    },
+    {
+      "id": "RID95",
+      "display": "esophagus"
+    },
+    {
+      "id": "RID1385",
+      "display": "heart"
+    },
+    {
+      "id": "RID34918",
+      "display": "main bronchus"
+    },
+    {
+      "id": "RID1250",
+      "display": "right main bronchus"
+    },
+    {
+      "id": "RID1275",
+      "display": "left main bronchus"
+    },
+    {
+      "id": "RID993",
+      "display": "left pulmonary artery"
+    },
+    {
+      "id": "RID975",
+      "display": "main pulmonary artery"
+    },
+    {
+      "id": "RID1407",
+      "display": "pericardium"
+    },
+    {
+      "id": "RID974",
+      "display": "pulmonary artery"
+    },
+    {
+      "id": "RID1231",
+      "display": "pulmonary vein"
+    },
+    {
+      "id": "RID976",
+      "display": "right pulmonary artery"
+    },
+    {
+      "id": "RID28727",
+      "display": "set of coronary arteries"
+    },
+    {
+      "id": "RID579",
+      "display": "sinotubular junction"
+    },
+    {
+      "id": "RID1010",
+      "display": "superior vena cava"
+    },
+    {
+      "id": "RID879",
+      "display": "thoracic aorta"
+    },
+    {
+      "id": "RID1430",
+      "display": "thymus"
+    },
+    {
+      "id": "RID1247",
+      "display": "trachea"
+    },
+    {
+      "id": "RID1258",
+      "display": "interlobar bronchus"
+    },
+    {
+      "id": "RID19173",
+      "display": "thoracic sympathetic trunk"
+    },
+    {
+      "id": "RID19174",
+      "display": "right thoracic sympathetic trunk"
+    },
+    {
+      "id": "RID19175",
+      "display": "left thoracic sympathetic trunk"
+    },
+    {
+      "id": "RID28852",
+      "display": "set of mediastinal lymph nodes"
+    },
+    {
+      "id": "RID1477",
+      "display": "aortopulmonary lymph node"
+    },
+    {
+      "id": "RID1521",
+      "display": "pericardial lymph node"
+    }
+  ],
+  "synonyms": ["mediast"],
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3333",
+      "display": "mediastinum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mediastinum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/mediastinum-1?lang=us"
+    }
+  ]
+}

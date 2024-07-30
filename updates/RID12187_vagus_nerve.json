@@ -1,0 +1,52 @@
+{
+  "_id": "RID12187",
+  "anatomicLocationsId": "RID12187",
+  "acrCommonId": "4015516",
+  "snomedId": "88882009",
+  "snomedDisplay": "Vagus nerve structure",
+  "description": "vagus nerve",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "leftRef": {
+    "id": "RID27701",
+    "display": "left vagus nerve"
+  },
+  "rightRef": {
+    "id": "RID27700",
+    "display": "right vagus nerve"
+  },
+  "definition": "The 10th cranial nerve. The vagus is a mixed nerve which contains somatic afferents (from skin in back of the ear and the external auditory meatus), visceral afferents (from the pharynx, larynx, thorax, and abdomen), parasympathetic efferents (to the thorax and abdomen), and efferents to striated muscle (of the larynx and pharynx). [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "6332",
+      "display": "vagus nerve"
+    },
+    {
+      "system": "FMA",
+      "code": "5731"
+    },
+    {
+      "system": "MESH",
+      "code": "A08.800.050.050.925 | A08.800.050.600.825 | A08.800.800.060.920 | A08.800.800.120.900"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0042276"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vagus_nerve"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/vagus-nerve?lang=us"
+    }
+  ]
+}

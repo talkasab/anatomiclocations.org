@@ -1,0 +1,25 @@
+{
+  "_id": "RID1333",
+  "anatomicLocationsId": "RID1333",
+  "acrCommonId": "4014449",
+  "snomedId": "50837003",
+  "snomedDisplay": "Structure of lingula of left lung",
+  "description": "lingula",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1326",
+    "display": "left lung"
+  },
+  "partOfRef": {
+    "id": "RID1327",
+    "display": "upper lobe of left lung"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3304",
+      "display": "lingula of left lung"
+    }
+  ]
+}

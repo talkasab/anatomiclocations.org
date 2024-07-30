@@ -1,0 +1,53 @@
+{
+  "_id": "RID7201",
+  "anatomicLocationsId": "RID7201",
+  "acrCommonId": "4014725",
+  "snomedId": "50230006",
+  "snomedDisplay": "Structure of phrenic nerve",
+  "description": "phrenic nerve",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "synonyms": ["nervus phrenicus"],
+  "leftRef": {
+    "id": "RID27717",
+    "display": "left phrenic nerve"
+  },
+  "rightRef": {
+    "id": "RID27716",
+    "display": "right phrenic nerve"
+  },
+  "definition": "The motor nerve of the diaphragm. The phrenic nerve fibers originate in the cervical spinal column (mostly C4) and travel through the cervical plexus to the diaphragm. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "6380",
+      "display": "phrenic nerve"
+    },
+    {
+      "system": "FMA",
+      "code": "6191"
+    },
+    {
+      "system": "MESH",
+      "code": "A08.800.800.720.150.700"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0031774"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phrenic_nerve"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/phrenic-nerve?lang=us"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "RID7519",
+  "anatomicLocationsId": "RID7519",
+  "acrCommonId": "4015281",
+  "snomedId": "78752003",
+  "snomedDisplay": "Structure of sternohyoid muscle",
+  "description": "sternohyoid muscle",
+  "region": "Neck",
+  "containedByRef": {
+    "id": "RID7488",
+    "display": "neck"
+  },
+  "partOfRef": {
+    "id": "RID7489",
+    "display": "muscle of neck"
+  },
+  "leftRef": {
+    "id": "RID7519_RID5824",
+    "display": "left sternohyoid muscle"
+  },
+  "rightRef": {
+    "id": "RID7519_RID5825",
+    "display": "right sternohyoid muscle"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2168",
+      "display": "Sternohyoid muscle"
+    },
+    {
+      "system": "FMA",
+      "code": "13341"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sternohyoid_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/sternohyoid-muscle?lang=us"
+    }
+  ]
+}

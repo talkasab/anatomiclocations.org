@@ -1,0 +1,40 @@
+{
+  "_id": "RID1310",
+  "anatomicLocationsId": "RID1310",
+  "acrCommonId": "4014565",
+  "snomedId": "72481006",
+  "snomedDisplay": "Structure of right middle lobe of lung",
+  "description": "middle lobe of lung",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1302",
+    "display": "right lung"
+  },
+  "synonyms": ["middle lobe of right lung", "RML", "right middle lobe"],
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3289",
+      "display": "middle lobe of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-middle-lobe?lang=us"
+    }
+  ],
+  "partOfId": "RID1302",
+  "containedById": [
+    {
+      "system": "anatomicLocations",
+      "code": "RID1302",
+      "display": "right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1302",
+    "display": "right lung"
+  }
+}

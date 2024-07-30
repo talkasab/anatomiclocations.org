@@ -1,0 +1,46 @@
+{
+  "_id": "RID1362",
+  "anatomicLocationsId": "RID136",
+  "acrCommonId": "4014735",
+  "snomedId": "3120008",
+  "snomedDisplay": "pleural membrane structure",
+  "description": "pleura",
+  "region": "thorax",
+  "right": "RID5825",
+  "left": "RID5824",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "definition": "The thin serous membrane enveloping the lungs (lung) and lining the thoracic cavity. Pleura consist of two layers, the inner visceral pleura lying next to the pulmonary parenchyma and the outer parietal pleura. Between the two layers is the pleural cavity which contains a thin film of liquid. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3322",
+      "display": "pleura"
+    }
+  ],
+  "rightRef": {
+    "id": "RID136_RID5825",
+    "display": "right pleura"
+  },
+  "leftRef": {
+    "id": "RID136_RID5824",
+    "display": "left pleura"
+  },
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pulmonary_pleurae"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pleura?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID39189",
+    "display": "respiratory system"
+  }
+}

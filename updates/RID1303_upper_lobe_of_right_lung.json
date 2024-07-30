@@ -1,0 +1,26 @@
+{
+  "_id": "RID1303",
+  "anatomicLocationsId": "RID1303",
+  "acrCommonId": "4015504",
+  "snomedId": "42400003",
+  "snomedDisplay": "structure of right upper lobe of lung",
+  "description": "upper lobe of right lung",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1302",
+    "display": "right lung"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3284",
+      "display": "superior lobe of right lung"
+    }
+  ],
+  "synonyms": ["right upper lobe", "RUL"],
+  "partOfRef": {
+    "id": "RID1302",
+    "display": "right lung"
+  }
+}
