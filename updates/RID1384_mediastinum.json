@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1384",
   "acrCommonId": "4014531",
   "snomedId": "72410000",
-  "snomedDisplay": "Mediastinal structure",
+  "snomedDisplay": "mediastinal structure",
   "description": "mediastinum",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1243",
     "display": "thorax"

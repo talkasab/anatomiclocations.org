@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1333",
   "acrCommonId": "4014449",
   "snomedId": "50837003",
-  "snomedDisplay": "Structure of lingula of left lung",
+  "snomedDisplay": "structure of lingula of left lung",
   "description": "lingula",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1326",
     "display": "left lung"

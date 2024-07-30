@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1327",
   "acrCommonId": "4015503",
   "snomedId": "44714003",
-  "snomedDisplay": "Structure of upper lobe of left lung",
+  "snomedDisplay": "structure of upper lobe of left lung",
   "description": "upper lobe of left lung",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1326",
     "display": "left lung"

@@ -3,7 +3,7 @@
   "anatomicLocationsId": "RID32242",
   "acrCommonId": "4014455",
   "snomedId": "22756007",
-  "snomedDisplay": "Longus colli muscle structure",
+  "snomedDisplay": "longus colli muscle structure",
   "description": "longus colli",
   "region": "Neck",
   "containedByRef": {

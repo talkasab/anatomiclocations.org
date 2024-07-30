@@ -3,7 +3,7 @@
   "anatomicLocationsId": "RID12187",
   "acrCommonId": "4015516",
   "snomedId": "88882009",
-  "snomedDisplay": "Vagus nerve structure",
+  "snomedDisplay": "vagus nerve structure",
   "description": "vagus nerve",
   "region": "Thorax",
   "containedByRef": {

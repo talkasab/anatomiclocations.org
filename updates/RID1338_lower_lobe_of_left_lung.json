@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1338",
   "acrCommonId": "4014461",
   "snomedId": "41224006",
-  "snomedDisplay": "Structure of lower lobe of left lung",
+  "snomedDisplay": "structure of lower lobe of left lung",
   "description": "lower lobe of left lung",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1326",
     "display": "left lung"

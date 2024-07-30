@@ -3,7 +3,7 @@
   "anatomicLocationsId": "RID1010",
   "acrCommonId": "4015348",
   "snomedId": "48345005",
-  "snomedDisplay": "Superior vena cava structure",
+  "snomedDisplay": "superior vena cava structure",
   "description": "superior vena cava",
   "region": "Thorax",
   "containedByRef": {

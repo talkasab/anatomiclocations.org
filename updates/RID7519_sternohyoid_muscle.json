@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID7519",
   "acrCommonId": "4015281",
   "snomedId": "78752003",
-  "snomedDisplay": "Structure of sternohyoid muscle",
+  "snomedDisplay": "structure of sternohyoid muscle",
   "description": "sternohyoid muscle",
-  "region": "Neck",
+  "region": "neck",
   "containedByRef": {
     "id": "RID7488",
     "display": "neck"
@@ -27,7 +27,7 @@
     {
       "system": "TA2",
       "code": "2168",
-      "display": "Sternohyoid muscle"
+      "display": "sternohyoid muscle"
     },
     {
       "system": "FMA",

@@ -5,7 +5,7 @@
   "snomedId": "44029006",
   "snomedDisplay": "left lung structure",
   "description": "left lung",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1363_RID5824",
     "display": "left pleural space"

@@ -3,7 +3,7 @@
   "anatomicLocationsId": "RID1315",
   "acrCommonId": "4014462",
   "snomedId": "266005",
-  "snomedDisplay": "Structure of right lower lobe of lung",
+  "snomedDisplay": "structure of right lower lobe of lung",
   "description": "lower lobe of right lung",
   "region": "Thorax",
   "containedByRef": {

@@ -3,7 +3,7 @@
   "anatomicLocationsId": "RID43258",
   "acrCommonId": "4013939",
   "snomedId": "83067000",
-  "snomedDisplay": "Structure of horizontal interlobar fissure of right lung",
+  "snomedDisplay": "structure of horizontal interlobar fissure of right lung",
   "description": "horizontal fissure of right lung",
   "region": "Thorax",
   "containedByRef": {

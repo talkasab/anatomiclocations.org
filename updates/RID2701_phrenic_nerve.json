@@ -5,7 +5,7 @@
   "snomedId": "50230006",
   "snomedDisplay": "Structure of phrenic nerve",
   "description": "phrenic nerve",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1243",
     "display": "thorax"

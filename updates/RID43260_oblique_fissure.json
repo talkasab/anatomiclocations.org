@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID43260_RID5825",
   "acrCommonId": "4014621",
   "snomedId": "24720008",
-  "snomedDisplay": "Structure of oblique interlobar fissure of right lung (body structure)",
+  "snomedDisplay": "structure of oblique interlobar fissure of right lung (body structure)",
   "description": "oblique fissure",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1301",
     "display": "lung"
