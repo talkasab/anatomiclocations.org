@@ -1,0 +1,32 @@
+{
+  "_id": "RID1430",
+  "anatomicLocationsId": "RID1430",
+  "acrCommonId": "4015443",
+  "snomedId": "9875009",
+  "snomedDisplay": "Thymus gland structure",
+  "description": "thymus",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "definition": "A single, unpaired primary lymphoid organ situated in the mediastinum, extending superiorly into the neck to the lower edge of the thyroid gland and inferiorly to the fourth costal cartilage. It is necessary for normal development of immunologic function early in life. By puberty, it begins to involute and much of the tissue is replaced by fat. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5152",
+      "display": "thymus"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thymus"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/thymus?lang=us"
+    }
+  ]
+}

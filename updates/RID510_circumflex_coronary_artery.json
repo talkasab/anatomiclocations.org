@@ -1,0 +1,35 @@
+{
+  "_id": "RID510",
+  "anatomicLocationsId": "RID510",
+  "snomedId": "57396003",
+  "snomedDisplay": "Structure of circumflex branch of left coronary artery",
+  "description": "circumflex coronary artery",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4148",
+      "display": "Circumflex artery of heart"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Circumflex_branch_of_left_coronary_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/circumflex-artery?lang=us"
+    }
+  ],
+  "synonyms": ["LCX", "circumflex branch of left coronary artery"],
+  "partOfRef": {
+    "id": "RID28727",
+    "display": "set of coronary arteries"
+  },
+  "embedding_vector": []
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "RID1389",
+  "anatomicLocationsId": "RID1389",
+  "acrCommonId": "4015197",
+  "snomedId": "53085002",
+  "snomedDisplay": "Right ventricular structure",
+  "description": "right ventricle",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4038",
+      "display": "right ventricle"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-ventricle?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "embedding_vector": []
+}

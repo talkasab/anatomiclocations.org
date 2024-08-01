@@ -1,0 +1,27 @@
+{
+  "_id": "RID28935",
+  "anatomicLocationsId": "RID28935",
+  "acrCommonId": "4014685",
+  "description": "para-aortic thoracic lymph node",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "synonyms": ["6R+L thoracic lymph node", "6 thoracic lymph node"],
+  "partOfRef": {
+    "id": "RID28847",
+    "display": "lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "276820"
+    },
+    {
+      "system": "UMLS",
+      "code": "C4248027"
+    }
+  ],
+  "embedding_vector": []
+}

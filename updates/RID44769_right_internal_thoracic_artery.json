@@ -1,0 +1,39 @@
+{
+  "_id": "RID44769",
+  "anatomicLocationsId": "RID44769",
+  "acrCommonId": "4014992",
+  "snomedId": "261403006",
+  "snomedDisplay": "Right internal mammary artery",
+  "description": "right internal thoracic artery",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "synonyms": [
+    "arteria thoracica interna dextra"
+  ],
+  "partOfRef": {
+    "id": "RID49962",
+    "display": "set of chest vessels"
+  },
+  "leftRef": {
+    "id": "RID44770",
+    "display": "left internal thoracic artery"
+  },
+  "unsidedRef": {
+    "id": "RID823",
+    "display": "internal thoracic artery"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "3969"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0500531"
+    }
+  ],
+  "embedding_vector": []
+}
