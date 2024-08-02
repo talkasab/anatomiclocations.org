@@ -5,7 +5,7 @@
   "snomedId": "22756007",
   "snomedDisplay": "longus colli muscle structure",
   "description": "longus colli",
-  "region": "Neck",
+  "region": "neck",
   "containedByRef": {
     "id": "RID7488",
     "display": "neck"

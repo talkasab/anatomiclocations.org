@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1400",
   "acrCommonId": "4014684",
   "snomedId": "35054001",
-  "snomedDisplay": "Structure of papillary muscle",
+  "snomedDisplay": "structure of papillary muscle",
   "description": "papillary muscle",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1385",
     "display": "heart"

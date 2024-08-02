@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1430",
   "acrCommonId": "4015443",
   "snomedId": "9875009",
-  "snomedDisplay": "Thymus gland structure",
+  "snomedDisplay": "thymus gland structure",
   "description": "thymus",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1384",
     "display": "mediastinum"

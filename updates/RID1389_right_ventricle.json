@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1389",
   "acrCommonId": "4015197",
   "snomedId": "53085002",
-  "snomedDisplay": "Right ventricular structure",
+  "snomedDisplay": "right ventricular structure",
   "description": "right ventricle",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1385",
     "display": "heart"

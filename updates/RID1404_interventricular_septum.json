@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1404",
   "acrCommonId": "4014017",
   "snomedId": "589001",
-  "snomedDisplay": "Interventricular septum structure",
+  "snomedDisplay": "interventricular septum structure",
   "description": "interventricular septum",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1385",
     "display": "heart"

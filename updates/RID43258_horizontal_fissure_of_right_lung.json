@@ -5,7 +5,7 @@
   "snomedId": "83067000",
   "snomedDisplay": "structure of horizontal interlobar fissure of right lung",
   "description": "horizontal fissure of right lung",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1302",
     "display": "right lung"

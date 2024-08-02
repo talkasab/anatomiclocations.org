@@ -1,0 +1,39 @@
+{
+  "_id": "RID34918",
+  "anatomicLocationsId": "RID34918",
+  "acrCommonId": "4014478",
+  "snomedId": "102297006",
+  "snomedDisplay": "Main bronchus structure",
+  "description": "main bronchus",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "partOfRef": {
+    "id": "RID1246",
+    "display": "tracheobronchial tree"
+  },
+  "leftRef": {
+    "id": "RID1275",
+    "display": "left main bronchus"
+  },
+  "rightRef": {
+    "id": "RID1250",
+    "display": "right main bronchus"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3227",
+      "display": "main bronchus"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bronchus"
+    }
+  ]
+}

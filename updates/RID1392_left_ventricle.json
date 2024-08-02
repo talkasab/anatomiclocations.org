@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1392",
   "acrCommonId": "4014426",
   "snomedId": "87878005",
-  "snomedDisplay": "Left ventricular structure",
+  "snomedDisplay": "left ventricular structure",
   "description": "left ventricle",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1385",
     "display": "heart"

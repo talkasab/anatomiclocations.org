@@ -3,7 +3,7 @@
   "anatomicLocationsId": "RID7201",
   "acrCommonId": "4014725",
   "snomedId": "50230006",
-  "snomedDisplay": "Structure of phrenic nerve",
+  "snomedDisplay": "structure of phrenic nerve",
   "description": "phrenic nerve",
   "region": "thorax",
   "containedByRef": {

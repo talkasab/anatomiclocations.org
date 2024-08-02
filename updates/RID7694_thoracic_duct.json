@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID7694",
   "acrCommonId": "4015439",
   "snomedId": "1732005",
-  "snomedDisplay": "Thoracic duct structure",
+  "snomedDisplay": "thoracic duct structure",
   "description": "thoracic duct",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1243",
     "display": "thorax"

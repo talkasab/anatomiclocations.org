@@ -5,7 +5,7 @@
   "snomedId": "1087003",
   "snomedDisplay": "structure of sternothyroid muscle",
   "description": "sternothyroid muscle",
-  "region": "Neck",
+  "region": "neck",
   "containedByRef": {
     "id": "RID7488",
     "display": "neck"

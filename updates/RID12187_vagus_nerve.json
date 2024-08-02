@@ -5,7 +5,7 @@
   "snomedId": "88882009",
   "snomedDisplay": "vagus nerve structure",
   "description": "vagus nerve",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1243",
     "display": "thorax"

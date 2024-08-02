@@ -1,0 +1,256 @@
+{
+  "_id": "RID2468",
+  "anatomicLocationsId": "RID2468",
+  "acrCommonId": "4013613",
+  "snomedId": "78904004",
+  "snomedDisplay": "Chest wall structure",
+  "description": "chest wall",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "containsRefs": [
+    {
+      "id": "RID29895",
+      "display": "female breast"
+    },
+    {
+      "id": "RID29896",
+      "display": "right female breast"
+    },
+    {
+      "id": "RID29897",
+      "display": "left female breast"
+    },
+    {
+      "id": "RID29898",
+      "display": "male breast"
+    },
+    {
+      "id": "RID29899",
+      "display": "right male breast"
+    },
+    {
+      "id": "RID29900",
+      "display": "left male breast"
+    },
+    {
+      "id": "RID28591",
+      "display": "set of ribs"
+    },
+    {
+      "id": "RID28591_RID6151",
+      "display": "first rib"
+    },
+    {
+      "id": "RID28591_RID6151_RID5824",
+      "display": "left first rib"
+    },
+    {
+      "id": "RID28591_RID6151_RID5825",
+      "display": "right first rib"
+    },
+    {
+      "id": "RID28591_RID6152",
+      "display": "second rib"
+    },
+    {
+      "id": "RID28591_RID6152_RID5824",
+      "display": "left second rib"
+    },
+    {
+      "id": "RID28591_RID6152_RID5825",
+      "display": "right second rib"
+    },
+    {
+      "id": "RID28591_RID6153",
+      "display": "third rib"
+    },
+    {
+      "id": "RID28591_RID6153_RID5824",
+      "display": "left third rib"
+    },
+    {
+      "id": "RID28591_RID6153_RID5825",
+      "display": "right third rib"
+    },
+    {
+      "id": "RID28591_RID6154",
+      "display": "fourth rib"
+    },
+    {
+      "id": "RID28591_RID6154_RID5824",
+      "display": "left fourth rib"
+    },
+    {
+      "id": "RID28591_RID6154_RID5825",
+      "display": "right fourth rib"
+    },
+    {
+      "id": "RID28591_RID6155",
+      "display": "fifth rib"
+    },
+    {
+      "id": "RID28591_RID6155_RID5824",
+      "display": "left fifth rib"
+    },
+    {
+      "id": "RID28591_RID6155_RID5825",
+      "display": "right fifth rib"
+    },
+    {
+      "id": "RID28591_RID6156",
+      "display": "sixth rib"
+    },
+    {
+      "id": "RID28591_RID6156_RID5824",
+      "display": "left sixth rib"
+    },
+    {
+      "id": "RID28591_RID6156_RID5825",
+      "display": "right sixth rib"
+    },
+    {
+      "id": "RID28591_RID6157",
+      "display": "seventh rib"
+    },
+    {
+      "id": "RID28591_RID6157_RID5824",
+      "display": "left seventh rib"
+    },
+    {
+      "id": "RID28591_RID6157_RID5825",
+      "display": "right seventh rib"
+    },
+    {
+      "id": "RID28591_RID6158",
+      "display": "eighth rib"
+    },
+    {
+      "id": "RID28591_RID6158_RID5824",
+      "display": "left eighth rib"
+    },
+    {
+      "id": "RID28591_RID6158_RID5825",
+      "display": "right eighth rib"
+    },
+    {
+      "id": "RID28591_RID6159",
+      "display": "ninth rib"
+    },
+    {
+      "id": "RID28591_RID6159_RID5824",
+      "display": "left ninth rib"
+    },
+    {
+      "id": "RID28591_RID6159_RID5825",
+      "display": "right ninth rib"
+    },
+    {
+      "id": "RID28591_RID6160",
+      "display": "tenth rib"
+    },
+    {
+      "id": "RID28591_RID6160_RID5824",
+      "display": "left tenth rib"
+    },
+    {
+      "id": "RID28591_RID6160_RID5825",
+      "display": "right tenth rib"
+    },
+    {
+      "id": "RID28591_RID6161",
+      "display": "eleventh rib"
+    },
+    {
+      "id": "RID28591_RID6161_RID5824",
+      "display": "left eleventh rib"
+    },
+    {
+      "id": "RID28591_RID6161_RID5825",
+      "display": "right eleventh rib"
+    },
+    {
+      "id": "RID28591_RID6162",
+      "display": "twelfth rib"
+    },
+    {
+      "id": "RID28591_RID6162_RID5824",
+      "display": "left twelfth rib"
+    },
+    {
+      "id": "RID28591_RID6162_RID5825",
+      "display": "right twelfth rib"
+    },
+    {
+      "id": "RID884",
+      "display": "intercostal artery"
+    },
+    {
+      "id": "RID2502",
+      "display": "serratus anterior muscle"
+    },
+    {
+      "id": "RID43052",
+      "display": "right serratus anterior"
+    },
+    {
+      "id": "RID43053",
+      "display": "left serratus anterior"
+    },
+    {
+      "id": "RID30049",
+      "display": "back of thorax"
+    },
+    {
+      "id": "RID32769",
+      "display": "set of intercostal muscles"
+    },
+    {
+      "id": "RID32770",
+      "display": "set of right intercostal muscles"
+    },
+    {
+      "id": "RID32771",
+      "display": "set of left intercostal muscles"
+    },
+    {
+      "id": "RID823",
+      "display": "internal thoracic artery"
+    },
+    {
+      "id": "RID44769",
+      "display": "right internal thoracic artery"
+    },
+    {
+      "id": "RID44770",
+      "display": "left internal thoracic artery"
+    },
+    {
+      "id": "RID49536",
+      "display": "set of intercostal arteries"
+    },
+    {
+      "id": "RID16276",
+      "display": "set of intercostal nerves"
+    },
+    {
+      "id": "RID32755",
+      "display": "musculature of thorax"
+    },
+    {
+      "id": "RID29859",
+      "display": "anterior chest wall"
+    }
+  ],
+  "synonyms": ["thoracic wall"],
+  "definition": "Subdivision of thorax which includes all structures from the skin to the costal pleura. Examples: There is only one chest wall. [FMA]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thoracic_wall"
+    }
+  ]
+}

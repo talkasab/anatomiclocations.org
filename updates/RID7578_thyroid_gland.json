@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID7578",
   "acrCommonId": "4015448",
   "snomedId": "69748006",
-  "snomedDisplay": "Thyroid structure",
+  "snomedDisplay": "thyroid structure",
   "description": "thyroid gland",
-  "region": "Neck",
+  "region": "neck",
   "containedByRef": {
     "id": "RID7488",
     "display": "neck"

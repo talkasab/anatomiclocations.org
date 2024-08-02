@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID44769",
   "acrCommonId": "4014992",
   "snomedId": "261403006",
-  "snomedDisplay": "Right internal mammary artery",
+  "snomedDisplay": "right internal mammary artery",
   "description": "right internal thoracic artery",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID2468",
     "display": "chest wall"

@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID39309",
   "acrCommonId": "4014079",
   "snomedId": "32427001",
-  "snomedDisplay": "Structure of leaflet of tricuspid valve",
+  "snomedDisplay": "structure of leaflet of tricuspid valve",
   "description": "leaflet of tricuspid valve",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1385",
     "display": "heart"

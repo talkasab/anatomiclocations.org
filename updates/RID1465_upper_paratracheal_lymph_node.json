@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1465",
   "acrCommonId": "4015508",
   "snomedId": "127927006",
-  "snomedDisplay": "Upper paratracheal lymph node (mediastinal)",
+  "snomedDisplay": "upper paratracheal lymph node (mediastinal)",
   "description": "upper paratracheal lymph node",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1243",
     "display": "thorax"

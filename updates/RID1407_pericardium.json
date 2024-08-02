@@ -5,7 +5,7 @@
   "snomedId": "76848001",
   "snomedDisplay": "Pericardial structure",
   "description": "pericardium",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1384",
     "display": "mediastinum"

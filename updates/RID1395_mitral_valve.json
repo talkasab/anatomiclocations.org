@@ -1,0 +1,36 @@
+{
+  "_id": "RID1395",
+  "anatomicLocationsId": "RID1395",
+  "acrCommonId": "4014579",
+  "snomedId": "91134007",
+  "snomedDisplay": "mitral valve structure",
+  "description": "mitral valve",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "partOfRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "definition": "The valve between the left atrium and left ventricle of the heart. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3987",
+      "display": "left atrioventricular valve"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mitral_valve"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/mitral-valve?lang=us"
+    }
+  ]
+}

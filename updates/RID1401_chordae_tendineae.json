@@ -3,9 +3,9 @@
   "anatomicLocationsId": "RID1401",
   "acrCommonId": "4013615",
   "snomedId": "102298001",
-  "snomedDisplay": "Structure of chordae tendineae cordis",
+  "snomedDisplay": "structure of chordae tendineae cordis",
   "description": "chordae tendineae",
-  "region": "Thorax",
+  "region": "thorax",
   "containedByRef": {
     "id": "RID1385",
     "display": "heart"

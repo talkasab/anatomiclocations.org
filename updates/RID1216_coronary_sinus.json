@@ -1,0 +1,47 @@
+{
+  "_id": "RID1216",
+  "anatomicLocationsId": "RID1216",
+  "acrCommonId": "4013654",
+  "snomedId": "90219004",
+  "snomedDisplay": "coronary sinus structure",
+  "description": "coronary sinus",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "partOfRef": {
+    "id": "RID1301",
+    "display": "lung"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "4706"
+    },
+    {
+      "system": "MESH",
+      "code": "A07.015.908.194.500"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0456944"
+    },
+    {
+      "system": "TA2",
+      "code": "4158",
+      "display": "coronary sinus"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Coronary_sinus"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/coronary-sinus?lang=us"
+    }
+  ]
+}
