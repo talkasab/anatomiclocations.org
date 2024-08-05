@@ -326,33 +326,12 @@
     "id": "RID32953",
     "display": "thoracic cavity"
   },
-  "versions": [
-    {
-      "_id": "RID29979",
-      "anatomicLocationsId": "RID1243_RID5825",
-      "snomedId": "51872008",
-      "snomedDisplay": "right thorax structure (body structure)",
-      "description": "right hemithorax",
-      "links": [
-        {
-          "site": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Hemothorax"
-        }
-      ]
-    },
-    {
-      "_id": "RID29980",
-      "anatomicLocationsId": "RID1243_RID5824",
-      "snomedId": "40768004",
-      "snomedDisplay": "left thorax structure (body structure)",
-      "description": "left hemithorax",
-      "links": [
-        {
-          "site": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Hemothorax"
-        }
-      ]
-    }
-  ]
+  "rightRef": {
+    "id": "RID1243_RID5825",
+    "display": "right hemithorax"
+  },
+  "leftRef": {
+    "id": "RID1243_RID5824",
+    "display": "left hemithorax"
+  }
 }
-
