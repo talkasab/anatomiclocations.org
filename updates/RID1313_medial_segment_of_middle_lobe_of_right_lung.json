@@ -1,0 +1,28 @@
+{
+  "_id": "medial segment of middle lobe of right lung",
+  "anatomicLocationsId": "RID1313",
+  "radlexId": "RID1313",
+  "snomedId": "34604003",
+  "snomedDisplay": "Structure of medial segment of middle lobe of right lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3291",
+      "display": "medial segment of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-middle-lobe-medial-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1310",
+    "display": "middle lobe of lung"
+  },
+  "containedByRef": {
+    "id": "RID1310",
+    "display": "middle lobe of lung"
+  }
+}

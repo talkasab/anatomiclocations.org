@@ -1,0 +1,28 @@
+{
+  "_id": "lateral basal segment of lower lobe of left lung",
+  "anatomicLocationsId": "RID1343",
+  "radlexId": "RID1343",
+  "snomedId": "15512001",
+  "snomedDisplay": "Structure of superior segment of left lower lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3313",
+      "display": "lateral basal segment of left lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-lower-lobe-lateral-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1338",
+    "display": "lower lobe of left lung"
+  },
+  "containedByRef": {
+    "id": "RID1338",
+    "display": "lower lobe of left lung"
+  }
+}

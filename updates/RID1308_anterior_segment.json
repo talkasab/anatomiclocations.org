@@ -1,0 +1,22 @@
+{
+  "_id": "anterior segment",
+  "anatomicLocationsId": "RID1308",
+  "radlexId": "RID1308",
+  "snomedId": "39743006",
+  "snomeddisplay": "Structure of anterior segment of right upper lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3287",
+      "display": "Anterior segment of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1303",
+    "display": "upper lobe of right lung"
+  },
+  "containedByRef": {
+    "id": "RID1303",
+    "display": "upper lobe of right lung"
+  }
+}

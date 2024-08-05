@@ -1,0 +1,30 @@
+{
+  "_id": "posterior basal segment of lower lobe of right lung",
+  "anatomicLocationsId": "RID1324",
+  "radlexId": "RID1324",
+  "snomedId": "16057008",
+  "snomedDisplay": "Structure of posterior basal segment of right lower lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3298",
+      "display": "posterior basal segment of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-lower-lobe-posterior-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "code": "RID1315",
+    "display": "lower lobe of right lung"
+  },
+  "containedByRef": [
+    {
+      "code": "RID1315",
+      "display": "lower lobe of right lung"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "lateral basal segment of lower lobe of right lung",
+  "anatomicLocationsId": "RID1322",
+  "radlexId": "RID1322",
+  "snomedCtId": "74932000",
+  "snomedDisplay": "Structure of lateral basal segment of right lower lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3297",
+      "display": "lateral basal segment of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-lower-lobe-lateral-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "code": "RID1315",
+    "display": "lower lobe of right lung"
+  },
+  "containedByRef": {
+    "code": "RID1315",
+    "display": "lower lobe of right lung"
+  }
+}

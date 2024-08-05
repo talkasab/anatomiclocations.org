@@ -1,0 +1,22 @@
+{
+  "_id": "lateral segment of middle lobe of right lung",
+  "anatomicLocationsId": "RID1311",
+  "radlexId": "RID1311",
+  "snomedId": "42000008",
+  "snomeddisplay": "Structure of lateral segment of middle lobe of right lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3290",
+      "display": "lateral segment of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1310",
+    "display": "middle lobe of lung"
+  },
+  "containedByRef": {
+    "id": "RID1310",
+    "display": "middle lobe of lung"
+  }
+}

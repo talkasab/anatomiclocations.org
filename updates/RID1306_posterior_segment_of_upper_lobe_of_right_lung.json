@@ -1,0 +1,28 @@
+{
+  "_id": "posterior segment of upper lobe of right lung",
+  "anatomicLocationsId": "RID1306",
+  "radlexId": "RID1306",
+  "snomedId": "3236000",
+  "snomedDisplay": "Structure of posterior segment of right upper lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3286",
+      "display": "Posterior segment of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-upper-lobe-posterior-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1303",
+    "display": "upper lobe of right lung"
+  },
+  "containedByRef": {
+    "id": "RID1303",
+    "display": "upper lobe of right lung"
+  }
+}
