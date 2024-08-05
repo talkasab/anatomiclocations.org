@@ -1,0 +1,24 @@
+{
+  "_id": "Lingular artery of left lung",
+  "anatomicLocationsId": "RID998",
+  "radlexId": "RID998",
+  "snomedId": "55219005",
+  "snomedDisplay": "Structure of lingular branch of left pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4098",
+      "display": "Lingular artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID994",
+    "display": "left upper lobe artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1327",
+      "display": "upper lobe of left lung"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "Superior segmental artery of left lung",
+  "anatomicLocationsId": "RID1003",
+  "radlexId": "RID1003",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4102",
+      "display": "Superior segmental artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "??",
+    "display": "??"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1338",
+      "display": "lower lobe of left lung"
+    }
+  ]
+}

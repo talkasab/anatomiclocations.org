@@ -1,0 +1,32 @@
+{
+  "_id": "RID1231",
+  "anatomicLocationsId": "RID1231",
+  "acrCommonId": "4014816",
+  "snomedId": "113366009",
+  "snomedDisplay": "Structure of common pulmonary vein",
+  "description": "pulmonary vein",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "definition": "The veins that return the oxygenated blood from the lungs to the left atrium of the heart. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4107",
+      "display": "pulmonary veins"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pulmonary_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pulmonary-veins?lang=us"
+    }
+  ]
+}

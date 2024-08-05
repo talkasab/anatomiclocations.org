@@ -1,0 +1,24 @@
+{
+  "_id": "Apical segmental artery of right lung",
+  "anatomicLocationsId": "RID978",
+  "radlexId": "RID978",
+  "snomedCtId": "8242003",
+  "snomedDisplay": "Structure of apical branch of right pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4079",
+      "display": "Apical segmental artery of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID977",
+    "display": "right upper lobe artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1303",
+      "display": "upper lobe of right lung"
+    }
+  ]
+}

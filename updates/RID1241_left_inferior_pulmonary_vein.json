@@ -1,0 +1,24 @@
+{
+  "_id": "Left inferior pulmonary vein",
+  "anatomicLocationsId": "RID1241",
+  "radlexId": "RID1241",
+  "snomedId": "51249003",
+  "snomedDisplay": "Structure of inferior left pulmonary vein (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4125",
+      "display": "Left inferior pulmonary vein"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1231",
+    "display": "pulmonary vein"
+  },
+  "containedByRef": [
+    {
+      "id": "RID5962_RID5824",
+      "display": "left hilum"
+    }
+  ]
+}

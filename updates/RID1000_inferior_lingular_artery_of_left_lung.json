@@ -1,0 +1,24 @@
+{
+  "_id": "Inferior lingular artery of left lung",
+  "anatomicLocationsId": "RID1000",
+  "radlexId": "RID1000",
+  "snomedId": "186120009",
+  "snomedDisplay": "Structure of inferior lingular branch of left pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4099",
+      "display": "Inferior lingular artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID998",
+    "display": "lingular artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1327",
+      "display": "upper lobe of left lung"
+    }
+  ]
+}

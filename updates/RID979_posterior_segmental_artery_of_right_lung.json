@@ -1,0 +1,22 @@
+{
+  "_id": "Posterior segmental artery of right lung",
+  "anatomicLocationsId": "RID979",
+  "radlexId": "RID979",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4081",
+      "display": "Posterior segmental artery of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID977",
+    "display": "right upper lobe artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1303",
+      "display": "upper lobe of right lung"
+    }
+  ]
+}

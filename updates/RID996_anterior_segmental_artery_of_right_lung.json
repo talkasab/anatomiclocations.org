@@ -1,0 +1,22 @@
+{
+  "_id": "Anterior segmental artery of left lung",
+  "anatomicLocationsId": "RID996",
+  "radlexId": "RID996",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4096",
+      "display": "Anterior segmental artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID994",
+    "display": "left upper lobe artery"
+  },
+  "containedByRef": [
+    {
+      "code": "RID1327",
+      "display": "upper lobe of left lung"
+    }
+  ]
+}

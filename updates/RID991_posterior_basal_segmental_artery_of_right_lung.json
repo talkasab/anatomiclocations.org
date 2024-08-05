@@ -1,0 +1,24 @@
+{
+  "_id": "Posterior basal segmental artery of right lung",
+  "anatomicLocationsId": "RID991",
+  "radlexId": "RID991",
+  "snomedId": "51681000",
+  "snomedDisplay": "Structure of posterior basal branch of right pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4090",
+      "display": "Posterior basal segmental artery of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "??",
+    "display": "??"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1315",
+      "display": "lower lobe of right lung"
+    }
+  ]
+}

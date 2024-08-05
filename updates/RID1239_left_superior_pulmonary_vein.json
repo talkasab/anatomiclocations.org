@@ -1,0 +1,24 @@
+{
+  "_iid": "Left superior pulmonary vein",
+  "anatomicLocationsId": "RID1239",
+  "radlexId": "RID1239",
+  "snomedId": "43863001",
+  "snomedDisplay": "Structure of superior left pulmonary vein (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4119",
+      "display": "Left superior pulmonary vein"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1231",
+    "display": "pulmonary vein"
+  },
+  "containedByRef": [
+    {
+      "id": "RID5962_RID5824",
+      "display": "left hilum"
+    }
+  ]
+}

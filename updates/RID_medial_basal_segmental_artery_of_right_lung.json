@@ -1,0 +1,24 @@
+{
+  "_id": "Medial basal segmental artery of right lung",
+  "anatomicLocationsId": "RID988",
+  "radlexId": "RID988",
+  "snomedId": "53757008",
+  "snomedDisplay": "Structure of medial basal branch of right pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4089",
+      "display": "Medial basal segmental artery of right lung"
+    }
+  ],
+  "partOfId": {
+    "id": "??",
+    "display": "??"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1315",
+      "display": "lower lobe of right lung"
+    }
+  ]
+}

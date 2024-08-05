@@ -1,0 +1,24 @@
+{
+  "_id": "Posterior segmental artery of left lung",
+  "anatomicLocationsId": "RID35837",
+  "radlexId": "RID35837",
+  "snomedId": "53717005",
+  "snomedDisplay": "Structure of posterior branch of left pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4097",
+      "display": "Posterior segmental artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID994",
+    "display": "left upper lobe artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1327",
+      "display": "upper lobe of left lung"
+    }
+  ]
+}

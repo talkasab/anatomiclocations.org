@@ -1,0 +1,24 @@
+{
+  "_id": "Medial basal segmental artery of left lung",
+  "anatomicLocationsId": "RID29108",
+  "radlexId": "RID29108",
+  "snomedId": "23848006",
+  "snomedDisplay": "Structure of medial basal branch of left pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4105",
+      "display": "Medial basal segmental artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1003",
+    "display": "left lower lobe superior segment artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1338",
+      "display": "lower lobe of left lung"
+    }
+  ]
+}
