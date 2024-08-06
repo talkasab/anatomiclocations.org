@@ -1,0 +1,28 @@
+{
+  "_id": "hemithorax",
+  "anatomicLocationsId": "RID29978",
+  "radlexId": "RID29978",
+  "snomedCtId": "5118008",
+  "rightRef": {
+    "id": "RID1243_RID5825",
+    "display": "right hemithorax"
+  },
+  "leftRef": {
+    "id": "RID1243_RID5824",
+    "display": "left hemithorax"
+  },
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hemothorax"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "thoracic wall"
+  }
+}

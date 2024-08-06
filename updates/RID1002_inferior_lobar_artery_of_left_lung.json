@@ -1,0 +1,22 @@
+{
+  "_id": "Inferior lobar artery of left lung",
+  "Radlex": "RID1002",
+  "anatomicLocationsId": "RID1002",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4101",
+      "display": "Inferior lobar artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID993",
+    "display": "left pulmonary artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID5962_RID5824",
+      "display": "left hilum"
+    }
+  ]
+}

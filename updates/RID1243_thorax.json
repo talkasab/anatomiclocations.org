@@ -325,13 +325,5 @@
   "partOfRef": {
     "id": "RID32953",
     "display": "thoracic cavity"
-  },
-  "rightRef": {
-    "id": "RID1243_RID5825",
-    "display": "right hemithorax"
-  },
-  "leftRef": {
-    "id": "RID1243_RID5824",
-    "display": "left hemithorax"
   }
 }
