@@ -1,0 +1,37 @@
+{
+  "_id": "RID28591_RID6153",
+  "anatomicLocationsId": "RID28591_RID6153",
+  "acrCommonId": "4015434",
+  "snomedId": "25888004",
+  "snomedDisplay": "Bone structure of third rib",
+  "description": "third rib",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "synonyms": ["3rd rib"],
+  "partOfRef": {
+    "id": "RID28591",
+    "display": "set of ribs"
+  },
+  "leftRef": {
+    "id": "RID28591_RID6153_RID5824",
+    "display": "left third rib"
+  },
+  "rightRef": {
+    "id": "RID28591_RID6153_RID5825",
+    "display": "right third rib"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "7638"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0222847"
+    }
+  ],
+  "embedding_vector": []
+}

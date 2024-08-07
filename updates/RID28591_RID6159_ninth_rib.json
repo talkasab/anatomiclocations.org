@@ -1,0 +1,37 @@
+{
+  "_id": "RID28591_RID6159",
+  "anatomicLocationsId": "RID28591_RID6159",
+  "acrCommonId": "4014610",
+  "snomedId": "22565002",
+  "snomedDisplay": "Bone structure of ninth rib",
+  "description": "ninth rib",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "synonyms": ["9th rib"],
+  "partOfRef": {
+    "id": "RID28591",
+    "display": "set of ribs"
+  },
+  "leftRef": {
+    "id": "RID28591_RID6159_RID5824",
+    "display": "left ninth rib"
+  },
+  "rightRef": {
+    "id": "RID28591_RID6159_RID5825",
+    "display": "right ninth rib"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "8337"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0222931"
+    }
+  ],
+  "embedding_vector": []
+}
