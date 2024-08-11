@@ -10,6 +10,10 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
   "definition": "The venous trunk which returns blood from the head, neck, upper extremities and chest. [MeSH]",
   "embedding_vector": [],
   "codes": [

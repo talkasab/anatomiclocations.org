@@ -10,6 +10,10 @@
     "id": "RID1243",
     "display": "thorax"
   },
+  "partOfRef": {
+    "id": "musculoskeletal system",
+    "display": "RID13209"
+  },
   "containsRefs": [
     {
       "id": "RID29895",

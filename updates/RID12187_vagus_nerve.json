@@ -48,5 +48,9 @@
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/vagus-nerve?lang=us"
     }
-  ]
+  ],
+  "partOfRef": {
+    "id": "RID18423",
+    "display": "autonomic nervous system"
+  }
 }

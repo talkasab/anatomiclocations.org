@@ -6,6 +6,10 @@
   "snomedDisplay": "structure of phrenic nerve",
   "description": "phrenic nerve",
   "region": "thorax",
+  "partOfRef": {
+    "id": "RID13446",
+    "display": "peripheral nervous system"
+  },
   "containedByRef": {
     "id": "RID1243",
     "display": "thorax"

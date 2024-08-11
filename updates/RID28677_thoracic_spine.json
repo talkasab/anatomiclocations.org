@@ -1,0 +1,21 @@
+{
+  "name": "thoracic spine",
+  "anatomicLocationsId": "RID28677",
+  "radlexId": "RID28677",
+  "snomedCtId": "122495006",
+  "snomedDisplay": "Structure of thoracic vertebral column (body structure)",
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/thoracic-spine?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID34572",
+    "display": "thoracic vertebral column"
+  },
+  "partOfRef": {
+    "id": "RID13208",
+    "display": "skeletal system"
+  }
+}

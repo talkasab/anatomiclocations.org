@@ -10,6 +10,10 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
   "leftRef": {
     "id": "RID993",
     "display": "left pulmonary artery"

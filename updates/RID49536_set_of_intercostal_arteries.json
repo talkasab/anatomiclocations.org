@@ -1,0 +1,31 @@
+{
+  "_id": "RID49536",
+  "anatomicLocationsId": "RID49536",
+  "acrCommonId": "4015237",
+  "snomedId": "281134007",
+  "snomedDisplay": "Intercostal artery",
+  "description": "set of intercostal arteries",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "synonyms": ["intercostal arteries"],
+  "partOfRef": {
+    "id": "RID49962",
+    "display": "set of chest vessels"
+  },
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C0459917"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Intercostal_arteries"
+    }
+  ],
+  "embedding_vector": []
+}

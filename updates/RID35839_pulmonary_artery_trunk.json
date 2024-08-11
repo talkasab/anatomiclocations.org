@@ -17,10 +17,12 @@
       "url": "https://radiopaedia.org/articles/pulmonary-trunk?lang=us"
     }
   ],
-  "containedByRef": [
-    {
-      "id": "RID1243",
-      "display": "thorax"
-    }
-  ]
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  }
 }

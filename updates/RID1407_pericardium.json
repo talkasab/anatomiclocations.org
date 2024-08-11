@@ -10,6 +10,10 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
   "definition": "A conical fibro-serous sac surrounding the heart and the roots of the great vessels (aorta; venae cavae; pulmonary artery). The pericardium consists of two layers or sacs, the outer fibrous pericardium and the inner serous pericardium (or epicardium). [MeSH]",
   "embedding_vector": [],
   "codes": [

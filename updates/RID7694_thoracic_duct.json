@@ -10,6 +10,10 @@
     "id": "RID1243",
     "display": "thorax"
   },
+  "partOfRef": {
+    "id": "RID28922",
+    "display": "lymphatic chain"
+  },
   "synonyms": [
     "trunk of thoracic duct tree",
     "ductus thoracicus",

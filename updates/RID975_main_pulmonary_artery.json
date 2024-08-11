@@ -10,5 +10,9 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
   "embedding_vector": []
 }

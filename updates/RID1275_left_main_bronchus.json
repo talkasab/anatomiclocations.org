@@ -10,6 +10,10 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
+  "partOfRef": {
+    "id": "RID1246",
+    "display": "tracheobronchial tree"
+  },
   "rightRef": {
     "id": "RID1250",
     "display": "right main bronchus"

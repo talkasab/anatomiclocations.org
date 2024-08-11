@@ -10,6 +10,10 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
+  "partOfRef": {
+    "id": "??",
+    "display": ""
+  },
   "definition": "A single, unpaired primary lymphoid organ situated in the mediastinum, extending superiorly into the neck to the lower edge of the thyroid gland and inferiorly to the fourth costal cartilage. It is necessary for normal development of immunologic function early in life. By puberty, it begins to involute and much of the tissue is replaced by fat. [MeSH]",
   "embedding_vector": [],
   "codes": [

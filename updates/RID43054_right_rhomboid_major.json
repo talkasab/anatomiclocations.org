@@ -1,0 +1,47 @@
+{
+  "_id": "RID43054",
+  "anatomicLocationsId": "RID43054",
+  "acrCommonId": "4015125",
+  "snomedId": "763437004",
+  "snomedDisplay": "Structure of right rhomboid major muscle",
+  "description": "right rhomboid major",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID30049",
+    "display": "back of thorax"
+  },
+  "synonyms": ["right rhomboid major muscle", "right rhomboideus major muscle"],
+  "partOfRef": {
+    "id": "RID32807",
+    "display": "musculature of back of thorax"
+  },
+  "leftRef": {
+    "id": "RID43055",
+    "display": "left rhomboid major"
+  },
+  "unsidedRef": {
+    "id": "RID2500",
+    "display": "rhomboideus major muscle"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13381"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0507195"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rhomboid_major_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/rhomboid-major-muscle?lang=us"
+    }
+  ],
+  "embedding_vector": []
+}

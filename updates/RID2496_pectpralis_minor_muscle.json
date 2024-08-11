@@ -1,0 +1,52 @@
+{
+  "_id": "RID2496",
+  "anatomicLocationsId": "RID2496",
+  "acrCommonId": "4014701",
+  "snomedId": "18686000",
+  "snomedDisplay": "Pectoralis minor muscle structure",
+  "description": "pectoralis minor muscle",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID29859",
+    "display": "anterior chest wall"
+  },
+  "synonyms": ["musculus pectoralis minor"],
+  "partOfRef": {
+    "id": "RID32755",
+    "display": "musculature of thorax"
+  },
+  "leftRef": {
+    "id": "RID43074",
+    "display": "left pectoralis minor"
+  },
+  "rightRef": {
+    "id": "RID43073",
+    "display": "right pectoralis minor"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2305",
+      "display": "Pectoralis minor muscle"
+    },
+    {
+      "system": "FMA",
+      "code": "13109"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0224347"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pectoralis_minor"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pectoralis-minor-muscle-1?lang=us"
+    }
+  ],
+  "embedding_vector": []
+}

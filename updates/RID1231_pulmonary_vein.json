@@ -10,6 +10,10 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
   "definition": "The veins that return the oxygenated blood from the lungs to the left atrium of the heart. [MeSH]",
   "embedding_vector": [],
   "codes": [
