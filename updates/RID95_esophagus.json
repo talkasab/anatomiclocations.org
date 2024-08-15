@@ -10,11 +10,6 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
-  "synonyms": [
-    "GI tract",
-    "gastro-intestinal system",
-    "gastrointestinal system"
-  ],
   "definition": "Organ with organ cavity which is continuous superiorly with  the pharynx and inferiorly with the stomach. [FMA]",
   "embedding_vector": [],
   "codes": [

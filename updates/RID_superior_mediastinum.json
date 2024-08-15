@@ -1,0 +1,26 @@
+{
+  "_id": "Superior Mediastinum",
+  "anatomicLocationsId": "RID28742",
+  "radlexId": "RID28742",
+  "snomedCtId": "71274004",
+  "snomedDisplay": "superior mediastinum structure (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3334",
+      "display": "superior Mediastinum"
+    }
+  ],
+  "links": {
+    "site": "radiopaedia",
+    "url": "https://radiopaedia.org/articles/superior-mediastinum?lang=us"
+  },
+  "partOfRef": {
+    "id": "RID32953",
+    "display": "thoracic cavity"
+  },
+  "containedByRef": {
+    "id": "",
+    "display": ""
+  }
+}

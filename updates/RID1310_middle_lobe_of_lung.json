@@ -25,10 +25,8 @@
       "url": "https://radiopaedia.org/articles/right-middle-lobe?lang=us"
     }
   ],
-  "partOfId": "RID1302",
   "containedById": [
     {
-      "system": "anatomicLocations",
       "code": "RID1302",
       "display": "right lung"
     }

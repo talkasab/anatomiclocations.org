@@ -1,0 +1,33 @@
+{
+  "_id": "right brachiocephalic vein",
+  "anatomicLocationsId": "RID1011_RID5825",
+  "radlexId": "RID1011_RID5825*",
+  "snomedId": "771203001",
+  "snomedDisplay": "Structure of right brachiocephalic vein (body structure)",
+  "acrCommonId": "4015548",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4792",
+      "display": "right brachiocephalic vein"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brachiocephalic_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/brachiocephalic-vein?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "containedByRef": {
+    "id": "RID32953",
+    "display": "thoracic cavity"
+  }
+}

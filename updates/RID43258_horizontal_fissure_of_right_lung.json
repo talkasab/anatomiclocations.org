@@ -10,10 +10,6 @@
     "id": "RID1302",
     "display": "right lung"
   },
-  "partOfRef": {
-    "id": "RID1302",
-    "display": "right lung"
-  },
   "embedding_vector": [],
   "codes": [
     {
@@ -21,7 +17,7 @@
       "code": "3288",
       "display": "horizontal fissure of right lung"
     },
-     {
+    {
       "system": "FMA",
       "code": "7441"
     },
@@ -36,10 +32,12 @@
       "url": "https://radiopaedia.org/articles/lung-fissures?lang=us"
     }
   ],
-  "partOfId": "RID136_RID5825",
+  "partOfRef": {
+    "code": "RID1302",
+    "display": "right lung"
+  },
   "containedById": [
     {
-      "system": "anatomicLocations",
       "code": "RID1302",
       "display": "right lung"
     }

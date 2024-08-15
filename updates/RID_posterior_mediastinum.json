@@ -1,0 +1,28 @@
+{
+  "_id": "posterior mediastinum",
+  "anatomicLocationsId": "*",
+  "radlexId": "*",
+  "snomedId": "27291007",
+  "snomedDisplay": "structure of posterior mediastinum (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3353",
+      "display": "posterior mediastinum"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/posterior-mediastinum?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID32953",
+    "display": "thoracic cavity"
+  },
+  "containedByRef": {
+    "id": "",
+    "display": ""
+  }
+}

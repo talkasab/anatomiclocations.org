@@ -1,0 +1,28 @@
+{
+  "_id": "Middle mediastinum",
+  "anatomicLocationsId": "*",
+  "radlexId": "*",
+  "snomedId": "69608005",
+  "snomedDisplay": "middle mediastinum structure (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3340",
+      "display": "middle mediastinum"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/middle-mediastinum?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID32953",
+    "display": "thoracic cavity"
+  },
+  "containedByRef": {
+    "id": "",
+    "display": ""
+  }
+}
