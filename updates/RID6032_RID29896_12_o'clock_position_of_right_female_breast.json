@@ -1,9 +1,9 @@
 {
-  "_id": "12 o'clock position of right female breast",
+  "_id": "RID6032_RID29896",
   "anatomicLocationsId": "RID6032_RID29896",
-  "radlexId": "RID6032_RID29896",
   "snomedId": "260326007_722419005",
   "snomedDisplay": "structure of right female mammary gland structure 12 o'clock position",
+  "description": "12 o'clock position of right female breast",
   "partOfRef": {
     "code": "RID29896",
     "display": "right female breast"

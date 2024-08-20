@@ -1,8 +1,9 @@
 {
-  "_id": "apex of right lung",
+  "_id": "RID28584_RID5825",
   "anatomicLocationsId": "RID28584_RID5825",
   "snomedId": "62884005",
   "snomefDisplay": "Structure of apex of right lung (body structure)",
+  "description": "apex of right lung",
   "links": [
     {
       "site": "radiopaedia",
