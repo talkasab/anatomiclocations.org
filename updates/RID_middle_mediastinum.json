@@ -1,7 +1,6 @@
 {
-  "_id": "Middle mediastinum",
+  "_id": "*",
   "anatomicLocationsId": "*",
-  "radlexId": "*",
   "snomedId": "69608005",
   "snomedDisplay": "middle mediastinum structure (body structure)",
   "codes": [
@@ -22,7 +21,18 @@
     "display": "thoracic cavity"
   },
   "containedByRef": {
-    "id": "",
-    "display": ""
-  }
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "containsRefs": [
+    {
+      "id": "RID1407",
+      "display": "pericardium"
+    },
+    {
+      "id": "RID1408",
+      "display": "pericardial cavity"
+    }
+  ]
 }
+

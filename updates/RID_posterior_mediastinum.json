@@ -1,7 +1,6 @@
 {
-  "_id": "posterior mediastinum",
+  "_id": "*",
   "anatomicLocationsId": "*",
-  "radlexId": "*",
   "snomedId": "27291007",
   "snomedDisplay": "structure of posterior mediastinum (body structure)",
   "codes": [
@@ -22,7 +21,7 @@
     "display": "thoracic cavity"
   },
   "containedByRef": {
-    "id": "",
-    "display": ""
+    "id": "RID1384",
+    "display": "mediastinum"
   }
 }

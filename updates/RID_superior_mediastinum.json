@@ -1,8 +1,7 @@
 {
-  "_id": "Superior Mediastinum",
+  "_id": "RID28742",
   "anatomicLocationsId": "RID28742",
-  "radlexId": "RID28742",
-  "snomedCtId": "71274004",
+  "snomedId": "71274004",
   "snomedDisplay": "superior mediastinum structure (body structure)",
   "codes": [
     {
@@ -20,7 +19,7 @@
     "display": "thoracic cavity"
   },
   "containedByRef": {
-    "id": "",
-    "display": ""
+    "id": "RID1384",
+    "display": "mediastinum"
   }
 }

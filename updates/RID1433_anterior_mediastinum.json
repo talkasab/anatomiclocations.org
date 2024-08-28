@@ -1,7 +1,6 @@
 {
-  "_id": "anterior mediastinum",
+  "_id": "RID1433",
   "anatomicLocationsId": "RID1433",
-  "radlexId": "RID1433",
   "snomedId": "76386002",
   "snomedDisplay": "structure of anterior mediastinum (body structure)",
   "codes": [
@@ -22,7 +21,7 @@
     "display": "thoracic cavity"
   },
   "containedByRef": {
-    "id": "",
-    "display": ""
+    "id": "RID1384",
+    "display": "mediastinum"
   }
 }
