@@ -1,0 +1,226 @@
+{
+  "_id": "RID56",
+  "acrCommonId": "4013398",
+  "snomedId": "818983003",
+  "snomedDisplay": "Structure of abdominopelvic cavity and/or content of abdominopelvic cavity and/or anterior abdominal wall",
+  "description": "abdomen",
+  "region": "Body",
+  "containedByRef": {
+    "id": "RID39569",
+    "display": "whole body"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "127",
+      "display": "abdomen"
+    },
+    {
+      "system": "MESH",
+      "code": "A01.923.047"
+    }
+  ],
+  "links": {
+    "site": "wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID199",
+      "display": "common bile duct"
+    },
+    {
+      "id": "RID201",
+      "display": "cystic duct"
+    },
+    {
+      "id": "RID910",
+      "display": "gastroduodenal artery"
+    },
+    {
+      "id": "RID1211",
+      "display": "inferior mesenteric vein"
+    },
+    {
+      "id": "RID152",
+      "display": "large intestine"
+    },
+    {
+      "id": "RID193",
+      "display": "left hepatic duct"
+    },
+    {
+      "id": "RID908",
+      "display": "left gastric artery"
+    },
+    {
+      "id": "RID916",
+      "display": "left hepatic artery"
+    },
+    {
+      "id": "RID397",
+      "display": "peritoneal cavity"
+    },
+    {
+      "id": "RID410",
+      "display": "peritoneum"
+    },
+    {
+      "id": "RID914",
+      "display": "proper hepatic artery"
+    },
+    {
+      "id": "RID431",
+      "display": "retroperitoneum"
+    },
+    {
+      "id": "RID194",
+      "display": "right hepatic duct"
+    },
+    {
+      "id": "RID920",
+      "display": "right gastric artery"
+    },
+    {
+      "id": "RID918",
+      "display": "right hepatic artery"
+    },
+    {
+      "id": "RID1209",
+      "display": "splenic vein"
+    },
+    {
+      "id": "RID1212",
+      "display": "superior mesenteric vein"
+    },
+    {
+      "id": "RID204",
+      "display": "urinary tract"
+    },
+    {
+      "id": "RID200",
+      "display": "common hepatic duct"
+    },
+    {
+      "id": "RID30014",
+      "display": "wall of abdomen"
+    },
+    {
+      "id": "RID50378",
+      "display": "set of visceral vessels"
+    },
+    {
+      "id": "RID49921",
+      "display": "set of abdominal vessels"
+    },
+    {
+      "id": "RID912",
+      "display": "superior pancreaticoduodenal artery"
+    },
+    {
+      "id": "RID928",
+      "display": "inferior pancreaticoduodenal artery"
+    },
+    {
+      "id": "RID38296",
+      "display": "pancreatic tributary of splenic vein"
+    },
+    {
+      "id": "RID38297",
+      "display": "short gastric vein"
+    },
+    {
+      "id": "RID38283",
+      "display": "left gastric vein"
+    },
+    {
+      "id": "RID38284",
+      "display": "right gastric vein"
+    },
+    {
+      "id": "RID38281",
+      "display": "right gastroepiploic vein"
+    },
+    {
+      "id": "RID38298",
+      "display": "left gastroepiploic vein"
+    },
+    {
+      "id": "RID911",
+      "display": "right gastroepiploic artery"
+    },
+    {
+      "id": "RID925",
+      "display": "left gastroepiploic artery"
+    },
+    {
+      "id": "RID38762",
+      "display": "inferior phrenic artery"
+    },
+    {
+      "id": "RID38762_RID5824",
+      "display": "left inferior phrenic artery"
+    },
+    {
+      "id": "RID38762_RID5825",
+      "display": "right inferior phrenic artery"
+    },
+    {
+      "id": "RID31997",
+      "display": "hepatoportal lymph node group"
+    },
+    {
+      "id": "RID31919",
+      "display": "gastric lymph node group"
+    },
+    {
+      "id": "RID28854",
+      "display": "abdominal lymph node group"
+    },
+    {
+      "id": "RID31977",
+      "display": "precaval lymph node group"
+    },
+    {
+      "id": "RID31959",
+      "display": "paracolic lymph node group"
+    },
+    {
+      "id": "RID453",
+      "display": "gastrohepatic ligament node"
+    },
+    {
+      "id": "RID31931",
+      "display": "pancreatic lymph node group"
+    },
+    {
+      "id": "RID28857",
+      "display": "pancreaticoduodenal lymph node"
+    },
+    {
+      "id": "RID103",
+      "display": "lower esophageal sphincter"
+    },
+    {
+      "id": "RID32811",
+      "display": "musculature of abdomen"
+    },
+    {
+      "id": "RID32954",
+      "display": "abdominal cavity"
+    }
+  ],
+  "synonyms": ["abdominopelvis", "abdominopelvic region"],
+  "hasPartsRefs": [
+    {
+      "id": "RID30014",
+      "display": "wall of abdomen"
+    }
+  ],
+  "definition": "Subdivision of trunk proper which is demarcated from the thorax internally by the inferior surface of the sternocostal part of the diaphragm and externally by the costal margin, from the back of abdomen by the external surface of the posterior abdominal wall,  from the perineum by the superior surface of the urogenital diaphragm and from the lower limbs by the inguinal folds; together with the thorax, and perineum, it constitutes the trunk proper. Examples: There is only one abdomen. [FMA]",
+  "embedding_vector": [],
+  "partOfId": {
+    "code": "RID2467",
+    "display": "trunk"
+  }
+}
