@@ -1,0 +1,39 @@
+{
+  "_id": "RID31598",
+  "acrCommonId": "4014165",
+  "description": "left external oblique",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_external_oblique_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/external-oblique-muscle-1?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID31604",
+    "display": "musculature of abdomen"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "rightRef": {
+    "id": "RID31597",
+    "display": "right external oblique"
+  },
+  "unsidedRef": {
+    "id": "RID31596",
+    "display": "external oblique"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13337"
+    }
+  ],
+  "embedding_vector": []
+}

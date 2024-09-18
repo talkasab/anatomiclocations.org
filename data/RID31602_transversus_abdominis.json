@@ -1,0 +1,58 @@
+{
+  "_id": "RID31602",
+  "acrCommonId": "4015465",
+  "snomedId": "86493009",
+  "snomedDisplay": "Structure of transversus abdominis muscle",
+  "description": "transversus abdominis",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2375",
+      "display": "Musculus transversus abdominis"
+    },
+    {
+      "system": "FMA",
+      "code": "15570"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0224378"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transverse_abdominal_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/transversus-abdominis-muscle?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID32811",
+    "display": "musculature of abdomen"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+
+  "synonyms": [
+    "musculus transversus abdominis",
+    "transversus abdominis muscle",
+    "transverse abdominal",
+    "transversalis muscle"
+  ],
+  "leftRef": {
+    "id": "RID31604",
+    "display": "left transversus abdominis"
+  },
+  "rightRef": {
+    "id": "RID31603",
+    "display": "right transversus abdominis"
+  },
+
+  "embedding_vector": []
+}

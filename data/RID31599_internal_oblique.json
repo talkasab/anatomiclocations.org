@@ -1,0 +1,46 @@
+{
+  "_id": "RID31599",
+  "acrCommonId": "4014011",
+  "snomedId": "1179024003",
+  "snomedDisplay": "Structure of obliquus internus abdominis muscle",
+  "description": "internal oblique",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2373",
+      "display": "Internal abdominal oblique"
+    },
+    {
+      "system": "FMA",
+      "code": "13891"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_internal_oblique_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/internal-oblique-muscle?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID31604",
+    "display": "musculature of abdomen"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "leftRef": {
+    "id": "RID31601",
+    "display": "left internal oblique"
+  },
+  "rightRef": {
+    "id": "RID31600",
+    "display": "right internal oblique"
+  },
+  "embedding_vector": []
+}

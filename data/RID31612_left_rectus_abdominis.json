@@ -1,0 +1,43 @@
+{
+  "_id": "RID31612",
+  "acrCommonId": "4014345",
+  "description": "left rectus abdominis",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rectus_abdominis_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/rectus-abdominis-muscle?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID32809",
+    "display": "musculature of anterior abdominal wall"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "rightRef": {
+    "id": "RID31611",
+    "display": "right rectus abdominis"
+  },
+  "unsidedRef": {
+    "id": "RID31610",
+    "display": "rectus abdominis"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13378"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0507192"
+    }
+  ],
+  "embedding_vector": []
+}

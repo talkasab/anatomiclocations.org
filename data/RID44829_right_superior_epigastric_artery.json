@@ -1,0 +1,43 @@
+{
+  "_id": "RID44829",
+  "acrCommonId": "4015159",
+  "description": "right superior epigastric artery",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superior_epigastric_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/superior-epigastric-artery-1?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "leftRef": {
+    "id": "RID44830",
+    "display": "left superior epigastric artery"
+  },
+  "unsidedRef": {
+    "id": "RID836",
+    "display": "superior epigastric artery"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "3988"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0500544"
+    }
+  ],
+  "embedding_vector": []
+}

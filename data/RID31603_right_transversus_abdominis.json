@@ -1,0 +1,43 @@
+{
+  "_id": "RID31603",
+  "acrCommonId": "4015184",
+  "description": "right transversus abdominis",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transverse_abdominal_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/transversus-abdominis-muscle?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID31604",
+    "display": "musculature of abdomen"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "leftRef": {
+    "id": "RID31604",
+    "display": "left transversus abdominis"
+  },
+  "unsidedRef": {
+    "id": "RID31602",
+    "display": "transversus abdominis"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "22344"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0815718"
+    }
+  ],
+  "embedding_vector": []
+}

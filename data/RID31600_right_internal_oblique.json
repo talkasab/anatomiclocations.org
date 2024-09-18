@@ -1,0 +1,39 @@
+{
+  "_id": "RID31600",
+  "acrCommonId": "4014991",
+  "description": "right internal oblique",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_internal_oblique_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/internal-oblique-muscle?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID31604",
+    "display": "musculature of abdomen"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "leftRef": {
+    "id": "RID31601",
+    "display": "left internal oblique"
+  },
+  "unsidedRef": {
+    "id": "RID31599",
+    "display": "internal oblique"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13892"
+    }
+  ],
+  "embedding_vector": []
+}

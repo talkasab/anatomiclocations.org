@@ -1,0 +1,112 @@
+{
+  "_id": "RID30008",
+  "acrCommonId": "4013458",
+  "snomedId": "59380008",
+  "snomedDisplay": "anterior abdominal wall structure",
+  "description": "anterior abdominal wall",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "134",
+      "display": "Anterolateral abdominal wall"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_wall"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/anterior-abdominal-wall?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "",
+    "display": ""
+  },
+  "containedById": {
+    "code": "RID30014",
+    "display": "wall of the abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID836",
+      "display": "superior epigastric artery"
+    },
+    {
+      "id": "RID44829",
+      "display": "right superior epigastric artery"
+    },
+    {
+      "id": "RID44830",
+      "display": "left superior epigastric artery"
+    },
+    {
+      "id": "RID13091",
+      "display": "inferior epigastric artery"
+    },
+    {
+      "id": "RID13091_RID5824",
+      "display": "left inferior epigastric artery"
+    },
+    {
+      "id": "RID13091_RID5825",
+      "display": "right inferior epigastric artery"
+    },
+    {
+      "id": "RID31610",
+      "display": "rectus abdominis"
+    },
+    {
+      "id": "RID31611",
+      "display": "right rectus abdominis"
+    },
+    {
+      "id": "RID31612",
+      "display": "left rectus abdominis"
+    },
+    {
+      "id": "RID31602",
+      "display": "transversus abdominis"
+    },
+    {
+      "id": "RID31603",
+      "display": "right transversus abdominis"
+    },
+    {
+      "id": "RID31604",
+      "display": "left transversus abdominis"
+    },
+    {
+      "id": "RID31596",
+      "display": "external oblique"
+    },
+    {
+      "id": "RID31597",
+      "display": "right external oblique"
+    },
+    {
+      "id": "RID31598",
+      "display": "left external oblique"
+    },
+    {
+      "id": "RID31599",
+      "display": "internal oblique"
+    },
+    {
+      "id": "RID31600",
+      "display": "right internal oblique"
+    },
+    {
+      "id": "RID31601",
+      "display": "left internal oblique"
+    },
+    {
+      "id": "RID32809",
+      "display": "musculature of anterior abdominal wall"
+    }
+  ],
+  "embedding_vector": []
+}

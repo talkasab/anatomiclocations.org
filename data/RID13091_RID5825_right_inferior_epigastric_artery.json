@@ -1,0 +1,33 @@
+{
+  "_id": "RID13091_RID5825",
+  "description": "right inferior epigastric artery",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inferior_epigastric_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/inferior-epigastric-artery?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "leftRef": {
+    "id": "RID13091_RID5824",
+    "display": "left inferior epigastric artery"
+  },
+  "unsidedRef": {
+    "id": "RID13091",
+    "display": "inferior epigastric artery"
+  },
+  "embedding_vector": [],
+
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  }
+}

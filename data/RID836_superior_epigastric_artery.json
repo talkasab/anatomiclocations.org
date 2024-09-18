@@ -1,0 +1,55 @@
+{
+  "_id": "RID836",
+  "snomedId": "34988000",
+  "snomedDisplay": "Structure of superior epigastric artery",
+  "acrCommonId": "4015323",
+  "description": "superior epigastric artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4588",
+      "display": "superior epigastric artery"
+    },
+    {
+      "system": "FMA",
+      "code": "10646"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226288"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superior_epigastric_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/superior-epigastric-artery-1?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "synonyms": ["arteria epigastrica superior"],
+  "partOfRef": {
+    "id": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "leftRef": {
+    "id": "RID44830",
+    "display": "left superior epigastric artery"
+  },
+  "rightRef": {
+    "id": "RID44829",
+    "display": "right superior epigastric artery"
+  },
+  "embedding_vector": []
+}

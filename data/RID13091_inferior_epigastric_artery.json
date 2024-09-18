@@ -1,0 +1,50 @@
+{
+  "_id": "RID13091",
+  "acrCommonId": "4013964",
+  "snomedId": "78577000",
+  "snomedDisplay": "Structure of inferior epigastric artery",
+  "description": "inferior epigastric artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4358",
+      "display": "inferior epigastric artery"
+    },
+    {
+      "system": "FMA",
+      "code": "20686"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226401"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inferior_epigastric_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/inferior-epigastric-artery?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "leftRef": {
+    "id": "RID13091_RID5824",
+    "display": "left inferior epigastric artery"
+  },
+  "rightRef": {
+    "id": "RID13091_RID5825",
+    "display": "right inferior epigastric artery"
+  },
+  "embedding_vector": [],
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  }
+}

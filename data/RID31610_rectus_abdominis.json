@@ -1,0 +1,55 @@
+{
+  "_id": "RID31610",
+  "acrCommonId": "4014832",
+  "snomedId": "31243008",
+  "snomedDisplay": "Structure of rectus abdominis muscle",
+  "description": "rectus abdominis",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2357",
+      "display": "rectus abdominis muscle"
+    },
+    {
+      "system": "FMA",
+      "code": "9628"
+    },
+    {
+      "system": "MESH",
+      "code": "A02.633.567.050.800"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0206066"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rectus_abdominis_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/rectus-abdominis-muscle?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID32809",
+    "display": "musculature of anterior abdominal wall"
+  },
+  "containedById": {
+    "code": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "synonyms": ["musculus rectus abdominis", "rectus abdominus muscle"],
+  "leftRef": {
+    "id": "RID31612",
+    "display": "left rectus abdominis"
+  },
+  "rightRef": {
+    "id": "RID31611",
+    "display": "right rectus abdominis"
+  },
+  "embedding_vector": []
+}
