@@ -1,0 +1,33 @@
+{
+  "_id": "RID29194",
+  "acrCommonId": "4015215",
+  "snomedId": "14293000",
+  "snomedDisplay": "Bone structure of L2",
+  "description": "second lumbar vertebra",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
+    },
+    {
+      "system": "FMA",
+      "code": "13073"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0820012"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["L2 vertebra"],
+  "partOfRef": {
+    "id": "RID34573",
+    "display": "lumbar vertebral column"
+  },
+  "embedding_vector": []
+}

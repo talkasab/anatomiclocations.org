@@ -1,0 +1,99 @@
+{
+  "_id": "RID170",
+  "acrCommonId": "4014678",
+  "snomedId": "15776009",
+  "snomedDisplay": "Pancreatic structure",
+  "description": "pancreas",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3114",
+      "display": "pancreas"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pancreas"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pancreas?lang=us"
+    }
+  ],
+  "partOfId": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "containsRefs": [
+    {
+      "id": "RID171",
+      "display": "head of pancreas"
+    },
+    {
+      "id": "RID177",
+      "display": "main pancreatic duct"
+    },
+    {
+      "id": "RID173",
+      "display": "neck of pancreas"
+    },
+    {
+      "id": "RID172",
+      "display": "uncinate process of pancreas"
+    },
+    {
+      "id": "RID175",
+      "display": "tail of pancreas"
+    },
+    {
+      "id": "RID176",
+      "display": "pancreatic duct"
+    },
+    {
+      "id": "RID45811",
+      "display": "hepatopancreatic ampulla"
+    },
+    {
+      "id": "RID182",
+      "display": "accessory pancreatic duct"
+    }
+  ],
+  "hasPartsRefs": [
+    {
+      "id": "RID171",
+      "display": "head of pancreas"
+    },
+    {
+      "id": "RID177",
+      "display": "main pancreatic duct"
+    },
+    {
+      "id": "RID173",
+      "display": "neck of pancreas"
+    },
+    {
+      "id": "RID172",
+      "display": "uncinate process of pancreas"
+    },
+    {
+      "id": "RID175",
+      "display": "tail of pancreas"
+    },
+    {
+      "id": "RID45811",
+      "display": "hepatopancreatic ampulla"
+    },
+    {
+      "id": "RID182",
+      "display": "accessory pancreatic duct"
+    }
+  ],
+  "definition": "Lobular organ the parenchyma of which consists of glandular acini which communicate via a duct system with the duodenum. [FMA]",
+  "embedding_vector": []
+}

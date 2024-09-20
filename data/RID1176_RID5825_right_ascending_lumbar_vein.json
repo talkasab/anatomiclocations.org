@@ -1,0 +1,41 @@
+{
+  "_id": "RID1176_RID5825",
+  "snomedId": "361667002",
+  "snomedDisplay": "Right ascending lumbar vein",
+  "description": "right ascending lumbar vein",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4757",
+      "display": "right ascending lumbar vein"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ascending_lumbar_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ascending-lumbar-vein?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "leftRef": {
+    "id": "RID1176_RID5824",
+    "display": "left ascending lumbar vein"
+  },
+  "unsidedRef": {
+    "id": "RID1176",
+    "display": "ascending lumbar vein"
+  },
+  "embedding_vector": []
+}

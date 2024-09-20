@@ -1,0 +1,50 @@
+{
+  "_id": "RID31607",
+  "acrCommonId": "4014822",
+  "snomedId": "6001004",
+  "snomedDisplay": "Structure of quadratus lumborum muscle",
+  "description": "quadratus lumborum",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2382",
+      "display": "Quadratus lumborum muscle"
+    },
+    {
+      "system": "FMA",
+      "code": "297558"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0224380"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quadratus_lumborum_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/quadratus-lumborum-muscle-1?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID32817",
+    "display": "posterior abdominal wall"
+  },
+  "partOfRef": {
+    "id": "RID32808",
+    "display": "musculature of back of abdomen"
+  },
+  "leftRef": {
+    "id": "RID31609",
+    "display": "left quadratus lumborum"
+  },
+  "rightRef": {
+    "id": "RID31608",
+    "display": "right quadratus lumborum"
+  },
+  "embedding_vector": []
+}

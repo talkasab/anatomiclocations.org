@@ -1,0 +1,28 @@
+{
+  "_id": "RID29196",
+  "acrCommonId": "4013862",
+  "snomedId": "11994002",
+  "snomedDisplay": "Bone structure of L4",
+  "description": "fourth lumbar vertebra",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["L4 vertebra"],
+  "partOfRef": {
+    "id": "RID34573",
+    "display": "lumbar vertebral column"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13075"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0820014"
+    }
+  ],
+  "embedding_vector": []
+}

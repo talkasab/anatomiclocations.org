@@ -1,0 +1,42 @@
+{
+  "_id": "RID30014",
+  "acrCommonId": "4015535",
+  "description": "wall of abdomen",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "299989"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0836916"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_wall"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID30008",
+      "display": "anterior abdominal wall"
+    },
+    {
+      "id": "RID32817",
+      "display": "posterior abdominal wall"
+    }
+  ],
+  "synonyms": ["abdominal wall"],
+  "partOfRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "embedding_vector": []
+}

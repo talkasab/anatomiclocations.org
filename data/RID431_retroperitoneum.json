@@ -1,0 +1,322 @@
+{
+  "_id": "RID431",
+  "acrCommonId": "4013400",
+  "snomedId": "82849001",
+  "snomedDisplay": "Retroperitoneal structure",
+  "description": "retroperitoneum",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3814",
+      "display": "Retroperitoneal space"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Retroperitonium"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/retroperitoneum?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID905",
+      "display": "abdominal aorta"
+    },
+    {
+      "id": "RID935",
+      "display": "adrenal artery"
+    },
+    {
+      "id": "RID935_RID5824",
+      "display": "left adrenal artery"
+    },
+    {
+      "id": "RID935_RID5825",
+      "display": "right adrenal artery"
+    },
+    {
+      "id": "RID88",
+      "display": "adrenal gland"
+    },
+    {
+      "id": "RID30324",
+      "display": "right adrenal gland"
+    },
+    {
+      "id": "RID30325",
+      "display": "left adrenal gland"
+    },
+    {
+      "id": "RID34819",
+      "display": "adrenal vein"
+    },
+    {
+      "id": "RID1183",
+      "display": "right adrenal vein"
+    },
+    {
+      "id": "RID1185",
+      "display": "left adrenal vein"
+    },
+    {
+      "id": "RID157",
+      "display": "ascending colon"
+    },
+    {
+      "id": "RID33652",
+      "display": "biliary tree"
+    },
+    {
+      "id": "RID906",
+      "display": "celiac artery"
+    },
+    {
+      "id": "RID909",
+      "display": "common hepatic artery"
+    },
+    {
+      "id": "RID919",
+      "display": "cystic artery"
+    },
+    {
+      "id": "RID161",
+      "display": "descending colon"
+    },
+    {
+      "id": "RID134",
+      "display": "duodenum"
+    },
+    {
+      "id": "RID96",
+      "display": "gastroesophageal junction"
+    },
+    {
+      "id": "RID158",
+      "display": "hepatic flexure of colon"
+    },
+    {
+      "id": "RID939",
+      "display": "inferior mesenteric artery"
+    },
+    {
+      "id": "RID1178",
+      "display": "inferior vena cava"
+    },
+    {
+      "id": "RID205",
+      "display": "kidney"
+    },
+    {
+      "id": "RID29662",
+      "display": "right kidney"
+    },
+    {
+      "id": "RID29663",
+      "display": "left kidney"
+    },
+    {
+      "id": "RID37860",
+      "display": "left renal artery"
+    },
+    {
+      "id": "RID34573",
+      "display": "lumbar vertebral column"
+    },
+    {
+      "id": "RID170",
+      "display": "pancreas"
+    },
+    {
+      "id": "RID936",
+      "display": "renal artery"
+    },
+    {
+      "id": "RID1184",
+      "display": "renal vein"
+    },
+    {
+      "id": "RID37993",
+      "display": "right renal vein"
+    },
+    {
+      "id": "RID37994",
+      "display": "left renal vein"
+    },
+    {
+      "id": "RID37859",
+      "display": "right renal artery"
+    },
+    {
+      "id": "RID921",
+      "display": "splenic artery"
+    },
+    {
+      "id": "RID160",
+      "display": "splenic flexure of colon"
+    },
+    {
+      "id": "RID229",
+      "display": "ureter"
+    },
+    {
+      "id": "RID30844",
+      "display": "right ureter"
+    },
+    {
+      "id": "RID30845",
+      "display": "left ureter"
+    },
+    {
+      "id": "RID35951",
+      "display": "pancreatic artery"
+    },
+    {
+      "id": "RID49533",
+      "display": "celiac nerve plexus"
+    },
+    {
+      "id": "RID225",
+      "display": "calyx of renal collecting system"
+    },
+    {
+      "id": "RID28830",
+      "display": "lumbar intervertebral disk"
+    },
+    {
+      "id": "RID29193",
+      "display": "first lumbar vertebra"
+    },
+    {
+      "id": "RID29194",
+      "display": "second lumbar vertebra"
+    },
+    {
+      "id": "RID29195",
+      "display": "third lumbar vertebra"
+    },
+    {
+      "id": "RID29196",
+      "display": "fourth lumbar vertebra"
+    },
+    {
+      "id": "RID29197",
+      "display": "fifth lumbar vertebra"
+    },
+    {
+      "id": "RID28830_RID6202",
+      "display": "L1/L2 lumbar intervertebral disk"
+    },
+    {
+      "id": "RID28830_RID6203",
+      "display": "L2/L3 lumbar intervertebral disk"
+    },
+    {
+      "id": "RID28830_RID6204",
+      "display": "L3/L4 lumbar intervertebral disk"
+    },
+    {
+      "id": "RID28830_RID6205",
+      "display": "L4/L5 lumbar intervertebral disk"
+    },
+    {
+      "id": "RID28830_RID6206",
+      "display": "L5/S1 lumbar intervertebral disk"
+    },
+    {
+      "id": "RID228",
+      "display": "renal pelvis"
+    },
+    {
+      "id": "RID922",
+      "display": "dorsal pancreatic artery"
+    },
+    {
+      "id": "RID923",
+      "display": "great pancreatic artery"
+    },
+    {
+      "id": "RID38122",
+      "display": "inferior pancreatic artery"
+    },
+    {
+      "id": "RID137",
+      "display": "second part of duodenum"
+    },
+    {
+      "id": "RID144",
+      "display": "third part of duodenum"
+    },
+    {
+      "id": "RID1192",
+      "display": "lumbar vein"
+    },
+    {
+      "id": "RID211",
+      "display": "cortex of kidney"
+    },
+    {
+      "id": "RID31789",
+      "display": "cortex of right kidney"
+    },
+    {
+      "id": "RID31790",
+      "display": "cortex of left kidney"
+    },
+    {
+      "id": "RID948",
+      "display": "iliolumbar artery"
+    },
+    {
+      "id": "RID948_RID5824",
+      "display": "left iliolumbar artery"
+    },
+    {
+      "id": "RID948_RID5825",
+      "display": "right iliolumbar artery"
+    },
+    {
+      "id": "RID1176",
+      "display": "ascending lumbar vein"
+    },
+    {
+      "id": "RID1176_RID5824",
+      "display": "left ascending lumbar vein"
+    },
+    {
+      "id": "RID1176_RID5825",
+      "display": "right ascending lumbar vein"
+    },
+    {
+      "id": "RID31912",
+      "display": "celiac lymph node group"
+    },
+    {
+      "id": "RID31555",
+      "display": "abdominal part of esophagus"
+    },
+    {
+      "id": "RID1208",
+      "display": "portal vein"
+    },
+    {
+      "id": "RID34469",
+      "display": "right portal vein"
+    },
+    {
+      "id": "RID34470",
+      "display": "left portal vein"
+    }
+  ],
+  "synonyms": ["retroperito", "spatium retroperitoneale"],
+  "definition": "An area occupying the most posterior aspect of the abdominal cavity. It is bounded laterally by the borders of the quadratus lumborum muscles and extends from the diaphragm to the brim of the true pelvis, where it continues as the pelvic extraperitoneal space. [MeSH]",
+  "embedding_vector": []
+}

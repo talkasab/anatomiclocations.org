@@ -1,0 +1,18 @@
+{
+  "_id": "RID177",
+  "acrCommonId": "4014479",
+  "snomedId": "1230031000",
+  "snomedDisplay": "Structure of main pancreatic duct",
+  "description": "main pancreatic duct",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "partOfRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "definition": "The main pancreatic duct is the larger of the two pancreatic ducts. It transverses through the body of the pancreas and opens into the duodenum at the major duodenal papilla. [MeSH]",
+  "embedding_vector": []
+}

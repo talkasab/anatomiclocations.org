@@ -1,0 +1,50 @@
+{
+  "_id": "RID948",
+  "acrCommonId": "4013953",
+  "snomedId": "293947007",
+  "snomedDisplay": "Structure of iliolumbar artery",
+  "description": "iliolumbar artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4304",
+      "display": "Iliolumbar artery"
+    },
+    {
+      "system": "FMA",
+      "code": "18845"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226367"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iliolumbar_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/iliolumbar-artery?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "leftRef": {
+    "id": "RID948_RID5824",
+    "display": "left iliolumbar artery"
+  },
+  "rightRef": {
+    "id": "RID948_RID5825",
+    "display": "right iliolumbar artery"
+  },
+  "embedding_vector": []
+}

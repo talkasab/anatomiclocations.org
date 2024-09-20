@@ -1,0 +1,51 @@
+{
+  "_id": "RID2626",
+  "acrCommonId": "4014807",
+  "snomedId": "11192004",
+  "snomedDisplay": "Structure of psoas minor muscle",
+  "description": "psoas minor muscle",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2596",
+      "display": "psoas minor"
+    },
+    {
+      "system": "FMA",
+      "code": "22350"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0224420"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psoas_minor_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/psoas-minor-muscle?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID32817",
+    "display": "posterior abdominal wall"
+  },
+  "synonyms": ["psoas minor", "musculus psoas minor"],
+  "partOfRef": {
+    "id": "RID32808",
+    "display": "musculature of back of abdomen"
+  },
+  "leftRef": {
+    "id": "RID32251",
+    "display": "left psoas minor"
+  },
+  "rightRef": {
+    "id": "RID32250",
+    "display": "right psoas minor"
+  },
+  "embedding_vector": []
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "RID176",
+  "acrCommonId": "4014680",
+  "snomedId": "69930009",
+  "snomedDisplay": "Pancreatic duct structure",
+  "description": "pancreatic duct",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3129",
+      "display": "pancreatic duct"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pancreatic_duct"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pancreatic-ducts?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "synonyms": ["DP", "Ductus Wirsungianus"],
+  "definition": "Ducts that collect pancreatic juice from the pancreas and supply it to the duodenum. [MeSH]",
+  "embedding_vector": []
+}

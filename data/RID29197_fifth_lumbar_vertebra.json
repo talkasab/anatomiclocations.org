@@ -1,0 +1,29 @@
+{
+  "_id": "RID29197",
+  "acrCommonId": "4013825",
+  "snomedId": "49668003",
+  "snomedDisplay": "Bone structure of L5",
+  "description": "fifth lumbar vertebra",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13076"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0820015"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["L5 vertebra"],
+  "partOfRef": {
+    "id": "RID34573",
+    "display": "lumbar vertebral column"
+  },
+
+  "embedding_vector": []
+}

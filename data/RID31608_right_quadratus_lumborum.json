@@ -1,0 +1,45 @@
+{
+  "_id": "RID31608",
+  "acrCommonId": "4015110",
+  "description": "right quadratus lumborum",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quadratus_lumborum_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/quadratus-lumborum-muscle-1?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID32817",
+    "display": "posterior abdominal wall"
+  },
+  "partOfRef": {
+    "id": "RID32808",
+    "display": "musculature of back of abdomen"
+  },
+  "leftRef": {
+    "id": "RID31609",
+    "display": "left quadratus lumborum"
+  },
+  "unsidedRef": {
+    "id": "RID31607",
+    "display": "quadratus lumborum"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "22348"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0815722"
+    }
+  ],
+  "embedding_vector": []
+}
+
+  

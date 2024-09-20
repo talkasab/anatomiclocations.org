@@ -1,0 +1,45 @@
+{
+  "_id": "RID1176",
+  "acrCommonId": "4013527",
+  "snomedId": "88004007",
+  "snomedDisplay": "Structure of ascending lumbar vein",
+  "description": "ascending lumbar vein",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "12858"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226647"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ascending_lumbar_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ascending-lumbar-vein?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "leftRef": {
+    "id": "RID1176_RID5824",
+    "display": "left ascending lumbar vein"
+  },
+  "rightRef": {
+    "id": "RID1176_RID5825",
+    "display": "right ascending lumbar vein"
+  },
+  "embedding_vector": []
+}

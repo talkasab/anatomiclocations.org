@@ -1,0 +1,40 @@
+{
+  "_id": "RID157",
+  "acrCommonId": "4013526",
+  "snomedId": "9040008",
+  "snomedDisplay": "Ascending colon structure",
+  "description": "ascending colon",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2982",
+      "display": "ascending colon"
+    },
+    {
+      "system": "FMA",
+      "code": "14545"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ascending_colon"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ascending-colon?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["colon ascendens", "Colon ascendens"],
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "definition": "Organ part which is continuous with the cecum proximally and the transverse colon distally. [FMA]",
+  "embedding_vector": []
+}

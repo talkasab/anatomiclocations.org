@@ -1,0 +1,34 @@
+{
+  "_id": "RID172",
+  "acrCommonId": "4015497",
+  "snomedId": "30045001",
+  "snomedDisplay": "Structure of uncinate process of pancreas",
+  "description": "uncinate process of pancreas",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3116",
+      "display": "Uncinate process of pancreas"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uncinate_process_of_pancreas"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/cases/pancreas-adenocarcinoma-uncinate-process?lang=us"
+    }
+  ],
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "partOfRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "embedding_vector": []
+}

@@ -1,0 +1,24 @@
+{
+  "_id": "RID173",
+  "acrCommonId": "4014608",
+  "snomedId": "245381005",
+  "snomedDisplay": "Neck of pancreas",
+  "description": "neck of pancreas",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3118",
+      "display": "neck of pancreas"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "partOfRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "embedding_vector": []
+}

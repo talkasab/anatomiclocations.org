@@ -1,0 +1,28 @@
+{
+  "_id": "RID29195",
+  "acrCommonId": "4015431",
+  "snomedId": "36470004",
+  "snomedDisplay": "Bone structure of L3",
+  "description": "third lumbar vertebra",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13074"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0820013"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["L3 vertebra"],
+  "partOfRef": {
+    "id": "RID34573",
+    "display": "lumbar vertebral column"
+  },
+  "embedding_vector": []
+}

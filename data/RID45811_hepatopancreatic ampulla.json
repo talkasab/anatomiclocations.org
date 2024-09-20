@@ -1,0 +1,48 @@
+{
+  "_id": "RID45811",
+  "acrCommonId": "4013933",
+  "snomedId": "67109009",
+  "snomedDisplay": "Structure of ampulla of Vater",
+  "description": "hepatopancreatic ampulla",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3111",
+      "display": "hepatopancreatic ampulla"
+    },
+    {
+      "system": "FMA",
+      "code": "15076"
+    },
+    {
+      "system": "MESH",
+      "code": "A03.159.183.079.300.950 | A03.556.124.684.124.236 | A03.556.875.249.160 | A03.734.667.500"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0042425"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ampulla_of_Vater"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ampulla-of-vater-1?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "synonyms": ["cholangiopancreatic duct", "Ampulla Vateri"],
+  "partOfRef": {
+    "id": "RID170",
+    "display": "pancreas"
+  },
+  "definition": "the duct shared by the common bile duct and the pancreatic duct in the wall of the duodenum",
+  "embedding_vector": []
+}

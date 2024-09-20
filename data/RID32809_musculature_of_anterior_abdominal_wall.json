@@ -1,0 +1,45 @@
+{
+  "_id": "RID32809",
+  "acrCommonId": "4014589",
+  "description": "musculature of anterior abdominal wall",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID30008",
+    "display": "anterior abdominal wall"
+  },
+  "synonyms": [
+    "musculature of front of abdomen",
+    "anterior abdominal wall musculature",
+    "muscles of anterior abdominal wall",
+    "set of muscles of anterior abdominal wall"
+  ],
+  "partOfRef": {
+    "id": "RID13209",
+    "display": "musculoskeletal system"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID31610",
+      "display": "rectus abdominis"
+    },
+    {
+      "id": "RID31611",
+      "display": "right rectus abdominis"
+    },
+    {
+      "id": "RID31612",
+      "display": "left rectus abdominis"
+    }
+  ],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "78435"
+    },
+    {
+      "system": "UMLS",
+      "code": "C1744565"
+    }
+  ],
+  "embedding_vector": []
+}

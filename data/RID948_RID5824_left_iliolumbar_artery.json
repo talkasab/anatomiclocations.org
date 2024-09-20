@@ -1,0 +1,32 @@
+{
+  "_id": "RID948_RID5824",
+  "description": "left iliolumbar artery",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Iliolumbar_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/iliolumbar-artery?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "rightRef": {
+    "id": "RID948_RID5825",
+    "display": "right iliolumbar artery"
+  },
+  "unsidedRef": {
+    "id": "RID948",
+    "display": "iliolumbar artery"
+  },
+  "embedding_vector": []
+}

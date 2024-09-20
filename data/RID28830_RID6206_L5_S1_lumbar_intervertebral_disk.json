@@ -1,0 +1,21 @@
+{
+  "_id": "RID28830_RID6206",
+  "acrCommonId": "4014034",
+  "description": "L5/S1 lumbar intervertebral disk",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID28830",
+    "display": "lumbar intervertebral disk"
+  },
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C1261195"
+    }
+  ],
+  "embedding_vector": []
+}

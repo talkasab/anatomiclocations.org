@@ -1,0 +1,68 @@
+{
+  "_id": "RID32817",
+  "acrCommonId": "4014743",
+  "snomedId": "22577007",
+  "snomedDisplay": "Posterior abdominal wall structure",
+  "description": "posterior abdominal wall",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "137",
+      "display": "back of abdomen"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/posterior-abdominal-wall?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID30014",
+    "display": "wall of abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID31607",
+      "display": "quadratus lumborum"
+    },
+    {
+      "id": "RID31608",
+      "display": "right quadratus lumborum"
+    },
+    {
+      "id": "RID31609",
+      "display": "left quadratus lumborum"
+    },
+    {
+      "id": "RID2625",
+      "display": "psoas major muscle"
+    },
+    {
+      "id": "RID32248",
+      "display": "right psoas major"
+    },
+    {
+      "id": "RID32249",
+      "display": "left psoas major"
+    },
+    {
+      "id": "RID2626",
+      "display": "psoas minor muscle"
+    },
+    {
+      "id": "RID32250",
+      "display": "right psoas minor"
+    },
+    {
+      "id": "RID32251",
+      "display": "left psoas minor"
+    },
+    {
+      "id": "RID32808",
+      "display": "musculature of back of abdomen"
+    }
+  ],
+  "embedding_vector": []
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "RID29193",
+  "acrCommonId": "4013830",
+  "snomedId": "66794005",
+  "snomedDisplay": "Bone structure of L1",
+  "description": "first lumbar vertebra",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13072"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0820011"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["L1 vertebra"],
+  "partOfRef": {
+    "id": "RID34573",
+    "display": "lumbar vertebral column"
+  },
+  "embedding_vector": []
+}

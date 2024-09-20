@@ -1,0 +1,43 @@
+{
+  "_id": "RID32250",
+  "acrCommonId": "4015106",
+  "description": "right psoas minor",
+  "region": "Abdomen",
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psoas_minor_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/psoas-minor-muscle?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID32817",
+    "display": "posterior abdominal wall"
+  },
+  "partOfRef": {
+    "id": "RID32808",
+    "display": "musculature of back of abdomen"
+  },
+  "leftRef": {
+    "id": "RID32251",
+    "display": "left psoas minor"
+  },
+  "unsidedRef": {
+    "id": "RID2626",
+    "display": "psoas minor muscle"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "22351"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0815724"
+    }
+  ],
+  "embedding_vector": []
+}

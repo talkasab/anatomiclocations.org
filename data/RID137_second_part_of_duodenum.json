@@ -1,0 +1,33 @@
+{
+  "_id": "RID137",
+  "acrCommonId": "4015217",
+  "snomedId": "72031006",
+  "snomedDisplay": "Structure of descending portion of duodenum",
+  "description": "second part of duodenum",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2948",
+      "display": "descending part of duodenum"
+    },
+    {
+      "system": "FMA",
+      "code": "14928"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227301"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["descending portion of duodenum"],
+  "partOfRef": {
+    "id": "RID134",
+    "display": "duodenum"
+  },
+  "embedding_vector": []
+}

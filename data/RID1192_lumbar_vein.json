@@ -1,0 +1,43 @@
+{
+  "_id": "RID1192",
+  "acrCommonId": "4014467",
+  "snomedId": "9384000",
+  "snomedDisplay": "Structure of lumbar vein",
+  "description": "lumbar vein",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4993",
+      "display": "lumbar veins"
+    },
+    {
+      "system": "FMA",
+      "code": "15370"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226648"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lumbar_veins"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/lumbar-veins?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+
+  "embedding_vector": []
+}

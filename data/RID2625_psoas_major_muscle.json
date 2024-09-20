@@ -1,0 +1,51 @@
+{
+  "_id": "RID2625",
+  "acrCommonId": "4014806",
+  "snomedId": "57240007",
+  "snomedDisplay": "Structure of psoas major muscle",
+  "description": "psoas major muscle",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2595",
+      "display": "psoas major"
+    },
+    {
+      "system": "FMA",
+      "code": "18060"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0224419"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psoas_major_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/psoas-major-muscle-1?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID32817",
+    "display": "posterior abdominal wall"
+  },
+  "synonyms": ["psoas major", "musculus psoas major"],
+  "partOfRef": {
+    "id": "RID32808",
+    "display": "musculature of back of abdomen"
+  },
+  "leftRef": {
+    "id": "RID32249",
+    "display": "left psoas major"
+  },
+  "rightRef": {
+    "id": "RID32248",
+    "display": "right psoas major"
+  },
+  "embedding_vector": []
+}
