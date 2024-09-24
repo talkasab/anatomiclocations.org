@@ -1,0 +1,42 @@
+{
+  "_id": "RID29663",
+  "acrCommonId": "4014222",
+  "snomedId": "18639004",
+  "snomedDisplay": "Left kidney structure",
+  "description": "left kidney",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID204",
+    "display": "urinary tract"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID31790",
+      "display": "cortex of left kidney"
+    }
+  ],
+  "rightRef": {
+    "id": "RID29662",
+    "display": "right kidney"
+  },
+  "unsidedRef": {
+    "id": "RID205",
+    "display": "kidney"
+  },
+  "definition": "Kidney located left of sagittal midplane of body.",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kidney"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/kidneys?lang=us"
+    }
+  ]
+}

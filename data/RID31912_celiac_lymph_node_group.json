@@ -1,0 +1,48 @@
+{
+  "_id": "RID31912",
+  "acrCommonId": "4013595",
+  "snomedId": "245286003",
+  "snomedDisplay": "Celiac lymph node group",
+  "description": "celiac lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": [
+    "nodi lymphoidei coeliaci",
+    "celiac nodes",
+    "set of celiac lymph nodes",
+    "celiac lymph nodes",
+    "nodi coeliaci",
+    "coeliac lymph nodes set",
+    "coeliac lymph node group"
+  ],
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "71787"
+    },
+    {
+      "system": "UMLS",
+      "code": "C4252204"
+    },
+    {
+      "system": "TA2",
+      "code": "5282",
+      "display": "celiac nodes"
+    }
+  ],
+  "definition": "Intestinal lymph node group located around trunk opf celiac artery.",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Celiac_lymph_nodes"
+    }
+  ]
+}

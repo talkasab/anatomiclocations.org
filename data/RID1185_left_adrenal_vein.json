@@ -1,0 +1,55 @@
+{
+  "_id": "RID1185",
+  "acrCommonId": "4014092",
+  "snomedId": "248792009",
+  "snomedDisplay": "Structure of left suprarenal vein",
+  "description": "left adrenal vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": [
+    "vena suprarenalis sinistra",
+    "left suprarenal vein",
+    "vena suprarenalis sinistra"
+  ],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "rightRef": {
+    "id": "RID1183",
+    "display": "right adrenal vein"
+  },
+  "unsidedRef": {
+    "id": "RID34819",
+    "display": "adrenal vein"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14349"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226709"
+    },
+    {
+      "system": "TA2",
+      "code": "5012",
+      "display": "left suprarenal vein"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Suprarenal_veins"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/adrenal-veins-1?lang=us"
+    }
+  ]
+}

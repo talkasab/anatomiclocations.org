@@ -1,0 +1,37 @@
+{
+  "_id": "RID160",
+  "acrCommonId": "4015273",
+  "snomedId": "72592005",
+  "snomedDisplay": "Structure of left colic flexure",
+  "description": "splenic flexure of colon",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": [
+    "splenic flexure",
+    "flexura coli splenica",
+    "flexura coli sinistra",
+    "flexura coli sinistra"
+  ],
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "embedding_vector": [],
+    "codes": [
+    {
+      "system": "TA2",
+      "code": "2985",
+      "display": "Left colic flexure"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colic_flexures"
+    }
+  ]
+}
+

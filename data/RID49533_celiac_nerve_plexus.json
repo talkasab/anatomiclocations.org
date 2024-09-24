@@ -1,0 +1,38 @@
+{
+  "_id": "RID49533",
+  "acrCommonId": "4013596",
+  "snomedId": "4150005",
+  "snomedDisplay": "Celiac nervous plexus structure",
+  "description": "celiac nerve plexus",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["celiac plexus"],
+  "partOfRef": {
+    "id": "RID16280",
+    "display": "set of autonomic nerves"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "6630"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0007572"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Celiac_plexus"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/coeliac-plexus?lang=us"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "RID161",
+  "acrCommonId": "4013712",
+  "snomedId": "32622004",
+  "snomedDisplay": "Descending colon structure",
+  "description": "descending colon",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["colon descendens", "Colon descendens"],
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "definition": "The segment of large intestine between transverse colon and the sigmoid colon. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2986",
+      "display": "Descending colon"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Descending_colon"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/descending-colon?lang=us"
+    }
+  ]
+}

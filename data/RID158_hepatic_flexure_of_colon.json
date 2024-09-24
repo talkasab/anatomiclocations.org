@@ -1,0 +1,35 @@
+{
+  "_id": "RID158",
+  "acrCommonId": "4013930",
+  "snomedId": "48338005",
+  "snomedDisplay": "Structure of right colic flexure",
+  "description": "hepatic flexure of colon",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["large bowel", "intestinum crassum", "intestinum crassum"],
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C0019155"
+    },
+    {
+      "system": "TA2",
+      "code": "2983",
+      "display": "Right colic flexure"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colic_flexures"
+    }
+  ]
+}

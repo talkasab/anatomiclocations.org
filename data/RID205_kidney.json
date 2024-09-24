@@ -1,0 +1,66 @@
+{
+  "_id": "RID205",
+  "acrCommonId": "4014027",
+  "snomedId": "64033007",
+  "snomedDisplay": "Kidney structure",
+  "description": "kidney",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["ren", "ren (Nephros)", "nephros", "ren (Nephros)", "Niere"],
+  "partOfRef": {
+    "id": "RID204",
+    "display": "urinary tract"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID225",
+      "display": "calyx of renal collecting system"
+    },
+    {
+      "id": "RID228",
+      "display": "renal pelvis"
+    },
+    {
+      "id": "RID211",
+      "display": "cortex of kidney"
+    }
+  ],
+  "leftRef": {
+    "id": "RID29663",
+    "display": "left kidney"
+  },
+  "rightRef": {
+    "id": "RID29662",
+    "display": "right kidney"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "7203"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0022646"
+    },
+    {
+      "system": "TA2",
+      "code": "3358",
+      "display": "kidney"
+    }
+  ],
+  "definition": "Body organ that filters blood for the secretion of urine and that regulates ion concentrations. [MeSH]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kidney"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/kidneys?lang=us"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "RID30324",
+  "acrCommonId": "4013412",
+  "snomedId": "29392005",
+  "snomedDisplay": "Structure of right adrenal gland",
+  "description": "right adrenal gland",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "leftRef": {
+    "id": "RID30325",
+    "display": "left adrenal gland"
+  },
+  "unsidedRef": {
+    "id": "RID88",
+    "display": "adrenal gland"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15629"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0229559"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adrenal_gland"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/adrenal-gland?lang=us"
+    }
+  ]
+}

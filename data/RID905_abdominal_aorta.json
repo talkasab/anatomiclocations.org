@@ -1,0 +1,35 @@
+{
+  "_id": "RID905",
+  "acrCommonId": "4013401",
+  "snomedId": "7832008",
+  "snomedDisplay": "Abdominal aorta structure",
+  "description": "abdominal aorta",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID480",
+    "display": "aorta"
+  },
+  "definition": "The aorta from the diaphragm to the bifurcation into the right and left common iliac arteries. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4205",
+      "display": "abdominal aorta"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_aorta"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/abdominal-aorta-1?lang=us"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "_id": "RID211",
+  "acrCommonId": "4013660",
+  "snomedId": "50403003",
+  "snomedDisplay": "Structure of cortex of kidney",
+  "description": "cortex of kidney",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["cortex renalis", "renal cortex"],
+  "partOfRef": {
+    "id": "RID205",
+    "display": "kidney"
+  },
+  "leftRef": {
+    "id": "RID31790",
+    "display": "cortex of left kidney"
+  },
+  "rightRef": {
+    "id": "RID31789",
+    "display": "cortex of right kidney"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15581"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0022655"
+    },
+    {
+      "system": "TA2",
+      "code": "3377",
+      "display": "Cortex of kidney lobe"
+    }
+  ],
+  "definition": "Region of parenchyma of kidney representing the outer portion. [FMA]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renal_cortex"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/cortex-disambiguation?lang=us"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "RID88",
+  "acrCommonId": "4013411",
+  "snomedId": "23451007",
+  "snomedDisplay": "Adrenal structure",
+  "description": "adrenal gland",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["glandula suprarenalis", "Nebenniere"],
+  "leftRef": {
+    "id": "RID30325",
+    "display": "left adrenal gland"
+  },
+  "rightRef": {
+    "id": "RID30324",
+    "display": "right adrenal gland"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3874",
+      "display": "suprarenal gland"
+    },
+    {
+      "system": "FMA",
+      "code": "9604"
+    },
+    {
+      "system": "MESH",
+      "code": "A06.407.071"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0001625"
+    }
+  ],
+  "definition": "A pair of glands located at the cranial pole of each of the two kidneys. Each adrenal gland is composed of two distinct endocrine tissues with separate embryonic origins, the adrenal cortex producing steroids and the adrenal medulla producing neurotransmitters. [MeSH]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adrenal_gland"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/adrenal-gland?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "",
+    "display": ""
+  }
+}

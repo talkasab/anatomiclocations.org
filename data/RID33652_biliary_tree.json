@@ -1,0 +1,56 @@
+{
+  "_id": "RID33652",
+  "acrCommonId": "4013546",
+  "snomedId": "181267003",
+  "snomedDisplay": "Entire biliary tract",
+  "description": "biliary tree",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID199",
+      "display": "common bile duct"
+    },
+    {
+      "id": "RID201",
+      "display": "cystic duct"
+    },
+    {
+      "id": "RID187",
+      "display": "gallbladder"
+    },
+    {
+      "id": "RID193",
+      "display": "left hepatic duct"
+    },
+    {
+      "id": "RID194",
+      "display": "right hepatic duct"
+    },
+    {
+      "id": "RID200",
+      "display": "common hepatic duct"
+    }
+  ],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14665"
+    }
+  ],
+  "definition": "Hollow tree organ, the organ parts of which consists of the bile ducts. Examples: There is only one biliary tree.",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Biliary_tract"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/biliary-tree-anatomy?lang=us"
+    }
+  ]
+}
