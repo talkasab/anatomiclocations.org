@@ -1,0 +1,56 @@
+{
+  "_id": "RID936",
+  "acrCommonId": "4014839",
+  "snomedId": "2841007",
+  "snomedDisplay": "Structure of renal artery",
+  "description": "renal artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "leftRef": {
+    "id": "RID37860",
+    "display": "left renal artery"
+  },
+  "rightRef": {
+    "id": "RID37859",
+    "display": "right renal artery"
+  },
+  "definition": "A branch of the abdominal aorta which supplies the kidneys, adrenal glands and ureters. [MeSH]",
+  "embedding_vector": [
+  ],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4269",
+      "display": "renal artery"
+    },
+       {
+      "system": "MESH",
+      "code": "A07.231.114.745"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0035092"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renal_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/renal-artery?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID39347",
+    "display": "urinary system"
+  },
+  "branchofref": {
+    "id": "RID905",
+    "display": "abdominal aorta"
+  }
+}

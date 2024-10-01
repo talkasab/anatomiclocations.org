@@ -1,0 +1,47 @@
+{
+  "_id": "RID228",
+  "acrCommonId": "4014840",
+  "snomedId": "25990002",
+  "snomedDisplay": "Renal pelvis structure",
+  "description": "renal pelvis",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID205",
+    "display": "kidney"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15575"
+    },
+    {
+      "system": "MESH",
+      "code": "A05.810.453.537"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227666"
+    },
+    {
+      "system": "TA2",
+      "code": "3384",
+      "display": "renal pelvis"
+    }
+  ],
+  "definition": "The flattened, funnel-shaped expansion connecting the ureter to the kidney calices. [MeSH]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renal_pelvis"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/renal-pelvis?lang=us"
+    }
+  ]
+}

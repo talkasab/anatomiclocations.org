@@ -5,11 +5,49 @@
   "snomedDisplay": "anterior abdominal wall structure",
   "description": "anterior abdominal wall",
   "region": "Abdomen",
-  "codes": [
+  "divisions": [
     {
-      "system": "TA2",
-      "code": "134",
-      "display": "Anterolateral abdominal wall"
+      "name": "left anterior abdominal wall",
+      "_id": "RID30008_RID5824",
+      "snomedId": "699638000",
+      "snomedDisplay": "Structure of lateral half of anterior abdominal wall (body structure)",
+      "acrCommonId": "",
+      "codes": [
+        {
+          "system": "TA2",
+          "code": "134",
+          "display": "Anterolateral abdominal wall"
+        }
+      ],
+      "partOfId": {
+        "code": "RID30008",
+        "display": "anterior abdominal wall"
+      },
+      "containedById": {
+        "code": "RID30014",
+        "display": "wall of the abdomen"
+      }
+    },
+    {
+      "name": "right anterior abdominal wall",
+      "_id": "RID30008_RID5825",
+      "snomedId": "699638000",
+      "snomedDisplay": "Structure of lateral half of anterior abdominal wall (body structure)",
+      "codes": [
+        {
+          "system": "TA2",
+          "code": "134",
+          "display": "Anterolateral abdominal wall"
+        }
+      ],
+      "partOfId": {
+        "code": "RID30008",
+        "display": "anterior abdominal wall"
+      },
+      "containedById": {
+        "code": "RID30014",
+        "display": "wall of the abdomen"
+      }
     }
   ],
   "links": [
@@ -23,8 +61,8 @@
     }
   ],
   "partOfId": {
-    "code": "",
-    "display": ""
+    "code": "RID13209",
+    "display": "musculoskeletal system"
   },
   "containedById": {
     "code": "RID30014",

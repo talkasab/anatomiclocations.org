@@ -9,7 +9,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": ["cortex renalis", "renal cortex"],
   "partOfRef": {
     "id": "RID205",
     "display": "kidney"
@@ -43,10 +42,6 @@
     {
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Renal_cortex"
-    },
-    {
-      "site": "radiopaedia",
-      "url": "https://radiopaedia.org/articles/cortex-disambiguation?lang=us"
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "_id": "RID37994",
+  "acrCommonId": "4014352",
+  "snomedId": "275809009",
+  "snomedDisplay": "Structure of left renal vein",
+  "description": "left renal vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "leftRef": {
+    "id": "RID37994",
+    "display": "left renal vein"
+  },
+  "unsidedRef": {
+    "id": "RID1184",
+    "display": "renal vein"
+  },
+  "embedding_vector": [
+  ],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5006",
+      "display": "left renal vein"
+    },
+    {
+      "system": "FMA",
+      "code": "14336"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renal_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/renal-vein-1?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID39347",
+    "display": "urinary system"
+  }
+}

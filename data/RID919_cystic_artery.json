@@ -1,0 +1,42 @@
+{
+  "_id": "RID919",
+  "acrCommonId": "4013674",
+  "snomedId": "52109002",
+  "snomedDisplay": "Structure of cystic artery",
+  "description": "cystic artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4230",
+      "display": "cystic artery"
+    },
+    {
+      "system": "FMA",
+      "code": "14835"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cystic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/cystic-artery?lang=us"
+    }
+  ],
+  "partOfId": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "branchOfRef": {
+    "code": "RID909",
+    "display": "common hepatic artery"
+  },
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "embedding_vector": []
+}

@@ -1,0 +1,55 @@
+{
+  "_id": "RID229",
+  "acrCommonId": "4015509",
+  "snomedId": "87953007",
+  "snomedDisplay": "Ureteric structure",
+  "description": "ureter",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID204",
+    "display": "urinary tract"
+  },
+  "leftRef": {
+    "id": "RID30845",
+    "display": "left ureter"
+  },
+  "rightRef": {
+    "id": "RID30844",
+    "display": "right ureter"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3394",
+      "display": "ureter"
+    },
+    {
+      "system": "FMA",
+      "code": "9704"
+    },
+    {
+      "system": "MESH",
+      "code": "A05.810.776"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0041951"
+    }
+  ],
+  "definition": "Organ with organ cavity which connects the renal sinus to the urinary bladder. Examples: There are only two ureters, the right and the left ureters. [FMA]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ureter"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ureter?lang=us"
+    }
+  ]
+}

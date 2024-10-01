@@ -1,0 +1,42 @@
+{
+  "_id": "RID909",
+  "acrCommonId": "4013634",
+  "snomedId": "244263001",
+  "snomedDisplay": "Entire common hepatic artery",
+  "description": "common hepatic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4214",
+      "display": "common hepatic artery"
+    },
+    {
+      "system": "FMA",
+      "code": "14771"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Common_hepatic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/common-hepatic-artery?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "",
+    "display": ""
+  },
+  "branchOfRef": {
+    "code": "RID906",
+    "display": "celiac artery"
+  }
+}

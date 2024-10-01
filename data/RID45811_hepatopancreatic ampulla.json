@@ -38,7 +38,7 @@
     "id": "RID170",
     "display": "pancreas"
   },
-  "synonyms": ["cholangiopancreatic duct", "Ampulla Vateri"],
+  "synonyms": ["cholangiopancreatic duct"],
   "partOfRef": {
     "id": "RID170",
     "display": "pancreas"

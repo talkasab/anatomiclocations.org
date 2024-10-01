@@ -12,6 +12,10 @@
       "url": "https://radiopaedia.org/articles/iliolumbar-artery?lang=us"
     }
   ],
+  "branchOfRef": {
+    "id": "RID945_RID5824",
+    "display": "left internal iliac artery"
+  },
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

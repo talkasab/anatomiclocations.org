@@ -8,11 +8,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": [
-    "right suprarenal vein",
-    "vena suprarenalis dextra",
-    "vena suprarenalis dextra"
-  ],
   "partOfRef": {
     "id": "RID50378",
     "display": "set of visceral vessels"

@@ -3,6 +3,10 @@
   "acrCommonId": "4015159",
   "description": "right superior epigastric artery",
   "region": "Abdomen",
+  "branchOfRef": {
+    "id": "RID44769",
+    "display": "right internal thoracic artery"
+  },
   "links": [
     {
       "site": "wikipedia",

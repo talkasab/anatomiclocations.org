@@ -9,12 +9,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": [
-    "splenic flexure",
-    "flexura coli splenica",
-    "flexura coli sinistra",
-    "flexura coli sinistra"
-  ],
   "partOfRef": {
     "id": "RID152",
     "display": "large intestine"

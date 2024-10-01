@@ -5,6 +5,20 @@
   "snomedDisplay": "Structure of adrenal artery",
   "description": "adrenal artery",
   "region": "Abdomen",
+  "branchOfRef": {
+    "superior adrenal artery": {
+      "id": "RID38762",
+      "display": "inferior phrenic artery"
+    },
+    "middle adrenal artery": {
+      "id": "RID905",
+      "display": "abdominal aorta"
+    },
+    "inferior adrenal artery": {
+      "id": "RID936",
+      "display": "renal artery"
+    }
+  },
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

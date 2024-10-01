@@ -46,5 +46,9 @@
     "id": "RID948_RID5825",
     "display": "right iliolumbar artery"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "branchOfRef": {
+    "id": "RID945",
+    "display": "internal iliac artery"
+  }
 }

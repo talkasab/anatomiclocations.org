@@ -5,6 +5,10 @@
   "acrCommonId": "4015323",
   "description": "superior epigastric artery",
   "region": "Abdomen",
+  "branchOfRef": {
+    "id": "RID823",
+    "display": "internal thoracic artery"
+  },
   "codes": [
     {
       "system": "TA2",

@@ -1,0 +1,27 @@
+{
+  "_id": "RID18423",
+  "snomedId": "72167002",
+  "snomedDisplay": "autonomic nervous system structure (body structure)",
+  "description": "autonomic nervous systrm",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "6600",
+      "display": "Autonomic division of peripheral nervous system"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Autonomic_nervous_system"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/autonomic-nervous-system?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID13446",
+    "display": "autonomic nervous systrm"
+  }
+}

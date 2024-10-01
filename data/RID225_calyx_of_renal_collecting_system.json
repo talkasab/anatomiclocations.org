@@ -1,0 +1,24 @@
+{
+  "_id": "RID225",
+  "acrCommonId": "4013581",
+  "snomedId": "2334006",
+  "snomedDisplay": "Structure of calyx",
+  "description": "calyx of renal collecting system",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C0022651"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["renal calyx", "calyx"],
+  "partOfRef": {
+    "id": "RID205",
+    "display": "kidney"
+  },
+  "embedding_vector": []
+}

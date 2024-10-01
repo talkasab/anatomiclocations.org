@@ -1,0 +1,39 @@
+{
+  "_id": "RID37860",
+  "acrCommonId": "4014351",
+  "snomedId": "275309004",
+  "snomedDisplay": "Structure of left renal artery",
+  "description": "left renal artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "rightRef": {
+    "id": "RID37859",
+    "display": "right renal artery"
+  },
+  "unsidedRef": {
+    "id": "RID936",
+    "display": "renal artery"
+  },
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renal_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/renal-artery?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID39347",
+    "display": "urinary system"
+  },
+  "branchOfRef": {
+    "id": "RID905",
+    "display": "abdominal aorta"
+  }
+}

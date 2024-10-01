@@ -1,0 +1,45 @@
+{
+  "_id": "RID922",
+  "acrCommonId": "4013754",
+  "description": "dorsal pancreatic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": [
+  ],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4241",
+      "display": "dorsal pancreatic artery"
+    },
+        {
+      "system": "FMA",
+      "code": "14787"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0734085"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dorsal_pancreatic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/dorsal-pancreatic-artery?lang=us"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID921",
+    "display": "splenic artery"
+  }
+}

@@ -28,5 +28,9 @@
   "containedById": {
     "code": "RID30008",
     "display": "anterior abdominal wall"
+  },
+  "branchOfRef": {
+    "id": "RID957_RID5824",
+    "display": "left external iliac artery"
   }
 }

@@ -1,0 +1,39 @@
+{
+  "_id": "RID906",
+  "acrCommonId": "4013594",
+  "snomedId": "57850000",
+  "snomedDisplay": "Structure of celiac artery",
+  "description": "celiac artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "definition": "The arterial trunk that arises from the abdominal aorta and after a short course divides into the left gastric, common hepatic and splenic arteries. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4211",
+      "display": "celiac trunk"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Celiac_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/coeliac-artery?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "",
+    "display": ""
+  },
+  "branchOfRef": {
+    "code": "RID905",
+    "display": "abdominal aorta"
+  }
+}

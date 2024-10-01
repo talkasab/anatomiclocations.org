@@ -1,0 +1,45 @@
+{
+  "_id": "RID30844",
+  "acrCommonId": "4015194",
+  "snomedId": "25308007",
+  "snomedDisplay": "Structure of right ureter",
+  "description": "right ureter",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID204",
+    "display": "urinary tract"
+  },
+  "leftRef": {
+    "id": "RID30845",
+    "display": "left ureter"
+  },
+  "unsidedRef": {
+    "id": "RID229",
+    "display": "ureter"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15571"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227682"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ureter"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ureter?lang=us"
+    }
+  ]
+}

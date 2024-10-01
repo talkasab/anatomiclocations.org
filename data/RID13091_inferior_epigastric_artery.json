@@ -5,6 +5,10 @@
   "snomedDisplay": "Structure of inferior epigastric artery",
   "description": "inferior epigastric artery",
   "region": "Abdomen",
+  "branchOfRef": {
+    "id": "RID957",
+    "display": "external iliac artery"
+  },
   "codes": [
     {
       "system": "TA2",

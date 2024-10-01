@@ -30,7 +30,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": ["colon ascendens", "Colon ascendens"],
   "partOfRef": {
     "id": "RID152",
     "display": "large intestine"

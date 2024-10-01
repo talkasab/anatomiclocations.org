@@ -1,0 +1,46 @@
+{
+  "_id": "RID1184",
+  "acrCommonId": "4014841",
+  "snomedId": "56400007",
+  "snomedDisplay": "Structure of renal vein",
+  "description": "renal vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "leftRef": {
+    "id": "RID37994",
+    "display": "left renal vein"
+  },
+  "rightRef": {
+    "id": "RID37993",
+    "display": "right renal vein"
+  },
+  "definition": "Short thick veins which return blood from the kidneys to the vena cava. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14334"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0035092"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renal_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/renal-vein-1?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID39347",
+    "display": "urinary system"
+  }
+}

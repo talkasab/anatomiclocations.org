@@ -1,0 +1,36 @@
+{
+ "_id": "RID31789",
+  "acrCommonId": "4013664",
+  "description": "cortex of right kidney",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID29662",
+    "display": "right kidney"
+  },
+  "leftRef": {
+    "id": "RID31790",
+    "display": "cortex of left kidney"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15583"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0734742"
+    }
+  ],
+  "embedding_vector": [
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renal_cortex"
+    }
+  ]
+}

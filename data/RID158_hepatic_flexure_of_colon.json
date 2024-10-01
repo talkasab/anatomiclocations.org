@@ -9,7 +9,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": ["large bowel", "intestinum crassum", "intestinum crassum"],
   "partOfRef": {
     "id": "RID152",
     "display": "large intestine"

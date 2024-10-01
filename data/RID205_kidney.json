@@ -9,7 +9,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": ["ren", "ren (Nephros)", "nephros", "ren (Nephros)", "Niere"],
   "partOfRef": {
     "id": "RID204",
     "display": "urinary tract"

@@ -17,10 +17,8 @@
     "id": "RID935",
     "display": "adrenal artery"
   },
-  "embedding_vector": [
-
-  ],
-    "links": [
+  "embedding_vector": [],
+  "links": [
     {
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Adrenal_artery"
@@ -30,8 +28,22 @@
       "url": "https://radiopaedia.org/articles/adrenal-arteries-1?lang=us"
     }
   ],
-    "partOfId": {
+  "partOfId": {
     "code": "",
     "display": ""
+  },
+  "branchOfRef": {
+    "superior adrenal artery": {
+      "id": "RID38762",
+      "display": "inferior phrenic artery"
+    },
+    "middle adrenal artery": {
+      "id": "RID905",
+      "display": "abdominal aorta"
+    },
+    "inferior adrenal artery": {
+      "id": "RID936",
+      "display": "renal artery"
+    }
   }
 }
