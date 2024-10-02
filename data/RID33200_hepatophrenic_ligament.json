@@ -1,0 +1,25 @@
+{
+  "_id": "RID33200",
+  "description": "hepatophrenic ligament",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3751",
+      "display": "hepatophrenic ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hepatophrenic_ligament"
+    }
+  ],
+  "partOfId": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "containedById": {
+    "code": "",
+    "display": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "RID32011",
+  "acrCommonId": "4013637",
+  "snomedId": "245295006",
+  "snomedDisplay": "Common iliac lymph node group",
+  "description": "common iliac lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID2507",
+    "display": "pelvis"
+  },
+  "partOfRef": {
+    "id": "RID28855",
+    "display": "pelvic lymph node group"
+  },
+  "leftRef": {
+    "id": "RID32013",
+    "display": "left common iliac lymph node group"
+  },
+  "rightRef": {
+    "id": "RID32012",
+    "display": "right common iliac lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "71819"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0229807"
+    },
+    {
+      "system": "TA2",
+      "code": "5319",
+      "display": "common iliac nodes"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Common_iliac_lymph_nodes"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/common-iliac-lymph-nodes?lang=us"
+    }
+  ]
+}

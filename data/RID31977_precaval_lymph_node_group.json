@@ -1,0 +1,30 @@
+{
+  "_id": "RID31977",
+  "acrCommonId": "4014779",
+  "description": "precaval lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5277",
+      "display": "precaval nodes"
+    },
+    {
+      "system": "FMA",
+      "code": "71782"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0933347"
+    }
+  ]
+}

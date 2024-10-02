@@ -1,0 +1,35 @@
+{
+  "_id": "RID28935",
+  "acrCommonId": "4014685",
+  "description": "para-aortic thoracic lymph node",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "partOfRef": {
+    "id": "RID28847",
+    "display": "lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "276820"
+    },
+    {
+      "system": "UMLS",
+      "code": "C4248027"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Periaortic_lymph_nodes"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/para-aortic-lymph-nodes-2?lang=us"
+    }
+  ]
+}

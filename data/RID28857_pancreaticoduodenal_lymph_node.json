@@ -1,0 +1,33 @@
+{
+  "_id": "RID28857",
+  "acrCommonId": "4014683",
+  "snomedId": "76659008",
+  "snomedDisplay": "Structure of pancreaticoduodenal lymph node",
+  "description": "pancreaticoduodenal lymph node",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["peripancreatic lymph node"],
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5296",
+      "display": "Pancreaticoduodenal nodes"
+    },
+    {
+      "system": "FMA",
+      "code": "16623"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0229784"
+    }
+  ]
+}

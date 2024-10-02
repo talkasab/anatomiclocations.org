@@ -1,0 +1,25 @@
+{
+  "_id": "RID31959",
+  "acrCommonId": "4014687",
+  "description": "paracolic lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "71809"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0735446"
+    }
+  ],
+  "embedding_vector": []
+}

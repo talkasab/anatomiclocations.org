@@ -1,0 +1,41 @@
+{
+  "_id": "RID923",
+  "acrCommonId": "4013907",
+  "description": "great pancreatic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": [
+  ],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4244",
+      "display": "great pancreatic artery"
+    },
+      {
+      "system": "FMA",
+      "code": "14792"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0734090"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Greater_pancreatic_artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID921",
+    "display": "splenic artery"
+  }
+}

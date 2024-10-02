@@ -1,0 +1,30 @@
+{
+  "_id": "RID29252",
+  "snomedId": "63404006",
+  "snomedDisplay": "Lesser omentum structure",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3750",
+      "display": "lesser omentum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lesser_omentum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "Can I use this?   https://radiopaedia.org/articles/omentum?lang=us"
+    }
+  ],
+  "partOfId": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "containedByRef": {
+    "code": "",
+    "display": ""
+  }
+}

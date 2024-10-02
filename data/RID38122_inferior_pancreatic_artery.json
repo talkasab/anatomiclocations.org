@@ -1,0 +1,41 @@
+{
+  "_id": "RID38122",
+  "acrCommonId": "4013979",
+  "description": "inferior pancreatic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14790"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0734088"
+    },
+        {
+      "system": "TA2",
+      "code": "4242",
+      "display": "Inferior pancreatic artery"
+    }
+  ],
+  "embedding_vector": [
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/transverse-pancreatic-artery?lang=us"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID922",
+    "display": "dorsal pancreatic artery"
+  }
+}

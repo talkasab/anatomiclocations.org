@@ -1,0 +1,32 @@
+{
+  "_id": "RID31931",
+  "acrCommonId": "4014681",
+  "snomedId": "77778009",
+  "snomedDisplay": "Structure of pancreatic lymph node",
+  "description": "pancreatic lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "71793"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0229783"
+    },
+    {
+      "system": "TA2",
+      "code": "5292",
+      "display": "Pancreatic nodes"
+    }
+  ],
+  "embedding_vector": []
+}
