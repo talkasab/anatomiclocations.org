@@ -2,7 +2,7 @@
   "_id": "RID18423",
   "snomedId": "72167002",
   "snomedDisplay": "autonomic nervous system structure (body structure)",
-  "description": "autonomic nervous systrm",
+  "description": "autonomic nervous system",
   "codes": [
     {
       "system": "TA2",
@@ -22,6 +22,6 @@
   ],
   "partOfId": {
     "code": "RID13446",
-    "display": "autonomic nervous systrm"
+    "display": "peripheral nervous systrm"
   }
 }
