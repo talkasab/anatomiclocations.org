@@ -28,10 +28,12 @@
       "url": "https://radiopaedia.org/articles/coeliac-artery?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "",
-    "display": ""
-  },
+  "partOfId": [
+    {
+      "code": "RID50363",
+      "display": "set of mesenteric vessels"
+    }
+  ],
   "branchOfRef": {
     "code": "RID905",
     "display": "abdominal aorta"

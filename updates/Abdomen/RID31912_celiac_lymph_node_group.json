@@ -9,15 +9,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": [
-    "nodi lymphoidei coeliaci",
-    "celiac nodes",
-    "set of celiac lymph nodes",
-    "celiac lymph nodes",
-    "nodi coeliaci",
-    "coeliac lymph nodes set",
-    "coeliac lymph node group"
-  ],
   "partOfRef": {
     "id": "RID28854",
     "display": "abdominal lymph node group"
@@ -43,6 +34,12 @@
     {
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Celiac_lymph_nodes"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

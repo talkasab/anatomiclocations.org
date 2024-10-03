@@ -39,5 +39,11 @@
     "id": "RID31607",
     "display": "quadratus lumborum"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

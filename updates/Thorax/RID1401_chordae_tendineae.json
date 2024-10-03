@@ -10,7 +10,6 @@
     "id": "RID1385",
     "display": "heart"
   },
-  "synonyms": ["tendinous cords of heart"],
   "partOfRef": {
     "id": "RID1385",
     "display": "heart"
@@ -41,5 +40,11 @@
     }
   ],
   "definition": "The tendinous cords that connect each cusp of the two atrioventricular heart valves to appropriate papillary muscles in the heart ventricles, preventing the valves from reversing themselves when the ventricles contract. [MeSH]",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

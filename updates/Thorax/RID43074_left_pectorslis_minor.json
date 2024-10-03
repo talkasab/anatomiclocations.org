@@ -41,5 +41,11 @@
       "url": "https://radiopaedia.org/articles/pectoralis-minor-muscle-1?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

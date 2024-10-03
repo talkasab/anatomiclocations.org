@@ -41,5 +41,11 @@
       "code": "C1744565"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

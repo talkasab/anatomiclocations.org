@@ -44,5 +44,11 @@
     }
   ],
   "definition": "Conical muscular projections from the walls of the cardiac ventricles, attached to the cusps of the atrioventricular valves by the chordae tendineae. [MeSH]",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

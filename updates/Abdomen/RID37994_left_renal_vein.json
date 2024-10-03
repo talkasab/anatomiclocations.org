@@ -17,8 +17,7 @@
     "id": "RID1184",
     "display": "renal vein"
   },
-  "embedding_vector": [
-  ],
+  "embedding_vector": [],
   "codes": [
     {
       "system": "TA2",
@@ -40,8 +39,16 @@
       "url": "https://radiopaedia.org/articles/renal-vein-1?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID39347",
-    "display": "urinary system"
-  }
+  "partOfId": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

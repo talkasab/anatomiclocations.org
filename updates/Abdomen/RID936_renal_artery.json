@@ -18,15 +18,14 @@
     "display": "right renal artery"
   },
   "definition": "A branch of the abdominal aorta which supplies the kidneys, adrenal glands and ureters. [MeSH]",
-  "embedding_vector": [
-  ],
+  "embedding_vector": [],
   "codes": [
     {
       "system": "TA2",
       "code": "4269",
       "display": "renal artery"
     },
-       {
+    {
       "system": "MESH",
       "code": "A07.231.114.745"
     },
@@ -45,12 +44,20 @@
       "url": "https://radiopaedia.org/articles/renal-artery?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID39347",
-    "display": "urinary system"
-  },
+  "partOfId": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
   "branchofref": {
     "id": "RID905",
     "display": "abdominal aorta"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

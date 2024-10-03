@@ -20,5 +20,11 @@
     "id": "RID170",
     "display": "pancreas"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -75,5 +75,11 @@
     "id": "RID28749",
     "display": "breast"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -25,5 +25,11 @@
       "code": "RID1315",
       "display": "lower lobe of right lung"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

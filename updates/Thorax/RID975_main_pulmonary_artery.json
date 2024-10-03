@@ -14,5 +14,11 @@
     "id": "RID13181",
     "display": "cardiovascular system"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

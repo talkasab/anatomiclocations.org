@@ -41,5 +41,11 @@
     "id": "RID1176_RID5825",
     "display": "right ascending lumbar vein"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

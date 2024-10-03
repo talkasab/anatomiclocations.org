@@ -41,5 +41,11 @@
       "url": "https://radiopaedia.org/articles/serratus-anterior-muscle-1?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

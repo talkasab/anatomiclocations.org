@@ -33,5 +33,11 @@
       "code": "C0222973"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

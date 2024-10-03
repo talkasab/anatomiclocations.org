@@ -19,5 +19,11 @@
     "id": "RID28591_RID6158",
     "display": "eighth rib"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

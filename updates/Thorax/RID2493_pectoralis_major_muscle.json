@@ -10,7 +10,6 @@
     "id": "RID29859",
     "display": "anterior chest wall"
   },
-  "synonyms": ["musculus pectoralis major"],
   "partOfRef": {
     "id": "RID32755",
     "display": "musculature of thorax"
@@ -48,5 +47,11 @@
       "url": "https://radiopaedia.org/articles/pectoralis-major-muscle-1?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

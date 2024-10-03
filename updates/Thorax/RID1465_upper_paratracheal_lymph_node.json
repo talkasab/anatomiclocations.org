@@ -10,10 +10,6 @@
     "id": "RID1243",
     "display": "thorax"
   },
-  "synonyms": [
-    "2 thoracic lymph node",
-    "2R+L thoracic lymph node"
-  ],
   "partOfRef": {
     "id": "RID28847",
     "display": "lymph node group"
@@ -36,5 +32,11 @@
       "code": "C4248231"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

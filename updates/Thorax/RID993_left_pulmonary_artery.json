@@ -38,5 +38,11 @@
   "partOfRef": {
     "id": "RID974",
     "display": "pulmonary artery"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

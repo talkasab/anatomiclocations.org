@@ -9,7 +9,6 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": ["glandula suprarenalis", "Nebenniere"],
   "leftRef": {
     "id": "RID30325",
     "display": "left adrenal gland"
@@ -49,8 +48,16 @@
       "url": "https://radiopaedia.org/articles/adrenal-gland?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID18423",
-    "display": "autonomic nervous system"
-  }
+  "partOfId": [
+    {
+      "code": "RID18423",
+      "display": "autonomic nervous system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID28902",
+      "display": "corticomedullary organ"
+    }
+  ]
 }

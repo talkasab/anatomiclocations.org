@@ -28,12 +28,20 @@
       "url": "https://radiopaedia.org/articles/renal-artery?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID39347",
-    "display": "urinary system"
-  },
+  "partOfId": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
   "branchOfRef": {
     "id": "RID905",
     "display": "abdominal aorta"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

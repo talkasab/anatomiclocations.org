@@ -44,5 +44,11 @@
     "id": "RID28591_RID6151_RID5825",
     "display": "right first rib"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

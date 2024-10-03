@@ -32,7 +32,6 @@
       "display": "right oblique fissure"
     }
   ],
-  "synonyms": ["pulmo dexter", "pulmo dexter", "Rechte Lunge"],
   "hasPartsRefs": [
     {
       "id": "RID1315",
@@ -85,5 +84,11 @@
   "partOfRef": {
     "id": "RID39189",
     "display": "respiratory system"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

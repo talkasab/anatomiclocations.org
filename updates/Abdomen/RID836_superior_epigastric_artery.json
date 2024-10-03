@@ -42,7 +42,6 @@
     "code": "RID30008",
     "display": "anterior abdominal wall"
   },
-  "synonyms": ["arteria epigastrica superior"],
   "partOfRef": {
     "id": "RID49921",
     "display": "set of abdominal vessels"
@@ -55,5 +54,11 @@
     "id": "RID44829",
     "display": "right superior epigastric artery"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

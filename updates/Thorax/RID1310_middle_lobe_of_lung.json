@@ -34,5 +34,11 @@
   "partOfRef": {
     "id": "RID1302",
     "display": "right lung"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

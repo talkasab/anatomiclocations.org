@@ -16,10 +16,12 @@
       "url": "https://radiopaedia.org/articles/inferior-epigastric-artery?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID50378",
-    "display": "set of visceral vessels"
-  },
+  "partOfId": [
+    {
+      "code": "RID50378",
+      "display": "set of visceral vessels"
+    }
+  ],
   "leftRef": {
     "id": "RID13091_RID5824",
     "display": "left inferior epigastric artery"
@@ -33,5 +35,11 @@
   "containedById": {
     "code": "RID30008",
     "display": "anterior abdominal wall"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -20,8 +20,16 @@
       "url": "https://radiopaedia.org/articles/autonomic-nervous-system?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID13446",
-    "display": "peripheral nervous system"
-  }
+  "partOfId": [
+    {
+      "code": "RID13446",
+      "display": "peripheral nervous system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

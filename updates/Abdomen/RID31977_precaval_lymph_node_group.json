@@ -26,5 +26,11 @@
       "system": "UMLS",
       "code": "C0933347"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

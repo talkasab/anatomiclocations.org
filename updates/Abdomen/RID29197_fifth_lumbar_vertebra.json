@@ -25,5 +25,11 @@
     "display": "lumbar vertebral column"
   },
 
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

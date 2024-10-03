@@ -10,9 +10,6 @@
     "id": "RID2468",
     "display": "chest wall"
   },
-  "synonyms": [
-    "arteria thoracica interna dextra"
-  ],
   "partOfRef": {
     "id": "RID49962",
     "display": "set of chest vessels"
@@ -35,5 +32,15 @@
       "code": "C0500531"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID43895",
+    "display": "right subclavian artery"
+  }
 }

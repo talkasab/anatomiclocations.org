@@ -20,14 +20,13 @@
       "system": "UMLS",
       "code": "C0734088"
     },
-        {
+    {
       "system": "TA2",
       "code": "4242",
       "display": "Inferior pancreatic artery"
     }
   ],
-  "embedding_vector": [
-  ],
+  "embedding_vector": [],
   "links": [
     {
       "site": "radiopaedia",
@@ -37,5 +36,11 @@
   "branchOfRef": {
     "id": "RID922",
     "display": "dorsal pancreatic artery"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

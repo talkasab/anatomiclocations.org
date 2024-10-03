@@ -44,5 +44,11 @@
       "url": "https://radiopaedia.org/articles/interventricular-septum?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

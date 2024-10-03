@@ -1,5 +1,5 @@
 {
- "_id": "RID182",
+  "_id": "RID182",
   "acrCommonId": "4013435",
   "snomedId": "113288006",
   "snomedDisplay": "Structure of accessory pancreatic duct",
@@ -30,20 +30,21 @@
       "url": ""
     }
   ],
- "containedByRef": {
+  "containedByRef": {
     "id": "RID170",
     "display": "pancreas"
   },
-  "synonyms": [
-    "dorsal pandreatic duct",
-    "duct of Santorini"
-  ],
+  "synonyms": ["dorsal pandreatic duct", "duct of Santorini"],
   "partOfRef": {
     "id": "RID170",
     "display": "pancreas"
   },
-   "definition": "The accessory pancreatic duct is the smaller of the two pancreatic ducts. It usually drains into the main pancreatic duct, however in some cases it is found connected directly to the duodenum at the minor duodenal papilla. [MeSH]",
-  "embedding_vector": [
- 
+  "definition": "The accessory pancreatic duct is the smaller of the two pancreatic ducts. It usually drains into the main pancreatic duct, however in some cases it is found connected directly to the duodenum at the minor duodenal papilla. [MeSH]",
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

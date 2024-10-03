@@ -29,5 +29,11 @@
       "system": "UMLS",
       "code": "C0229784"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

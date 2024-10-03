@@ -13,10 +13,12 @@
       "url": "https://radiopaedia.org/articles/external-oblique-muscle-1?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID31604",
-    "display": "musculature of abdomen"
-  },
+  "partOfId": [
+    {
+      "code": "RID31604",
+      "display": "musculature of abdomen"
+    }
+  ],
   "leftRef": {
     "id": "RID31598",
     "display": "left external oblique"
@@ -34,6 +36,12 @@
     {
       "system": "FMA",
       "code": "13336"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

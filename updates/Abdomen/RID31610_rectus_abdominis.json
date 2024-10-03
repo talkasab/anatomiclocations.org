@@ -34,15 +34,16 @@
       "url": "https://radiopaedia.org/articles/rectus-abdominis-muscle?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID32809",
-    "display": "musculature of anterior abdominal wall"
-  },
+  "partOfId": [
+    {
+      "code": "RID32809",
+      "display": "musculature of anterior abdominal wall"
+    }
+  ],
   "containedById": {
     "code": "RID30008",
     "display": "anterior abdominal wall"
   },
-  "synonyms": ["musculus rectus abdominis", "rectus abdominus muscle"],
   "leftRef": {
     "id": "RID31612",
     "display": "left rectus abdominis"
@@ -51,5 +52,11 @@
     "id": "RID31611",
     "display": "right rectus abdominis"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

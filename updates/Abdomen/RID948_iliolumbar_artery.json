@@ -50,5 +50,11 @@
   "branchOfRef": {
     "id": "RID945",
     "display": "internal iliac artery"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

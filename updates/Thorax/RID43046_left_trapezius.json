@@ -41,5 +41,11 @@
       "url": "https://radiopaedia.org/articles/trapezius-muscle?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

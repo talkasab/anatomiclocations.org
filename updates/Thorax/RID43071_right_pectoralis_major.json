@@ -43,5 +43,11 @@
       "url": "https://radiopaedia.org/articles/pectoralis-major-muscle-1?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -5,6 +5,12 @@
   "snomedDisplay": "anterior abdominal wall structure",
   "description": "anterior abdominal wall",
   "region": "Abdomen",
+   "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
   "divisions": [
     {
       "name": "left anterior abdominal wall",
@@ -19,10 +25,12 @@
           "display": "Anterolateral abdominal wall"
         }
       ],
-      "partOfId": {
-        "code": "RID30008",
-        "display": "anterior abdominal wall"
-      },
+      "partOfId": [
+        {
+          "code": "RID30008",
+          "display": "anterior abdominal wall"
+        }
+      ],
       "containedById": {
         "code": "RID30014",
         "display": "wall of the abdomen"
@@ -40,10 +48,12 @@
           "display": "Anterolateral abdominal wall"
         }
       ],
-      "partOfId": {
-        "code": "RID30008",
-        "display": "anterior abdominal wall"
-      },
+      "partOfId": [
+        {
+          "code": "RID30008",
+          "display": "anterior abdominal wall"
+        }
+      ],
       "containedById": {
         "code": "RID30014",
         "display": "wall of the abdomen"
@@ -60,10 +70,12 @@
       "url": "https://radiopaedia.org/articles/anterior-abdominal-wall?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID13209",
-    "display": "musculoskeletal system"
-  },
+  "partOfId": [
+    {
+      "code": "RID13209",
+      "display": "musculoskeletal system"
+    }
+  ],
   "containedById": {
     "code": "RID30014",
     "display": "wall of the abdomen"

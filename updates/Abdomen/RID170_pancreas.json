@@ -22,10 +22,12 @@
       "url": "https://radiopaedia.org/articles/pancreas?lang=us"
     }
   ],
-  "partOfId": {
-    "id": "RID431",
-    "display": "retroperitoneum"
-  },
+  "partOfId": [
+    {
+      "id": "RID431",
+      "display": "retroperitoneum"
+    }
+  ],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"
@@ -95,5 +97,11 @@
     }
   ],
   "definition": "Lobular organ the parenchyma of which consists of glandular acini which communicate via a duct system with the duodenum. [FMA]",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID31012",
+      "display": "segment of colon"
+    }
+  ]
 }

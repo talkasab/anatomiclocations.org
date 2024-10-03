@@ -36,5 +36,11 @@
       "url": "https://radiopaedia.org/articles/right-coronary-artery?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

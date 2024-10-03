@@ -59,6 +59,11 @@
       "code": "C2325961"
     }
   ],
-  "embedding_vector": [
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

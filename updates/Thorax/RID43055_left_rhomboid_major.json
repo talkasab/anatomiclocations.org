@@ -10,7 +10,7 @@
     "id": "RID30049",
     "display": "back of thorax"
   },
-  "synonyms": ["left rhomboid major muscle", "left rhomboideus major muscle"],
+  "synonyms": ["left rhomboid major muscle"],
   "partOfRef": {
     "id": "RID32807",
     "display": "musculature of back of thorax"
@@ -42,6 +42,12 @@
     {
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/rhomboid-major-muscle?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

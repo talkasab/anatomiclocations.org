@@ -1,5 +1,5 @@
 {
- "_id": "RID31789",
+  "_id": "RID31789",
   "acrCommonId": "4013664",
   "description": "cortex of right kidney",
   "region": "Abdomen",
@@ -25,12 +25,17 @@
       "code": "C0734742"
     }
   ],
-  "embedding_vector": [
-  ],
+  "embedding_vector": [],
   "links": [
     {
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Renal_cortex"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

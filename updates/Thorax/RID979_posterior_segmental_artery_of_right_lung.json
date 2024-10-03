@@ -17,5 +17,15 @@
       "id": "RID1303",
       "display": "upper lobe of right lung"
     }
-  ]
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID977",
+    "display": "superior lobar artery of right lung"
+  }
 }

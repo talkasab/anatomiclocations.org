@@ -24,5 +24,11 @@
   "partOfRef": {
     "id": "RID13181",
     "display": "cardiovascular system"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -132,7 +132,6 @@
       "display": "pericardial lymph node"
     }
   ],
-  "synonyms": ["mediast"],
   "embedding_vector": [],
   "codes": [
     {
@@ -149,6 +148,12 @@
     {
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/mediastinum-1?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

@@ -73,5 +73,11 @@
     }
   ],
   "definition": "Lymph node group which is located in the abdomen.",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

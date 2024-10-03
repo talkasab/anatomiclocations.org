@@ -23,5 +23,11 @@
   "containedByRef": {
     "id": "RID1384",
     "display": "mediastinum"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

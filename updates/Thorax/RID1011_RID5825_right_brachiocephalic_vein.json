@@ -28,5 +28,11 @@
   "containedByRef": {
     "id": "RID32953",
     "display": "thoracic cavity"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

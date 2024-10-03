@@ -11,15 +11,14 @@
     "id": "RID50378",
     "display": "set of visceral vessels"
   },
-  "embedding_vector": [
-  ],
+  "embedding_vector": [],
   "codes": [
     {
       "system": "TA2",
       "code": "4244",
       "display": "great pancreatic artery"
     },
-      {
+    {
       "system": "FMA",
       "code": "14792"
     },
@@ -37,5 +36,11 @@
   "branchOfRef": {
     "id": "RID921",
     "display": "splenic artery"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -17,5 +17,15 @@
       "id": "RID1310",
       "display": "middle lobe of lung"
     }
-  ]
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID982",
+    "display": "middle lobar artery of right lung"
+  }
 }

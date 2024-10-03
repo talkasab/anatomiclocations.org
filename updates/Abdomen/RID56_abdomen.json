@@ -219,8 +219,16 @@
   ],
   "definition": "Subdivision of trunk proper which is demarcated from the thorax internally by the inferior surface of the sternocostal part of the diaphragm and externally by the costal margin, from the back of abdomen by the external surface of the posterior abdominal wall,  from the perineum by the superior surface of the urogenital diaphragm and from the lower limbs by the inguinal folds; together with the thorax, and perineum, it constitutes the trunk proper. Examples: There is only one abdomen. [FMA]",
   "embedding_vector": [],
-  "partOfId": {
-    "code": "RID2467",
-    "display": "trunk"
-  }
+  "partOfId": [
+    {
+      "code": "RID2467",
+      "display": "trunk"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID29852",
+      "display": "subdivision of trunk proper"
+    }
+  ]
 }

@@ -10,7 +10,6 @@
     "id": "RID2468",
     "display": "chest wall"
   },
-  "synonyms": ["boxer muscle", "musculus serratus anterior"],
   "partOfRef": {
     "id": "RID32755",
     "display": "musculature of thorax"
@@ -48,5 +47,11 @@
       "url": "https://radiopaedia.org/articles/serratus-anterior-muscle-1?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

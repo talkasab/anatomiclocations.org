@@ -19,5 +19,15 @@
       "id": "RID5962_RID5825",
       "display": "right hilum"
     }
-  ]
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID976",
+    "display": "right pulmonary artery"
+  }
 }

@@ -10,7 +10,6 @@
     "id": "RID2468",
     "display": "chest wall"
   },
-  "synonyms": ["arteria thoracica interna sinistra"],
   "partOfRef": {
     "id": "RID49962",
     "display": "set of chest vessels"
@@ -33,5 +32,15 @@
       "code": "C0447054"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "",
+    "display": ""
+  }
 }

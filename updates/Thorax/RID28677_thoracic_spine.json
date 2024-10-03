@@ -17,5 +17,11 @@
   "partOfRef": {
     "id": "RID13208",
     "display": "skeletal system"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

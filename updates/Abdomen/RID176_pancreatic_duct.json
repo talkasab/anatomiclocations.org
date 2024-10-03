@@ -26,7 +26,13 @@
     "id": "RID170",
     "display": "pancreas"
   },
-  "synonyms": ["DP", "Ductus Wirsungianus"],
+  "synonyms": ["Ductus Wirsungianus"],
   "definition": "Ducts that collect pancreatic juice from the pancreas and supply it to the duodenum. [MeSH]",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

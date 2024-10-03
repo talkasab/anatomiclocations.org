@@ -25,5 +25,11 @@
       "code": "RID1326",
       "display": "left lung"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

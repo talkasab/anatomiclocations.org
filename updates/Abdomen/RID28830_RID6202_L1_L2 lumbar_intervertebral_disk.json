@@ -17,5 +17,11 @@
     "id": "RID28830",
     "display": "lumbar intervertebral disk"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

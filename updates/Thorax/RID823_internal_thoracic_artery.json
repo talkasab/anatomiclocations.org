@@ -10,7 +10,6 @@
     "id": "RID2468",
     "display": "chest wall"
   },
-  "synonyms": ["internal mammary artery", "arteria thoracica interna"],
   "partOfRef": {
     "id": "RID49962",
     "display": "set of chest vessels"
@@ -48,5 +47,15 @@
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/internal-thoracic-artery?lang=us"
     }
-  ]
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID773",
+    "display": "subclavian artery"
+  }
 }

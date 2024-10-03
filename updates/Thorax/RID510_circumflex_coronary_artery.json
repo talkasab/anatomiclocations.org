@@ -31,5 +31,15 @@
     "id": "RID28727",
     "display": "set of coronary arteries"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID486",
+    "display": "left coronary artery"
+  }
 }

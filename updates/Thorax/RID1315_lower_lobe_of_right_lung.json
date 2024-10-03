@@ -35,5 +35,11 @@
       "code": "RID1303",
       "display": "right lung"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

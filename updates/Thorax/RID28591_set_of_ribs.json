@@ -190,5 +190,11 @@
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/ribs?lang=us"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

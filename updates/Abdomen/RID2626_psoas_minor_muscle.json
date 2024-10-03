@@ -34,7 +34,7 @@
     "id": "RID32817",
     "display": "posterior abdominal wall"
   },
-  "synonyms": ["psoas minor", "musculus psoas minor"],
+  "synonyms": ["psoas minor"],
   "partOfRef": {
     "id": "RID32808",
     "display": "musculature of back of abdomen"
@@ -47,5 +47,11 @@
     "id": "RID32250",
     "display": "right psoas minor"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

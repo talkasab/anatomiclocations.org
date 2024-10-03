@@ -14,11 +14,6 @@
     "id": "RID28922",
     "display": "lymphatic chain"
   },
-  "synonyms": [
-    "trunk of thoracic duct tree",
-    "ductus thoracicus",
-    "Ductus thoracicus"
-  ],
   "definition": "Lymphatic trunk that connects all tributaries of the thoracic duct tree to the trunk of the left brachiocephalic vein. Examples: There is only one thoracic duct tree.",
   "embedding_vector": [],
   "codes": [
@@ -48,6 +43,12 @@
     {
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/thoracic-duct?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

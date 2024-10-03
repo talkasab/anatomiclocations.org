@@ -32,7 +32,6 @@
       "display": "left bronchopulmonary lymph node"
     }
   ],
-  "synonyms": ["pulmo", "pulmo"],
   "hasPartsRefs": [
     {
       "id": "RID43260",
@@ -73,5 +72,11 @@
   "partOfRef": {
     "id": "RID39189",
     "display": "respiratory system"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -14,7 +14,6 @@
     "id": "RID1243",
     "display": "thorax"
   },
-  "synonyms": ["nervus phrenicus"],
   "leftRef": {
     "id": "RID27717",
     "display": "left phrenic nerve"
@@ -52,6 +51,12 @@
     {
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/phrenic-nerve?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

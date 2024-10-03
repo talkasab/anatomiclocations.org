@@ -28,7 +28,6 @@
       "display": "left oblique fissure"
     }
   ],
-  "synonyms": ["pulmo sinister", "pulmo sinister", "Linke Lunge"],
   "hasPartsRefs": [
     {
       "id": "RID1338",
@@ -73,5 +72,11 @@
   "partOfRef": {
     "id": "RID39189",
     "display": "respiratory system"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

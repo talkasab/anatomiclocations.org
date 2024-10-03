@@ -23,6 +23,12 @@
       "display": "pulmonary veins"
     }
   ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
   "links": [
     {
       "site": "wikipedia",

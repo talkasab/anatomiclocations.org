@@ -24,5 +24,11 @@
   "containedByRef": {
     "id": "RID2468",
     "display": "thoracic wall"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

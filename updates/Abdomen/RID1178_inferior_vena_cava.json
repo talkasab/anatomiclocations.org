@@ -29,12 +29,20 @@
       "url": "https://radiopaedia.org/articles/inferior-vena-cava-1?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID13181",
-    "display": "cardiovascular system"
-  },
+  "partOfId": [
+    {
+      "code": "RID13181",
+      "display": "cardiovascular system"
+    }
+  ],
   "containedById": {
     "code": "RID431",
     "display": "retroperitoneum"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

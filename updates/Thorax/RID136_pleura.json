@@ -42,5 +42,11 @@
   "partOfRef": {
     "id": "RID39189",
     "display": "respiratory system"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

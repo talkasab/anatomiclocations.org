@@ -148,5 +148,11 @@
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/heart?lang=us"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
   ]
 }

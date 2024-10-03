@@ -37,5 +37,11 @@
       "url": "https://radiopaedia.org/articles/intercostal-muscles?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

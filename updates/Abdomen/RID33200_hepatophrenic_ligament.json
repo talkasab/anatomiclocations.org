@@ -14,12 +14,16 @@
       "url": "https://en.wikipedia.org/wiki/Hepatophrenic_ligament"
     }
   ],
-  "partOfId": {
-    "code": "RID410",
-    "display": "peritoneum"
-  },
-  "containedById": {
-    "code": "",
-    "display": ""
-  }
+  "partOfId": [
+    {
+      "code": "RID410",
+      "display": "peritoneum"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "mesentery",
+      "display": "RID33180"
+    }
+  ]
 }

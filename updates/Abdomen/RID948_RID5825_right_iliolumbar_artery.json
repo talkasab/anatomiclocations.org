@@ -39,5 +39,11 @@
     "id": "RID948",
     "display": "iliolumbar artery"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

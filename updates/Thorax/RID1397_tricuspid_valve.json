@@ -10,7 +10,6 @@
     "id": "RID1385",
     "display": "heart"
   },
-  "synonyms": ["Trikuspidale Herzklappe"],
   "partOfRef": {
     "id": "RID1397",
     "display": "tricuspid valve"
@@ -38,6 +37,12 @@
     {
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/tricuspid-valve?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

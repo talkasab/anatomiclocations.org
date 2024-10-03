@@ -39,5 +39,11 @@
     "display": "set of abdominal vessels"
   },
 
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

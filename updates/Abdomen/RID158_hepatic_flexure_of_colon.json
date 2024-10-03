@@ -30,5 +30,11 @@
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Colic_flexures"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "RID33521",
+      "display": "colic flexure"
+    }
   ]
 }

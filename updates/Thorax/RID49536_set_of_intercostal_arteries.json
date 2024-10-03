@@ -27,5 +27,11 @@
       "url": "https://en.wikipedia.org/wiki/Intercostal_arteries"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

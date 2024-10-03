@@ -17,5 +17,11 @@
   "containedByRef": {
     "id": "RID1303",
     "display": "upper lobe of right lung"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -12,8 +12,7 @@
   },
   "synonyms": [
     "rhomboid major",
-    "rhomboid major muscle",
-    "musculus rhomboideus major"
+    "rhomboid major muscle"
   ],
   "partOfRef": {
     "id": "RID32807",
@@ -52,5 +51,11 @@
       "url": "https://radiopaedia.org/articles/rhomboid-major-muscle?lang=us"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

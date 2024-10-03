@@ -29,5 +29,11 @@
     "id": "RID134",
     "display": "duodenum"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID29246",
+      "display": "segment of duodenum"
+    }
+  ]
 }

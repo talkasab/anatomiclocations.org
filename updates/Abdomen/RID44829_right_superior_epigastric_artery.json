@@ -17,10 +17,12 @@
       "url": "https://radiopaedia.org/articles/superior-epigastric-artery-1?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID49921",
-    "display": "set of abdominal vessels"
-  },
+  "partOfId": [
+    {
+      "code": "RID49921",
+      "display": "set of abdominal vessels"
+    }
+  ],
   "containedById": {
     "code": "RID30008",
     "display": "anterior abdominal wall"
@@ -43,5 +45,11 @@
       "code": "C0500544"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -27,5 +27,11 @@
     "id": "RID1385",
     "display": "heart"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

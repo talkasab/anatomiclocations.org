@@ -32,5 +32,11 @@
   "partOfRef": {
     "id": "RID94",
     "display": "gastrointestinal tract"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

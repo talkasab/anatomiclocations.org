@@ -52,5 +52,11 @@
   "partOfRef": {
     "id": "RID18423",
     "display": "autonomic nervous system"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

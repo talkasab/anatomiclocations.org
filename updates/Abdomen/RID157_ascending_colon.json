@@ -35,5 +35,11 @@
     "display": "large intestine"
   },
   "definition": "Organ part which is continuous with the cecum proximally and the transverse colon distally. [FMA]",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID31012",
+      "display": "segment of colon"
+    }
+  ]
 }

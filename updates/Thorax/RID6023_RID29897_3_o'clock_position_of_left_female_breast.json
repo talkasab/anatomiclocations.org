@@ -5,13 +5,19 @@
   "snomedDisplay": "Structure of left female mammary gland structure 3 o'clock position",
   "Description": "3 o'clock position of left female breast",
   "partOfRef": {
-      "code": "RID29897",
-      "display": "left female breast"
-    },
+    "code": "RID29897",
+    "display": "left female breast"
+  },
   "containedByRef": [
     {
       "code": "RID29897",
       "display": "left female breast"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

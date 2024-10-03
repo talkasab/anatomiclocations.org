@@ -26,10 +26,12 @@
       "url": "https://radiopaedia.org/articles/cystic-artery?lang=us"
     }
   ],
-  "partOfId": {
-    "id": "RID50378",
-    "display": "set of visceral vessels"
-  },
+  "partOfId": [
+    {
+      "id": "RID50378",
+      "display": "set of visceral vessels"
+    }
+  ],
   "branchOfRef": {
     "code": "RID909",
     "display": "common hepatic artery"
@@ -38,5 +40,11 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -34,7 +34,7 @@
     "id": "RID32817",
     "display": "posterior abdominal wall"
   },
-  "synonyms": ["psoas major", "musculus psoas major"],
+  "synonyms": ["psoas major"],
   "partOfRef": {
     "id": "RID32808",
     "display": "musculature of back of abdomen"
@@ -47,5 +47,11 @@
     "id": "RID32248",
     "display": "right psoas major"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

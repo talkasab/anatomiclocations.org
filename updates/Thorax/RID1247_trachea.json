@@ -10,7 +10,6 @@
     "id": "RID1384",
     "display": "mediastinum"
   },
-  "synonyms": ["trach"],
   "partOfRef": {
     "id": "RID1246",
     "display": "tracheobronchial tree"
@@ -32,6 +31,12 @@
     {
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/trachea?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
     }
   ]
 }

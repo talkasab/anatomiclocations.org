@@ -13,10 +13,12 @@
       "url": "https://radiopaedia.org/articles/transversus-abdominis-muscle?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "RID31604",
-    "display": "musculature of abdomen"
-  },
+  "partOfId": [
+    {
+      "code": "RID31604",
+      "display": "musculature of abdomen"
+    }
+  ],
   "containedById": {
     "code": "RID30008",
     "display": "anterior abdominal wall"
@@ -39,5 +41,11 @@
       "code": "C0815719"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

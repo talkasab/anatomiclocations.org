@@ -32,8 +32,20 @@
       "url": "https://radiopaedia.org/articles/right-pulmonary-artery?lang=us"
     }
   ],
-  "partOfId": {
-    "id": "RID974",
-    "display": "pulmonary artery"
+  "partOfId": [
+    {
+      "id": "RID974",
+      "display": "pulmonary artery"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID975",
+    "display": "main pulmonary artery"
   }
 }

@@ -31,5 +31,11 @@
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/descending-colon?lang=us"
     }
+  ],
+  "isAIds": [
+    {
+      "code": "RID31012",
+      "display": "segment of colon"
+    }
   ]
 }

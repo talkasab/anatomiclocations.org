@@ -31,12 +31,20 @@
       "url": "https://radiopaedia.org/articles/common-hepatic-artery?lang=us"
     }
   ],
-  "partOfId": {
-    "code": "",
-    "display": ""
-  },
+  "partOfId": [
+    {
+      "code": "RID50363",
+      "display": "set of mesenteric vessels"
+    }
+  ],
   "branchOfRef": {
     "code": "RID906",
     "display": "celiac artery"
-  }
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }

@@ -44,5 +44,11 @@
       "url": "https://en.wikipedia.org/wiki/Pleural_cavity"
     }
   ],
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
 }
