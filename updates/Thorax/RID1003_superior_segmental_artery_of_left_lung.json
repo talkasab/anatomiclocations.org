@@ -18,10 +18,14 @@
       "display": "lower lobe of left lung"
     }
   ],
+  "branchOfRef": {
+    "id": "RID1003",
+    "display": "left lower lobe superior segment artery"
+  },
   "isAIds": [
     {
-      "id": "RID1003",
-      "display": "left lower lobe superior segment artery"
+      "code": "RID478",
+      "display": "artery"
     }
   ]
 }
