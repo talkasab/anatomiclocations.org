@@ -1,0 +1,42 @@
+{
+  "_id": "RID1407",
+  "anatomicLocationsId": "RID1407",
+  "acrCommonId": "4014708",
+  "snomedId": "76848001",
+  "snomedDisplay": "Pericardial structure",
+  "description": "pericardium",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "definition": "A conical fibro-serous sac surrounding the heart and the roots of the great vessels (aorta; venae cavae; pulmonary artery). The pericardium consists of two layers or sacs, the outer fibrous pericardium and the inner serous pericardium (or epicardium). [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3341",
+      "display": "pericardium"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pericardium"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pericardium?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
+}

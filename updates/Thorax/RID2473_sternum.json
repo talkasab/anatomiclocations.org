@@ -1,0 +1,43 @@
+{
+  "_id": "RID2473",
+  "anatomicLocationsId": "RID2473",
+  "acrCommonId": "4015283",
+  "snomedId": "56873002",
+  "snomedDisplay": "Bone structure of sternum",
+  "description": "sternum",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID29859",
+    "display": "anterior chest wall"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID2476",
+      "display": "manubrium"
+    }
+  ],
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "1129",
+      "display": "sternum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sternum#Manubrium"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/sternum?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13197",
+      "display": "bone organ"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "RID28591_RID6158",
+  "anatomicLocationsId": "RID28591_RID6158",
+  "acrCommonId": "4013761",
+  "snomedId": "5953002",
+  "snomedDisplay": "Bone structure of eighth rib",
+  "description": "eighth rib",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "synonyms": [
+    "8th rib"
+  ],
+  "partOfRef": {
+    "id": "RID28591",
+    "display": "set of ribs"
+  },
+  "leftRef": {
+    "id": "RID28591_RID6158_RID5824",
+    "display": "left eighth rib"
+  },
+  "rightRef": {
+    "id": "RID28591_RID6158_RID5825",
+    "display": "right eighth rib"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "8120"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0222917"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13197",
+      "display": "bone organ"
+    }
+  ]
+}

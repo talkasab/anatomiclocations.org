@@ -1,0 +1,53 @@
+{
+  "_id": "RID43072",
+  "anatomicLocationsId": "RID43072",
+  "acrCommonId": "4014310",
+  "snomedId": "1240442002",
+  "snomedDisplay": "Structure of tendon of left pectoralis major muscle (body structure)",
+  "description": "left pectoralis major",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID29859",
+    "display": "anterior chest wall"
+  },
+  "synonyms": ["left pectoralis major muscle"],
+  "partOfRef": {
+    "id": "RID32755",
+    "display": "musculature of thorax"
+  },
+  "rightRef": {
+    "id": "RID43071",
+    "display": "right pectoralis major"
+  },
+  "unsidedRef": {
+    "id": "RID2493",
+    "display": "pectoralis major muscle"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13374"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0507188"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pectoralis_major"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pectoralis-major-muscle-1?lang=us"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13196",
+      "display": "muscle organ"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "RID44770",
+  "anatomicLocationsId": "lRID44770",
+  "acrCommonId": "4014221",
+  "snomedId": "261402001",
+  "snomedDisplay": "left internal mammary artery",
+  "description": "left internal thoracic artery",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "partOfRef": {
+    "id": "RID49962",
+    "display": "set of chest vessels"
+  },
+  "rightRef": {
+    "id": "RID44769",
+    "display": "right internal thoracic artery"
+  },
+  "unsidedRef": {
+    "id": "RID823",
+    "display": "internal thoracic artery"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "4068"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0447054"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID43896",
+    "display": "left subclavian artery"
+  }
+}

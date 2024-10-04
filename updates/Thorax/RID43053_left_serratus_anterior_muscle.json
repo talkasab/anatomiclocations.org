@@ -1,0 +1,51 @@
+{
+  "_id": "RID43053",
+  "anatomicLocationsId": "RID43053",
+  "acrCommonId": "4014365",
+  "description": "left serratus anterior",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "synonyms": ["left serratus anterior muscle"],
+  "partOfRef": {
+    "id": "RID32755",
+    "display": "musculature of thorax"
+  },
+  "rightRef": {
+    "id": "RID43052",
+    "display": "right serratus anterior"
+  },
+  "unsidedRef": {
+    "id": "RID2502",
+    "display": "serratus anterior muscle"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13399"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0507208"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Serratus_anterior_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/serratus-anterior-muscle-1?lang=us"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13196",
+      "display": "muscle organ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "RID1394",
+  "anatomicLocationsId": "RID1394",
+  "acrCommonId": "4013502",
+  "snomedId": "34202007",
+  "snomedDisplay": "aortic valve structure",
+  "description": "aortic valve",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "partOfRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "definition": "The valve between the left ventricle and the ascending aorta which prevents backflow into the left ventricle. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3993",
+      "display": "aortic valve"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aortic_valve"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/aortic-valve?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
+}

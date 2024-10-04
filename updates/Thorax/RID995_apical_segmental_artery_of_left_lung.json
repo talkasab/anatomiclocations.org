@@ -1,0 +1,33 @@
+{
+  "_id": "RID995",
+  "anatomicLocationsId": "RID995",
+  "snomedId": "24279008",
+  "snomedDisplay": "Structure of apical branch of left pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4095",
+      "display": "Apical segmental artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "containedByRef": [
+    {
+      "code": "RID1327",
+      "display": "upper lobe of left lung"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID994",
+    "display": "left upper lobe artery"
+  }
+}

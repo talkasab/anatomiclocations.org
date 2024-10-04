@@ -1,0 +1,33 @@
+{
+  "_id": "RID1005",
+  "anatomicLocationsId": "RID1005",
+  "snomedId": "24094002",
+  "snomedDisplay": "Structure of lateral basal branch of left pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4104",
+      "display": "lateral basal segmental artery of left lung"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID1003",
+    "display": "left lower lobe superior segment artery"
+  },
+  "containedByref": [
+    {
+      "id": "RID1338",
+      "display": "lower lobe of left lung"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  }
+}

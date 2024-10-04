@@ -1,0 +1,29 @@
+{
+  "_id": "RID28591_RID6162_RID5824",
+  "anatomicLocationsId": "RID28591_RID6162_RID5824",
+  "description": "left twelfth rib",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "partOfRef": {
+    "id": "RID28591",
+    "display": "set of ribs"
+  },
+  "rightRef": {
+    "id": "RID28591_RID6162_RID5825",
+    "display": "right twelfth rib"
+  },
+  "unsidedRef": {
+    "id": "RID28591_RID6162",
+    "display": "twelfth rib"
+  },
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13197",
+      "display": "bone organ"
+    }
+  ]
+}
