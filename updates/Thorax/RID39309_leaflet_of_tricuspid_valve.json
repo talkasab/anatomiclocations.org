@@ -25,11 +25,5 @@
       "code": "C0225928"
     }
   ],
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }

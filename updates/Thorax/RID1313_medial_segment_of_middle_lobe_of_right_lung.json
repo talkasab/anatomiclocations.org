@@ -23,11 +23,5 @@
   "containedByRef": {
     "id": "RID1310",
     "display": "middle lobe of lung"
-  },
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  }
 }
