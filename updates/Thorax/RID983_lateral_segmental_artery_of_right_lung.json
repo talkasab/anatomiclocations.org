@@ -8,7 +8,7 @@
       "display": "Lateral segmental artery of right lung"
     }
   ],
-  "partOfRef": {
+  "branchOfRef": {
     "id": "RID982",
     "display": "middle lobar artery"
   },
@@ -24,8 +24,8 @@
       "display": "artery"
     }
   ],
-  "branchOfRef": {
-    "id": "RID982",
-    "display": "middle lobar artery of right lung"
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
   }
 }

@@ -10,7 +10,7 @@
       "display": "Posterior basal segmental artery of left lung"
     }
   ],
-  "partOfRef": {
+  "branchOfRef": {
     "id": "RID1003",
     "display": "left lower lobe superior segment artery"
   },
@@ -26,8 +26,8 @@
       "display": "artery"
     }
   ],
-  "branchOfRef": {
-    "id": "",
-    "display": ""
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
   }
 }
