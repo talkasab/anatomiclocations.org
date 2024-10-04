@@ -41,11 +41,5 @@
       "code": "C1744565"
     }
   ],
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "RID13196",
-      "display": "muscle organ"
-    }
-  ]
+  "embedding_vector": []
 }

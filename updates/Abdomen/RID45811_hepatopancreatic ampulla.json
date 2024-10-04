@@ -44,11 +44,5 @@
     "display": "pancreas"
   },
   "definition": "the duct shared by the common bile duct and the pancreatic duct in the wall of the duodenum",
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }

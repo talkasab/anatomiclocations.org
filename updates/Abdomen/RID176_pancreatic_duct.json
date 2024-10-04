@@ -28,11 +28,5 @@
   },
   "synonyms": ["Ductus Wirsungianus"],
   "definition": "Ducts that collect pancreatic juice from the pancreas and supply it to the duodenum. [MeSH]",
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }

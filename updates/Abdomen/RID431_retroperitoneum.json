@@ -317,11 +317,5 @@
     }
   ],
   "definition": "An area occupying the most posterior aspect of the abdominal cavity. It is bounded laterally by the borders of the quadratus lumborum muscles and extends from the diaphragm to the brim of the true pelvis, where it continues as the pelvic extraperitoneal space. [MeSH]",
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }
