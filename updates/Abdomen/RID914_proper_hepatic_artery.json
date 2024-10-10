@@ -1,0 +1,47 @@
+{
+  "_id": "RID914",
+  "acrCommonId": "4014786",
+  "snomedId": "18112008",
+  "snomedDisplay": "Structure of hepatic artery proper",
+  "description": "proper hepatic artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4227",
+      "display": "proper hepatic artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hepatic_artery_proper"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/hepatic-artery-proper?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID30759",
+      "display": "portal triad"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "embedding_vector": [],
+  "branchOfRef": {
+    "code": "RID909",
+    "display": "common hepatic artery"
+  },
+
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ]
+}

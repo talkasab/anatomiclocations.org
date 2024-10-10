@@ -1,0 +1,36 @@
+{
+  "_id": "RID38164",
+  "snomedId": "21270006",
+  "snomedDisplay": "Structure of inferior suprarenal artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4271",
+      "display": "Inferior suprarenal artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inferior_suprarenal_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/inferior-adrenal-artery-1?lang=us"
+    }
+  ],
+  "containedById": {
+    "code": "RID431",
+    "display": "retroperitoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID936",
+    "display": "renal artery"
+  }
+}

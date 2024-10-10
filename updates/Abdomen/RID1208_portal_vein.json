@@ -1,0 +1,53 @@
+{
+  "_id": "RID1208",
+  "acrCommonId": "4014742",
+  "snomedId": "32764006",
+  "snomedDisplay": "Portal vein structure",
+  "description": "portal vein",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5092",
+      "display": "hepatic portal vein"
+    },
+    {
+      "system": "FMA",
+      "code": "66645"
+    },
+    {
+      "system": "MESH",
+      "code": "A07.015.908.670.567"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0032718"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portal_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/portal-vein?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "definition": "A short thick vein formed by union of the superior mesenteric vein and the splenic vein. [MeSH]",
+  "embedding_vector": []
+}

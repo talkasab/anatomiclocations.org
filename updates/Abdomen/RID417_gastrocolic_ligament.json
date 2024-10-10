@@ -1,0 +1,39 @@
+{
+  "_id": "RID417",
+  "acrCommonId": "4013882",
+  "snomedId": "47606005",
+  "snomedDisplay": "Structure of gastrocolic ligament",
+  "description": "gastrocolic ligament",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3762",
+      "display": "Gastrocolic ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gastrocolic_ligament"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID430",
+      "display": "greater omentum"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}
+

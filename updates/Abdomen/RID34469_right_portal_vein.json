@@ -1,0 +1,45 @@
+{
+  "_id": "RID34469",
+  "acrCommonId": "4015096",
+  "snomedId": "73931004",
+  "snomedDisplay": "Right branch of portal vein",
+  "description": "right portal vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["right branch of portal vein", "right hepatic portal vein"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5094",
+      "display": "Right branch of hepatic portal vein"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portal_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/portal-vein?lang=us"
+    }
+  ],
+  "containedById": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

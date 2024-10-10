@@ -1,0 +1,38 @@
+{
+  "_id": "RID416",
+  "snomedId": "71295009",
+  "snomedDisplay": " Structure of gastrosplenic ligament (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3760",
+      "display": "Gastrosplenic ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gastrosplenic_ligament"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/gastrosplenic-ligament?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID430",
+      "display": "greater omentum"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}

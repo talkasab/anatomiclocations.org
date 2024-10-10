@@ -1,0 +1,38 @@
+{
+  "_id": "RID33188",
+  "snomedId": "38454006",
+  "snomedDisplay": "Structure of phrenicocolic ligament (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3769",
+      "display": "Phrenicocolic ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phrenicocolic_ligament"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/phrenicocolic-ligament?lang=us"
+    }
+  ],
+   "partOfIds": [
+    {
+      "code": "RID412",
+      "display": "peritoneal ligament"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+"display": "ligament"
+    }
+  ]
+}

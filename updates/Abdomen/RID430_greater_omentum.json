@@ -1,0 +1,36 @@
+{
+  "_id": "RID430",
+  "acrCommonId": "4013908",
+  "snomedId": "35366003",
+  "snomedDisplay": "Greater omentum structure",
+  "description": "greater omentum",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3757",
+      "display": "greater omentum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Greater_omentum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/omentum?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID410",
+      "display": "peritoneum"
+    }
+  ]
+}

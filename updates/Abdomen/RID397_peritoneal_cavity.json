@@ -1,0 +1,159 @@
+{
+  "_id": "RID397",
+  "acrCommonId": "4014711",
+  "snomedId": "83670000",
+  "snomedDisplay": "Peritoneal cavity structure",
+  "description": "peritoneal cavity",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID81",
+      "display": "falciform ligament"
+    },
+    {
+      "id": "RID187",
+      "display": "gallbladder"
+    },
+    {
+      "id": "RID430",
+      "display": "greater omentum"
+    },
+    {
+      "id": "RID153",
+      "display": "ileocecal valve"
+    },
+    {
+      "id": "RID150",
+      "display": "ileum"
+    },
+    {
+      "id": "RID148",
+      "display": "jejunum"
+    },
+    {
+      "id": "RID86",
+      "display": "spleen"
+    },
+    {
+      "id": "RID114",
+      "display": "stomach"
+    },
+    {
+      "id": "RID927",
+      "display": "superior mesenteric artery"
+    },
+    {
+      "id": "RID151",
+      "display": "terminal ileum"
+    },
+    {
+      "id": "RID159",
+      "display": "transverse colon"
+    },
+    {
+      "id": "RID147",
+      "display": "ligament of Treitz"
+    },
+    {
+      "id": "RID413",
+      "display": "gastrohepatic ligament"
+    },
+    {
+      "id": "RID417",
+      "display": "gastrocolic ligament"
+    },
+    {
+      "id": "RID415",
+      "display": "hepatoduodenal ligament"
+    },
+    {
+      "id": "RID33180",
+      "display": "mesentery"
+    },
+    {
+      "id": "RID29245",
+      "display": "first part of duodenum"
+    },
+    {
+      "id": "RID146",
+      "display": "fourth part of duodenum"
+    },
+    {
+      "id": "RID115",
+      "display": "gastric cardia"
+    },
+    {
+      "id": "RID38289",
+      "display": "middle colic vein"
+    },
+    {
+      "id": "RID38291",
+      "display": "ileocolic vein"
+    },
+    {
+      "id": "RID38290",
+      "display": "right colic vein"
+    },
+    {
+      "id": "RID931",
+      "display": "middle colic artery"
+    },
+    {
+      "id": "RID934",
+      "display": "ileocolic artery"
+    },
+    {
+      "id": "RID940",
+      "display": "left colic artery"
+    },
+    {
+      "id": "RID929",
+      "display": "right colic artery"
+    },
+    {
+      "id": "RID942",
+      "display": "superior rectal artery"
+    },
+    {
+      "id": "RID31968",
+      "display": "mesenteric lymph node group"
+    },
+    {
+      "id": "RID58",
+      "display": "liver"
+    }
+  ],
+  "definition": "Cavity of serous sac surrounded by the peritoneum. [FMA]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3702",
+      "display": "peritoneal cavity"
+    },
+    {
+      "system": "FMA",
+      "code": "14704"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0031138"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peritoneal_cavity"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID32979",
+      "display": "abdominopelvic cavity"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "RID38037",
+  "snomedId": "91735001",
+  "snomedDisplay": "Structure of middle suprarenal artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4268",
+      "display": "Middle suprarenal artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Middle_suprarenal_arteries"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/middle-adrenal-artery?lang=us"
+    }
+  ],
+  "containedById": {
+    "code": "RID431",
+    "display": "retroperitoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID905",
+    "display": "abdominal aorta"
+  }
+}

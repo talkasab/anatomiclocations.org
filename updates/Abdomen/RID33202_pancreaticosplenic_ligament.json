@@ -1,0 +1,26 @@
+{
+  "_id": "RID33202",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3766",
+      "display": "Pancreaticosplenic ligament"
+    }
+  ],
+ "partOfIds": [
+    {
+      "code": "RID412",
+      "display": "peritoneal ligament"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}

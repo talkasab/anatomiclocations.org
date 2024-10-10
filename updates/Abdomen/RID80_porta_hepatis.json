@@ -1,0 +1,34 @@
+{
+  "_id": "RID80",
+  "snomedId": "11204002",
+  "snomedDisplay": " Structure of porta hepatis (body structure)",
+  "description": "porta hepatis",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3033",
+      "display": "porta hepatis"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Porta_hepatis"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/porta-hepatis?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID58",
+      "display": "liver"
+    }
+  ],
+  "containedById": {
+    "code": "RID415",
+    "display": "hepatoduodenal ligament"
+  }
+}

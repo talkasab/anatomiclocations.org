@@ -1,0 +1,35 @@
+{
+  "_id": "RID33187",
+  "snomedId": "113347009",
+  "snomedDisplay": "Structure of phrenicosplenic ligament (body structure)",
+
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3765",
+      "display": "Splenorenal ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/splenorenal-ligament?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID412",
+      "display": "peritoneal ligament"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}

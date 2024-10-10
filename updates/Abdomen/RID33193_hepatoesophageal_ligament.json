@@ -1,0 +1,26 @@
+{
+  "_id": "RID33193",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3752",
+      "display": "Hepatoesophageal ligament"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID29252",
+      "display": "lesser omentum"
+    }
+  ],
+  "containedById": {
+    "code": "RID29252",
+    "display": "lesser omentum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}

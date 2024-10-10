@@ -1,0 +1,43 @@
+{
+  "_id": "RID200",
+  "acrCommonId": "4013635",
+  "snomedId": "725502003",
+  "snomedDisplay": "Structure of common hepatic duct",
+  "description": "common hepatic duct",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3092",
+      "display": "common hepatic duct"
+    },
+    {
+      "system": "MESH",
+      "code": "A03.159.183.079.600"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0019149"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Common_hepatic_duct"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/search?q=common+hepatic+duct&scope=all&lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID33652",
+    "display": "biliary tree"
+  },
+  "definition": "Predominantly extrahepatic bile duct which is formed by the junction of the right and left hepatic ducts, which are predominantly intrahepatic, and, in turn, joins the cystic duct to form the common bile duct. [MeSH]",
+  "embedding_vector": []
+}

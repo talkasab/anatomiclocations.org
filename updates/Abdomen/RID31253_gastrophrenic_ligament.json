@@ -1,0 +1,40 @@
+{
+  "name": "abdomen",
+  "anatomicLocationsId": "",
+  "radlexId": "",
+  "snomedId": "",
+  "acrCommonId": "",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": ""
+    },
+    {
+      "site": "radiopaedia",
+      "url": ""
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID31604",
+      "display": "musculature of abdomen"
+    }
+  ],
+  "containedById": {
+    "code": "",
+    "display": ""
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
+}

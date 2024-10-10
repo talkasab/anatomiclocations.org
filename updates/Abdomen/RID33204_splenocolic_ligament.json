@@ -1,0 +1,32 @@
+{
+  "_id": "RID33204",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3768",
+      "display": "Splenocolic ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Splenocolic_ligament"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID412",
+      "display": "peritoneal ligament"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}

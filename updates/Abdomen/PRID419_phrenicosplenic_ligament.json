@@ -1,0 +1,28 @@
+{
+  "_id": "RID419",
+  "snomedId": "113347009",
+  "snomedDisplay": "Structure of phrenicosplenic ligament (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3764",
+      "display": "Phrenicosplenic ligament"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID412",
+      "display": "peritoneal ligament"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}

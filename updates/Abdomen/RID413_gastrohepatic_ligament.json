@@ -1,0 +1,42 @@
+{
+  "_id": "RID413",
+  "acrCommonId": "4013885",
+  "snomedId": "6544009",
+  "snomedDisplay": "Structure of gastrohepatic ligament",
+  "description": "gastrohepatic ligament",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3753",
+      "display": "Hepatogastric ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hepatogastric_ligament"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/hepatogastric-ligament-1?lang=us"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfIds": [
+    {
+      "code": "RID29252",
+      "display": "lesser omentum"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}
