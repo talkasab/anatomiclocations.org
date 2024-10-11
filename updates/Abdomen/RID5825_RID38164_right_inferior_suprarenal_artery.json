@@ -1,0 +1,25 @@
+{
+  "_id": "RID5825_RID38164",
+  "description": "right inferior suprarenal artery",
+  "region": "Abdomen",
+  "containedById": {
+    "code": "RID431",
+    "display": "retroperitoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID37859",
+    "display": "right renal artery"
+  },
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ]
+}

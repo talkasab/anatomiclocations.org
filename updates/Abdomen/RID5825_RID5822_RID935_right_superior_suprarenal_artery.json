@@ -1,16 +1,7 @@
 {
-  "_id": "RID5822_RID935",
-  "snomedId": "91736000",
-  "snomedDisplay": "Structure of superior suprarenal artery (body structure)",
-  "description": "superior suprarenal artery",
+  "_id": "RID5825_RID5822_RID935",
+  "description": "right superior suprarenal artery",
   "region": "Abdomen",
-  "codes": [
-    {
-      "system": "TA2",
-      "code": "4207",
-      "display": "Superior suprarenal arteries"
-    }
-  ],
   "links": [
     {
       "site": "wikipedia",
