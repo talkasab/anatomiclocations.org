@@ -1,0 +1,47 @@
+{
+  "_id": "RID116",
+  "acrCommonId": "4013879",
+  "snomedId": "414003",
+  "snomedDisplay": "Gastric fundus structure",
+  "description": "gastric fundus",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID114",
+    "display": "stomach"
+  },
+  "partOfRef": {
+    "id": "RID114",
+    "display": "stomach"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14559"
+    },
+    {
+      "system": "MESH",
+      "code": "A03.556.875.875.419"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0017129"
+    },
+    {
+      "system": "TA2",
+      "code": "2922",
+      "display": "Fundus of stomach"
+    }
+  ],
+  "definition": "The superior portion of the body of the stomach above the level of the cardiac notch. [MeSH]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fundus"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/search?q=funds&scope=all&lang=us"
+    }
+  ]
+}

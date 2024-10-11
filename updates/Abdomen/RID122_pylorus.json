@@ -1,0 +1,32 @@
+{
+  "_id": "RID122",
+  "acrCommonId": "4014819",
+  "snomedId": "280119005",
+  "snomedDisplay": "Pyloric structure of stomach",
+  "description": "pylorus",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID114",
+    "display": "stomach"
+  },
+  "synonyms": ["pyloric part of stomach"],
+  "partOfRef": {
+    "id": "RID114",
+    "display": "stomach"
+  },
+  "definition": "The region of the stomach at the junction with the duodenum. It is marked by the thickening of circular muscle layers forming the pyloric sphincter to control the opening and closure of the lumen. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2930",
+      "display": "pylorus"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pylorus"
+    }
+  ]
+}

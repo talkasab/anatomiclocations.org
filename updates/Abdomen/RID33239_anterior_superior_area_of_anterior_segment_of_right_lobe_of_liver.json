@@ -1,0 +1,31 @@
+{
+  "_id": "RID33239",
+  "acrCommonId": "4013493",
+  "description": "anterior superior area of anterior segment of right lobe of liver",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "partOfRef": {
+    "id": "RID74",
+    "display": "right lobe of liver"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14508"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0733957"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liver_segment"
+    }
+  ]
+}

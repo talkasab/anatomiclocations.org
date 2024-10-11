@@ -1,0 +1,65 @@
+{
+  "_id": "RID114",
+  "acrCommonId": "4015284",
+  "snomedId": "69695003",
+  "snomedDisplay": "Stomach structure",
+  "description": "stomach",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "containsRefs": [
+    {
+      "id": "RID122",
+      "display": "pylorus"
+    },
+    {
+      "id": "RID116",
+      "display": "gastric fundus"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID94",
+    "display": "gastrointestinal tract"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID122",
+      "display": "pylorus"
+    },
+    {
+      "id": "RID116",
+      "display": "gastric fundus"
+    },
+    {
+      "id": "RID115",
+      "display": "gastric cardia"
+    }
+  ],
+  "definition": "Organ with organ cavity which is continuous proximally with the esophagus and distally with the small intestine. [FMA]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2901",
+      "display": "Stomach"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stomach"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/stomach?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

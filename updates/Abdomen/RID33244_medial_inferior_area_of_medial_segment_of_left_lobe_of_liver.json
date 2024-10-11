@@ -1,0 +1,31 @@
+{
+  "_id": "RID33244",
+  "acrCommonId": "4014513",
+  "description": "medial inferior area of medial segment of left lobe of liver",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "partOfRef": {
+    "id": "RID69",
+    "display": "left lobe of liver"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14512"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0733961"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liver_segment"
+    }
+  ]
+}

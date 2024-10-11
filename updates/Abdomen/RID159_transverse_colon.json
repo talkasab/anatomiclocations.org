@@ -1,0 +1,41 @@
+{
+  "_id": "RID159",
+  "acrCommonId": "4015462",
+  "snomedId": "485005",
+  "snomedDisplay": "Transverse colon structure",
+  "description": "transverse colon",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "definition": "The segment of large intestine between ascending colon and descending colon. It passes from the right colic flexure across the abdomen, then turns sharply at the left colonic flexure into the descending colon. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2984",
+      "display": "transverse colon"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transverse_colon"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/transverse-colon?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "RID33180",
+  "acrCommonId": "4014536",
+  "snomedId": "89679009",
+  "snomedDisplay": "Mesentery structure",
+  "description": "mesentery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "definition": "Anatomical organ component composed of a double layer of serous membrane that suspends a viscus from the body wall or connects adjacent viscera and in doing so conveys blood vessels, lymphatics and nerves to and from the viscera.  Examples: greater omentum, broad ligament of uterus, sigmoid mesocolon.",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3740",
+      "display": "mesentery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mesentery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/mesentery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ]
+}

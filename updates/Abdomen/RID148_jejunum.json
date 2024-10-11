@@ -1,0 +1,41 @@
+{
+  "_id": "RID148",
+  "acrCommonId": "4014025",
+  "snomedId": "21306003",
+  "snomedDisplay": "Jejunal structure",
+  "description": "jejunum",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID132",
+    "display": "small intestine"
+  },
+  "definition": "The middle portion of the small intestine, between duodenum and ileum. It represents about 2/5 of the remaining portion of the small intestine below duodenum. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2958",
+      "display": "jejunum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jejunum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/jejunum?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "RID29245",
+  "acrCommonId": "4013832",
+  "snomedId": "56734009",
+  "snomedDisplay": "Structure of superior portion of duodenum",
+  "description": "first part of duodenum",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": [
+    "superior portion of duodenum"
+  ],
+  "partOfRef": {
+    "id": "RID134",
+    "display": "duodenum"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2946",
+      "display": "Duodenal bulb"
+    },
+        {
+      "system": "FMA",
+      "code": "14926"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227299"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duodenal_bulb"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/duodenal-bulb?lang=us"
+    }
+  ]
+}

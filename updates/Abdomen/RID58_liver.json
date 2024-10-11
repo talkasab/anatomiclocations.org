@@ -1,0 +1,123 @@
+{
+  "_id": "RID58",
+  "acrCommonId": "4014450",
+  "snomedId": "10200004",
+  "snomedDisplay": "Liver structure",
+  "description": "liver",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "containsRefs": [
+    {
+      "id": "RID1179",
+      "display": "hepatic vein"
+    },
+    {
+      "id": "RID74",
+      "display": "right lobe of liver"
+    },
+    {
+      "id": "RID69",
+      "display": "left lobe of liver"
+    },
+    {
+      "id": "RID77",
+      "display": "caudate lobe of liver"
+    },
+    {
+      "id": "RID33237",
+      "display": "lateral superior area of lateral segment of left lobe of liver"
+    },
+    {
+      "id": "RID33238",
+      "display": "lateral inferior area of lateral segment of left lobe of liver"
+    },
+    {
+      "id": "RID33243",
+      "display": "medial superior area of medial segment of left lobe of liver"
+    },
+    {
+      "id": "RID33244",
+      "display": "medial inferior area of medial segment of left lobe of liver"
+    },
+    {
+      "id": "RID33240",
+      "display": "anterior inferior area of anterior segment of right lobe of liver"
+    },
+    {
+      "id": "RID33242",
+      "display": "posterior inferior area of posterior segment of right lobe of liver"
+    },
+    {
+      "id": "RID33241",
+      "display": "posterior superior area of posterior segment of right lobe of liver"
+    },
+    {
+      "id": "RID33239",
+      "display": "anterior superior area of anterior segment of right lobe of liver"
+    },
+    {
+      "id": "RID31748",
+      "display": "fossa for gallbladder"
+    }
+  ],
+  "hasPartsRefs": [
+    {
+      "id": "RID74",
+      "display": "right lobe of liver"
+    },
+    {
+      "id": "RID69",
+      "display": "left lobe of liver"
+    },
+    {
+      "id": "RID31748",
+      "display": "fossa for gallbladder"
+    }
+  ],
+  "definition": "Lobular organ which has as its parts lobules connected to the biliary tree. Examples: There is only one liver.",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3023",
+      "display": "liver"
+    },
+    {
+      "system": "FMA",
+      "code": "7197"
+    },
+    {
+      "system": "MESH",
+      "code": "A03.620"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0023884"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liver"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/liver?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

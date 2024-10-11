@@ -1,0 +1,42 @@
+{
+  "_id": "RID154",
+  "acrCommonId": "4013593",
+  "snomedId": "32713005",
+  "snomedDisplay": "Cecum structure",
+  "description": "cecum",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "synonyms": ["caecum", "Z√§kum"],
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "definition": "The blind sac or outpouching area of the large intestine that is below the entrance of the small intestine. It has a worm-like extension, the vermiform appendix. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2970",
+      "display": "cecum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cecum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/caecum?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

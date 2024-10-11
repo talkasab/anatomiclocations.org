@@ -1,0 +1,65 @@
+{
+  "_id": "RID69",
+  "acrCommonId": "4014239",
+  "snomedId": "69842003",
+  "snomedDisplay": "Structure of left lobe of liver",
+  "description": "left lobe of liver",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "synonyms": ["left segment of liver", "left part of liver"],
+  "partOfRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID33237",
+      "display": "lateral superior area of lateral segment of left lobe of liver"
+    },
+    {
+      "id": "RID33238",
+      "display": "lateral inferior area of lateral segment of left lobe of liver"
+    },
+    {
+      "id": "RID33243",
+      "display": "medial superior area of medial segment of left lobe of liver"
+    },
+    {
+      "id": "RID33244",
+      "display": "medial inferior area of medial segment of left lobe of liver"
+    }
+  ],
+
+  "definition": "Hemiliver located to the left of the main portal scissura.",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3050",
+      "display": "left lobe of liver"
+    },
+    {
+      "system": "FMA",
+      "code": "15810"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227486"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lobes_of_liver"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID69",
+      "display": "liver"
+    }
+  ]
+}

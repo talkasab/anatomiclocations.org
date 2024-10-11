@@ -1,0 +1,43 @@
+{
+  "_id": "RID146",
+  "acrCommonId": "4013864",
+  "snomedId": "63803008",
+  "snomedDisplay": "Structure of ascending portion of duodenum",
+  "description": "fourth part of duodenum",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": ["ascending portion of duodenum"],
+  "partOfRef": {
+    "id": "RID134",
+    "display": "duodenum"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2951",
+      "display": "Ascending part of duodenum"
+    },
+    {
+      "system": "FMA",
+      "code": "14930"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227303"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duodenum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/duodenum?lang=us"
+    }
+  ]
+}

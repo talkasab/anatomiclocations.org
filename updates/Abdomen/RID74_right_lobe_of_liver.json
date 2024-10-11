@@ -1,0 +1,72 @@
+{
+  "_id": "RID74",
+  "acrCommonId": "4015010",
+  "snomedId": "48521005",
+  "snomedDisplay": "Structure of right lobe of liver",
+  "description": "right lobe of liver",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "synonyms": [
+    "right part of liver",
+    "right segment of liver",
+    "right hemiliver"
+  ],
+  "partOfRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID77",
+      "display": "caudate lobe of liver"
+    },
+    {
+      "id": "RID33240",
+      "display": "anterior inferior area of anterior segment of right lobe of liver"
+    },
+    {
+      "id": "RID33242",
+      "display": "posterior inferior area of posterior segment of right lobe of liver"
+    },
+    {
+      "id": "RID33241",
+      "display": "posterior superior area of posterior segment of right lobe of liver"
+    },
+    {
+      "id": "RID33239",
+      "display": "anterior superior area of anterior segment of right lobe of liver"
+    }
+  ],
+  "definition": "Hemiliver located to the right of the main portal scissura.",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3049",
+      "display": "right lobe of liver"
+    },
+    {
+      "system": "FMA",
+      "code": "15809"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227481"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lobes_of_liver"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID69",
+      "display": "liver"
+    }
+  ]
+}

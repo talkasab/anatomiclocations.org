@@ -1,0 +1,31 @@
+{
+  "_id": "RID33242",
+  "acrCommonId": "4014760",
+  "description": "posterior inferior area of posterior segment of right lobe of liver",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "partOfRef": {
+    "id": "RID74",
+    "display": "right lobe of liver"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14509"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0733958"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liver_segment"
+    }
+  ]
+}
