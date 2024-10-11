@@ -1,0 +1,37 @@
+{
+  "_id": "RID935_RID5825",
+  "acrCommonId": "4013410",
+  "snomedId": "765048001",
+  "snomedDisplay": "Structure of right adrenal artery",
+  "description": "right adrenal artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "leftRef": {
+    "id": "RID935_RID5824",
+    "display": "left adrenal artery"
+  },
+  "unsidedRef": {
+    "id": "RID935",
+    "display": "adrenal artery"
+  },
+  "embedding_vector": [],
+  "branchOfRef": {
+    "id": "RID935",
+    "display": "adrenal artery"
+  },
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ]
+}

@@ -34,5 +34,11 @@
   "branchOfRef": {
     "code": "RID905",
     "display": "abdominal aorta"
-  }
+  },
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ]
 }

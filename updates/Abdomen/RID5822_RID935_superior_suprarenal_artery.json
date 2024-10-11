@@ -1,0 +1,44 @@
+{
+  "_id": "RID5822_RID935",
+  "snomedId": "91736000",
+  "snomedDisplay": "Structure of superior suprarenal artery (body structure)",
+  "description": "superior suprarenal artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4207",
+      "display": "Superior suprarenal arteries"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superior_suprarenal_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/superior-adrenal-artery?lang=us"
+    }
+  ],
+  "containedById": {
+    "code": "RID431",
+    "display": "retroperitoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID38762",
+    "display": "inferior phrenic artery"
+  },
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ]
+}

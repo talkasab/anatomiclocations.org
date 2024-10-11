@@ -1,0 +1,43 @@
+{
+  "_id": "RID935",
+  "acrCommonId": "4013408",
+  "snomedId": "89500000",
+  "snomedDisplay": "Structure of adrenal artery",
+  "description": "adrenal artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "leftRef": {
+    "id": "RID935_RID5824",
+    "display": "left adrenal artery"
+  },
+  "rightRef": {
+    "id": "RID935_RID5825",
+    "display": "right adrenal artery"
+  },
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adrenal_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/adrenal-arteries-1?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ]
+}
