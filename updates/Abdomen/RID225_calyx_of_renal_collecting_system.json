@@ -20,11 +20,5 @@
     "id": "RID205",
     "display": "kidney"
   },
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }
