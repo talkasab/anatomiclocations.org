@@ -1,0 +1,54 @@
+{
+  "_id": "RID1404",
+  "anatomicLocationsId": "RID1404",
+  "acrCommonId": "4014017",
+  "snomedId": "589001",
+  "snomedDisplay": "interventricular septum structure",
+  "description": "interventricular septum",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "synonyms": ["ventricular septum"],
+  "partOfRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3970",
+      "display": "Interventricular septum"
+    },
+    {
+      "system": "FMA",
+      "code": "7133"
+    },
+    {
+      "system": "MESH",
+      "code": "A07.541.459.750"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0225870"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Interventricular_septum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/interventricular-septum?lang=us"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
+}

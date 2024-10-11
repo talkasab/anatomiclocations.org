@@ -1,0 +1,32 @@
+{
+  "_id": "RID1338",
+  "anatomicLocationsId": "RID1338",
+  "acrCommonId": "4014461",
+  "snomedId": "41224006",
+  "snomedDisplay": "structure of lower lobe of left lung",
+  "description": "lower lobe of left lung",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1326",
+    "display": "left lung"
+  },
+  "synonyms": ["LLL", "left lower lobe"],
+  "partOfRef": {
+    "id": "RID1326",
+    "display": "left lung"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3308",
+      "display": "inferior lobe of left lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-lower-lobe?lang=us"
+    }
+  ]
+}

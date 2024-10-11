@@ -1,0 +1,34 @@
+{
+  "_id": "RID989",
+  "anatomicLocationsId": "RID989",
+
+  "snomedId": "70081006",
+  "snomedDisplay": "Structure of anterior basal branch of right pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4087",
+      "display": "Anterior basal segmental artery of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID986",
+    "display": "right lower lobe artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1315",
+      "display": "lower lobe of right lung"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID986",
+    "display": "right lower lobe artery"
+  }
+}

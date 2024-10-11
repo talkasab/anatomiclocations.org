@@ -1,0 +1,27 @@
+{
+  "_id": "RID1318",
+  "anatomicLocationsId": "RID1318",
+  "snomedId": "27589003",
+  "snomedDisplay": "Structure of medial basal segment of right lower lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3295",
+      "display": "medial basal segment of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-lower-lobe-medial-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1315",
+    "display": "lower lobe of right lung"
+  },
+  "containedByRef": {
+    "id": "RID1315",
+    "display": "lower lobe of right lung"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "RID1392",
+  "anatomicLocationsId": "RID1392",
+  "acrCommonId": "4014426",
+  "snomedId": "87878005",
+  "snomedDisplay": "left ventricular structure",
+  "description": "left ventricle",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4062",
+      "display": "left ventricle"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-ventricle?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
+}

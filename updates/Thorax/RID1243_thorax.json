@@ -1,0 +1,329 @@
+{
+  "_id": "RID1243",
+  "anatomicLocationsId": "RID1243",
+  "acrCommonId": "4015442",
+  "snomedId": "51185008",
+  "snomedDisplay": "thoracic structure",
+  "description": "thorax",
+  "region": "body",
+  "containedByRef": {
+    "id": "RID39569",
+    "display": "whole body"
+  },
+  "containsRefs": [
+    {
+      "id": "RID582",
+      "display": "brachiocephalic artery"
+    },
+    {
+      "id": "RID1011",
+      "display": "brachiocephalic vein"
+    },
+    {
+      "id": "RID1011_RID5824",
+      "display": "left brachiocephalic vein"
+    },
+    {
+      "id": "RID1011_RID5825",
+      "display": "right brachiocephalic vein"
+    },
+    {
+      "id": "RID2468",
+      "display": "chest wall"
+    },
+    {
+      "id": "RID1524",
+      "display": "diaphragm"
+    },
+    {
+      "id": "RID94",
+      "display": "gastrointestinal tract"
+    },
+    {
+      "id": "RID43896",
+      "display": "left subclavian artery"
+    },
+    {
+      "id": "RID1384",
+      "display": "mediastinum"
+    },
+    {
+      "id": "RID1363",
+      "display": "pleural space"
+    },
+    {
+      "id": "RID1363_RID5824",
+      "display": "left pleural space"
+    },
+    {
+      "id": "RID1363_RID5825",
+      "display": "right pleural space"
+    },
+    {
+      "id": "RID1362",
+      "display": "pleura"
+    },
+    {
+      "id": "RID43895",
+      "display": "right subclavian artery"
+    },
+    {
+      "id": "RID773",
+      "display": "subclavian artery"
+    },
+    {
+      "id": "RID34572",
+      "display": "thoracic vertebral column"
+    },
+    {
+      "id": "RID1517",
+      "display": "axillary lymph node"
+    },
+    {
+      "id": "RID1517_RID5824",
+      "display": "left axillary lymph node"
+    },
+    {
+      "id": "RID1517_RID5825",
+      "display": "right axillary lymph node"
+    },
+    {
+      "id": "RID49962",
+      "display": "set of chest vessels"
+    },
+    {
+      "id": "RID29198",
+      "display": "first thoracic vertebra"
+    },
+    {
+      "id": "RID29199",
+      "display": "second thoracic vertebra"
+    },
+    {
+      "id": "RID29200",
+      "display": "third thoracic vertebra"
+    },
+    {
+      "id": "RID29201",
+      "display": "fourth thoracic vertebra"
+    },
+    {
+      "id": "RID29202",
+      "display": "fifth thoracic vertebra"
+    },
+    {
+      "id": "RID29203",
+      "display": "sixth thoracic vertebra"
+    },
+    {
+      "id": "RID29204",
+      "display": "seventh thoracic vertebra"
+    },
+    {
+      "id": "RID29205",
+      "display": "eight thoracic vertebra"
+    },
+    {
+      "id": "RID29206",
+      "display": "ninth thoracic vertebra"
+    },
+    {
+      "id": "RID29207",
+      "display": "tenth thoracic vertebra"
+    },
+    {
+      "id": "RID29208",
+      "display": "eleventh thoracic vertebra"
+    },
+    {
+      "id": "RID29209",
+      "display": "twelfth thoracic vertebra"
+    },
+    {
+      "id": "RID1529",
+      "display": "crus of diaphragm"
+    },
+    {
+      "id": "RID1529_RID5824",
+      "display": "left crus of diaphragm"
+    },
+    {
+      "id": "RID1529_RID5825",
+      "display": "right crus of diaphragm"
+    },
+    {
+      "id": "RID1169",
+      "display": "azygos vein"
+    },
+    {
+      "id": "RID7694",
+      "display": "thoracic duct"
+    },
+    {
+      "id": "RID7201",
+      "display": "phrenic nerve"
+    },
+    {
+      "id": "RID27716",
+      "display": "right phrenic nerve"
+    },
+    {
+      "id": "RID27717",
+      "display": "left phrenic nerve"
+    },
+    {
+      "id": "RID44771",
+      "display": "pericardiacophrenic artery"
+    },
+    {
+      "id": "RID44772",
+      "display": "right pericardiacophrenic artery"
+    },
+    {
+      "id": "RID44773",
+      "display": "left pericardiacophrenic artery"
+    },
+    {
+      "id": "RID28909",
+      "display": "hemidiaphragm"
+    },
+    {
+      "id": "RID1526",
+      "display": "right hemidiaphragm"
+    },
+    {
+      "id": "RID1525",
+      "display": "left hemidiaphragm"
+    },
+    {
+      "id": "RID1232",
+      "display": "right common pulmonary vein"
+    },
+    {
+      "id": "RID1238",
+      "display": "left common pulmonary vein"
+    },
+    {
+      "id": "RID43951",
+      "display": "lateral thoracic vein"
+    },
+    {
+      "id": "RID43952",
+      "display": "right lateral thoracic vein"
+    },
+    {
+      "id": "RID43953",
+      "display": "left lateral thoracic vein"
+    },
+    {
+      "id": "RID12187",
+      "display": "vagus nerve"
+    },
+    {
+      "id": "RID27700",
+      "display": "right vagus nerve"
+    },
+    {
+      "id": "RID27701",
+      "display": "left vagus nerve"
+    },
+    {
+      "id": "RID1523",
+      "display": "retrocrural lymph node"
+    },
+    {
+      "id": "RID456",
+      "display": "paracardiac lymph node"
+    },
+    {
+      "id": "RID1522",
+      "display": "superior diaphragmatic lymph node"
+    },
+    {
+      "id": "RID1522_RID5824",
+      "display": "left superior diaphragmatic lymph node"
+    },
+    {
+      "id": "RID1522_RID5825",
+      "display": "right superior diaphragmatic lymph node"
+    },
+    {
+      "id": "RID1490",
+      "display": "inferior pulmonary ligament lymph node"
+    },
+    {
+      "id": "RID1492",
+      "display": "right inferior pulmonary ligament lymph node"
+    },
+    {
+      "id": "RID1494",
+      "display": "left inferior pulmonary ligament lymph node"
+    },
+    {
+      "id": "RID28935",
+      "display": "para-aortic thoracic lymph node"
+    },
+    {
+      "id": "RID1484",
+      "display": "esophageal lymph node"
+    },
+    {
+      "id": "RID1486",
+      "display": "right paraesophageal lymph node"
+    },
+    {
+      "id": "RID1488",
+      "display": "left paraesophageal lymph node"
+    },
+    {
+      "id": "RID1465",
+      "display": "upper paratracheal lymph node"
+    },
+    {
+      "id": "RID1467",
+      "display": "right upper paratracheal lymph node"
+    },
+    {
+      "id": "RID1469",
+      "display": "left upper paratracheal lymph node"
+    },
+    {
+      "id": "RID1482",
+      "display": "subcarinal lymph node"
+    }
+  ],
+  "synonyms": ["chest"],
+  "hasPartsRefs": [
+    {
+      "id": "RID28591",
+      "display": "set of ribs"
+    }
+  ],
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C0040113"
+    },
+    {
+      "system": "TA2",
+      "code": "125",
+      "display": "thorax"
+    }
+  ],
+  "definition": "Subdivision of trunk proper, which is demarcated from the neck by the plane of the superior thoracic aperture and from the abdomen internally by the inferior surface of the diaphragm and externally by the costal margin and associated with the thoracic vertebral column and ribcage and from the back of the thorax by the external surface of the posterolateral part of the rib cage, the anterior surface of the thoracic vertebral column and the posterior axillary lines; together with the abdomen and the perineum, it constitutes the trunk proper. [FMA]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thorax"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/thorax-1?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID32953",
+    "display": "thoracic cavity"
+  }
+}

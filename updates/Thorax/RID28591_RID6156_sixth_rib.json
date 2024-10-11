@@ -1,0 +1,43 @@
+{
+  "_id": "RID28591_RID6156",
+  "anatomicLocationsId": "RID28591_RID6155_RID5824",
+  "acrCommonId": "4015257",
+  "snomedId": "59558009",
+  "snomedDisplay": "Bone structure of sixth rib",
+  "description": "sixth rib",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID2468",
+    "display": "chest wall"
+  },
+  "synonyms": ["6th rib"],
+  "partOfRef": {
+    "id": "RID28591",
+    "display": "set of ribs"
+  },
+  "leftRef": {
+    "id": "RID28591_RID6156_RID5824",
+    "display": "left sixth rib"
+  },
+  "rightRef": {
+    "id": "RID28591_RID6156_RID5825",
+    "display": "right sixth rib"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "8147"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0222889"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13197",
+      "display": "bone organ"
+    }
+  ]
+}

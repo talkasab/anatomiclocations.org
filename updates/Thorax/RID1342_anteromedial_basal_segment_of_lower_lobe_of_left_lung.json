@@ -1,0 +1,25 @@
+{
+  "_id": "RID1341",
+  "anatomicLocationsId": "RID1341",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3311",
+      "display": "anteromedial basal segment of left lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-lower-lobe-anteromedial-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1338",
+    "display": "lower lobe of left lung"
+  },
+  "containedByRef": {
+    "id": "RID1338",
+    "display": "lower lobe of left lung"
+  }
+}

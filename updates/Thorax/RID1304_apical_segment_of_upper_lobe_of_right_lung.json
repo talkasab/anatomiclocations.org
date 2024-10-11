@@ -1,0 +1,27 @@
+{
+  "_id": "RID1304",
+  "anatomicLocationsId": "RID1304",
+  "snomedId": "74896003",
+  "snomedDisplay": "Structure of apical segment of right upper lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3285",
+      "display": "apical segment of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-upper-lobe-apical-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID1303",
+    "display": "upper lobe of right lung"
+  },
+  "containedByRef": {
+    "id": "RID1303",
+    "display": "upper lobe of right lung"
+  }
+}

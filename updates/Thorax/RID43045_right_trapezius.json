@@ -1,0 +1,51 @@
+{
+  "_id": "RID43045",
+  "anatomicLocationsId": "RID43045",
+  "acrCommonId": "4015185",
+  "description": "right trapezius",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID30049",
+    "display": "back of thorax"
+  },
+  "synonyms": ["right trapezius muscle"],
+  "partOfRef": {
+    "id": "RID32807",
+    "display": "musculature of back of thorax"
+  },
+  "leftRef": {
+    "id": "RID43046",
+    "display": "left trapezius"
+  },
+  "unsidedRef": {
+    "id": "RID1937",
+    "display": "trapezius muscle"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "13419"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0920809"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trapezius"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/trapezius-muscle?lang=us"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13196",
+      "display": "muscle organ"
+    }
+  ]
+}

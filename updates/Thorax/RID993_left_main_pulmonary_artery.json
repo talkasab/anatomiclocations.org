@@ -1,0 +1,53 @@
+{
+  "_id": "RID993",
+  "anatomicLocationsId": "RID993",
+  "acrCommonId": "4014337",
+  "snomedId": "50408007",
+  "snomedDisplay": "Structure of left pulmonary artery",
+  "description": "left pulmonary artery",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "rightRef": {
+    "id": "RID976",
+    "display": "right pulmonary artery"
+  },
+  "unsidedRef": {
+    "id": "RID974",
+    "display": "pulmonary artery"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4091",
+      "display": "left pulmonary artery"
+    },
+    {
+      "system": "FMA",
+      "code": "14753"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-pulmonary-artery?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID975",
+    "display": "main pulmonary artery"
+  }
+}

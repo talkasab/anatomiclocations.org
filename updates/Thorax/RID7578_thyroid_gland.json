@@ -1,0 +1,90 @@
+{
+  "_id": "RID7578",
+  "anatomicLocationsId": "RID7578",
+  "acrCommonId": "4015448",
+  "snomedId": "69748006",
+  "snomedDisplay": "thyroid structure",
+  "description": "thyroid gland",
+  "region": "neck",
+  "containedByRef": {
+    "id": "RID7488",
+    "display": "neck"
+  },
+  "containsRefs": [
+    {
+      "id": "RID7579",
+      "display": "left lobe of thyroid gland"
+    },
+    {
+      "id": "RID7581",
+      "display": "right lobe of thyroid gland"
+    },
+    {
+      "id": "RID7583",
+      "display": "pyramidal lobe of thyroid gland"
+    },
+    {
+      "id": "RID7584",
+      "display": "isthmus of thyroid gland"
+    }
+  ],
+  "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the trachea. It secretes thyroid hormones from the follicular cells and calcitonin from the parafollicular cells thereby regulating metabolism and calcium level in blood, respectively. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3863",
+      "display": "thyroid gland"
+    },
+    {
+      "system": "FMA",
+      "code": "9603"
+    },
+    {
+      "system": "MESH",
+      "code": "A06.300.900"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thyroid"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/thyroid-gland?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID7578",
+    "display": "thyroid gland"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID7578",
+      "display": "thyroid gland"
+    },
+    {
+      "id": "RID7579",
+      "display": "left lobe of thyroid gland"
+    },
+    {
+      "id": "RID7581",
+      "display": "right lobe of thyroid gland"
+    },
+    {
+      "id": "RID7583",
+      "display": "pyramidal lobe of thyroid gland"
+    },
+    {
+      "id": "RID7584",
+      "display": "isthmus of thyroid gland"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

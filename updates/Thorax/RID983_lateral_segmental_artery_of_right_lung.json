@@ -1,0 +1,31 @@
+{
+  "_id": "RID983",
+  "anatomicLocationsId": "RID983",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4084",
+      "display": "Lateral segmental artery of right lung"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID982",
+    "display": "middle lobar artery"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1310",
+      "display": "middle lobe of lung"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  }
+}

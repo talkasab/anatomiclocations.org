@@ -1,0 +1,48 @@
+{
+  "_id": "RID7694",
+  "anatomicLocationsId": "RID7694",
+  "acrCommonId": "4015439",
+  "snomedId": "1732005",
+  "snomedDisplay": "thoracic duct structure",
+  "description": "thoracic duct",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "partOfRef": {
+    "id": "RID28922",
+    "display": "lymphatic chain"
+  },
+  "definition": "Lymphatic trunk that connects all tributaries of the thoracic duct tree to the trunk of the left brachiocephalic vein. Examples: There is only one thoracic duct tree.",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5137",
+      "display": "thoracic duct"
+    },
+    {
+      "system": "FMA",
+      "code": "5031"
+    },
+    {
+      "system": "MESH",
+      "code": "A15.382.520.301.750"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0039979"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thoracic_duct"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/thoracic-duct?lang=us"
+    }
+  ]
+}

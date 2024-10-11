@@ -1,0 +1,31 @@
+{
+  "_id": "RID987",
+  "anatomicLocationsId": "RID987",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4086",
+      "display": "Superior segmental artery of right lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1315",
+      "display": "lower lobe of right lung"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID986",
+    "display": "right lower lobe artery"
+  }
+}

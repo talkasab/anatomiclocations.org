@@ -1,0 +1,27 @@
+{
+  "_id": "RID1320",
+  "anatomicLocationsId": "RID1320",
+  "snomedId": "11098002",
+  "snomedDisplay": "Structure of anterior basal segment of right lower lobe of lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3296",
+      "display": "anterior basal segment of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-lower-lobe-anterior-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "code": "RID1315",
+    "display": "lower lobe of right lung"
+  },
+  "containedByRef": {
+    "code": "RID1315",
+    "display": "lower lobe of right lung"
+  }
+}

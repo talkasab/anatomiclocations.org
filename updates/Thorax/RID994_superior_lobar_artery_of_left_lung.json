@@ -1,0 +1,32 @@
+{
+  "_id": "RID994",
+  "anatomicLocationsId": "RID994",
+
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4094",
+      "display": "Superior lobar artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "containedByRef": [
+    {
+      "id": "RID5962_RID5824",
+      "display": "left hilum"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID993",
+    "display": "left pulmonary artery"
+  }
+}

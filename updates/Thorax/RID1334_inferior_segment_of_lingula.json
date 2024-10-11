@@ -1,0 +1,27 @@
+{
+  "_id": "RID1334",
+  "anatomicLocationsId": "RID1334",
+  "snomedId": "264033005",
+  "snomedDisplay": "Structure of inferior lingular segment of left lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3306",
+      "display": "inferior lingular segment of left lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-upper-lobe-inferior-lingular-segment?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "code": "RID1327",
+    "display": "upper lobe of left lung"
+  },
+  "containedById": {
+    "code": "RID1327",
+    "display": "upper lobe of left lung"
+  }
+}

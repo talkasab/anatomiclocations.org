@@ -1,0 +1,29 @@
+{
+  "_id": "RID43260_RID5824*",
+  "anatomicLocationsId": "RID43260_RID5824",
+  "snomedId": "63914005",
+  "snomedDisplay": "Structure of oblique interlobar fissure of left lung (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3307",
+      "display": "oblique fissure of left lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/oblique-fissure?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "code": "RID1326",
+    "display": "left lung"
+  },
+  "containedById": [
+    {
+      "code": "RID1326",
+      "display": "left lung"
+    }
+  ]
+}

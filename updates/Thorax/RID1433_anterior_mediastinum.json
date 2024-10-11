@@ -1,0 +1,33 @@
+{
+  "_id": "RID1433",
+  "anatomicLocationsId": "RID1433",
+  "snomedId": "76386002",
+  "snomedDisplay": "structure of anterior mediastinum (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3336",
+      "display": "anterior mediastinum"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/anterior-mediastinum?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID32953",
+    "display": "thoracic cavity"
+  },
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "isAIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ]
+}

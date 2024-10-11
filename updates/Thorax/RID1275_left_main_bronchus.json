@@ -1,0 +1,45 @@
+{
+  "_id": "RID1275",
+  "anatomicLocationsId": "RID1275",
+  "acrCommonId": "4014246",
+  "snomedId": "75245000",
+  "snomedDisplay": "Left main bronchus structure",
+  "description": "left main bronchus",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "partOfRef": {
+    "id": "RID1246",
+    "display": "tracheobronchial tree"
+  },
+  "rightRef": {
+    "id": "RID1250",
+    "display": "right main bronchus"
+  },
+  "unsidedRef": {
+    "id": "RID34918",
+    "display": "main bronchus"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3252",
+      "display": "Left main bronchus"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-main-bronchus?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1245",
+      "display": "airway"
+    }
+  ]
+}

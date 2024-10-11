@@ -1,0 +1,39 @@
+{
+  "_id": "RID1315",
+  "anatomicLocationsId": "RID1315",
+  "acrCommonId": "4014462",
+  "snomedId": "266005",
+  "snomedDisplay": "structure of right lower lobe of lung",
+  "description": "lower lobe of right lung",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1302",
+    "display": "right lung"
+  },
+  "synonyms": ["right lower lobe", "RLL"],
+  "partOfRef": {
+    "id": "RID1302",
+    "display": "right lung"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3293",
+      "display": "inferior lobe of right lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-lower-lobe?lang=us"
+    }
+  ],
+  "containedById": [
+    {
+      "system": "anatomicLocations",
+      "code": "RID1303",
+      "display": "right lung"
+    }
+  ]
+}

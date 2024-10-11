@@ -1,0 +1,45 @@
+{
+  "_id": "RID43258",
+  "anatomicLocationsId": "RID43258",
+  "acrCommonId": "4013939",
+  "snomedId": "83067000",
+  "snomedDisplay": "structure of horizontal interlobar fissure of right lung",
+  "description": "horizontal fissure of right lung",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1302",
+    "display": "right lung"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3288",
+      "display": "horizontal fissure of right lung"
+    },
+    {
+      "system": "FMA",
+      "code": "7441"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0734040"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/lung-fissures?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "code": "RID1302",
+    "display": "right lung"
+  },
+  "containedById": [
+    {
+      "code": "RID1302",
+      "display": "right lung"
+    }
+  ]
+}

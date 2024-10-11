@@ -1,0 +1,58 @@
+{
+  "_id": "RID2501",
+  "anatomicLocationsId": "RID2501",
+  "acrCommonId": "4014850",
+  "snomedId": "64453003",
+  "snomedDisplay": "Structure of rhomboid minor muscle",
+  "description": "rhomboideus minor muscle",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID30049",
+    "display": "back of thorax"
+  },
+  "synonyms": ["rhomboid minor muscle"],
+  "partOfRef": {
+    "id": "RID32807",
+    "display": "musculature of back of thorax"
+  },
+  "leftRef": {
+    "id": "RID43057",
+    "display": "left rhomboid minor"
+  },
+  "rightRef": {
+    "id": "RID43056",
+    "display": "right rhomboid minor"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2233",
+      "display": "Rhomboid minor muscle"
+    },
+    {
+      "system": "FMA",
+      "code": "13380"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0224364"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rhomboid_minor_muscle"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/rhomboid-minor-muscle-1?lang=us"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13196",
+      "display": "muscle organ"
+    }
+  ]
+}

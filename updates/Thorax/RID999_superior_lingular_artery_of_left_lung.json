@@ -1,0 +1,33 @@
+{
+  "_id": "RID999",
+  "anatomicLocationsId": "RID999",
+  "snomedId": "186038005",
+  "snomedDisplay": "Structure of superior lingular branch of left pulmonary artery (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4100",
+      "display": "Superior lingular artery of left lung"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "containedByRef": [
+    {
+      "id": "RID1327",
+      "display": "upper lobe of left lung"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID998",
+    "display": "lingular artery"
+  }
+}

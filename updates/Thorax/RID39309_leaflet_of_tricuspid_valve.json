@@ -1,0 +1,29 @@
+{
+  "_id": "RID39309",
+  "anatomicLocationsId": "RID39309",
+  "acrCommonId": "4014079",
+  "snomedId": "32427001",
+  "snomedDisplay": "structure of leaflet of tricuspid valve",
+  "description": "leaflet of tricuspid valve",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "synonyms": ["tricuspid valve leaflet"],
+  "partOfRef": {
+    "id": "RID1385",
+    "display": "heart"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "7237"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0225928"
+    }
+  ],
+  "embedding_vector": []
+}

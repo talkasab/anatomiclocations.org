@@ -1,0 +1,53 @@
+{
+  "_id": "RID976",
+  "anatomicLocationsId": "RID976",
+  "acrCommonId": "4015108",
+  "snomedId": "78480002",
+  "snomedDisplay": "Structure of right pulmonary artery",
+  "description": "right pulmonary artery",
+  "region": "Thorax",
+  "containedByRef": {
+    "id": "RID1384",
+    "display": "mediastinum"
+  },
+  "partOfRef": {
+    "id": "RID13181",
+    "display": "cardiovascular system"
+  },
+  "leftRef": {
+    "id": "RID993",
+    "display": "left pulmonary artery"
+  },
+  "unsidedRef": {
+    "id": "RID936",
+    "display": "renal artery"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4077",
+      "display": "right pulmonary artery"
+    },
+    {
+      "system": "FMA",
+      "code": "14752"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-pulmonary-artery?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "id": "RID975",
+    "display": "main pulmonary artery"
+  }
+}

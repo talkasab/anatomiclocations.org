@@ -1,0 +1,38 @@
+{
+  "_id": "RID1327",
+  "anatomicLocationsId": "RID1327",
+  "acrCommonId": "4015503",
+  "snomedId": "44714003",
+  "snomedDisplay": "structure of upper lobe of left lung",
+  "description": "upper lobe of left lung",
+  "region": "thorax",
+  "containedByRef": {
+    "id": "RID1326",
+    "display": "left lung"
+  },
+  "synonyms": ["left upper lobe", "LUL"],
+  "partOfRef": {
+    "id": "RID1326",
+    "display": "left lung"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID1333",
+      "display": "lingula"
+    }
+  ],
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3300",
+      "display": "superior lobe of left lung"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-upper-lobe?lang=us"
+    }
+  ]
+}
