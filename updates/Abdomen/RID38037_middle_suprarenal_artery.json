@@ -2,6 +2,8 @@
   "_id": "RID38037",
   "snomedId": "91735001",
   "snomedDisplay": "Structure of middle suprarenal artery (body structure)",
+  "description": "middle suprarenal artery",
+  "region": "Abdomen",
   "codes": [
     {
       "system": "TA2",

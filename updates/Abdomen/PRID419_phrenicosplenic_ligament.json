@@ -2,6 +2,8 @@
   "_id": "RID419",
   "snomedId": "113347009",
   "snomedDisplay": "Structure of phrenicosplenic ligament (body structure)",
+  "description": "phrenicosplenic ligament",
+  "region": "abdomen",
   "codes": [
     {
       "system": "TA2",

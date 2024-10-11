@@ -1,6 +1,8 @@
 {
   "_id": "RID38164",
   "snomedId": "21270006",
+  "description": "inferior suprarenal artery",
+  "region": "Abdomen",
   "snomedDisplay": "Structure of inferior suprarenal artery (body structure)",
   "codes": [
     {

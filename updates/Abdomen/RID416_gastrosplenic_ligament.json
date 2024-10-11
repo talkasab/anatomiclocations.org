@@ -2,6 +2,8 @@
   "_id": "RID416",
   "snomedId": "71295009",
   "snomedDisplay": " Structure of gastrosplenic ligament (body structure)",
+  "description": "gastrosplenic ligament",
+  "region": "Abdomen",
   "codes": [
     {
       "system": "TA2",

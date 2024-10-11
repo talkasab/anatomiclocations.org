@@ -1,5 +1,7 @@
 {
   "_id": "RID33202",
+  "description": "Pancreaticosplenic ligament",
+  "region": "Abdomen",
   "codes": [
     {
       "system": "TA2",
@@ -7,7 +9,7 @@
       "display": "Pancreaticosplenic ligament"
     }
   ],
- "partOfIds": [
+  "partOfIds": [
     {
       "code": "RID412",
       "display": "peritoneal ligament"
