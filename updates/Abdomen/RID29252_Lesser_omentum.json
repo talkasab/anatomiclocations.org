@@ -2,6 +2,8 @@
   "_id": "RID29252",
   "snomedId": "63404006",
   "snomedDisplay": "Lesser omentum structure",
+  "description": "Lesser omentum",
+  "region": "Abdomen",
   "codes": [
     {
       "system": "TA2",
