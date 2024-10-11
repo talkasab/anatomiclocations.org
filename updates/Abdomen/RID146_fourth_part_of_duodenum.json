@@ -29,15 +29,5 @@
       "system": "UMLS",
       "code": "C0227303"
     }
-  ],
-  "links": [
-    {
-      "site": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Duodenum"
-    },
-    {
-      "site": "radiopaedia",
-      "url": "https://radiopaedia.org/articles/duodenum?lang=us"
-    }
   ]
 }

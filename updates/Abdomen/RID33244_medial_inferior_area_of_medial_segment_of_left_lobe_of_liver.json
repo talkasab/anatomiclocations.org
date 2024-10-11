@@ -21,11 +21,5 @@
       "code": "C0733961"
     }
   ],
-  "embedding_vector": [],
-  "links": [
-    {
-      "site": "wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Liver_segment"
-    }
-  ]
+  "embedding_vector": []
 }

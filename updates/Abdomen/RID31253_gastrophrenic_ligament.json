@@ -1,0 +1,36 @@
+{
+  "_id": "RID31253",
+  "snomedId": "3582007",
+  "snomedDisplay": "Structure of gastrophrenic ligament (body structure)",
+  "description": "gastrophrenic ligament",
+  "region": "abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3759",
+      "display": "Gastrophrenic ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gastrophrenic_ligament"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID412",
+      "display": "peritoneal ligament"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  },
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}
