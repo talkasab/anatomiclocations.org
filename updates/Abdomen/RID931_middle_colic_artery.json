@@ -1,0 +1,48 @@
+{
+  "_id": "RID931",
+  "acrCommonId": "4014558",
+  "snomedId": "42881009",
+  "snomedDisplay": "Structure of middle colic artery",
+  "description": "middle colic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14810"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226328"
+    },
+    {
+      "system": "TA2",
+      "code": "4265",
+      "display": "middle colic artery"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Middle_colic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/middle-colic-artery?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ]
+}

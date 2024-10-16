@@ -1,0 +1,51 @@
+{
+  "_id": "RID86",
+  "acrCommonId": "4015270",
+  "snomedId": "78961009",
+  "snomedDisplay": "Splenic structure",
+  "description": "spleen",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": ["lien", "splen", "lien", "Milz"],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14773"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0037996"
+    },
+    {
+      "system": "TA2",
+      "code": "5159",
+      "display": "spleen"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spleen"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/spleen-1?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_id": "RID147",
+  "acrCommonId": "4014446",
+  "snomedId": "71641006",
+  "snomedDisplay": "Structure of suspensory muscle of duodenum",
+  "description": "ligament of Treitz",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3781",
+      "display": "Suspensory muscle of duodenum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Suspensory_muscle_of_duodenum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ligament-of-treitz?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID410",
+      "display": "peritoneum"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}

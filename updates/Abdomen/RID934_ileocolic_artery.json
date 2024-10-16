@@ -1,0 +1,48 @@
+{
+  "_id": "RID934",
+  "acrCommonId": "4013948",
+  "snomedId": "120233009",
+  "snomedDisplay": "Structure of ileocolic artery",
+  "description": "ileocolic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14815"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226323"
+    },
+    {
+      "system": "TA2",
+      "code": "4258",
+      "display": "ileocolic artery"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ileocolic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ileocolic-artery?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ]
+}

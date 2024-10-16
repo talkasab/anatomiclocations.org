@@ -1,0 +1,70 @@
+{
+  "_id": "RID940",
+  "acrCommonId": "4014130",
+  "snomedId": "49664001",
+  "snomedDisplay": "Structure of left colic artery",
+  "description": "left colic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": ["arteria colica sinistra"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14826"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226318"
+    }
+  ],
+  "embedding_vector": [
+
+  ]
+}
+{
+  "_id": "",
+  "snomedId": "",
+  "snomedDisplay": "",
+  "acrCommonId": "",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": ""
+    },
+    {
+      "site": "radiopaedia",
+      "url": ""
+    }
+  ],
+   "partOfIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "containedById": 
+    {
+      "code": "",
+      "display": ""
+    },
+     "isAIds": [
+    {
+      "code": "RID478",
+"display": "artery"
+    }
+  ],
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "RID38289",
+  "acrCommonId": "4014559",
+  "snomedId": "285632004",
+  "snomedDisplay": "Structure of middle colic vein",
+  "description": "middle colic vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15406"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226748"
+    },
+    {
+      "system": "TA2",
+      "code": "5122",
+      "display": "middle colic vein"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Middle_colic_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/superior-mesenteric-vein?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

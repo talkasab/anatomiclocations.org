@@ -1,0 +1,44 @@
+{
+  "_id": "RID38290",
+  "acrCommonId": "4014901",
+  "snomedId": "285564001",
+  "snomedDisplay": "Structure of right colic vein",
+  "description": "right colic vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15407"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226747"
+    },
+    {
+      "system": "TA2",
+      "code": "5121",
+      "display": "right colic vein"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_colic_vein"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_id": "RID38291",
+  "acrCommonId": "4013949",
+  "snomedId": "285463009",
+  "snomedDisplay": "Structure of ileocolic vein",
+  "description": "ileocolic vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15408"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226744"
+    },
+    {
+      "system": "TA2",
+      "code": "5119",
+      "display": "ileocolic vein"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ileocolic_vein"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "RID31748",
+  "acrCommonId": "4013860",
+  "snomedId": "69039008",
+  "snomedDisplay": "Structure of gallbladder fossa of liver",
+  "description": "fossa for gallbladder",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "synonyms": ["gallbladder fossa"],
+  "partOfRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14494"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227511"
+    },
+    {
+      "system": "TA2",
+      "code": "3035",
+      "display": "Fossa for gallbladder"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/w/index.php?search=fossa+for+gallbladder&title=Special%3ASearch&ns0=1"
+    }
+  ]
+}

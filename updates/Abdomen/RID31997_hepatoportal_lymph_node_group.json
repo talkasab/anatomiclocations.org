@@ -1,0 +1,33 @@
+{
+  "_id": "RID31997",
+  "acrCommonId": "4013934",
+  "description": "hepatoportal lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["Portahepatis lymph node group"],
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "278134"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0447156"
+    }
+  ],
+  "definition": "Abdominal proper lymph node group which is located along the trunk of portal vein.",
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID13296",
+      "display": "lymph node"
+    }
+  ]
+}

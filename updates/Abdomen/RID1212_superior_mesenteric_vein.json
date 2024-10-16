@@ -1,0 +1,42 @@
+{
+  "_id": "RID1212",
+  "acrCommonId": "4015331",
+  "snomedId": "90771006",
+  "snomedDisplay": "Structure of superior mesenteric vein",
+  "description": "superior mesenteric vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5113",
+      "display": "superior mesenteric vein"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superior_mesenteric_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/superior-mesenteric-vein?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13184",
+      "display": "venous system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

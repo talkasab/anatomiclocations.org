@@ -1,0 +1,43 @@
+{
+  "_id": "RID31919",
+  "acrCommonId": "4013880",
+  "snomedId": "314730000",
+  "snomedDisplay": "Lymph node of stomach",
+  "description": "gastric lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": [
+    "gastric lymph nodes set",
+    "gastric lymph nodes",
+    "set of gastric lymph nodes"
+  ],
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "75276"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gastric_lymph_nodes"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/gastric-lymph-node-stations-1?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13296",
+      "display": "lymph node"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "RID31968",
+  "acrCommonId": "4014535",
+  "snomedId": "303139006",
+  "snomedDisplay": "Mesenteric artery lymph node group",
+  "description": "mesenteric lymph node group",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": ["mesenteric lymph nodes", "set of mesenteric lymph nodes"],
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "277405"
+    }
+  ],
+  "definition": "Superior mesenteric lymph node group located around branches of superior mesenteric artery to the jejunum and ileum.",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/w/index.php?fulltext=1&search=mesenteric+lymph+node+group&title=Special%3ASearch&ns0=1"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13296",
+      "display": "lymph node"
+    }
+  ]
+}

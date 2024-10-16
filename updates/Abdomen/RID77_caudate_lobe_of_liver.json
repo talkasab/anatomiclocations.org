@@ -1,0 +1,44 @@
+{
+  "_id": "RID77",
+  "acrCommonId": "4013589",
+  "snomedId": "71133005",
+  "snomedDisplay": "Structure of caudate lobe of liver",
+  "description": "caudate lobe of liver",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "synonyms": [
+    "segment I of liver",
+    "couinaud hepatic segment I",
+    "posterior liver",
+    "segmentum hepatis I",
+    "lobus caudatus hepatis",
+    "pars posterior hepatis",
+    "posterior part of liver",
+    "posterior hepatic segment I",
+    "pars posterior hepatis",
+    "segmentum hepatis I"
+  ],
+  "partOfRef": {
+    "id": "RID74",
+    "display": "right lobe of liver"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3073",
+      "display": "Posterior segment of liver"
+    },
+    {
+      "system": "FMA",
+      "code": "13365"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227489"
+    }
+  ],
+  "embedding_vector": []
+}

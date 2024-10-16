@@ -1,0 +1,70 @@
+{
+  "_id": "RID942",
+  "acrCommonId": "4015339",
+  "snomedId": "2539000",
+  "snomedDisplay": "Structure of superior rectal artery",
+  "description": "superior rectal artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": ["superior hemorrhoidal artery", "arteria rectalis superior"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14832"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226331"
+    }
+  ],
+  "embedding_vector": [
+
+  ]
+}
+{
+  "_id": "",
+  "snomedId": "",
+  "snomedDisplay": "",
+  "acrCommonId": "",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": ""
+    },
+    {
+      "site": "radiopaedia",
+      "url": ""
+    }
+  ],
+   "partOfIds": [
+    {
+      "code": "",
+      "display": ""
+    }
+  ],
+  "containedById": 
+    {
+      "code": "",
+      "display": ""
+    },
+     "isAIds": [
+    {
+      "code": "RID478",
+"display": "artery"
+    }
+  ],
+}

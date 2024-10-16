@@ -1,0 +1,48 @@
+{
+  "_id": "RID929",
+  "acrCommonId": "4014900",
+  "snomedId": "7067009",
+  "snomedDisplay": "Structure of right colic artery",
+  "description": "right colic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14811"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226327"
+    },
+    {
+      "system": "TA2",
+      "code": "4264",
+      "display": "right colic artery"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_colic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-colic-artery?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ]
+}

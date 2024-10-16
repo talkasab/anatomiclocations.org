@@ -1,0 +1,42 @@
+{
+  "_id": "RID1211",
+  "acrCommonId": "4013972",
+  "snomedId": "32859001",
+  "snomedDisplay": "Structure of inferior mesenteric vein",
+  "description": "inferior mesenteric vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5127",
+      "display": "inferior mesenteric vein"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inferior_mesenteric_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/search?q=inferior+mesenteric+vein&scope=all&lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13184",
+      "display": "venous system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

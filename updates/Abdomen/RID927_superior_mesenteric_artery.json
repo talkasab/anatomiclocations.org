@@ -1,0 +1,44 @@
+{
+  "_id": "RID927",
+  "acrCommonId": "4015330",
+  "snomedId": "42258001",
+  "snomedDisplay": "Superior mesenteric artery structure",
+  "description": "superior mesenteric artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": ["SMA"],
+  "definition": "A large vessel supplying the whole length of the small intestine except the superior part of the duodenum. It also supplies the cecum and the ascending part of the colon and about half the transverse part of the colon. It arises from the anterior surface of the aorta below the celiac artery at the level of the first lumbar vertebra. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4252",
+      "display": "superior mesenteric artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superior_mesenteric_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/superior-mesenteric-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ]
+}

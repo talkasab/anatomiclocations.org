@@ -1,0 +1,43 @@
+{
+  "_id": "RID1179",
+  "acrCommonId": "4013931",
+  "snomedId": "8993003",
+  "snomedDisplay": "Structure of hepatic vein",
+  "description": "hepatic vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID58",
+    "display": "liver"
+  },
+  "definition": "Veins which drain the liver. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4994",
+      "display": "hepatic veins"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hepatic_veins"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/hepatic-veins?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13184",
+      "display": "venous system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

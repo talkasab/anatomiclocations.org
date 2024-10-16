@@ -1,0 +1,47 @@
+{
+  "_id": "RID81",
+  "acrCommonId": "4013817",
+  "snomedId": "11978009",
+  "snomedDisplay": "Falciform ligament structure",
+  "description": "falciform ligament",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": [
+    "falciform ligament of liver",
+    "ligamentum falciforme hepatis",
+    "ligamentum falciforme hepatis"
+  ],
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3771",
+      "display": "falciform ligament"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Falciform_ligament"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/falciform-ligament?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID410",
+      "display": "peritoneum"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID6071",
+      "display": "ligament"
+    }
+  ]
+}
