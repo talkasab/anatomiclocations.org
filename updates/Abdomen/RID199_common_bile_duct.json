@@ -1,0 +1,42 @@
+{
+  "_id": "RID199",
+  "acrCommonId": "4013630",
+  "snomedId": "79741001",
+  "snomedDisplay": "Common bile duct structure",
+  "description": "common bile duct",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["CBD", "Bile duct"],
+  "partOfRef": {
+    "id": "RID33652",
+    "display": "biliary tree"
+  },
+  "definition": "The largest bile duct. It is formed by the junction of the cystic duct and the common hepatic duct. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3103",
+      "display": "Bile duct"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Common_bile_duct"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/common-bile-duct-2?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID191",
+      "display": "bile duct"
+    }
+  ]
+}

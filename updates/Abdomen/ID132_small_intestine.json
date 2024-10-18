@@ -1,0 +1,52 @@
+{
+  "_id": "RID132",
+  "acrCommonId": "4015260",
+  "snomedId": "30315005",
+  "snomedDisplay": "Small intestinal structure",
+  "description": "small intestine",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID32954",
+    "display": "abdominal cavity"
+  },
+  "synonyms": ["small bowel"],
+  "partOfRef": {
+    "id": "RID94",
+    "display": "gastrointestinal tract"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID134",
+      "display": "duodenum"
+    },
+    {
+      "id": "RID150",
+      "display": "ileum"
+    },
+    {
+      "id": "RID148",
+      "display": "jejunum"
+    }
+  ],
+  "definition": "Organ with organ cavity which is continuous proximally with the stomach and distally with the large intestine. [FMA]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2933",
+      "display": "Small intestine"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Small_intestine"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

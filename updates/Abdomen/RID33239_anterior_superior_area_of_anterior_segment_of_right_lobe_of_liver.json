@@ -11,6 +11,7 @@
     "id": "RID74",
     "display": "right lobe of liver"
   },
+  "synonyms": ["segment VIII"],
   "embedding_vector": [],
   "codes": [
     {
@@ -20,6 +21,11 @@
     {
       "system": "UMLS",
       "code": "C0733957"
+    },
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
     }
   ]
 }

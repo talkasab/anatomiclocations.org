@@ -1,5 +1,5 @@
 {
- "_id": "RID33241",
+  "_id": "RID33241",
   "acrCommonId": "4014771",
   "description": "posterior superior area of posterior segment of right lobe of liver",
   "region": "Abdomen",
@@ -12,14 +12,20 @@
     "display": "right lobe of liver"
   },
   "embedding_vector": [],
+  "synonyms": ["segment VII"],
   "codes": [
-       {
+    {
       "system": "FMA",
       "code": "14510"
     },
     {
       "system": "UMLS",
       "code": "C0733959"
+    },
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
     }
   ]
 }

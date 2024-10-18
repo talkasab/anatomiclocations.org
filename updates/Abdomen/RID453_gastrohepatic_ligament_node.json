@@ -1,0 +1,41 @@
+{
+  "_id": "RID453",
+  "acrCommonId": "4013886",
+  "description": "gastrohepatic ligament node",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": [
+    "lesser curve/gastrohepatic ligament node",
+    "lesser curvature/gastrohepatic ligament node"
+  ],
+  "partOfRef": {
+    "id": "RID28854",
+    "display": "abdominal lymph node group"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "265341"
+    },
+    {
+      "system": "UMLS",
+      "code": "C2950989"
+    }
+  ],
+  "embedding_vector": [],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13296",
+      "display": "lymph node"
+    }
+  ]
+}

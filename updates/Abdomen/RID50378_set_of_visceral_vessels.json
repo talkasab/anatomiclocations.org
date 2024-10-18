@@ -1,0 +1,184 @@
+{
+  "_id": "RID50378",
+  "acrCommonId": "4015246",
+  "description": "set of visceral vessels",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["visceral vessels"],
+  "partOfRef": {
+    "id": "RID13183",
+    "display": "arterial system"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID34819",
+      "display": "adrenal vein"
+    },
+    {
+      "id": "RID1183",
+      "display": "right adrenal vein"
+    },
+    {
+      "id": "RID1185",
+      "display": "left adrenal vein"
+    },
+    {
+      "id": "RID13091",
+      "display": "inferior epigastric artery"
+    },
+    {
+      "id": "RID13091_RID5824",
+      "display": "left inferior epigastric artery"
+    },
+    {
+      "id": "RID13091_RID5825",
+      "display": "right inferior epigastric artery"
+    },
+    {
+      "id": "RID35951",
+      "display": "pancreatic artery"
+    },
+    {
+      "id": "RID922",
+      "display": "dorsal pancreatic artery"
+    },
+    {
+      "id": "RID923",
+      "display": "great pancreatic artery"
+    },
+    {
+      "id": "RID38122",
+      "display": "inferior pancreatic artery"
+    },
+    {
+      "id": "RID912",
+      "display": "superior pancreaticoduodenal artery"
+    },
+    {
+      "id": "RID928",
+      "display": "inferior pancreaticoduodenal artery"
+    },
+    {
+      "id": "RID38296",
+      "display": "pancreatic tributary of splenic vein"
+    },
+    {
+      "id": "RID38289",
+      "display": "middle colic vein"
+    },
+    {
+      "id": "RID38291",
+      "display": "ileocolic vein"
+    },
+    {
+      "id": "RID38290",
+      "display": "right colic vein"
+    },
+    {
+      "id": "RID38297",
+      "display": "short gastric vein"
+    },
+    {
+      "id": "RID38283",
+      "display": "left gastric vein"
+    },
+    {
+      "id": "RID38284",
+      "display": "right gastric vein"
+    },
+    {
+      "id": "RID38281",
+      "display": "right gastroepiploic vein"
+    },
+    {
+      "id": "RID38298",
+      "display": "left gastroepiploic vein"
+    },
+    {
+      "id": "RID911",
+      "display": "right gastroepiploic artery"
+    },
+    {
+      "id": "RID925",
+      "display": "left gastroepiploic artery"
+    },
+    {
+      "id": "RID931",
+      "display": "middle colic artery"
+    },
+    {
+      "id": "RID934",
+      "display": "ileocolic artery"
+    },
+    {
+      "id": "RID940",
+      "display": "left colic artery"
+    },
+    {
+      "id": "RID929",
+      "display": "right colic artery"
+    },
+    {
+      "id": "RID13087",
+      "display": "superior vesical artery"
+    },
+    {
+      "id": "RID13087_RID5824",
+      "display": "left superior vesical artery"
+    },
+    {
+      "id": "RID13087_RID5825",
+      "display": "right superior vesical artery"
+    },
+    {
+      "id": "RID13086",
+      "display": "inferior vesical artery"
+    },
+    {
+      "id": "RID13086_RID5824",
+      "display": "left inferior vesical artery"
+    },
+    {
+      "id": "RID13086_RID5825",
+      "display": "right inferior vesical artery"
+    },
+    {
+      "id": "RID956",
+      "display": "middle rectal artery"
+    },
+    {
+      "id": "RID956_RID5824",
+      "display": "left middle rectal artery"
+    },
+    {
+      "id": "RID956_RID5825",
+      "display": "right middle rectal artery"
+    },
+    {
+      "id": "RID942",
+      "display": "superior rectal artery"
+    },
+    {
+      "id": "RID1208",
+      "display": "portal vein"
+    },
+    {
+      "id": "RID34469",
+      "display": "right portal vein"
+    },
+    {
+      "id": "RID34470",
+      "display": "left portal vein"
+    }
+  ],
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C4489454"
+    }
+  ],
+  "embedding_vector": []
+}

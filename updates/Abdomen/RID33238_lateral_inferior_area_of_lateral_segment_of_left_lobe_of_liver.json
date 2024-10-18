@@ -12,6 +12,7 @@
     "display": "left lobe of liver"
   },
   "embedding_vector": [],
+  "synonyms": ["segment III"],
   "codes": [
     {
       "system": "FMA",
@@ -20,6 +21,11 @@
     {
       "system": "UMLS",
       "code": "C0733963"
+    },
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
     }
   ]
 }

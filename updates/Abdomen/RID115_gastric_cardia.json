@@ -1,0 +1,34 @@
+{
+  "_id": "RID115",
+  "acrCommonId": "4013878",
+  "snomedId": "62898002",
+  "snomedDisplay": "Cardia structure",
+  "description": "gastric cardia",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "synonyms": ["cardia", "cardial part of stomach"],
+  "partOfRef": {
+    "id": "RID114",
+    "display": "stomach"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14561"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0007144"
+    },
+    {
+      "system": "TA2",
+      "code": "2920",
+      "display": "cardia"
+    }
+  ],
+  "definition": "That part of the stomach close to the opening from esophagus into the stomach (cardiac orifice), the esophagogastric junction. The cardia is so named because of its closeness to the heart. Cardia is characterized by the lack of acid-forming cells (gastric parietal cells). [MeSH]",
+  "embedding_vector": []
+}

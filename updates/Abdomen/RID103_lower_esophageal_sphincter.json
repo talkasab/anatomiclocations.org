@@ -1,0 +1,31 @@
+{
+  "_id": "RID103",
+  "acrCommonId": "4014456",
+  "snomedId": "19898001",
+  "snomedDisplay": "Inferior esophageal sphincter structure",
+  "description": "lower esophageal sphincter",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["lES", "Inferior esophageal sphincter"],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "63048"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227192"
+    }
+  ],
+  "definition": "The physiologic or functional barrier to gastroesophageal reflux at the esophagogastric junction. Sphincteric muscles remain tonically contracted during the resting state and form the high-pressure zone separating the lumen of the esophagus from that of the stomach. (Haubrich et al, Bockus Gastroenterology, 5th ed., pp399, 415) [MeSH]",
+  "embedding_vector": [],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "astrointestinal tract"
+    }
+  ]
+}

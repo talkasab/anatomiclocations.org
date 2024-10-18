@@ -1,0 +1,38 @@
+{
+  "_id": "RID410",
+  "acrCommonId": "4014712",
+  "snomedId": "15425007",
+  "snomedDisplay": "Peritoneum (serous membrane) structure",
+  "description": "peritoneum",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "definition": "A membrane of squamous epithelial cells, the mesothelial cells, covered by apical microvilli that allow rapid absorption of fluid and particles in the peritoneal cavity. The peritoneum is divided into parietal and visceral components. The parietal peritoneum covers the inside of the abdominal wall. The visceral peritoneum covers the intraperitoneal organs. The double-layered peritoneum forms the mesentery that suspends these organs from the abdominal wall. [MeSH]",
+  "embedding_vector": [],
+  "synonyms": ["Peritoneal cavity lining"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3729",
+      "display": "Peritoneum"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peritoneum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/peritoneum?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ]
+}

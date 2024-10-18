@@ -1,0 +1,81 @@
+{
+  "_id": "RID49921",
+  "acrCommonId": "4015230",
+  "description": "set of abdominal vessels",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": [
+    "abdominal blood vessels",
+    "vessels of abdomen",
+    "blood vessels of abdomen",
+    "abdominal vessels"
+  ],
+  "partOfRef": {
+    "id": "RID13183",
+    "display": "arterial system"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID836",
+      "display": "superior epigastric artery"
+    },
+    {
+      "id": "RID44829",
+      "display": "right superior epigastric artery"
+    },
+    {
+      "id": "RID44830",
+      "display": "left superior epigastric artery"
+    },
+    {
+      "id": "RID1192",
+      "display": "lumbar vein"
+    },
+    {
+      "id": "RID38762",
+      "display": "inferior phrenic artery"
+    },
+    {
+      "id": "RID38762_RID5824",
+      "display": "left inferior phrenic artery"
+    },
+    {
+      "id": "RID38762_RID5825",
+      "display": "right inferior phrenic artery"
+    },
+    {
+      "id": "RID948",
+      "display": "iliolumbar artery"
+    },
+    {
+      "id": "RID948_RID5824",
+      "display": "left iliolumbar artery"
+    },
+    {
+      "id": "RID948_RID5825",
+      "display": "right iliolumbar artery"
+    },
+    {
+      "id": "RID1176",
+      "display": "ascending lumbar vein"
+    },
+    {
+      "id": "RID1176_RID5824",
+      "display": "left ascending lumbar vein"
+    },
+    {
+      "id": "RID1176_RID5825",
+      "display": "right ascending lumbar vein"
+    }
+  ],
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C0883990"
+    }
+  ],
+  "embedding_vector": []
+}

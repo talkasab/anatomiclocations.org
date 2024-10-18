@@ -1,0 +1,69 @@
+{
+  "_id": "RID204",
+  "acrCommonId": "4015511",
+  "snomedId": "431938005",
+  "snomedDisplay": "Structure of urinary tract proper",
+  "description": "urinary tract",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID237",
+      "display": "bladder"
+    },
+    {
+      "id": "RID205",
+      "display": "kidney"
+    },
+    {
+      "id": "RID29662",
+      "display": "right kidney"
+    },
+    {
+      "id": "RID29663",
+      "display": "left kidney"
+    },
+    {
+      "id": "RID229",
+      "display": "ureter"
+    },
+    {
+      "id": "RID30844",
+      "display": "right ureter"
+    },
+    {
+      "id": "RID30845",
+      "display": "left ureter"
+    },
+    {
+      "id": "RID34890",
+      "display": "urethra"
+    }
+  ],
+  "embedding_vector": [],
+  "synonyms": ["urinary system"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3357",
+      "display": "Urinary system"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Urinary_system"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/urinary-system?lang=us"
+    }
+  ],
+  "partOfRef": {
+    "id": "RID43244",
+    "display": "genitourinary system"
+  }
+}

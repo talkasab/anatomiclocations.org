@@ -1,0 +1,55 @@
+{
+  "_id": "RID32954",
+  "acrCommonId": "4013420",
+  "snomedId": "361473009",
+  "snomedDisplay": "Entire abdominal cavity proper",
+  "description": "abdominal cavity",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID132",
+      "display": "small intestine"
+    }
+  ],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "12266"
+    },
+    {
+      "system": "MESH",
+      "code": "A01.923.047.025"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0230168"
+    },
+    {
+      "system": "TA2",
+      "code": "128",
+      "display": "abdominal cavity"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abdominal_cavity"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/abdominal-cavity?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "synonyms": ["Abdominal cavity space"]
+}

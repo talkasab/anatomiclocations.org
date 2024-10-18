@@ -11,6 +11,7 @@
     "id": "RID69",
     "display": "left lobe of liver"
   },
+  "synonyms": ["segment IVb"],
   "codes": [
     {
       "system": "FMA",
@@ -19,6 +20,11 @@
     {
       "system": "UMLS",
       "code": "C0733961"
+    },
+    {
+      "system": "TA2",
+      "code": "",
+      "display": ""
     }
   ],
   "embedding_vector": []

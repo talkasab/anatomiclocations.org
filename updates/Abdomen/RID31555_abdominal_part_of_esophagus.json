@@ -1,0 +1,35 @@
+{
+  "_id": "RID31555",
+  "acrCommonId": "4013422",
+  "snomedId": "245407007",
+  "snomedDisplay": "Entire abdominal esophagus",
+  "description": "abdominal part of esophagus",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": [""],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "9397"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0227190"
+    },
+    {
+      "system": "TA2",
+      "code": "2898",
+      "display": "Abdominal part of esophagus"
+    }
+  ],
+  "embedding_vector": [],
+  "partOfIds": [
+    {
+      "code": "gastrointestinal tract",
+      "display": "RID94"
+    }
+  ]
+}

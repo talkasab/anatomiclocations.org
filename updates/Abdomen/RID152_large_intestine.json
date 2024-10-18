@@ -1,0 +1,90 @@
+{
+  "_id": "RID152",
+  "acrCommonId": "4014040",
+  "snomedId": "14742008",
+  "snomedDisplay": "Large intestinal structure",
+  "description": "large intestine",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "containsRefs": [
+    {
+      "id": "RID154",
+      "display": "cecum"
+    }
+  ],
+  "synonyms": ["large bowel"],
+  "partOfRef": {
+    "id": "RID94",
+    "display": "gastrointestinal tract"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID157",
+      "display": "ascending colon"
+    },
+    {
+      "id": "RID154",
+      "display": "cecum"
+    },
+    {
+      "id": "RID161",
+      "display": "descending colon"
+    },
+    {
+      "id": "RID158",
+      "display": "hepatic flexure of colon"
+    },
+    {
+      "id": "RID163",
+      "display": "rectum"
+    },
+    {
+      "id": "RID162",
+      "display": "sigmoid colon"
+    },
+    {
+      "id": "RID160",
+      "display": "splenic flexure of colon"
+    },
+    {
+      "id": "RID159",
+      "display": "transverse colon"
+    },
+    {
+      "id": "RID32691",
+      "display": "anal canal"
+    }
+  ],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "25902"
+    },
+    {
+      "system": "TA2",
+      "code": "2963",
+      "display": "large bowel"
+    }
+  ],
+  "definition": "Organ with organ cavity which is continuous proximally with the small intestine and distally with the anal canal. [FMA]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Large_intestine"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/large-intestine-1?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

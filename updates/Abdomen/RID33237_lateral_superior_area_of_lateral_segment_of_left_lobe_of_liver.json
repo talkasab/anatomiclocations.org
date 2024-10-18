@@ -11,6 +11,9 @@
     "id": "RID69",
     "display": "left lobe of liver"
   },
+  "synonyms": [
+    "segment II"
+  ],
   "codes": [
     {
       "system": "FMA",
@@ -19,6 +22,11 @@
     {
       "system": "UMLS",
       "code": "C0733962"
+    },
+    {
+      "system": "TA2",
+      "code": "3068",
+      "display": "Left posterior lateral segment of liver"
     }
   ],
   "embedding_vector": []

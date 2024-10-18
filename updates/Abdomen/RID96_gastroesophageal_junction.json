@@ -1,0 +1,24 @@
+{
+  "_id": "RID96",
+  "acrCommonId": "4013884",
+  "snomedId": "25271004",
+  "snomedDisplay": "Cardioesophageal junction structure",
+  "description": "gastroesophageal junction",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": [
+    "esophagogastric junction",
+    "EG junction",
+    "gastro-esophageal junction",
+    "GE junction"
+  ],
+  "partOfRef": {
+    "id": "RID94",
+    "display": "gastrointestinal tract"
+  },
+  "definition": "The area covering the terminal portion of esophagus and the beginning of stomach at the cardiac orifice. [MeSH]",
+  "embedding_vector": []
+}

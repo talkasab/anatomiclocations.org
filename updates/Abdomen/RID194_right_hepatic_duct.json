@@ -1,0 +1,39 @@
+{
+  "_id": "RID194",
+  "acrCommonId": "4014971",
+  "snomedId": "78000005",
+  "snomedDisplay": "Structure of right hepatic duct",
+  "description": "right hepatic duct",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID33652",
+    "display": "biliary tree"
+  },
+  "synonyms": ["Left intrahepatic duct", "Left hepatic biliary duct"],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "14669"
+    },
+    {
+      "system": "UMLS",
+      "code,": "C0227557"
+    },
+    {
+      "system": "TA2",
+      "code": "3093",
+      "display": "Right hepatic duct"
+    }
+  ],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID191",
+      "display": "bile duct"
+    }
+  ]
+}

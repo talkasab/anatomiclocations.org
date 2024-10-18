@@ -1,0 +1,50 @@
+{
+  "_id": "RID32811",
+  "acrCommonId": "4014588",
+  "description": "musculature of abdomen",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": [
+    "musculature of abdominal wall",
+    "set of muscles of abdomen",
+    "abdominal musculature",
+    "muscles of abdomen"
+  ],
+  "partOfRef": {
+    "id": "RID13209",
+    "display": "musculoskeletal system"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID31602",
+      "display": "transversus abdominis"
+    },
+    {
+      "id": "RID31603",
+      "display": "right transversus abdominis"
+    },
+    {
+      "id": "RID31604",
+      "display": "left transversus abdominis"
+    }
+  ],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "86917"
+    },
+    {
+      "system": "UMLS",
+      "code": "C4239659"
+    },
+    {
+      "system": "TA2",
+      "code": "2356",
+      "display": "Muscles of abdomen"
+    }
+  ],
+  "embedding_vector": []
+}

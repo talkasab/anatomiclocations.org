@@ -1,0 +1,42 @@
+{
+  "_id": "RID201",
+  "acrCommonId": "4013675",
+  "snomedId": "77452001",
+  "snomedDisplay": "Cystic duct structure",
+  "description": "cystic duct",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID33652",
+    "display": "biliary tree"
+  },
+  "definition": "The duct that is connected to the gallbladder and allows the emptying of bile into the common bile duct. [MeSH]",
+  "embedding_vector": [],
+  "synonyms": ["cystcic duct"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3103",
+      "display": "Cystic duct"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cystic_duct"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/cystic-duct?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID191",
+      "display": "bile duct"
+    }
+  ]
+}
