@@ -4,6 +4,7 @@
   "snomedId": "245286003",
   "snomedDisplay": "Celiac lymph node group",
   "description": "celiac lymph node group",
+  "synonyms": ["Celiac lymph nodes", "Celiac ganglion group"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

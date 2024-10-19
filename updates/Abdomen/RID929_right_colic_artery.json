@@ -4,6 +4,7 @@
   "snomedId": "7067009",
   "snomedDisplay": "Structure of right colic artery",
   "description": "right colic artery",
+  "synonyms": ["Right colic artery branch", "Artery of the ascending colon"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

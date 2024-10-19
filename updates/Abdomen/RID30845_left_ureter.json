@@ -4,6 +4,7 @@
   "snomedId": "26559004",
   "snomedDisplay": "Structure of left ureter",
   "description": "left ureter",
+  "synonyms": ["left ureteral tube", "left ureteral duct"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

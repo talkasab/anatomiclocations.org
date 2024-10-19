@@ -4,6 +4,7 @@
   "snomedId": "90771006",
   "snomedDisplay": "Structure of superior mesenteric vein",
   "description": "superior mesenteric vein",
+  "synonyms": ["Vein of the superior mesentery"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID56",

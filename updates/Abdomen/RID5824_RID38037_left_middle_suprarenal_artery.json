@@ -1,7 +1,8 @@
 {
   "_id": "RID5824_RID38037",
-  "description": "leftt middle suprarenal artery",
+  "description": "left middle suprarenal artery",
   "region": "Abdomen",
+  "synonyms": ["left middle adarenal artery"],
   "containedById": {
     "code": "RID431",
     "display": "retroperitoneum"

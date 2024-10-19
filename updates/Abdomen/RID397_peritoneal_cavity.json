@@ -4,6 +4,7 @@
   "snomedId": "83670000",
   "snomedDisplay": "Peritoneal cavity structure",
   "description": "peritoneal cavity",
+  "synonyms": ["Abdominal cavity", "Peritoneal space", "Peritoneal area"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID56",

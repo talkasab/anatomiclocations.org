@@ -4,6 +4,7 @@
   "snomedId": "29392005",
   "snomedDisplay": "Structure of right adrenal gland",
   "description": "right adrenal gland",
+  "synonyms": ["right suprarenal gland"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

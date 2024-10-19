@@ -5,6 +5,7 @@
   "snomedDisplay": "Renal pelvis structure",
   "description": "renal pelvis",
   "region": "Abdomen",
+  "synonyms": ["Pelvis of the kidney", "Renal sinus", "Kidney pelvis"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

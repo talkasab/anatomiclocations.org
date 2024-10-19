@@ -3,6 +3,11 @@
   "snomedId": "71295009",
   "snomedDisplay": " Structure of gastrosplenic ligament (body structure)",
   "description": "gastrosplenic ligament",
+  "synonyms": [
+    "Gastro-splenic ligament",
+    "Gastric-splenic ligament",
+    "Gastrorenal ligament"
+  ],
   "region": "Abdomen",
   "codes": [
     {

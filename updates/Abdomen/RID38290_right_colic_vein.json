@@ -4,6 +4,11 @@
   "snomedId": "285564001",
   "snomedDisplay": "Structure of right colic vein",
   "description": "right colic vein",
+  "synonyms": [
+    "Vein draining the ascending colon",
+    "Right colon vein",
+    "Vein of the right colon"
+  ],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

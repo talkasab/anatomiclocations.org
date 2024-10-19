@@ -4,6 +4,7 @@
   "snomedId": "25308007",
   "snomedDisplay": "Structure of right ureter",
   "description": "right ureter",
+  "synonyms": ["Right ureteral tube", "Right ureteral duct"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

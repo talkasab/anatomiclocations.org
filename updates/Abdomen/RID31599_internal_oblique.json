@@ -4,6 +4,7 @@
   "snomedId": "1179024003",
   "snomedDisplay": "Structure of obliquus internus abdominis muscle",
   "description": "internal oblique",
+  "synonyms": ["internal oblique muscle", "internal abdominal oblique"],
   "region": "Abdomen",
   "codes": [
     {

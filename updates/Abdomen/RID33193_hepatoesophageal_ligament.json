@@ -2,6 +2,10 @@
   "_id": "RID33193",
   "description": "hepatoesophageal ligament",
   "region": "Abdomen",
+  "synonyms": [
+    "Liver-esophagus ligament",
+    "Ligament connecting liver and esophagus"
+  ],
   "codes": [
     {
       "system": "TA2",

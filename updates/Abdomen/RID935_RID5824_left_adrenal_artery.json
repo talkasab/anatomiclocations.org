@@ -4,6 +4,7 @@
   "snomedId": "765044004",
   "snomedDisplay": "Structure of left adrenal artery",
   "description": "left adrenal artery",
+  "synonyms": ["left suprarenal artery"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

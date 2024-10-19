@@ -5,6 +5,7 @@
   "snomedDisplay": "Ileal structure",
   "description": "ileum",
   "region": "Abdomen",
+  "synonyms": ["Final section of the small intestine", "Third part of the small intestine"],
   "containedByRef": {
     "id": "RID397",
     "display": "peritoneal cavity"

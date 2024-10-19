@@ -4,6 +4,7 @@
   "snomedId": "32764006",
   "snomedDisplay": "Portal vein structure",
   "description": "portal vein",
+  "synonyms": ["hepatic portal vein"],
   "region": "Abdomen",
   "codes": [
     {

@@ -3,6 +3,11 @@
   "acrCommonId": "4015105",
   "description": "right psoas major",
   "region": "Abdomen",
+  "synonyms": [
+    "Right psoas major muscle",
+    "Right-side psoas major",
+    "Right major psoas muscle"
+  ],
   "codes": [
     {
       "system": "FMA",

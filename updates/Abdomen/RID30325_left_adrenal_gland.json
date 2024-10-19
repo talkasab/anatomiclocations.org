@@ -4,6 +4,7 @@
   "snomedId": "12003004",
   "snomedDisplay": "Structure of left adrenal gland",
   "description": "left adrenal gland",
+  "synonyms": ["left suprarenal gland"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

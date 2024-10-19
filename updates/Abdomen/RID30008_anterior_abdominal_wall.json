@@ -4,8 +4,13 @@
   "snomedId": "59380008",
   "snomedDisplay": "anterior abdominal wall structure",
   "description": "anterior abdominal wall",
+  "synonyms": [
+    "Abdominal front wall",
+    "Ventral abdominal wall",
+    "Anterior wall of the abdomen"
+  ],
   "region": "Abdomen",
-   "isAIds": [
+  "isAIds": [
     {
       "code": "",
       "display": ""

@@ -4,6 +4,7 @@
   "snomedId": "73239005",
   "snomedDisplay": "Structure of tail of pancreas",
   "description": "tail of pancreas",
+  "synonyms": ["Pancreatic tail", "Distal pancreas"],
   "region": "Abdomen",
   "codes": [
     {

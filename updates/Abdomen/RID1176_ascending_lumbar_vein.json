@@ -4,6 +4,7 @@
   "snomedId": "88004007",
   "snomedDisplay": "Structure of ascending lumbar vein",
   "description": "ascending lumbar vein",
+  "synonyms": ["Ascending lumbar blood vein"],
   "region": "Abdomen",
   "codes": [
     {

@@ -3,6 +3,11 @@
   "snomedId": "3582007",
   "snomedDisplay": "Structure of gastrophrenic ligament (body structure)",
   "description": "gastrophrenic ligament",
+  "synonyms": [
+    "Gastro-phrenic ligament",
+    "Ligament between stomach and diaphragm",
+    "Gastrophrenic fold"
+  ],
   "region": "abdomen",
   "codes": [
     {

@@ -4,6 +4,7 @@
   "snomedId": "31243008",
   "snomedDisplay": "Structure of rectus abdominis muscle",
   "description": "rectus abdominis",
+  "synonyms": ["Rectus abdominal muscle", "Abdominal rectus muscle"],
   "region": "Abdomen",
   "codes": [
     {

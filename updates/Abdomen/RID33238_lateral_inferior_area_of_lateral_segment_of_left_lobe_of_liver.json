@@ -3,6 +3,8 @@
   "acrCommonId": "4014061",
   "description": "lateral inferior area of lateral segment of left lobe of liver",
   "region": "Abdomen",
+  "snomedId": "277957003",
+  "snomedDisplay": " Structure of Couinaud hepatic segment III (body structure)",
   "containedByRef": {
     "id": "RID58",
     "display": "liver"

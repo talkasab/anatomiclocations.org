@@ -5,6 +5,7 @@
   "snomedDisplay": "Structure of inferior mesenteric vein",
   "description": "inferior mesenteric vein",
   "region": "Abdomen",
+  "synonyms": ["Vein of the inferior mesentery"],
   "containedByRef": {
     "id": "RID56",
     "display": "abdomen"

@@ -4,6 +4,7 @@
   "snomedId": "57850000",
   "snomedDisplay": "Structure of celiac artery",
   "description": "celiac artery",
+  "synonyms": ["Celiac trunk"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

@@ -4,6 +4,7 @@
   "snomedId": "30045001",
   "snomedDisplay": "Structure of uncinate process of pancreas",
   "description": "uncinate process of pancreas",
+  "synonyms": ["Pancreatic uncinate process", "Hook-like process of the pancreas"],
   "codes": [
     {
       "system": "TA2",

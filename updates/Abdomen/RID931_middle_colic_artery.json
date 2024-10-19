@@ -4,6 +4,7 @@
   "snomedId": "42881009",
   "snomedDisplay": "Structure of middle colic artery",
   "description": "middle colic artery",
+  "synonyms": ["middle colic artery", "Artery of the transverse colon"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

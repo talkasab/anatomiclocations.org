@@ -4,6 +4,7 @@
   "snomedId": "1230031000",
   "snomedDisplay": "Structure of main pancreatic duct",
   "description": "main pancreatic duct",
+  "synonyms": ["Duct of Wirsung"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID170",

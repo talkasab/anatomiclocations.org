@@ -4,6 +4,7 @@
   "snomedDisplay": "Structure of superior epigastric artery",
   "acrCommonId": "4015323",
   "description": "superior epigastric artery",
+  "synonyms": ["Superior epigastric artery branch"],
   "region": "Abdomen",
   "branchOfRef": {
     "id": "RID823",

@@ -5,6 +5,11 @@
   "snomedDisplay": "Structure of ileocolic vein",
   "description": "ileocolic vein",
   "region": "Abdomen",
+  "synonyms": [
+    "Ileocolic blood vessel",
+    "Vein of the ileocolic region",
+    "Vein draining the ileum and cecum"
+  ],
   "containedByRef": {
     "id": "RID397",
     "display": "peritoneal cavity"

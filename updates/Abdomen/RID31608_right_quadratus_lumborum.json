@@ -3,6 +3,11 @@
   "acrCommonId": "4015110",
   "description": "right quadratus lumborum",
   "region": "Abdomen",
+  "synonyms": [
+    "right quadratus lumborum muscle",
+    "right lumbar quadratus muscle",
+    "right luadratus lumborum muscle of the lower back"
+  ],
   "links": [
     {
       "site": "wikipedia",
@@ -47,5 +52,3 @@
     }
   ]
 }
-
-  

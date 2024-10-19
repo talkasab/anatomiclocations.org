@@ -4,6 +4,11 @@
   "snomedId": "245295006",
   "snomedDisplay": "Common iliac lymph node group",
   "description": "common iliac lymph node group",
+  "synonyms": [
+    "Common iliac lymph nodes",
+    "Iliac lymphatic group",
+    "Lymph nodes of the common iliac region"
+  ],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID2507",

@@ -4,6 +4,7 @@
   "snomedId": "8993003",
   "snomedDisplay": "Structure of hepatic vein",
   "description": "hepatic vein",
+  "synonyms": ["liver vein"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID58",

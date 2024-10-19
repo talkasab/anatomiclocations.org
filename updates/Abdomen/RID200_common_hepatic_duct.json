@@ -4,6 +4,7 @@
   "snomedId": "725502003",
   "snomedDisplay": "Structure of common hepatic duct",
   "description": "common hepatic duct",
+  "synonyms": ["Main hepatic bile duct", "Common liver duct"],
   "region": "Abdomen",
   "codes": [
     {

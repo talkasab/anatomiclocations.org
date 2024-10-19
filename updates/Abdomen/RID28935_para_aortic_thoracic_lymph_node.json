@@ -2,6 +2,7 @@
   "_id": "RID28935",
   "acrCommonId": "4014685",
   "description": "para-aortic thoracic lymph node",
+  "synonyms": ["Para-aortic lymph node", "Thoracic para-aortic lymph node", "Lymph node adjacent to the aorta"],
   "region": "Thorax",
   "containedByRef": {
     "id": "RID1243",

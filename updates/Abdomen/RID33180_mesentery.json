@@ -4,6 +4,11 @@
   "snomedId": "89679009",
   "snomedDisplay": "Mesentery structure",
   "description": "mesentery",
+  "synonyms": [
+    "Mesenteric fold",
+    "Abdominal mesentery",
+    "Peritoneal fold of the intestine"
+  ],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

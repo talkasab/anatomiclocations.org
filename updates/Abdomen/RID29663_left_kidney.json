@@ -4,6 +4,7 @@
   "snomedId": "18639004",
   "snomedDisplay": "Left kidney structure",
   "description": "left kidney",
+  "synonyms": ["Left renal organ", "Left renal gland", "Left-sided kidney"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

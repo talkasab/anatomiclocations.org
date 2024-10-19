@@ -3,6 +3,8 @@
   "acrCommonId": "4014524",
   "description": "medial superior area of medial segment of left lobe of liver",
   "region": "Abdomen",
+  "snomedId": "871688003",
+  "snomedDisplay": "tructure of Couinaud hepatic segment IVa (body structure)",
   "containedByRef": {
     "id": "RID58",
     "display": "liver"
@@ -11,9 +13,7 @@
     "id": "RID69",
     "display": "left lobe of liver"
   },
-  "synonyms": [
-    "segment IVa"
-  ],
+  "synonyms": ["segment IVa"],
   "codes": [
     {
       "system": "FMA",

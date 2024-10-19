@@ -5,6 +5,7 @@
   "snomedDisplay": "Jejunal structure",
   "description": "jejunum",
   "region": "Abdomen",
+  "synonyms": ["Middle section of the small intestine", "Second part of the small intestine"],
   "containedByRef": {
     "id": "RID397",
     "display": "peritoneal cavity"

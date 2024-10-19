@@ -5,6 +5,7 @@
   "snomedDisplay": "Gallbladder structure",
   "description": "gallbladder",
   "region": "Abdomen",
+  "synonyms": ["Bile storage organ", "Biliary sac"],
   "containedByRef": {
     "id": "RID397",
     "display": "peritoneal cavity"

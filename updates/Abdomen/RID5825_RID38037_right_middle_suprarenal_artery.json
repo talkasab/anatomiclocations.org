@@ -2,6 +2,7 @@
   "_id": "RID5825_RID38037",
   "description": "right middle suprarenal artery",
   "region": "Abdomen",
+  "synonyms": ["right middle adenal artery"],
   "containedById": {
     "code": "RID431",
     "display": "retroperitoneum"

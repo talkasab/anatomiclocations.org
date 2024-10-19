@@ -1,6 +1,8 @@
 {
   "_id": "RID33237",
   "acrCommonId": "4014074",
+  "snomedId": "277956007",
+  "snomedDisplay": "Structure of Couinaud hepatic segment II (body structure)",
   "description": "lateral superior area of lateral segment of left lobe of liver",
   "region": "Abdomen",
   "containedByRef": {
@@ -11,9 +13,7 @@
     "id": "RID69",
     "display": "left lobe of liver"
   },
-  "synonyms": [
-    "segment II"
-  ],
+  "synonyms": ["segment II"],
   "codes": [
     {
       "system": "FMA",

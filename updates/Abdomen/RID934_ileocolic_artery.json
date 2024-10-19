@@ -4,6 +4,7 @@
   "snomedId": "120233009",
   "snomedDisplay": "Structure of ileocolic artery",
   "description": "ileocolic artery",
+  "synonyms": ["ileocolic artery branch", "Artery of the ileum and cecum"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

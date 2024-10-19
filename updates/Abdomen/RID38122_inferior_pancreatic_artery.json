@@ -2,6 +2,11 @@
   "_id": "RID38122",
   "acrCommonId": "4013979",
   "description": "inferior pancreatic artery",
+  "synonyms": [
+    "Lower pancreatic artery",
+    "Inferior pancreatic blood vessel",
+    "Artery supplying the lower pancreas"
+  ],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

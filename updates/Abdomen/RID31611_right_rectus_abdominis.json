@@ -3,6 +3,10 @@
   "acrCommonId": "4015116",
   "description": "right rectus abdominis",
   "region": "Abdomen",
+  "synonyms": [
+    "right rectus abdominal muscle",
+    "right abdominal rectus muscle"
+  ],
   "links": [
     {
       "site": "wikipedia",

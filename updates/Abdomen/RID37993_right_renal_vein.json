@@ -4,6 +4,7 @@
   "snomedId": "275910003",
   "snomedDisplay": "Structure of right renal vein",
   "description": "right renal vein",
+  "synonyms": ["right kidney artery"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

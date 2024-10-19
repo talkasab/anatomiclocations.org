@@ -3,7 +3,9 @@
   "acrCommonId": "4014033",
   "description": "L4/L5 lumbar intervertebral disk",
   "region": "Abdomen",
-
+  "synonyms": ["Lumbar disk between L4 and L5"],
+  "snomedId": "243923001",
+  "snomedDisplay": "Level of L4/L5 intervertebral disc (body structure)",
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

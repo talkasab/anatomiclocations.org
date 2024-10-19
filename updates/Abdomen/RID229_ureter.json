@@ -5,6 +5,7 @@
   "snomedDisplay": "Ureteric structure",
   "description": "ureter",
   "region": "Abdomen",
+  "synonyms": ["Ureteral duct", "Ureteric tube", "Urinary duct"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

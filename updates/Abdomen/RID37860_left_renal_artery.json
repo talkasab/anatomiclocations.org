@@ -5,6 +5,7 @@
   "snomedDisplay": "Structure of left renal artery",
   "description": "left renal artery",
   "region": "Abdomen",
+  "synonyms": ["Left kidney artery"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

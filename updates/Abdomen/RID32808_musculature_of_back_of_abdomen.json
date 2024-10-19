@@ -2,6 +2,11 @@
   "_id": "RID32808",
   "acrCommonId": "4014590",
   "description": "musculature of back of abdomen",
+  "synonyms": [
+    "Posterior abdominal muscles",
+    "Back abdominal wall muscles",
+    "Muscles of the posterior abdomen"
+  ],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID32817",

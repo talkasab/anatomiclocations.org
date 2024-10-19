@@ -4,6 +4,7 @@
   "snomedId": "9384000",
   "snomedDisplay": "Structure of lumbar vein",
   "description": "lumbar vein",
+  "synonyms": ["Vein of the lumbar region"],
   "region": "Abdomen",
   "codes": [
     {

@@ -2,6 +2,11 @@
   "_id": "RID31603",
   "acrCommonId": "4015184",
   "description": "right transversus abdominis",
+  "synonyms": [
+    "Right transverse abdominal muscle",
+    "Right transversalis muscle",
+    "Right-side transversus abdominis"
+  ],
   "region": "Abdomen",
   "links": [
     {

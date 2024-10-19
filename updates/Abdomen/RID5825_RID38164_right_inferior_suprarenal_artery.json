@@ -2,6 +2,7 @@
   "_id": "RID5825_RID38164",
   "description": "right inferior suprarenal artery",
   "region": "Abdomen",
+  "synonyms": ["right inferior adrenal artery"],
   "containedById": {
     "code": "RID431",
     "display": "retroperitoneum"

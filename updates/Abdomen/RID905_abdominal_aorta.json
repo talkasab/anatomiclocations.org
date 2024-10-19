@@ -4,6 +4,7 @@
   "snomedId": "7832008",
   "snomedDisplay": "Abdominal aorta structure",
   "description": "abdominal aorta",
+  "synonyms": ["Abdominal portion of the aorta"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

@@ -4,6 +4,7 @@
   "snomedId": "293947007",
   "snomedDisplay": "Structure of iliolumbar artery",
   "description": "iliolumbar artery",
+  "synonyms": ["iliolumbar artery branch"],
   "region": "Abdomen",
   "codes": [
     {

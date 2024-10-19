@@ -4,6 +4,7 @@
   "snomedId": "35366003",
   "snomedDisplay": "Greater omentum structure",
   "description": "greater omentum",
+  "synonyms": ["Gastrocolic omentum"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

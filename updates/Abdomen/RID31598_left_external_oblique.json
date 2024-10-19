@@ -3,6 +3,10 @@
   "acrCommonId": "4014165",
   "description": "left external oblique",
   "region": "Abdomen",
+  "synonyms": [
+    "left external oblique muscle",
+    "left external abdominal oblique"
+  ],
   "links": [
     {
       "site": "wikipedia",

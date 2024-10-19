@@ -4,6 +4,11 @@
   "snomedId": "77778009",
   "snomedDisplay": "Structure of pancreatic lymph node",
   "description": "pancreatic lymph node group",
+  "synonyms": [
+    "Pancreatic lymph nodes",
+    "Lymph nodes of the pancreas",
+    "Pancreatic lymphatic group"
+  ],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID56",

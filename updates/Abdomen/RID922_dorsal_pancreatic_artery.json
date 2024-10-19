@@ -2,6 +2,7 @@
   "_id": "RID922",
   "acrCommonId": "4013754",
   "description": "dorsal pancreatic artery",
+  "synonyms": ["dorsal pancreatic artery branch", "Dorsal artery of the pancreas"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

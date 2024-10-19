@@ -5,6 +5,7 @@
   "snomedDisplay": "Transverse colon structure",
   "description": "transverse colon",
   "region": "Abdomen",
+  "synonyms": ["Transverse colon segment", "Cross colon", "Transverse colonic section"],
   "containedByRef": {
     "id": "RID397",
     "display": "peritoneal cavity"

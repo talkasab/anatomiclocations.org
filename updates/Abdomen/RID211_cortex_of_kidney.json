@@ -4,6 +4,7 @@
   "snomedId": "50403003",
   "snomedDisplay": "Structure of cortex of kidney",
   "description": "cortex of kidney",
+  "synonyms": ["Renal cortex", "Kidney cortex", "Cortical region of the kidney"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

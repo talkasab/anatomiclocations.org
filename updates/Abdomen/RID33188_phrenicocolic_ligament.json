@@ -3,6 +3,11 @@
   "snomedId": "38454006",
   "snomedDisplay": "Structure of phrenicocolic ligament (body structure)",
   "description": "phrenicocolic ligament",
+  "synonyms": [
+    "Colic-phrenic ligament",
+    "Phrenic-colic fold",
+    "Ligament connecting the diaphragm and colon"
+  ],
   "region": "Abdomen",
   "codes": [
     {

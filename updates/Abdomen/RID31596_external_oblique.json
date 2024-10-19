@@ -4,6 +4,7 @@
   "snomedId": "1179025002",
   "snomedDisplay": "Structure of external oblique abdominal muscle",
   "description": "external oblique",
+  "synonyms": ["External oblique muscle", "External abdominal oblique"],
   "region": "Abdomen",
   "codes": [
     {

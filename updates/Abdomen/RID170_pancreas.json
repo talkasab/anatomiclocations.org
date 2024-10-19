@@ -4,6 +4,7 @@
   "snomedId": "15776009",
   "snomedDisplay": "Pancreatic structure",
   "description": "pancreas",
+  "synonyms": ["Pancreatic gland", "Digestive gland", "Endocrine-exocrine gland"],
   "region": "Abdomen",
   "codes": [
     {

@@ -4,6 +4,7 @@
   "snomedId": "285632004",
   "snomedDisplay": "Structure of middle colic vein",
   "description": "middle colic vein",
+  "synonyms": ["Middle colon vein", "Vein of the middle colon"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

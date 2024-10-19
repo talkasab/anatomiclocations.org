@@ -4,6 +4,7 @@
   "snomedId": "18112008",
   "snomedDisplay": "Structure of hepatic artery proper",
   "description": "proper hepatic artery",
+  "synonyms": ["proper hepatic artery branch"],
   "region": "Abdomen",
   "codes": [
     {

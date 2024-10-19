@@ -3,6 +3,11 @@
   "acrCommonId": "4014413",
   "description": "left transversus abdominis",
   "region": "Abdomen",
+  "synonyms": [
+    "Left transverse abdominal muscle",
+    "Left transversalis muscle",
+    "Left-side transversus abdominis"
+  ],
   "links": [
     {
       "site": "wikipedia",

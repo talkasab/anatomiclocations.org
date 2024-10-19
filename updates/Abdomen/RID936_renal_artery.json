@@ -4,6 +4,7 @@
   "snomedId": "2841007",
   "snomedDisplay": "Structure of renal artery",
   "description": "renal artery",
+  "synonyms": ["artery of the kidney"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

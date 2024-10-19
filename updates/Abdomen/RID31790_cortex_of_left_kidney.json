@@ -7,7 +7,7 @@
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": ["left renal cortex"],
+  "synonyms": ["left renal cortex", "Cortex of the left renal organ"],
   "partOfRef": {
     "id": "RID29663",
     "display": "left kidney"

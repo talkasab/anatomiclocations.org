@@ -4,6 +4,7 @@
   "snomedId": "52109002",
   "snomedDisplay": "Structure of cystic artery",
   "description": "cystic artery",
+  "synonyms": ["Cystic arterial supply"],
   "region": "Abdomen",
   "codes": [
     {

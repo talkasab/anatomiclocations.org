@@ -9,6 +9,7 @@
     "id": "RID397",
     "display": "peritoneal cavity"
   },
+  "synonyms": ["liver gland", "hepatic organ"],
   "containsRefs": [
     {
       "id": "RID1179",

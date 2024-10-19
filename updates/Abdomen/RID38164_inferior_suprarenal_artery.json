@@ -1,8 +1,9 @@
 {
   "_id": "RID38164",
-  "snomedId": "21270006",
+  "synonyms": ["inferior adrenal artery"],
   "description": "inferior suprarenal artery",
   "region": "Abdomen",
+  "snomedId": "21270006",
   "snomedDisplay": "Structure of inferior suprarenal artery (body structure)",
   "codes": [
     {

@@ -3,6 +3,11 @@
   "snomedId": "113347009",
   "snomedDisplay": "Structure of phrenicosplenic ligament (body structure)",
   "description": "splenorenal ligament",
+  "synonyms": [
+    "Renosplenic ligament",
+    "Spleen-kidney ligament",
+    "Ligament connecting the spleen and kidne"
+  ],
   "region": "Abdomen",
   "codes": [
     {

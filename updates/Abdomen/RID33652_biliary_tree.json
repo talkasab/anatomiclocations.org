@@ -5,6 +5,7 @@
   "snomedDisplay": "Entire biliary tract",
   "description": "biliary tree",
   "region": "Abdomen",
+  "synonyms": [""],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

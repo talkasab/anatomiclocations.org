@@ -3,6 +3,8 @@
   "acrCommonId": "4014760",
   "description": "posterior inferior area of posterior segment of right lobe of liver",
   "region": "Abdomen",
+  "snomedId": "277960005 ",
+  "snomedDisplay": "Structure of Couinaud hepatic segment VI (body structure)",
   "containedByRef": {
     "id": "RID58",
     "display": "liver"

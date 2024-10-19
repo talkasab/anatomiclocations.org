@@ -3,6 +3,11 @@
   "acrCommonId": "4014335",
   "description": "left psoas minor",
   "region": "Abdomen",
+  "synonyms": [
+    "Left psoas minor muscle",
+    "Left-side psoas minor",
+    "Left minor psoas muscle"
+  ],
   "containedByRef": {
     "id": "RID32817",
     "display": "posterior abdominal wall"

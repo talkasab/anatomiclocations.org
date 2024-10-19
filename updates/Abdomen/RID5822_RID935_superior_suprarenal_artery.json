@@ -4,6 +4,7 @@
   "snomedDisplay": "Structure of superior suprarenal artery (body structure)",
   "description": "superior suprarenal artery",
   "region": "Abdomen",
+  "synonyms": ["superior adrenal artery"],
   "codes": [
     {
       "system": "TA2",

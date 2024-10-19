@@ -4,6 +4,7 @@
   "snomedId": "86493009",
   "snomedDisplay": "Structure of transversus abdominis muscle",
   "description": "transversus abdominis",
+  "synonyms": ["Transverse abdominal muscle", "Transversalis muscle"],
   "region": "Abdomen",
   "codes": [
     {

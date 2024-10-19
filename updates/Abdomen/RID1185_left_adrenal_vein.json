@@ -4,6 +4,7 @@
   "snomedId": "248792009",
   "snomedDisplay": "Structure of left suprarenal vein",
   "description": "left adrenal vein",
+  "synonyms": ["left suprarenal vein"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

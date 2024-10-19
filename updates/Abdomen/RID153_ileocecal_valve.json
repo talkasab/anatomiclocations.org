@@ -5,6 +5,7 @@
   "snomedDisplay": "Ileocecal valve structure",
   "description": "ileocecal valve",
   "region": "Abdomen",
+  "synonyms": ["Ileocecal sphincter", "Ileocecal junction"],
   "containedByRef": {
     "id": "RID397",
     "display": "peritoneal cavity"

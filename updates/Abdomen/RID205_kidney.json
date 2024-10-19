@@ -5,6 +5,7 @@
   "snomedDisplay": "Kidney structure",
   "description": "kidney",
   "region": "Abdomen",
+  "synonyms": ["Renal organ", "Nephric organ", "Renal gland"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

@@ -3,6 +3,8 @@
   "acrCommonId": "4013478",
   "description": "anterior inferior area of anterior segment of right lobe of liver",
   "region": "Abdomen",
+  "snomedId": "277959000",
+  "snomedDisplay": "Structure of Couinaud hepatic segment V (body structure)",
   "containedByRef": {
     "id": "RID58",
     "display": "liver"

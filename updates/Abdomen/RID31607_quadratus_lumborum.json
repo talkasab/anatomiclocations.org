@@ -4,6 +4,11 @@
   "snomedId": "6001004",
   "snomedDisplay": "Structure of quadratus lumborum muscle",
   "description": "quadratus lumborum",
+  "synonyms": [
+    "Quadratus lumborum muscle",
+    "Lumbar quadratus muscle",
+    "Quadratus lumborum muscle of the lower back"
+  ],
   "region": "Abdomen",
   "codes": [
     {

@@ -2,6 +2,11 @@
   "_id": "RID33202",
   "description": "Pancreaticosplenic ligament",
   "region": "Abdomen",
+  "synonyms": [
+    "Spleen-pancreas ligament",
+    "Pancreas-splenic ligament",
+    "Ligament connecting the pancreas and spleen"
+  ],
   "codes": [
     {
       "system": "TA2",

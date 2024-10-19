@@ -5,6 +5,7 @@
   "snomedDisplay": "Gastric fundus structure",
   "description": "gastric fundus",
   "region": "Abdomen",
+  "synonyms": ["Fundus of the stomach", "Upper part of the stomach", "Stomach fundus"],
   "containedByRef": {
     "id": "RID114",
     "display": "stomach"

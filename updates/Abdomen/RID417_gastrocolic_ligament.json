@@ -4,6 +4,7 @@
   "snomedId": "47606005",
   "snomedDisplay": "Structure of gastrocolic ligament",
   "description": "gastrocolic ligament",
+  "synonyms": ["Gastrocolic fold", "Gastric-colonic ligament"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID397",

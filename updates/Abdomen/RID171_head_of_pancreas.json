@@ -4,6 +4,7 @@
   "snomedId": "64163001",
   "snomedDisplay": "Structure of head of pancreas",
   "description": "head of pancreas",
+  "synonyms": ["Pancreatic head"],
   "codes": [
     {
       "system": "TA2",

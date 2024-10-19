@@ -3,6 +3,11 @@
   "acrCommonId": "4014339",
   "description": "left quadratus lumborum",
   "region": "Abdomen",
+  "synonyms": [
+    "left quadratus lumborum muscle",
+    "left lumbar quadratus muscle",
+    "left luadratus lumborum muscle of the lower back"
+  ],
   "codes": [
     {
       "system": "FMA",

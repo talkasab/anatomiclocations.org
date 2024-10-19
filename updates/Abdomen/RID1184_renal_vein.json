@@ -4,6 +4,7 @@
   "snomedId": "56400007",
   "snomedDisplay": "Structure of renal vein",
   "description": "renal vein",
+  "synonyms": ["kidney vein"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

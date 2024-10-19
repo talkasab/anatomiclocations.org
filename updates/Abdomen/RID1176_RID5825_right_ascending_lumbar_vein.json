@@ -3,6 +3,7 @@
   "snomedId": "361667002",
   "snomedDisplay": "Right ascending lumbar vein",
   "description": "right ascending lumbar vein",
+  "synonyms": ["left ascending lumbar blood vein"],
   "region": "Abdomen",
   "codes": [
     {

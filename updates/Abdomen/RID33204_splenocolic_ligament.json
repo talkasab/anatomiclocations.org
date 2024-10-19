@@ -2,6 +2,11 @@
   "_id": "RID33204",
   "description": "Splenocolic ligament",
   "region": "Abdomen",
+  "synonyms": [
+    "Colon-spleen ligament",
+    "Spleen-colic ligament",
+    "Ligament connecting the spleen and colon"
+  ],
   "codes": [
     {
       "system": "TA2",

@@ -4,6 +4,7 @@
   "snomedId": "20038006",
   "snomedDisplay": "Hepatoduodenal ligament structure",
   "description": "hepatoduodenal ligament",
+  "synonyms": ["Hepatoduodenal fold", "Hepatic-duodenal ligament"],
   "region": "Abdomen",
   "codes": [
     {

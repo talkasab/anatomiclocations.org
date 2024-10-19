@@ -3,6 +3,11 @@
   "acrCommonId": "4014687",
   "description": "paracolic lymph node group",
   "region": "Abdomen",
+  "synonyms": [
+    "Paracolic lymph nodes",
+    "Lymph nodes adjacent to the colon",
+    "Paracolic lymphatic group"
+  ],
   "containedByRef": {
     "id": "RID56",
     "display": "abdomen"

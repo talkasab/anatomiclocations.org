@@ -3,6 +3,10 @@
   "acrCommonId": "4014345",
   "description": "left rectus abdominis",
   "region": "Abdomen",
+  "synonyms": [
+    "left rectus abdominal muscle",
+    "left abdominal rectus muscle"
+  ],
   "links": [
     {
       "site": "wikipedia",

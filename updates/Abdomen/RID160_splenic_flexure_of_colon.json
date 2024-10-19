@@ -4,6 +4,7 @@
   "snomedId": "72592005",
   "snomedDisplay": "Structure of left colic flexure",
   "description": "splenic flexure of colon",
+  "synonyms": ["Left colic flexure", "Splenic flexure"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

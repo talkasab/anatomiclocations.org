@@ -4,6 +4,7 @@
   "snomedId": "245381005",
   "snomedDisplay": "Neck of pancreas",
   "description": "neck of pancreas",
+  "synonyms": ["Pancreatic neck"],
   "region": "Abdomen",
   "codes": [
     {

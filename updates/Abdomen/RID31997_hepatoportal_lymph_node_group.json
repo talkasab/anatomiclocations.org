@@ -7,7 +7,11 @@
     "id": "RID56",
     "display": "abdomen"
   },
-  "synonyms": ["Portahepatis lymph node group"],
+  "synonyms": [
+    "Portahepatis lymph node group",
+    "Hepatic portal lymph nodes",
+    "Hepatoportal lymphatic group"
+  ],
   "partOfRef": {
     "id": "RID28854",
     "display": "abdominal lymph node group"

@@ -3,6 +3,7 @@
   "snomedId": "72167002",
   "snomedDisplay": "autonomic nervous system structure (body structure)",
   "description": "autonomic nervous system",
+  "synonyms": ["ANS", "Visceral nervous system"],
   "codes": [
     {
       "system": "TA2",

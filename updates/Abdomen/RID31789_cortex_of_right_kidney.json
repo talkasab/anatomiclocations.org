@@ -3,6 +3,7 @@
   "acrCommonId": "4013664",
   "description": "cortex of right kidney",
   "region": "Abdomen",
+  "synonyms": ["Right renal cortex", "Cortex of the right renal organ"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

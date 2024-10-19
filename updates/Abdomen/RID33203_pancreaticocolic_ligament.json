@@ -1,6 +1,11 @@
 {
   "_id": "RID33203",
   "description": "Pancreaticocolic ligament",
+  "synonyms": [
+    "Colon-pancreas ligament",
+    "Pancreas-colic ligament",
+    "Ligament connecting the pancreas and colon"
+  ],
   "region": "Abdomen",
   "codes": [
     {

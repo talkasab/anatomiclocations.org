@@ -4,6 +4,7 @@
   "snomedId": "89500000",
   "snomedDisplay": "Structure of adrenal artery",
   "description": "adrenal artery",
+  "synonyms": ["suprarenal artery"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

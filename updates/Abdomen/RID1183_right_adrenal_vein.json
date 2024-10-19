@@ -4,6 +4,7 @@
   "snomedDisplay": "Structure of right suprarenal vein",
   "description": "right adrenal vein",
   "region": "Abdomen",
+  "synonyms": ["right suprarenal vein"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

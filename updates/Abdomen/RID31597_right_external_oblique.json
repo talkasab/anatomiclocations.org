@@ -3,6 +3,10 @@
   "acrCommonId": "4014936",
   "description": "right external oblique",
   "region": "Abdomen",
+  "synonyms": [
+    "right external oblique muscle",
+    "right external abdominal oblique"
+  ],
   "links": [
     {
       "site": "wikipedia",

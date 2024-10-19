@@ -5,6 +5,7 @@
   "snomedDisplay": "Structure of left renal vein",
   "description": "left renal vein",
   "region": "Abdomen",
+  "synonyms": ["left kidney vein"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

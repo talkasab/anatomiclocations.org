@@ -2,6 +2,7 @@
   "_id": "RID923",
   "acrCommonId": "4013907",
   "description": "great pancreatic artery",
+  "synonyms": ["Pancreatic artery"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

@@ -5,6 +5,7 @@
   "snomedDisplay": "Ascending colon structure",
   "description": "ascending colon",
   "region": "Abdomen",
+  "synonyms": ["Right colon"],
   "codes": [
     {
       "system": "TA2",

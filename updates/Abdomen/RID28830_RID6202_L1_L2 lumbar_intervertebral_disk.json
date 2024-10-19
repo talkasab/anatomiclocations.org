@@ -2,6 +2,9 @@
   "_id": "RID28830_RID6202",
   "acrCommonId": "4014030",
   "description": "L1/L2 lumbar intervertebral disk",
+  "synonyms": ["Lumbar disk between L1 and L2"],
+  "snomedId": "243920003",
+  "snomedDisplay": "Level of L1/L2 intervertebral disc (body structure)",
   "region": "Abdomen",
   "codes": [
     {

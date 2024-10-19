@@ -5,6 +5,7 @@
   "snomedDisplay": "Structure of right colic flexure",
   "description": "hepatic flexure of colon",
   "region": "Abdomen",
+  "synonyms": ["Right colic flexure", "Hepatic flexure", "Right-angle bend of the colon"],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"

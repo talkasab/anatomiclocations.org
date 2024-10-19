@@ -4,6 +4,11 @@
   "snomedDisplay": "Lesser omentum structure",
   "description": "Lesser omentum",
   "region": "Abdomen",
+  "synonyms": [
+    "Hepatogastric ligament",
+    "Lesser omental fold",
+    "Ligament connecting liver and stomach"
+  ],
   "codes": [
     {
       "system": "TA2",

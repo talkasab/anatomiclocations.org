@@ -4,6 +4,7 @@
   "snomedId": "6544009",
   "snomedDisplay": "Structure of gastrohepatic ligament",
   "description": "gastrohepatic ligament",
+  "synonyms": ["Hepatogastric ligament", "Gastrohepatic fold"],
   "region": "Abdomen",
   "codes": [
     {

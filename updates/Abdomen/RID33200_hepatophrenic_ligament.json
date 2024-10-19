@@ -2,6 +2,10 @@
   "_id": "RID33200",
   "description": "hepatophrenic ligament",
   "region": "Abdomen",
+  "synonyms": [
+    "Liver-diaphragm ligament",
+    "Ligament connecting the liver and diaphragm"
+  ],
   "codes": [
     {
       "system": "TA2",

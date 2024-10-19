@@ -4,6 +4,7 @@
   "snomedId": "244263001",
   "snomedDisplay": "Entire common hepatic artery",
   "description": "common hepatic artery",
+  "synonyms": ["Common hepatic trunk"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

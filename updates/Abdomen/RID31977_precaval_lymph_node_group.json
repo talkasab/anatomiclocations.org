@@ -3,6 +3,7 @@
   "acrCommonId": "4014779",
   "description": "precaval lymph node group",
   "region": "Abdomen",
+  "synonyms": ["Precaval lymph nodes", "Precaval lymphatic group"],
   "containedByRef": {
     "id": "RID56",
     "display": "abdomen"

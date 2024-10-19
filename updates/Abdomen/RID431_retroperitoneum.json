@@ -4,6 +4,7 @@
   "snomedId": "82849001",
   "snomedDisplay": "Retroperitoneal structure",
   "description": "retroperitoneum",
+  "synonyms": ["Retroperitoneal space", "Posterior abdominal cavity"],
   "region": "Abdomen",
   "codes": [
     {

@@ -2,6 +2,10 @@
   "_id": "RID31600",
   "acrCommonId": "4014991",
   "description": "right internal oblique",
+  "synonyms": [
+    "right internal oblique muscle",
+    "right internal abdominal oblique"
+  ],
   "region": "Abdomen",
   "links": [
     {

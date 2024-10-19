@@ -4,6 +4,7 @@
   "snomedId": "32622004",
   "snomedDisplay": "Descending colon structure",
   "description": "descending colon",
+  "synonyms": ["Left colon", "Descending colonic segment"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

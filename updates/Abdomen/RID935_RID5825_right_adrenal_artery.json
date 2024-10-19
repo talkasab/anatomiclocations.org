@@ -4,6 +4,7 @@
   "snomedId": "765048001",
   "snomedDisplay": "Structure of right adrenal artery",
   "description": "right adrenal artery",
+  "synonyms": ["right suprarenal artery"],
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",
