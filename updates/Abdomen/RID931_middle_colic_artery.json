@@ -10,6 +10,10 @@
     "id": "RID397",
     "display": "peritoneal cavity"
   },
+  "branchOfRef": {
+    "code": "RID927",
+    "display": "superior mesenteric artery"
+  },
   "partOfRef": {
     "id": "RID50378",
     "display": "set of visceral vessels"

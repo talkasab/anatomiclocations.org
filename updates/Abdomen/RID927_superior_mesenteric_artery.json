@@ -9,6 +9,10 @@
     "id": "RID397",
     "display": "peritoneal cavity"
   },
+  "branchOfRef": {
+    "code": "RID905",
+    "display": "abdominal aorta"
+  },
   "synonyms": ["SMA"],
   "definition": "A large vessel supplying the whole length of the small intestine except the superior part of the duodenum. It also supplies the cecum and the ascending part of the colon and about half the transverse part of the colon. It arises from the anterior surface of the aorta below the celiac artery at the level of the first lumbar vertebra. [MeSH]",
   "embedding_vector": [],

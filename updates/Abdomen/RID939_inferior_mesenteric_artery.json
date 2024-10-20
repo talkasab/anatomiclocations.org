@@ -5,53 +5,44 @@
   "snomedDisplay": "Structure of inferior mesenteric artery",
   "description": "inferior mesenteric artery",
   "region": "Abdomen",
+  "branchOfRef": {
+    "code": "RID905",
+    "display": "abdominal aorta"
+  },
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"
   },
   "synonyms": ["arteria mesenterica inferior", "arteria mesenterica inferior"],
   "definition": "The artery supplying nearly all the left half of the transverse colon, the whole of the descending colon, the sigmoid colon, and the greater part of the rectum. It is smaller than the superior mesenteric artery (mesenteric artery, superior) and arises from the aorta above its bifurcation into the common iliac arteries. [MeSH]",
-  "embedding_vector": [
-
-  ]
-}
-{
-  "_id": "",
-  "snomedId": "",
-  "snomedDisplay": "",
-  "acrCommonId": "",
+  "embedding_vector": [],
   "codes": [
     {
       "system": "TA2",
-      "code": "",
-      "display": ""
+      "code": "4291",
+      "display": "inferior mesenteric artery"
     }
   ],
   "links": [
     {
       "site": "wikipedia",
-      "url": ""
+      "url": "https://en.wikipedia.org/wiki/Inferior_mesenteric_artery"
     },
     {
       "site": "radiopaedia",
-      "url": ""
+      "url": "https://radiopaedia.org/articles/inferior-mesenteric-artery?lang=us"
     }
   ],
-   "partOfIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ],
-  "containedById": 
-    {
-      "code": "",
-      "display": ""
-    },
-     "isAIds": [
+  "isAIds": [
     {
       "code": "RID478",
-"display": "artery"
+      "display": "artery"
     }
-  ],
+  ]
 }

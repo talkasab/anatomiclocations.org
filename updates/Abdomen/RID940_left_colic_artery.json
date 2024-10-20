@@ -9,10 +9,14 @@
     "id": "RID397",
     "display": "peritoneal cavity"
   },
-  "synonyms": ["arteria colica sinistra"],
+  "synonyms": ["Right colic artery branch", "Artery of the descending colon"],
   "partOfRef": {
     "id": "RID50378",
     "display": "set of visceral vessels"
+  },
+  "branchOfRef": {
+    "code": "RID939",
+    "display": "inferior mesenteric artery"
   },
   "codes": [
     {
@@ -22,49 +26,28 @@
     {
       "system": "UMLS",
       "code": "C0226318"
-    }
-  ],
-  "embedding_vector": [
-
-  ]
-}
-{
-  "_id": "",
-  "snomedId": "",
-  "snomedDisplay": "",
-  "acrCommonId": "",
-  "codes": [
+    },
     {
       "system": "TA2",
-      "code": "",
-      "display": ""
+      "code": "4292",
+      "display": "left colic artery"
     }
   ],
+  "embedding_vector": [],
   "links": [
     {
       "site": "wikipedia",
-      "url": ""
+      "url": "https://en.wikipedia.org/wiki/Left_colic_artery"
     },
     {
       "site": "radiopaedia",
-      "url": ""
+      "url": "https://radiopaedia.org/articles/left-colic-artery?lang=us"
     }
   ],
-   "partOfIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ],
-  "containedById": 
-    {
-      "code": "",
-      "display": ""
-    },
-     "isAIds": [
+  "isAIds": [
     {
       "code": "RID478",
-"display": "artery"
+      "display": "artery"
     }
-  ],
+  ]
 }
