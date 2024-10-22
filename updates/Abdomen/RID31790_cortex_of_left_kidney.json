@@ -2,6 +2,8 @@
   "_id": "RID31790",
   "acrCommonId": "4013662",
   "description": "cortex of left kidney",
+  "snomedId": "50403003_7771000",
+  "snomedDisplay": "Structure of cortex of left kidney",
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",

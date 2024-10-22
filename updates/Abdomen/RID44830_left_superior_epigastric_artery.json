@@ -2,6 +2,8 @@
   "_id": "RID44830",
   "acrCommonId": "4014388",
   "description": "left superior epigastric artery",
+  "snomedId": "34988000_7771000",
+  "snomedDisplay": "Structure of left superior epigastric artery",
   "synonyms": ["left upper epigastric artery"],
   "region": "Abdomen",
   "links": [

@@ -1,6 +1,8 @@
 {
   "_id": "RID5825_RID5822_RID935",
   "description": "right superior suprarenal artery",
+  "snomedId": "91736000_24028007",
+  "snomedDisplay": "Structure of right superior suprarenal artery (body structure)",
   "region": "Abdomen",
   "synonyms": ["right superior adarenal artery"],
   "links": [

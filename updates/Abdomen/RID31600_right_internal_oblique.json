@@ -2,6 +2,8 @@
   "_id": "RID31600",
   "acrCommonId": "4014991",
   "description": "right internal oblique",
+  "snomedId": "1179024003_24028007",
+  "snomedDisplay": "Structure right of obliquus internus abdominis muscle",
   "synonyms": [
     "right internal oblique muscle",
     "right internal abdominal oblique"

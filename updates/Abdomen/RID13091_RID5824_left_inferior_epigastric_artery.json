@@ -1,6 +1,8 @@
 {
   "_id": "RID13091_RID5824",
   "description": "left inferior epigastric artery",
+  "snomedId": "78577000_7771000",
+  "snomedDisplay": "Structure of left inferior epigastric artery (body structure)",
   "region": "Abdomen",
   "synonyms": ["Left inferior epigastric artery branch"],
   "links": [

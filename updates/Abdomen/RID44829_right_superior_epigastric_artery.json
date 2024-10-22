@@ -3,6 +3,8 @@
   "acrCommonId": "4015159",
   "synonyms": ["Right upper epigastric artery"],
   "description": "right superior epigastric artery",
+  "snomedId": "34988000_24028007",
+  "snomedDisplay": "Structure of right superior epigastric artery",
   "region": "Abdomen",
   "branchOfRef": {
     "id": "RID44769",

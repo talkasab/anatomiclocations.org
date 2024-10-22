@@ -2,6 +2,8 @@
   "_id": "RID31604",
   "acrCommonId": "4014413",
   "description": "left transversus abdominis",
+  "snomedId": "86493009_7771000",
+  "snomedDisplay": "Structure of left transversus abdominis muscle",
   "region": "Abdomen",
   "synonyms": [
     "Left transverse abdominal muscle",

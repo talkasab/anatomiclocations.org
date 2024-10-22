@@ -2,6 +2,8 @@
   "_id": "RID31608",
   "acrCommonId": "4015110",
   "description": "right quadratus lumborum",
+  "snomedId": "6001004_24028007",
+  "snomedDisplay": "Structure of right quadratus lumborum muscle",
   "region": "Abdomen",
   "synonyms": [
     "right quadratus lumborum muscle",

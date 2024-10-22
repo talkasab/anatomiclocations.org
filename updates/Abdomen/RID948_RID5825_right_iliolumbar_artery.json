@@ -1,5 +1,7 @@
 {
   "_id": "RID948_RID5825",
+  "snomedId": "293947007_24028007",
+  "snomedDisplay": "Structure of right iliolumbar artery (body structure)",
   "description": "right iliolumbar artery",
   "region": "Abdomen",
   "codes": [
@@ -9,7 +11,7 @@
       "display": ""
     }
   ],
-    "synonyms": ["right iliolumbar artery"],
+  "synonyms": ["right iliolumbar artery"],
   "branchOfRef": {
     "id": "RID945_RID5825",
     "display": "right internal iliac artery"

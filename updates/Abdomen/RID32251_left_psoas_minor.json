@@ -2,6 +2,8 @@
   "_id": "RID32251",
   "acrCommonId": "4014335",
   "description": "left psoas minor",
+  "snomedId": "11192004_7771000",
+  "snomedDisplay": "Structure of left psoas minor muscle",
   "region": "Abdomen",
   "synonyms": [
     "Left psoas minor muscle",

@@ -1,6 +1,8 @@
 {
   "_id": "RID13091_RID5825",
   "description": "right inferior epigastric artery",
+  "snomedId": "78577000_24028007",
+  "snomedDisplay": "Structure of right inferior epigastric artery (body structure)",
   "synonyms": ["right inferior epigastric artery branch"],
   "region": "Abdomen",
   "branchOfRef": {

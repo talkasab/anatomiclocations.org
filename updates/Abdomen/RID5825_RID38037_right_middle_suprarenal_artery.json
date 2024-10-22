@@ -1,6 +1,8 @@
 {
   "_id": "RID5825_RID38037",
   "description": "right middle suprarenal artery",
+  "snomedId": "91735001_24028007",
+  "snomedDisplay": "Structure of right middle suprarenal artery (body structure)",
   "region": "Abdomen",
   "synonyms": ["right middle adenal artery"],
   "containedById": {

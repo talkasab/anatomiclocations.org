@@ -1,6 +1,8 @@
 {
   "_id": "RID948_RID5824",
   "description": "left iliolumbar artery",
+  "snomedId": "293947007_7771000",
+  "snomedDisplay": "Structure of left iliolumbar artery (body structure)",
   "synonyms": ["left iliolumbar artery branch"],
   "region": "Abdomen",
   "links": [

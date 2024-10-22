@@ -2,6 +2,8 @@
   "_id": "RID31611",
   "acrCommonId": "4015116",
   "description": "right rectus abdominis",
+  "snomedId": "31243008_24028007",
+  "snomedDisplay": "Structure of right rectus abdominis muscle",
   "region": "Abdomen",
   "synonyms": [
     "right rectus abdominal muscle",

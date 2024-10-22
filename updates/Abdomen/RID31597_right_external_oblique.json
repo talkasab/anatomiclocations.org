@@ -2,6 +2,8 @@
   "_id": "RID31597",
   "acrCommonId": "4014936",
   "description": "right external oblique",
+  "snomedId": "1179025002_24028007",
+  "snomedDisplay": "Structure of right external oblique abdominal muscle",
   "region": "Abdomen",
   "synonyms": [
     "right external oblique muscle",

@@ -1,6 +1,8 @@
 {
   "_id": "RID5824_RID38164",
   "description": "left inferior suprarenal artery",
+  "snomedId": "21270006_7771000",
+  "snomedDisplay": "Structure of left inferior suprarenal artery (body structure)",
   "region": "Abdomen",
   "synonyms": ["left inferior adarenal artery"],
   "containedById": {

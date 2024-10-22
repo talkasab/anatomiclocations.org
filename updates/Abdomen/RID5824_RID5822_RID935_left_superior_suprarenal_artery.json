@@ -1,8 +1,11 @@
 {
   "_id": "RID5824_RID5822_RID935",
   "description": "left superior suprarenal artery",
+
   "region": "Abdomen",
   "synonyms": ["left superior adrenal artery"],
+  "snomedId": "91736000_7771000",
+  "snomedDisplay": "Structure of left superior suprarenal artery (body structure)",
   "links": [
     {
       "site": "wikipedia",

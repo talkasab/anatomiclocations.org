@@ -2,6 +2,8 @@
   "_id": "RID32013",
   "acrCommonId": "4014132",
   "description": "left common iliac lymph node group",
+  "snomedId": "245295006_7771000",
+  "snomedDisplay": "left common iliac lymph node group",
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID2507",
