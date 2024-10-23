@@ -7,6 +7,8 @@
     "Back abdominal wall muscles",
     "Muscles of the posterior abdomen"
   ],
+  "snomedId": "244951004",
+  "snomedDisplay": "Entire posterior muscle of abdomen (body structure)",
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID32817",

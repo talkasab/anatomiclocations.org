@@ -3,6 +3,8 @@
   "acrCommonId": "4015230",
   "description": "set of abdominal vessels",
   "region": "Abdomen",
+  "snomedId": "818999009",
+  "snomedDisplay": "Structure of blood vessel of abdomen (body structure)",
   "containedByRef": {
     "id": "RID56",
     "display": "abdomen"
