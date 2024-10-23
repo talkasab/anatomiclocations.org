@@ -38,11 +38,5 @@
     "id": "RID56",
     "display": "abdomen"
   },
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }

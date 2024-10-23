@@ -3,6 +3,8 @@
   "acrCommonId": "4014588",
   "description": "musculature of abdomen",
   "region": "Abdomen",
+  "snomedId": "818995003",
+  "snomedDisplay": "Structure of skeletal muscle of abdomen (body structure)",
   "containedByRef": {
     "id": "RID56",
     "display": "abdomen"

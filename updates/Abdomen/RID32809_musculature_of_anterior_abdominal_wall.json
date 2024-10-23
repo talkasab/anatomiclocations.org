@@ -3,6 +3,8 @@
   "acrCommonId": "4014589",
   "description": "musculature of anterior abdominal wall",
   "region": "Abdomen",
+  "snomedId": "424161004",
+  "snomedDisplay": "Structure of anterior muscle of abdomen (body structure)",
   "containedByRef": {
     "id": "RID30008",
     "display": "anterior abdominal wall"
