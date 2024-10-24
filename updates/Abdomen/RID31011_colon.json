@@ -1,0 +1,36 @@
+{
+  "_id": "RID31011",
+  "snomedId": "71854001",
+  "snomedDisplay": "Colon structure (body structure)",
+  "description": "colon",
+  "synonyms": ["large intestine", "large bowel", "large gut"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2981",
+      "display": "colon"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colon"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "containedById": {
+    "code": "RID32954",
+    "display": "abdominal cavity"
+  },
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

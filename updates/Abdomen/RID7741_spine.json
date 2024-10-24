@@ -1,0 +1,85 @@
+{
+  "_id": "RID7741",
+  "acrCommonId": "4015269",
+  "snomedId": "421060004",
+  "snomedDisplay": "Structure of vertebral column",
+  "description": "spine",
+  "region": "Body",
+  "containedByRef": {
+    "id": "RID39569",
+    "display": "whole body"
+  },
+  "synonyms": ["vertebral column", "spinal column"],
+  "hasPartsRefs": [
+    {
+      "id": "RID34571",
+      "display": "cervical vertebral column"
+    },
+    {
+      "id": "RID34573",
+      "display": "lumbar vertebral column"
+    },
+    {
+      "id": "RID34572",
+      "display": "thoracic vertebral column"
+    },
+    {
+      "id": "RID2509",
+      "display": "sacrum"
+    },
+    {
+      "id": "RID29154",
+      "display": "vertebra"
+    },
+    {
+      "id": "RID50392",
+      "display": "cervical intervertebral disk"
+    },
+    {
+      "id": "RID28830",
+      "display": "lumbar intervertebral disk"
+    },
+    {
+      "id": "RID29188",
+      "display": "first sacral vertebra"
+    },
+    {
+      "id": "RID29189",
+      "display": "second sacral vertebra"
+    },
+    {
+      "id": "RID29190",
+      "display": "third sacral vertebra"
+    },
+    {
+      "id": "RID29191",
+      "display": "fourth sacral vertebra"
+    },
+    {
+      "id": "RID29192",
+      "display": "fifth sacral vertebra"
+    },
+    {
+      "id": "RID2524",
+      "display": "coccyx"
+    }
+  ],
+  "definition": "The spinal or vertebral column. [MeSH]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spine"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/lumbar-spine?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID6433",
+      "display": "nervous system"
+    }
+  ]
+}
