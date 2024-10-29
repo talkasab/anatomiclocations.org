@@ -1,15 +1,15 @@
 {
   "_id": "RID31555",
   "acrCommonId": "4013422",
-  "snomedId": "245407007",
-  "snomedDisplay": "Entire abdominal esophagus",
+  "snomedId": "60865004",
+  "snomedDisplay": "Abdominal esophagus structure (body structure)",
   "description": "abdominal part of esophagus",
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "synonyms": [""],
+  "synonyms": ["Distal esophagus", "Abdominal esophagus"],
   "codes": [
     {
       "system": "FMA",
