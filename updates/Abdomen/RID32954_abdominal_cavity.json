@@ -2,7 +2,7 @@
   "_id": "RID32954",
   "acrCommonId": "4013420",
   "snomedId": "361473009",
-  "snomedDisplay": "Entire abdominal cavity proper",
+  "snomedDisplay": "Entire abdominal cavity proper (body structure)",
   "description": "abdominal cavity",
   "region": "Abdomen",
   "containedByRef": {

@@ -2,7 +2,7 @@
   "_id": "RID28854",
   "acrCommonId": "4013421",
   "snomedId": "245284000",
-  "snomedDisplay": "Abdominal lymph node group",
+  "snomedDisplay": "Abdominal lymph node group (body structure)",
   "description": "abdominal lymph node group",
   "region": "Abdomen",
   "containedByRef": {

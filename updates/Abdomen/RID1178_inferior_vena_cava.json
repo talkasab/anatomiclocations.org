@@ -2,7 +2,7 @@
   "_id": "RID1178",
   "acrCommonId": "4013988",
   "snomedId": "64131007",
-  "snomedDisplay": "Inferior vena cava structure",
+  "snomedDisplay": "Inferior vena cava structure (body structure)",
   "description": "inferior vena cava",
   "region": "Abdomen",
   "containedByRef": {

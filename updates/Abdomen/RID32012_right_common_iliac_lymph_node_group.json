@@ -3,7 +3,7 @@
   "acrCommonId": "4014903",
   "description": "right common iliac lymph node group",
   "snomedId": "245295006_24028007",
-  "snomedDisplay": "right common iliac lymph node group",
+  "snomedDisplay": "right common iliac lymph node group(body structure)",
   "region": "Abdomen",
   "containedByRef": {
     "id": "RID2507",
