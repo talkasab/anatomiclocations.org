@@ -1,0 +1,60 @@
+{
+  "_id": "RID925",
+  "acrCommonId": "4014188",
+  "snomedId": "67671005",
+  "snomedDisplay": "Structure of left gastroepiploic artery",
+  "description": "left gastroepiploic artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4248",
+      "display": "Left gastroomental artery"
+    },
+    {
+      "system": "FMA",
+      "code": "14796"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226314"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Left_gastroepiploic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-gastroepiploic-artery?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID921",
+    "display": "splenic artery"
+  },
+
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": [
+    "Left gastroomental artery",
+    "Left inferior gastric artery",
+    "Left gastro-omental artery",
+    "Left gastro-epiploic artery"
+  ],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+
+  "embedding_vector": []
+}

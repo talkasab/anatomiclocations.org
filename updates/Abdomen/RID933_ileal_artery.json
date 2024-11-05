@@ -1,0 +1,41 @@
+{
+  "_id": "RID933",
+  "snomedId": "1581009",
+  "snomedDisplay": "Structure of ileal artery (body structure)",
+  "description": "ileal artery",
+  "region": "pelvic",
+  "synonyms": ["ileal branches of superior mesenteric artery"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4257",
+      "display": "Ileal arteries"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ileal_arteries"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "containedById": {
+    "code": "RID33180",
+    "display": "mesentery"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID927",
+    "display": "superior mesenteric artery"
+  }
+}

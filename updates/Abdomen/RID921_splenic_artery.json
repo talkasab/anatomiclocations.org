@@ -1,0 +1,48 @@
+{
+  "_id": "RID921",
+  "acrCommonId": "4015272",
+  "snomedId": "22083002",
+  "snomedDisplay": "Structure of splenic artery",
+  "description": "splenic artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "synonyms": ["artery to the spleen"],
+  "definition": "The largest branch of the celiac trunk with distribution to the spleen, pancreas, stomach and greater omentum. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4239",
+      "display": "splenic artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Splenic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/splenic-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID906",
+    "display": "celiac artery"
+  }
+}

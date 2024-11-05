@@ -1,0 +1,30 @@
+{
+  "_id": "RID439",
+  "snomedId": "83137009",
+  "snomedDisplay": "Structure of extraperitoneal space (body structure)",
+  "description": "extraperitoneal space",
+  "synonyms": ["preperitoneal space"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3813",
+      "display": "extraperitoneal space"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Extraperitoneal_space"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID32954",
+      "display": "abdominal cavity"
+    }
+  ],
+  "containedById": {
+    "code": "RID31174",
+    "display": "parietal peritoneum"
+  }
+}

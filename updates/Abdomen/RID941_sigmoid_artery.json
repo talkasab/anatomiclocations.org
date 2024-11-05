@@ -1,0 +1,45 @@
+{
+  "_id": "RID941",
+  "snomedId": "76845003",
+  "snomedDisplay": "Structure of sigmoid artery (body structure)",
+  "description": "sigmoid artery",
+  "region": "pelvic",
+  "synonyms": ["arteries of sigmoid colon", "sigmoid mesenteric arteries"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4259",
+      "display": "Sigmoid arteries"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sigmoid_arteries"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/sigmoid-arteries?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "containedById": {
+    "code": "RID33180",
+    "display": "mesentery"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID939",
+    "display": "inferior mesenteric artery"
+  }
+}

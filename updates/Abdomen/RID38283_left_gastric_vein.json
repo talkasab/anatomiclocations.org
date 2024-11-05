@@ -1,0 +1,49 @@
+{
+  "_id": "RID38283",
+  "acrCommonId": "4014186",
+  "snomedId": "49253009",
+  "snomedDisplay": "Structure of left gastric vein",
+  "description": "left gastric vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["left gastric portal vein"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5110",
+      "display": "Left gastric vein"
+    },
+    {
+      "system": "FMA",
+      "code": "15399"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226737"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Left_gastric_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-gastric-vein?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

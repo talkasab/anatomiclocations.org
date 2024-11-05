@@ -1,0 +1,45 @@
+{
+  "_id": "RID38111",
+  "snomedId": "769149003",
+  "snomedDisplay": "Structure of superior posterior pancreaticoduodenal artery (body structure)",
+  "description": "Posterior superior pancreaticoduodenal artery",
+  "region": "Abdomen",
+  "synonyms": ["posterior superior pancreaticoduodenal branch"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4217",
+      "display": "Posterior superior pancreaticoduodenal artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superior_pancreaticoduodenal_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/superior-pancreaticoduodenal-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "containedById": {
+    "code": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID910",
+    "display": "gastroduodenal artery"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_id": "RID38762_RID5824",
+  "snomedId": "29660000_7771000",
+  "snomedDisplay": "Structure of left inferior phrenic artery",
+  "description": "left inferior phrenic artery",
+  "region": "abdomen",
+  "synonyms": ["left lower phrenic artery"],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inferior_phrenic_arteries"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/inferior-phrenic-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "id": "RID49921",
+      "display": "set of abdominal vessels"
+    }
+  ],
+  "containedById": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID905",
+    "display": "abdominal aorta"
+  }
+}

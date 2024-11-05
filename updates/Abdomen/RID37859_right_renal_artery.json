@@ -1,0 +1,38 @@
+{
+  "_id": "RID37859",
+  "acrCommonId": "4015122",
+  "snomedId": "275208009",
+  "snomedDisplay": "Structure of right renal artery",
+  "description": "right renal artery",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID431",
+    "display": "retroperitoneum"
+  },
+  "leftRef": {
+    "id": "RID37860",
+    "display": "left renal artery"
+  },
+  "unsidedRef": {
+    "id": "RID936",
+    "display": "renal artery"
+  },
+  "embedding_vector": [],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID905",
+    "display": "abdominal aorta"
+  },
+  "synonyms": ["right kidney artery", "artery to the right kidney"]
+}

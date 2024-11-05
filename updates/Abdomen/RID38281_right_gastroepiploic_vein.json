@@ -1,0 +1,45 @@
+{
+  "_id": "RID38281",
+  "acrCommonId": "4014960",
+  "snomedId": "20113003",
+  "snomedDisplay": "Structure of right gastroepiploic vein",
+  "description": "right gastroepiploic vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["right gastro-epiploic vein", "right gastro-omental vein"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "15397"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226750"
+    },
+    {
+      "system": "TA2",
+      "code": "5116",
+      "display": "Right gastroomental vein"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_gastroepiploic_vein"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

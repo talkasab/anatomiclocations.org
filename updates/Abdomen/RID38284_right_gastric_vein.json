@@ -1,0 +1,49 @@
+{
+  "_id": "RID38284",
+  "acrCommonId": "4014957",
+  "snomedId": "16625006",
+  "snomedDisplay": "Structure of right gastric vein",
+  "description": "right gastric vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["right gastric portal vein"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5111",
+      "display": "right gastric vein"
+    },
+    {
+      "system": "FMA",
+      "code": "15400"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226738"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_gastric_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-gastric-vein?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "_id": "RID38762",
+  "acrCommonId": "4013982",
+  "snomedId": "29660000",
+  "snomedDisplay": "Structure of inferior phrenic artery",
+  "description": "inferior phrenic artery",
+  "region": "Abdomen",
+  "synonyms": ["lower phrenic artery"],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID49921",
+    "display": "set of abdominal vessels"
+  },
+  "leftRef": {
+    "id": "RID38762_RID5824",
+    "display": "left inferior phrenic artery"
+  },
+  "rightRef": {
+    "id": "RID38762_RID5825",
+    "display": "right inferior phrenic artery"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4206",
+      "display": "Inferior phrenic artery"
+    },
+    {
+      "system": "FMA",
+      "code": "14734"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226406"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inferior_phrenic_arteries"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/inferior-phrenic-artery?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID905",
+    "display": "abdominal aorta"
+  }
+}

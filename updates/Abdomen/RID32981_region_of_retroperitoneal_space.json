@@ -1,0 +1,30 @@
+{
+  "_id": "RID32981",
+  "snomedId": "699600004",
+  "snomedDisplay": "Structure of retroperitoneal space (body structure)",
+  "description": "region of retroperitoneal space",
+  "synonyms": ["space behind peritoneum"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3814",
+      "display": "Retroperitoneal space"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Retroperitoneal_space"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "containedById": {
+    "code": "RID410",
+    "display": "peritoneum"
+  }
+}

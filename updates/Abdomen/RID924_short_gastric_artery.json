@@ -1,0 +1,43 @@
+{
+  "_id": "RID924",
+  "synonyms": ["gastric branches to the fundus"],
+  "description": "short gastric artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4251",
+      "display": "short gastric artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Short_gastric_arteries"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/short-gastric-arteries?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "containedById": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID921",
+    "display": "splenic artery"
+  }
+}

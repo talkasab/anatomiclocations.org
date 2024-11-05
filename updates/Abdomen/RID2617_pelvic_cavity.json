@@ -1,0 +1,31 @@
+{
+  "_id": "RID2617",
+  "snomedId": "816991004",
+  "snomedDisplay": "Structure of cavity of true pelvis (body structure)",
+  "description": "pelvic cavity",
+  "region": "pelvis",
+  "synonyms": ["pelvic space"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "130",
+      "display": "pelvic cavity"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pelvic_cavity"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "containedById": {
+    "code": "RID32979",
+    "display": "abdominopelvic cavity"
+  }
+}

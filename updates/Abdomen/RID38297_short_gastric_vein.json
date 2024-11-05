@@ -1,0 +1,45 @@
+{
+  "_id": "RID38297",
+  "acrCommonId": "4015250",
+  "snomedId": "42321004",
+  "snomedDisplay": "Structure of short gastric vein",
+  "description": "short gastric vein",
+  "region": "Abdomen",
+  "synonyms": ["short gastric portal vein"],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5125",
+      "display": "Short gastric veins"
+    },
+    {
+      "system": "FMA",
+      "code": "15389"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226752"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Short_gastric_veins"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

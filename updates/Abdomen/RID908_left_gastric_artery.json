@@ -1,0 +1,55 @@
+{
+  "_id": "RID908",
+  "acrCommonId": "4014185",
+  "snomedId": "23771002",
+  "snomedDisplay": "Structure of left gastric artery",
+  "description": "left gastric artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4212",
+      "display": "left gastric artery"
+    },
+    {
+      "system": "FMA",
+      "code": "25929"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Left_gastric_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-gastric-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "containedById": {
+    "code": "RID29252",
+    "display": "lesser omentum"
+  },
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID906",
+    "display": "celiac artery"
+  },
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["left gastric vessel"],
+  "embedding_vector": []
+}

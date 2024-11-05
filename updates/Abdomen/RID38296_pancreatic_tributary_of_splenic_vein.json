@@ -1,0 +1,50 @@
+{
+  "_id": "RID38296",
+  "acrCommonId": "4014682",
+  "description": "pancreatic tributary of splenic vein",
+  "region": "Abdomen",
+  "snomedId": "8059004",
+  "snomedDisplay": "Structure of pancreatic vein (body structure)",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5124",
+      "display": "Pancreatic veins"
+    },
+    {
+      "system": "FMA",
+      "code": "15388"
+    },
+    {
+      "system": "UMLS",
+      "code": "C2338322"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pancreatic_veins"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/pancreatic-veins?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ],
+
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["pancreatic vein"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": []
+}

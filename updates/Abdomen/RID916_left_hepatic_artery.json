@@ -1,0 +1,47 @@
+{
+  "_id": "RID916",
+  "acrCommonId": "4014199",
+  "snomedId": "21807003",
+  "snomedDisplay": "Structure of left branch of hepatic artery",
+  "description": "left hepatic artery",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4234",
+      "display": "left hepatic artery"
+    },
+    {
+      "system": "FMA",
+      "code": "7310"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/left-hepatic-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID914",
+    "display": "proper hepatic artery"
+  },
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["left branch of hepatic artery"],
+  "embedding_vector": []
+}

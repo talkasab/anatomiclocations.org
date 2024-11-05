@@ -1,0 +1,43 @@
+{
+  "_id": "RID918",
+  "acrCommonId": "4014970",
+  "snomedId": "69421009",
+  "snomedDisplay": "Structure of right branch of hepatic artery",
+  "description": "right hepatic artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4229",
+      "display": "right hepatic artery"
+    }
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-hepatic-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["right branch of hepatic artery proper"],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID914",
+    "display": "proper hepatic artery"
+  }
+}

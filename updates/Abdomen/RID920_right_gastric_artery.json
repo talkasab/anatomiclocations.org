@@ -1,0 +1,51 @@
+{
+  "_id": "RID920",
+  "acrCommonId": "4014956",
+  "snomedId": "34990004",
+  "snomedDisplay": "Structure of right gastric artery",
+  "description": "right gastric artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4228",
+      "display": "right gastric artery"
+    },
+    {
+      "system": "FMA",
+      "code": "25927"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_gastric_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-gastric-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["right branch of gastric artery"],
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "branchOfRef": {
+    "code": "RID914",
+    "display": "proper hepatic artery"
+  }
+}

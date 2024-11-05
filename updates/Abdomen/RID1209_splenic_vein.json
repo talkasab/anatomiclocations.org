@@ -1,0 +1,44 @@
+{
+  "_id": "RID1209",
+  "acrCommonId": "4015274",
+  "snomedId": "35819009",
+  "snomedDisplay": "Structure of splenic vein",
+  "description": "splenic vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["vena lienalis", "vena splenica", "vena lienalis"],
+  "definition": "Vein formed by the union (at the hilus of the spleen) of several small veins from the stomach, pancreas, spleen and mesentery. [MeSH]",
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5123",
+      "display": "splenic vein"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Splenic_vein"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/splenic-vein?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "id": "RID50378",
+      "display": "set of visceral vessels"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

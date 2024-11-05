@@ -1,0 +1,45 @@
+{
+  "_id": "RID38298",
+  "acrCommonId": "4014189",
+  "snomedId": "68180009",
+  "snomedDisplay": "Structure of left gastroepiploic vein",
+  "description": "left gastroepiploic vein",
+  "region": "Abdomen",
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "synonyms": ["left gastro-epiploic vein", "left gastro-omental vein"],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5126",
+      "display": "Left gastroomental vein"
+    },
+    {
+      "system": "FMA",
+      "code": "15390"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226753"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Left_gastroepiploic_vein"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID1008",
+      "display": "vein"
+    }
+  ]
+}

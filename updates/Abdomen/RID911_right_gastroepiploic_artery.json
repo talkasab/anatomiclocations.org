@@ -1,0 +1,64 @@
+{
+  "_id": "RID911",
+  "acrCommonId": "4014959",
+  "snomedId": "56439003",
+  "snomedDisplay": "Structure of right gastroepiploic artery",
+  "description": "right gastroepiploic artery",
+  "region": "Abdomen",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "4221",
+      "display": "right gastroepiploic artery"
+    },
+    {
+      "system": "FMA",
+      "code": "14781"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0226312"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Right_gastroepiploic_artery"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/right-gastroepiploic-artery?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID13183",
+      "display": "arterial system"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID478",
+      "display": "artery"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID56",
+    "display": "abdomen"
+  },
+  "branchOfRef": {
+    "code": "RID90",
+    "display": "gastroduodenal artery"
+  },
+  "synonyms": [
+    "arteria gastroomentalis dextra",
+    "Right gastroomental artery",
+    "Right gastro-omental artery",
+    "Right gastro-epiploic artery"
+  ],
+  "partOfRef": {
+    "id": "RID50378",
+    "display": "set of visceral vessels"
+  },
+  "embedding_vector": []
+}
