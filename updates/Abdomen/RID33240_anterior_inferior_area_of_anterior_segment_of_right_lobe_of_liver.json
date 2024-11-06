@@ -6,12 +6,12 @@
   "snomedId": "277959000",
   "snomedDisplay": "Structure of Couinaud hepatic segment V (body structure)",
   "containedByRef": {
-    "id": "RID58",
-    "display": "liver"
-  },
-  "partOfRef": {
     "id": "RID74",
     "display": "right lobe of liver"
+  },
+  "partOfRef": {
+    "id": "RID58",
+    "display": "liver"
   },
   "synonyms": ["segment V"],
   "embedding_vector": [],

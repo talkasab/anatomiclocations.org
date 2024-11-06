@@ -46,5 +46,9 @@
     "id": "RID50378",
     "display": "set of visceral vessels"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "branchOfRef": {
+    "code": "RID1209",
+    "display": "splenic vein"
+  }
 }

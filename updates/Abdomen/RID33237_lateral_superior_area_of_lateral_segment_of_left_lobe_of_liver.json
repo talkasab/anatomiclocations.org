@@ -6,12 +6,12 @@
   "description": "lateral superior area of lateral segment of left lobe of liver",
   "region": "Abdomen",
   "containedByRef": {
-    "id": "RID58",
-    "display": "liver"
-  },
-  "partOfRef": {
     "id": "RID69",
     "display": "left lobe of liver"
+  },
+  "partOfRef": {
+    "id": "RID58",
+    "display": "liver"
   },
   "synonyms": ["segment II"],
   "codes": [

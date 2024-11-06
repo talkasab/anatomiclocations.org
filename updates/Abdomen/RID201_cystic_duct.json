@@ -38,5 +38,9 @@
       "code": "RID191",
       "display": "bile duct"
     }
-  ]
+  ],
+  "branchOfRef": {
+    "code": "RID200",
+    "display": "common hepatic duct"
+  }
 }

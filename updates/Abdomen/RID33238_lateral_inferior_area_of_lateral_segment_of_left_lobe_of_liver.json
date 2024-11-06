@@ -6,12 +6,12 @@
   "snomedId": "277957003",
   "snomedDisplay": " Structure of Couinaud hepatic segment III (body structure)",
   "containedByRef": {
-    "id": "RID58",
-    "display": "liver"
-  },
-  "partOfRef": {
     "id": "RID69",
     "display": "left lobe of liver"
+  },
+  "partOfRef": {
+    "id": "RID58",
+    "display": "liver"
   },
   "embedding_vector": [],
   "synonyms": ["segment III"],
