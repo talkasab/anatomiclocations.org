@@ -2,15 +2,14 @@
   "_id": "RID33652",
   "acrCommonId": "4013546",
   "snomedId": "181267003",
-  "snomedDisplay": "Entire biliary tree (body structure)",
+  "snomedDisplay": "Entire biliary tract",
   "description": "biliary tree",
   "region": "Abdomen",
-  "synonyms": [""],
   "containedByRef": {
     "id": "RID431",
     "display": "retroperitoneum"
   },
-  "hasPartsRefs": [
+  "branchOfId": [
     {
       "id": "RID199",
       "display": "common bile duct"
@@ -59,5 +58,9 @@
       "code": "RID13203",
       "display": "organ"
     }
-  ]
+  ],
+  "partOfRef": {
+    "id": "RID28753",
+    "display": "biliary system"
+  }
 }
