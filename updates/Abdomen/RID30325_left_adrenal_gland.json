@@ -44,9 +44,5 @@
       "code": "RID13203",
       "display": "organ"
     }
-  ],
-  "partOfRef": {
-    "id": "",
-    "display": ""
-  }
+  ]
 }
