@@ -1,0 +1,137 @@
+{
+  "_id": "RID39569",
+  "acrCommonId": "4013399",
+  "snomedId": "261188006",
+  "snomedDisplay": "Whole body",
+  "description": "whole body",
+  "region": "Body",
+  "synonyms": ["entire body", "full body", "human body"],
+  "containedByRef": {
+    "id": "RID39569",
+    "display": "whole body"
+  },
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_body"
+    }
+  ],
+  "containsRefs": [
+    {
+      "id": "RID56",
+      "display": "abdomen"
+    },
+    {
+      "id": "RID480",
+      "display": "aorta"
+    },
+    {
+      "id": "RID29955",
+      "display": "accessory breast"
+    },
+    {
+      "id": "RID9080",
+      "display": "head"
+    },
+    {
+      "id": "RID7488",
+      "display": "neck"
+    },
+    {
+      "id": "RID2507",
+      "display": "pelvis"
+    },
+    {
+      "id": "RID7741",
+      "display": "spine"
+    },
+    {
+      "id": "RID1243",
+      "display": "thorax"
+    },
+    {
+      "id": "RID39569",
+      "display": "whole body"
+    },
+    {
+      "id": "RID2638",
+      "display": "lower extremity"
+    },
+    {
+      "id": "RID2638_RID5824",
+      "display": "left lower extremity"
+    },
+    {
+      "id": "RID2638_RID5825",
+      "display": "right lower extremity"
+    },
+    {
+      "id": "RID1850",
+      "display": "upper extremity"
+    },
+    {
+      "id": "RID1850_RID5824",
+      "display": "left upper extremity"
+    },
+    {
+      "id": "RID1850_RID5825",
+      "display": "right upper extremity"
+    },
+    {
+      "id": "RID16280",
+      "display": "set of autonomic nerves"
+    },
+    {
+      "id": "RID13183",
+      "display": "arterial system"
+    },
+    {
+      "id": "RID30781",
+      "display": "back"
+    },
+    {
+      "id": "RID29154",
+      "display": "vertebra"
+    },
+    {
+      "id": "RID28847",
+      "display": "lymph node group"
+    },
+    {
+      "id": "RID13209",
+      "display": "musculoskeletal system"
+    },
+    {
+      "id": "RID789",
+      "display": "anterior spinal artery"
+    },
+    {
+      "id": "RID44638",
+      "display": "right anterior spinal artery"
+    },
+    {
+      "id": "RID44639",
+      "display": "left anterior spinal artery"
+    },
+    {
+      "id": "RID7361",
+      "display": "spinal cord"
+    },
+    {
+      "id": "RID17726",
+      "display": "tract of spinal cord"
+    }
+  ],
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C0017421"
+    },
+    {
+      "system": "TA2",
+      "code": "96",
+      "display": "human body"
+    }
+  ],
+  "embedding_vector": []
+}

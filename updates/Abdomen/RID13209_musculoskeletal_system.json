@@ -1,0 +1,71 @@
+{
+  "_id": "RID13209",
+  "acrCommonId": "4014595",
+  "snomedId": "26107004",
+  "snomedDisplay": "Musculoskeletal structure",
+  "description": "musculoskeletal system",
+  "region": "Body",
+  "synonyms": ["bone an muscle system", "movement system"],
+  "containedByRef": {
+    "id": "RID39569",
+    "display": "whole body"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID32793",
+      "display": "musculature of perineum"
+    },
+    {
+      "id": "RID32755",
+      "display": "musculature of thorax"
+    },
+    {
+      "id": "RID32809",
+      "display": "musculature of anterior abdominal wall"
+    },
+    {
+      "id": "RID32807",
+      "display": "musculature of back of thorax"
+    },
+    {
+      "id": "RID32808",
+      "display": "musculature of back of abdomen"
+    },
+    {
+      "id": "RID32811",
+      "display": "musculature of abdomen"
+    }
+  ],
+  "codes": [
+    {
+      "system": "FMA",
+      "code": "7482"
+    },
+    {
+      "system": "MESH",
+      "code": "A02"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0026860"
+    },
+    {
+      "system": "TA2",
+      "code": "351",
+      "display": "musculoskeletal system"
+    }
+  ],
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_musculoskeletal_system"
+    }
+  ],
+  "partOfIds": [
+    {
+      "id": "RID39569",
+      "display": "whole body"
+    }
+  ]
+}

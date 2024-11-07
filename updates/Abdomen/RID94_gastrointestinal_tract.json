@@ -1,0 +1,76 @@
+{
+  "_id": "RID94",
+  "acrCommonId": "4013887",
+  "snomedId": "122865005",
+  "snomedDisplay": "Gastrointestinal tract structure",
+  "description": "gastrointestinal tract",
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2773",
+      "display": "Digestive system"
+    },
+    {
+      "system": "FMA",
+      "code": "25912"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gastrointestinal_tract"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/gastrointestinal-tract?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID39569",
+      "display": "whole body"
+    }
+  ],
+  "containedByRef": {
+    "id": "RID1243",
+    "display": "thorax"
+  },
+  "synonyms": [
+    "GI tract",
+    "gastro-intestinal system",
+    "gastrointestinal system",
+    "digestive system"
+  ],
+  "hasPartsRefs": [
+    {
+      "id": "RID168",
+      "display": "appendix"
+    },
+    {
+      "id": "RID95",
+      "display": "esophagus"
+    },
+    {
+      "id": "RID96",
+      "display": "gastroesophageal junction"
+    },
+    {
+      "id": "RID153",
+      "display": "ileocecal valve"
+    },
+    {
+      "id": "RID152",
+      "display": "large intestine"
+    },
+    {
+      "id": "RID132",
+      "display": "small intestine"
+    },
+    {
+      "id": "RID114",
+      "display": "stomach"
+    }
+  ],
+  "definition": "Generally refers to the digestive structures stretching from the mouth to anus, but does not include the accessory glandular organs (liver; biliary tract; pancreas). [MeSH]",
+  "embedding_vector": []
+}

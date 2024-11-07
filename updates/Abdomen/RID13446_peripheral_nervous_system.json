@@ -1,0 +1,35 @@
+{
+  "_id": "RID13446",
+  "snomedId": "3058005",
+  "snomedDisplay": "Peripheral nervous system structure (body structure)",
+  "description": "peripheral nervous system",
+  "region": "Body",
+  "synonyms": ["peripheral nerve system", "peripheral nerve network"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "6129",
+      "display": "peripheral nervous syst"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peripheral_nervous_system"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/peripheral-nervous-system?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "id": "RID39569",
+      "display": "whole body"
+    }
+  ],
+  "containedById": {
+    "id": "RID39569",
+    "display": "whole body"
+  }
+}

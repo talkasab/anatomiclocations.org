@@ -1,0 +1,34 @@
+{
+  "_id": "RID6433",
+  "snomedId": "25087005",
+  "snomedDisplay": "Structure of nervous system (body structure)",
+  "description": "nervous system",
+  "synonyms": ["neural system"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "5363",
+      "display": "Nervous system"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nervous_system"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/autonomic-nervous-system?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID39569",
+      "display": "whole body"
+    }
+  ],
+  "containedById": {
+    "code": "RID13209",
+    "display": "musculoskeletal system"
+  }
+}

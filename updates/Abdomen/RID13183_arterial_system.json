@@ -1,0 +1,44 @@
+{
+  "_id": "RID13183",
+  "acrCommonId": "4013514",
+  "snomedId": "11527006",
+  "snomedDisplay": "Arterial system structure",
+  "description": "arterial system",
+  "region": "Body",
+  "synonyms": ["arterial circulation", "arterial network"],
+  "containedByRef": {
+    "id": "RID39569",
+    "display": "whole body"
+  },
+  "hasPartsRefs": [
+    {
+      "id": "RID50378",
+      "display": "set of visceral vessels"
+    },
+    {
+      "id": "RID49962",
+      "display": "set of chest vessels"
+    },
+    {
+      "id": "RID49921",
+      "display": "set of abdominal vessels"
+    },
+    {
+      "id": "RID49933",
+      "display": "set of pelvis vessels"
+    }
+  ],
+  "embedding_vector": [],
+  "codes": [
+    {
+      "system": "UMLS",
+      "code": "C0226004"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID39569",
+      "display": "whole body"
+    }
+  ]
+}

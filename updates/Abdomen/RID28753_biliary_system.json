@@ -1,0 +1,25 @@
+{
+  "_id": "RID28753",
+  "snomedId": "34707002",
+  "snomedDisplay": "Structure of biliary tree (body structure)",
+  "description": "biliary system",
+  "region": "Body",
+  "synonyms": ["bile duct system", "biliry tract"],
+  "containedByRef": {
+    "id": "RID397",
+    "display": "peritoneal cavity"
+  },
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Biliary_tract"
+    }
+  ],
+  "partOfIds": [
+    {
+      "id": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ]
+}

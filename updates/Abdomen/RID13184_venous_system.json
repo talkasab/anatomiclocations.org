@@ -1,0 +1,18 @@
+{
+  "_id": "RID13184",
+  "snomedId": "119553000",
+  "snomedDisplay": "Venous system structure (body structure)",
+  "description": "venous system",
+  "region": "Body",
+  "synonyms": ["venous circulation", "venous network"],
+  "partOfIds": [
+    {
+      "id": "RID39569",
+      "display": "whole body"
+    }
+  ],
+  "containedById": {
+    "id": "RID39569",
+    "display": "whole body"
+  }
+}
