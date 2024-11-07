@@ -26,6 +26,10 @@
     "id": "RID170",
     "display": "pancreas"
   },
+  "partOfRef": {
+    "id": "RID94",
+    "display": "gastrointestinal tract"
+  },
   "synonyms": ["Ductus Wirsungianus"],
   "definition": "Ducts that collect pancreatic juice from the pancreas and supply it to the duodenum. [MeSH]",
   "embedding_vector": []

@@ -14,18 +14,12 @@
     }
   ],
   "containedByRef": {
-    "id": "RID170",
-    "display": "pancreas"
+    "id": "RID397",
+    "display": "peritoneal cavity"
   },
   "partOfRef": {
     "id": "RID170",
     "display": "pancreas"
   },
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }

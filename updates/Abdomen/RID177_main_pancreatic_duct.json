@@ -11,15 +11,9 @@
     "display": "pancreas"
   },
   "partOfRef": {
-    "id": "RID170",
-    "display": "pancreas"
+    "id": "RID94",
+    "display": "gastrointestinal tract"
   },
   "definition": "The main pancreatic duct is the larger of the two pancreatic ducts. It transverses through the body of the pancreas and opens into the duodenum at the major duodenal papilla. [MeSH]",
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }

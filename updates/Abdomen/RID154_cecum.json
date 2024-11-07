@@ -6,10 +6,10 @@
   "description": "cecum",
   "region": "Abdomen",
   "containedByRef": {
-    "id": "RID152",
-    "display": "large intestine"
+    "id": "RID397",
+    "display": "peritoneal cavity"
   },
-  "synonyms": ["caecum", "Z√§kum"],
+  "synonyms": ["caecum"],
   "partOfRef": {
     "id": "RID152",
     "display": "large intestine"

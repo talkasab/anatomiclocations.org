@@ -24,9 +24,15 @@
     }
   ],
   "containedByRef": {
-    "id": "RID56",
-    "display": "abdomen"
+    "id": "RID32954",
+    "display": "abdominal cavity"
   },
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
   "containsRefs": [
     {
       "id": "RID905",

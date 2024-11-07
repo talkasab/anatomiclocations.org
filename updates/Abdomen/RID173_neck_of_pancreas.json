@@ -14,18 +14,12 @@
     }
   ],
   "containedByRef": {
-    "id": "RID170",
-    "display": "pancreas"
+    "id": "RID431",
+    "display": "retroperitoneum"
   },
   "partOfRef": {
     "id": "RID170",
     "display": "pancreas"
   },
-  "embedding_vector": [],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  "embedding_vector": []
 }
