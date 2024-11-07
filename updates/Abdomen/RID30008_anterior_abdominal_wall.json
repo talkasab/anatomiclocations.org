@@ -10,8 +10,6 @@
     "Anterior wall of the abdomen"
   ],
   "region": "Abdomen",
-  "isAIds": [
-  ],
   "divisions": [
     {
       "name": "left anterior abdominal wall",
@@ -24,12 +22,6 @@
           "system": "TA2",
           "code": "134",
           "display": "Anterolateral abdominal wall"
-        }
-      ],
-      "partOfId": [
-        {
-          "code": "RID30008",
-          "display": "anterior abdominal wall"
         }
       ],
       "containedById": {
@@ -47,12 +39,6 @@
           "system": "TA2",
           "code": "134",
           "display": "Anterolateral abdominal wall"
-        }
-      ],
-      "partOfId": [
-        {
-          "code": "RID30008",
-          "display": "anterior abdominal wall"
         }
       ],
       "containedById": {

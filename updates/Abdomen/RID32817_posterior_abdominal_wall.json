@@ -4,10 +4,7 @@
   "snomedId": "22577007",
   "snomedDisplay": "Posterior abdominal wall structure",
   "description": "posterior abdominal wall",
-  "synonyms": [
-    "Back wall of the abdomen",
-    "Abdominal posterior wall"
-  ],
+  "synonyms": ["Back wall of the abdomen", "Abdominal posterior wall"],
   "region": "Abdomen",
   "codes": [
     {
@@ -69,10 +66,10 @@
     }
   ],
   "embedding_vector": [],
-  "isAIds": [
+  "partOfId": [
     {
-      "code": "",
-      "display": ""
+      "code": "RID13209",
+      "display": "musculoskeletal system"
     }
   ]
 }

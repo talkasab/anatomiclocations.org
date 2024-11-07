@@ -4,13 +4,6 @@
   "snomedDisplay": "Structure of right iliolumbar artery (body structure)",
   "description": "right iliolumbar artery",
   "region": "Abdomen",
-  "codes": [
-    {
-      "system": "TA2",
-      "code": "",
-      "display": ""
-    }
-  ],
   "synonyms": ["right iliolumbar artery"],
   "branchOfRef": {
     "id": "RID945_RID5825",

@@ -5,10 +5,6 @@
   "snomedDisplay": "tructure of right main branch of portal vein (body structure)",
   "description": "right portal vein",
   "region": "Abdomen",
-  "containedByRef": {
-    "id": "RID431",
-    "display": "retroperitoneum"
-  },
   "synonyms": ["right branch of portal vein", "right hepatic portal vein"],
   "partOfRef": {
     "id": "RID50378",

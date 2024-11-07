@@ -22,49 +22,28 @@
     {
       "system": "UMLS",
       "code": "C0226331"
-    }
-  ],
-  "embedding_vector": [
-
-  ]
-}
-{
-  "_id": "",
-  "snomedId": "",
-  "snomedDisplay": "",
-  "acrCommonId": "",
-  "codes": [
+    },
     {
       "system": "TA2",
-      "code": "",
-      "display": ""
+      "code": "4296",
+      "display": "superior rectal artery"
     }
   ],
+  "embedding_vector": [],
   "links": [
     {
       "site": "wikipedia",
-      "url": ""
+      "url": "https://en.wikipedia.org/wiki/Superior_rectal_artery"
     },
     {
       "site": "radiopaedia",
-      "url": ""
+      "url": "https://radiopaedia.org/articles/superior-rectal-artery?lang=us"
     }
   ],
-   "partOfIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ],
-  "containedById": 
-    {
-      "code": "",
-      "display": ""
-    },
-     "isAIds": [
+  "isAIds": [
     {
       "code": "RID478",
-"display": "artery"
+      "display": "artery"
     }
-  ],
+  ]
 }
