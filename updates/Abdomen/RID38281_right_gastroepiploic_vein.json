@@ -42,8 +42,8 @@
       "display": "vein"
     }
   ],
-  "branchOfRef": {
-    "code": "RID1212",
-    "display": "superior mesenteric vein"
+  "connectsTo": {
+    "code": "RID1209",
+    "display": "splenic vein"
   }
 }

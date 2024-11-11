@@ -52,8 +52,8 @@
       "display": "vein"
     }
   ],
-  "branchOfRef": {
-    "code": "",
-    "display": ""
+  "connectsTo": {
+    "code": "RID1178",
+    "display": "inferior vena cava"
   }
 }

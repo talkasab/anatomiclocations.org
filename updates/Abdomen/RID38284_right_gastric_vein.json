@@ -46,7 +46,7 @@
       "display": "vein"
     }
   ],
-  "branchOfRef": {
+  "connectsTo": {
     "code": "RID1208",
     "display": "portal vein"
   }

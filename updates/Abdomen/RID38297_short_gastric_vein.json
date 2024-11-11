@@ -42,7 +42,7 @@
       "display": "vein"
     }
   ],
-  "branchOfRef": {
+  "connectsTo": {
     "code": "RID1209",
     "display": "splenic vein"
   }

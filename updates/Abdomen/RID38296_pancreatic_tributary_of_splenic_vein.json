@@ -47,7 +47,7 @@
     "display": "set of visceral vessels"
   },
   "embedding_vector": [],
-  "branchOfRef": {
+  "connectsTo": {
     "code": "RID1209",
     "display": "splenic vein"
   }

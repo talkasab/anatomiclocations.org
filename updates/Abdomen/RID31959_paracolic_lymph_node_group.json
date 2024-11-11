@@ -32,5 +32,9 @@
       "code": "RID13296",
       "display": "lymph node"
     }
-  ]
+  ],
+  "connectsTo": {
+    "code": "RID31968",
+    "display": "mesenteric lymph node group"
+  }
 }

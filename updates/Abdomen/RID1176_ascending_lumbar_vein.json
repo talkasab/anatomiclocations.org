@@ -49,8 +49,8 @@
       "display": "vein"
     }
   ],
-  "branchOfRef": {
-    "code": "RID1193",
-    "display": "common iliac vein"
+  "connectsTo": {
+    "code": "RID1169",
+    "display": "azygos vein"
   }
 }

@@ -46,8 +46,8 @@
       "display": "vein"
     }
   ],
-  "branchOfRef": {
-    "code": "RID1209",
-    "display": "splenic vein"
+  "connectsTo": {
+    "code": "RID1208",
+    "display": "portal vein"
   }
 }

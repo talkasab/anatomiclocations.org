@@ -39,5 +39,9 @@
       "code": "RID13296",
       "display": "lymph node"
     }
-  ]
+  ],
+  "connectsTo": {
+    "code": "RID31912",
+    "display": "celiac lymph node group"
+  }
 }
