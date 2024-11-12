@@ -59,5 +59,9 @@
     "display": "set of visceral vessels"
   },
   "definition": "A short thick vein formed by union of the superior mesenteric vein and the splenic vein. [MeSH]",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "flowsTo": {
+    "code": "RID58",
+    "display": "liver"
+  }
 }

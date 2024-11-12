@@ -42,8 +42,8 @@
       "display": "vein"
     }
   ],
-  "branchOfRef": {
-    "code": "RID1208",
-    "display": "portal vein"
+  "flowsTo": {
+    "code": "RID69",
+    "display": "left lobe of liver"
   }
 }
