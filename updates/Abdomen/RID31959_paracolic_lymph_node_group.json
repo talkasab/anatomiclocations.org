@@ -33,7 +33,7 @@
       "display": "lymph node"
     }
   ],
-  "connectsTo": {
+  "flowsTo": {
     "code": "RID31968",
     "display": "mesenteric lymph node group"
   }

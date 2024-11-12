@@ -41,7 +41,7 @@
       "display": "vein"
     }
   ],
-  "connectsTo": {
+  "flowsTo": {
     "code": "RID1178",
     "display": "inferior vena cava"
   }

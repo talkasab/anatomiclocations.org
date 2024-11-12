@@ -40,7 +40,7 @@
       "display": "vein"
     }
   ],
-  "connectsTo": {
+  "flowsTo": {
     "code": "RID1208",
     "display": "portal vein"
   }

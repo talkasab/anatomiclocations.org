@@ -34,7 +34,7 @@
       "display": "lymph node"
     }
   ],
-  "connectsTo": {
+  "flowsTo": {
     "code": "lateral aortic lymph node group",
     "display": "RID31908"
   }

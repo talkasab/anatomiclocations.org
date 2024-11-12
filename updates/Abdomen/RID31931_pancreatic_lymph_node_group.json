@@ -40,7 +40,7 @@
       "display": "lymph node"
     }
   ],
-  "connectsTo": {
+  "flowsTo": {
     "code": "RID31912",
     "display": "celiac lymph node group"
   }

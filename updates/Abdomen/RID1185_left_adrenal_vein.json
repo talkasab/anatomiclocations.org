@@ -54,7 +54,7 @@
       "display": "vein"
     }
   ],
-  "connectsTo": {
+  "flowsTo": {
     "code": "RID37994",
     "display": "left renal vein"
   }

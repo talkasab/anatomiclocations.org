@@ -49,7 +49,7 @@
       "display": "vein"
     }
   ],
-  "connectsTo": {
+  "flowsTo": {
     "code": "RID1169",
     "display": "azygos vein"
   }
