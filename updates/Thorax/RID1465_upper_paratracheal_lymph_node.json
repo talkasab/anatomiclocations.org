@@ -38,5 +38,9 @@
       "code": "RID13296",
       "display": "lymph node"
     }
-  ]
+  ],
+  "flowsTo": {
+    "code": "RID7715",
+    "display": "deep cervical lymph node"
+  }
 }

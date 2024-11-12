@@ -28,5 +28,9 @@
       "code": "RID13296",
       "display": "lymph node"
     }
-  ]
+  ],
+  "flowsTo": {
+    "code": "RID7694",
+    "display": "thoracic duct"
+  }
 }

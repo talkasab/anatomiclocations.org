@@ -38,5 +38,9 @@
       "site": "radiopaedia",
       "url": "https://radiopaedia.org/articles/pulmonary-veins?lang=us"
     }
-  ]
+  ],
+  "flowsTo": {
+    "code": "RID1390",
+    "display": "left atrium"
+  }
 }

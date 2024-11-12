@@ -34,5 +34,9 @@
       "code": "RID1008",
       "display": "vein"
     }
-  ]
+  ],
+  "flowsTo": {
+    "code": "RID1010",
+    "display": "superior vena cava"
+  }
 }
