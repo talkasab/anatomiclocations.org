@@ -41,5 +41,9 @@
       "code": "RID1245",
       "display": "airway"
     }
-  ]
+  ],
+  "branchOfRef": {
+    "id": "RID34918",
+    "display": "main bronchus"
+  }
 }
