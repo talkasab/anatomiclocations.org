@@ -58,5 +58,9 @@
       "code": "RID13203",
       "display": "organ"
     }
-  ]
+  ],
+  "connectTo": {
+    "id": "RID234",
+    "display": "ureterovesical junction"
+  }
 }

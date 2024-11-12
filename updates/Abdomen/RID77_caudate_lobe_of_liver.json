@@ -6,8 +6,8 @@
   "description": "caudate lobe of liver",
   "region": "Abdomen",
   "containedByRef": {
-    "id": "RID58",
-    "display": "liver"
+    "id": "RID74",
+    "display": "right lobe of liver"
   },
   "synonyms": [
     "segment I of liver",
@@ -22,8 +22,8 @@
     "segmentum hepatis I"
   ],
   "partOfRef": {
-    "id": "RID74",
-    "display": "right lobe of liver"
+    "id": "RID58",
+    "display": "liver"
   },
   "codes": [
     {

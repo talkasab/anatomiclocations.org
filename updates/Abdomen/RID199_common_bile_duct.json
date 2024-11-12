@@ -6,8 +6,8 @@
   "description": "common bile duct",
   "region": "Abdomen",
   "containedByRef": {
-    "id": "RID56",
-    "display": "abdomen"
+    "id": "RID415",
+    "display": "hepatpduodenal ligament"
   },
   "synonyms": ["CBD", "Bile duct"],
   "partOfRef": {
@@ -38,5 +38,9 @@
       "code": "RID191",
       "display": "bile duct"
     }
-  ]
+  ],
+  "flowsTo": {
+    "code": "RID134",
+    "display": "duodenum"
+  }
 }

@@ -32,13 +32,37 @@
     }
   ],
   "containedByRef": {
-    "id": "RID56",
-    "display": "abdomen"
+    "id": "RID415",
+    "display": "hepatpduodenal ligament"
   },
   "partOfRef": {
     "id": "RID33652",
     "display": "biliary tree"
   },
   "definition": "Predominantly extrahepatic bile duct which is formed by the junction of the right and left hepatic ducts, which are predominantly intrahepatic, and, in turn, joins the cystic duct to form the common bile duct. [MeSH]",
-  "embedding_vector": []
+  "embedding_vector": [],
+  "isAIds": [
+    {
+      "code": "RID191",
+      "display": "bile duct"
+    }
+  ],
+  "connectsTo": {
+    "code": "RID201",
+    "display": "cystic duct"
+  },
+  "branchesFrom": [
+    {
+      "code": "RID194",
+      "display": "right hepatic duct"
+    },
+    {
+      "code": "RID193",
+      "display": "left hepatic duct"
+    }
+  ],
+  "flowsTo": {
+    "code": "RID199",
+    "display": "common bile duct"
+  }
 }

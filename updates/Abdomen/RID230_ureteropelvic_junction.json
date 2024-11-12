@@ -1,0 +1,22 @@
+{
+  "_id": "RID230",
+  "snomedId": "32004001",
+  "snomedDisplay": " Structure of ureteropelvic junction (body structure)",
+  "description": "ureteropelvic junction",
+  "region": "Abdomen",
+  "synonyms": ["UPJ", "PUJ", "renal pelvis- ureter junction"],
+  "partOfIds": [
+    {
+      "id": "RID204",
+      "display": "urinary tract"
+    }
+  ],
+  "containedById": {
+    "code": "RID205",
+    "display": "kidney"
+  },
+  "connectTo": {
+    "id": "RID229",
+    "display": "ureter"
+  }
+}

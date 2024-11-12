@@ -6,8 +6,8 @@
   "snomedDisplay": "Structure of cortex of left kidney",
   "region": "Abdomen",
   "containedByRef": {
-    "id": "RID431",
-    "display": "retroperitoneum"
+    "id": "RID29663",
+    "display": "left kidney"
   },
   "synonyms": ["left renal cortex", "Cortex of the left renal organ"],
   "partOfRef": {

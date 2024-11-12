@@ -1,0 +1,23 @@
+{
+  "_id": "RID223",
+  "snomedId": "279371005",
+  "snomedDisplay": "Renal collecting system structure (body structure)",
+  "description": "renal collecting system",
+  "region": "Abdomen",
+  "synonyms": ["collecting duct system"],
+  "containedByRef": {
+    "id": "RID205",
+    "display": "kidney"
+  },
+  "partOfRef": {
+    "id": "RID204",
+    "display": "urinary tract"
+  },
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Collecting_duct_system"
+    }
+  ]
+}

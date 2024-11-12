@@ -36,7 +36,7 @@
       "display": "bile duct"
     }
   ],
-  "branchOfRef": {
+  "flowsTo": {
     "code": "RID200",
     "display": "common hepatic duct"
   }

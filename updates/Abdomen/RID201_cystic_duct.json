@@ -6,8 +6,8 @@
   "description": "cystic duct",
   "region": "Abdomen",
   "containedByRef": {
-    "id": "RID56",
-    "display": "abdomen"
+    "id": "RID415",
+    "display": "hepatpduodenal ligament"
   },
   "partOfRef": {
     "id": "RID33652",
@@ -39,7 +39,7 @@
       "display": "bile duct"
     }
   ],
-  "branchOfRef": {
+  "flowsTo": {
     "code": "RID200",
     "display": "common hepatic duct"
   }

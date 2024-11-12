@@ -1,0 +1,33 @@
+{
+  "_id": "RID234",
+  "description": "ureterovesical junction",
+  "region": "pelvis",
+  "snomedId": "261187001",
+  "snomedDisplay": "Structure of vesicoureteric junction (body structure)",
+  "synonyms": [
+    "UVJ",
+    "VUJ",
+    "ureter bladder junction",
+    "vesicoureteric junction"
+  ],
+  "links": [
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/vesicoureteric-junction?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "id": "RID204",
+      "display": "urinary tract"
+    }
+  ],
+  "containedById": {
+    "id": "RID237",
+    "display": "urinary bladder"
+  },
+  "connectTo": {
+    "id": "RID237",
+    "display": "urinary bladder"
+  }
+}

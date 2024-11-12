@@ -1,0 +1,16 @@
+{
+  "_id": "RID5825_RID225",
+  "snomedId": "1137564008",
+  "snomedDisplay": "Structure of right calyx (body structure)",
+  "description": "right calyx of renal collecting system",
+  "region": "Abdomen",
+  "synonyms": ["right renal calyx", "right calyx"],
+  "partOfRef": {
+    "id": "RID29662",
+    "display": "right kidney"
+  },
+  "containedById": {
+    "id": "RID5825_RID223",
+    "display": "right renal collecting system"
+  }
+}

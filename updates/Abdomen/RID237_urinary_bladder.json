@@ -1,0 +1,42 @@
+{
+  "_id": "RID237",
+  "acrCommonId": "4013547",
+  "snomedId": "89837001",
+  "snomedDisplay": "Urinary bladder structure",
+  "description": "bladder",
+  "region": "Pelvis",
+  "containedByRef": {
+    "id": "RID2507",
+    "display": "pelvis"
+  },
+  "synonyms": ["vesical sac", "bladder"],
+  "partOfRef": {
+    "id": "RID204",
+    "display": "urinary tract"
+  },
+  "definition": "Organ with organ cavity which is continuous proximally with the right and left ureters and distally with the urethra. Examples: There is only one urinary bladder.",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bladder"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/urinary-bladder?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "3401",
+      "display": "urinary bladder"
+    }
+  ]
+}
