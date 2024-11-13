@@ -15,8 +15,16 @@
     "code": "RID205",
     "display": "kidney"
   },
-  "connectTo": {
+  "flowTo": {
     "id": "RID229",
     "display": "ureter"
+  },
+  "leftRef": {
+    "id": "RID230_RID5824",
+    "display": "left ureteropelvic junction"
+  },
+  "rightRef": {
+    "id": "RID230_RID5825",
+    "display": "right ureteropelvic junction"
   }
 }

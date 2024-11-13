@@ -12,8 +12,8 @@
   },
   "synonyms": ["LLL", "left lower lobe"],
   "partOfRef": {
-    "id": "RID1326",
-    "display": "left lung"
+    "code": "RID1301",
+    "display": "lung"
   },
   "embedding_vector": [],
   "codes": [

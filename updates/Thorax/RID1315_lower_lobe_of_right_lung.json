@@ -6,14 +6,10 @@
   "snomedDisplay": "structure of right lower lobe of lung",
   "description": "lower lobe of right lung",
   "region": "Thorax",
-  "containedByRef": {
-    "id": "RID1302",
-    "display": "right lung"
-  },
   "synonyms": ["right lower lobe", "RLL"],
   "partOfRef": {
-    "id": "RID1302",
-    "display": "right lung"
+    "id": "RID1301",
+    "display": "lung"
   },
   "embedding_vector": [],
   "codes": [

@@ -1,10 +1,10 @@
 {
-  "_id": "RID5825_RID38037",
-  "description": "right middle suprarenal artery",
-  "snomedId": "91735001_24028007",
-  "snomedDisplay": "Structure of right middle suprarenal artery (body structure)",
+  "_id": "RID38037_RID5824",
+  "description": "left middle suprarenal artery",
+  "snomedId": "91735001_7771000",
+  "snomedDisplay": "Structure of left middle suprarenal artery (body structure)",
   "region": "Abdomen",
-  "synonyms": ["right middle adenal artery"],
+  "synonyms": ["left middle adarenal artery"],
   "containedById": {
     "code": "RID431",
     "display": "retroperitoneum"

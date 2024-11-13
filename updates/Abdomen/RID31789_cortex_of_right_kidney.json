@@ -34,5 +34,9 @@
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Renal_cortex"
     }
-  ]
+  ],
+  "unsidedRef": {
+    "id": "RID211",
+    "display": "cortex of kidney"
+  }
 }

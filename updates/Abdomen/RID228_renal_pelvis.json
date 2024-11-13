@@ -45,8 +45,16 @@
       "url": "https://radiopaedia.org/articles/renal-pelvis?lang=us"
     }
   ],
-  "connectTo": {
+  "flowTo": {
     "id": "RID230",
     "display": "ureteropelvic junction"
+  },
+  "leftRef": {
+    "id": "RID228_RID5824",
+    "display": "left renal pelvis"
+  },
+  "rightRef": {
+    "id": "RID228_RID5825",
+    "display": "right renal pelvis"
   }
 }

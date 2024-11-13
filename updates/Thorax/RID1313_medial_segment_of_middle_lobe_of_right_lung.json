@@ -17,8 +17,8 @@
     }
   ],
   "partOfRef": {
-    "id": "RID1310",
-    "display": "middle lobe of lung"
+    "id": "RID1301",
+    "display": "lung"
   },
   "containedByRef": {
     "id": "RID1310",

@@ -1,5 +1,5 @@
 {
-  "_id": "RID5825_RID225",
+  "_id": "RID225_RID5825",
   "snomedId": "1137564008",
   "snomedDisplay": "Structure of right calyx (body structure)",
   "description": "right calyx of renal collecting system",
@@ -10,7 +10,21 @@
     "display": "right kidney"
   },
   "containedById": {
-    "id": "RID5825_RID223",
+    "id": "RID223_RID5825",
     "display": "right renal collecting system"
-  }
+  },
+  "leftRef": {
+    "id": "RID225_RID5824",
+    "display": "left calyx of renal collecting system"
+  },
+  "unsidedRef": {
+    "id": "RID225",
+    "display": "calyx of renal collecting system"
+  },
+  "flowTo": [
+    {
+      "code": "RID228_RID5825",
+      "display": "right renal pelvis"
+    }
+  ]
 }

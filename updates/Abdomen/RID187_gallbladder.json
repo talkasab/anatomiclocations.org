@@ -42,5 +42,9 @@
       "code": "RID13203",
       "display": "organ"
     }
-  ]
+  ],
+  "flowsTo": {
+    "code": "RID201",
+    "display": "cystic duct"
+  }
 }

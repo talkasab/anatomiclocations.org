@@ -59,7 +59,7 @@
       "display": "organ"
     }
   ],
-  "connectTo": {
+  "flowsTo": {
     "id": "RID234",
     "display": "ureterovesical junction"
   }

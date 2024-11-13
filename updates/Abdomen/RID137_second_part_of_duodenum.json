@@ -35,5 +35,11 @@
       "code": "RID29246",
       "display": "segment of duodenum"
     }
+  ],
+  "flowsTo": [
+    {
+      "code": "",
+      "display": "third part of duodenum"
+    }
   ]
 }

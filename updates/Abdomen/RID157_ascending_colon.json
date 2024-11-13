@@ -42,5 +42,11 @@
       "code": "RID31012",
       "display": "segment of colon"
     }
+  ],
+  "flowsTo": [
+    {
+      "code": "RID159",
+      "display": "transverse colon"
+    }
   ]
 }

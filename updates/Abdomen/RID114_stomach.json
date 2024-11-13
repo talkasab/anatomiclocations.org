@@ -62,5 +62,11 @@
       "code": "RID13203",
       "display": "organ"
     }
+  ],
+  "flowsTo": [
+    {
+      "code": "RID29245",
+      "display": "first part of duodenum"
+    }
   ]
 }

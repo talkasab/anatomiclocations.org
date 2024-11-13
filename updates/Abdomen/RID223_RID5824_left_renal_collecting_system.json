@@ -1,7 +1,7 @@
 {
-  "_id": "RID5824_RID223",
+  "_id": "RID223_RID5824",
   "snomedId": "279371005_7771000",
-  "snomedDisplay": "left (qualifier value) renal collecting system structure (body structure)",
+  "snomedDisplay": "left renal collecting system structure (body structure)",
   "description": "left renal collecting system",
   "region": "Abdomen",
   "synonyms": ["collecting duct system of left kidney"],
@@ -12,5 +12,13 @@
   "partOfRef": {
     "id": "RID204",
     "display": "urinary tract"
+  },
+  "leftRef": {
+    "id": "RID223_RID5825",
+    "display": "rightt renal collecting system"
+  },
+  "unsidedRef": {
+    "id": "RID223",
+    "display": "renal collecting system"
   }
 }

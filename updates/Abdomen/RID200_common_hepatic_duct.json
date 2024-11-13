@@ -47,20 +47,6 @@
       "display": "bile duct"
     }
   ],
-  "connectsTo": {
-    "code": "RID201",
-    "display": "cystic duct"
-  },
-  "branchesFrom": [
-    {
-      "code": "RID194",
-      "display": "right hepatic duct"
-    },
-    {
-      "code": "RID193",
-      "display": "left hepatic duct"
-    }
-  ],
   "flowsTo": {
     "code": "RID199",
     "display": "common bile duct"

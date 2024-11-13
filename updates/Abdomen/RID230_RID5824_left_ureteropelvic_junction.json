@@ -1,0 +1,30 @@
+{
+  "_id": "RID230_RID5824",
+  "snomedId": "784378003",
+  "snomedDisplay": "Structure of left ureteropelvic junction (body structure)",
+  "description": "left ureteropelvic junction",
+  "region": "Abdomen",
+  "synonyms": ["left UPJ", "left PUJ", "left renal pelvis- ureter junction"],
+  "partOfIds": [
+    {
+      "id": "RID204",
+      "display": "urinary tract"
+    }
+  ],
+  "containedById": {
+    "code": "RID29663",
+    "display": "left kidney"
+  },
+  "flowTo": {
+    "id": "RID30845",
+    "display": "left ureter"
+  },
+  "rightRef": {
+    "id": "RID230_RID5825",
+    "display": "right ureteropelvic junction"
+  },
+  "unsidedRef": {
+    "id": "RID230",
+    "display": "ureteropelvic junction"
+  }
+}

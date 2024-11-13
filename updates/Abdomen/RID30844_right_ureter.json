@@ -14,14 +14,6 @@
     "id": "RID204",
     "display": "urinary tract"
   },
-  "leftRef": {
-    "id": "RID30845",
-    "display": "left ureter"
-  },
-  "unsidedRef": {
-    "id": "RID229",
-    "display": "ureter"
-  },
   "codes": [
     {
       "system": "FMA",
@@ -48,5 +40,16 @@
       "code": "RID13203",
       "display": "organ"
     }
-  ]
+  ],
+  "leftRef": {
+    "id": "RID30845",
+    "display": "left ureter"
+  },
+  "unsidedRef": {
+    "id": "RID229",
+    "display": "ureter"
+  }, "flowsTo": {
+    "id": "RID234_RID5825",
+    "display": "right ureterovesical junction"
+  }
 }

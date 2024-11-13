@@ -1,5 +1,5 @@
 {
-  "_id": "RID5825_RID223",
+  "_id": "RID223_RID5825",
   "snomedId": "279371005_24028007",
   "snomedDisplay": "Right (qualifier value) renal collecting system structure (body structure)",
   "description": "right renal collecting system",
@@ -12,5 +12,13 @@
   "partOfRef": {
     "id": "RID204",
     "display": "urinary tract"
+  },
+  "leftRef": {
+    "id": "RID223_RID5824",
+    "display": "left renal collecting system"
+  },
+  "unsidedRef": {
+    "id": "RID223",
+    "display": "renal collecting system"
   }
 }

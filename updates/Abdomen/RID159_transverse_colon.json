@@ -5,7 +5,11 @@
   "snomedDisplay": "Transverse colon structure",
   "description": "transverse colon",
   "region": "Abdomen",
-  "synonyms": ["Transverse colon segment", "Cross colon", "Transverse colonic section"],
+  "synonyms": [
+    "Transverse colon segment",
+    "Cross colon",
+    "Transverse colonic section"
+  ],
   "containedByRef": {
     "id": "RID397",
     "display": "peritoneal cavity"
@@ -37,6 +41,12 @@
     {
       "code": "RID13203",
       "display": "organ"
+    }
+  ],
+  "flowsTo": [
+    {
+      "code": "RID161",
+      "display": "descending colon"
     }
   ]
 }

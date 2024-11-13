@@ -1,0 +1,32 @@
+{
+  "_id": "RID225_RID5824",
+  "snomedId": "1137563002",
+  "snomedDisplay": "Structure of left calyx (body structure)",
+  "description": "left calyx of renal collecting system",
+  "region": "Abdomen",
+  "synonyms": ["left renal calyx", "left calyx"],
+  "partOfIds": [
+    {
+      "code": "RID29663",
+      "display": "left kidney"
+    }
+  ],
+  "containedById": {
+    "id": "RID223_RID5824",
+    "display": "left renal collecting system"
+  },
+  "leftRef": {
+    "id": "RID225_RID5825",
+    "display": "right calyx of renal collecting system"
+  },
+  "unsidedRef": {
+    "id": "RID223",
+    "display": "calyx of renal collecting system"
+  },
+  "flowTo": [
+    {
+      "code": "RID228_RID5824",
+      "display": "left renal pelvis"
+    }
+  ]
+}

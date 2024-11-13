@@ -29,5 +29,11 @@
       "system": "UMLS",
       "code": "C0227303"
     }
+  ],
+  "flowsTo": [
+    {
+      "code": "RID148",
+      "display": "jejunum"
+    }
   ]
 }

@@ -11,8 +11,8 @@
     }
   ],
   "partOfRef": {
-    "code": "RID1327",
-    "display": "upper lobe of left lung"
+    "code": "RID1301",
+    "display": "lung"
   },
   "containedByRef": [
     {

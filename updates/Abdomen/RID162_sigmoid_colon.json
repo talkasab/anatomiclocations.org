@@ -1,0 +1,37 @@
+{
+  "_id": "RID162",
+  "acrCommonId": "4015253",
+  "snomedId": "60184004",
+  "snomedDisplay": "Sigmoid colon structure",
+  "description": "sigmoid colon",
+  "region": "Pelvis",
+  "containedByRef": {
+    "id": "RID2507",
+    "display": "pelvis"
+  },
+  "synonyms": ["pelvic colon"],
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "codes": [
+    {
+      "system": "MESH",
+      "code": "A03.556.124.526.356.668"
+    }
+  ],
+  "definition": "A segment of the colon between the rectum and the descending colon. [MeSH]",
+  "embedding_vector": [],
+  "flowsTo": [
+    {
+      "code": "RID163",
+      "display": "rectum"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

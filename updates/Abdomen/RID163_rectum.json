@@ -1,0 +1,54 @@
+{
+  "_id": "RID163",
+  "acrCommonId": "4014831",
+  "snomedId": "34402009",
+  "snomedDisplay": "Rectum structure",
+  "description": "rectum",
+  "region": "Pelvis",
+  "containedByRef": {
+    "id": "RID2507",
+    "display": "pelvis"
+  },
+  "synonyms": ["distal colon"],
+  "partOfRef": {
+    "id": "RID152",
+    "display": "large intestine"
+  },
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2998",
+      "display": "rectum"
+    },
+    {
+      "system": "FMA",
+      "code": "14751"
+    },
+    {
+      "system": "MESH",
+      "code": "A03.556.124.526.767"
+    },
+    {
+      "system": "UMLS",
+      "code": "C0035065"
+    }
+  ],
+  "definition": "The distal segment of the large intestine, between the sigmoid colon and the anal canal. [MeSH]",
+  "embedding_vector": [],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rectum"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/rectum?lang=us"
+    }
+  ],
+  "isAIds": [
+    {
+      "code": "RID13203",
+      "display": "organ"
+    }
+  ]
+}

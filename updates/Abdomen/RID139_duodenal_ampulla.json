@@ -1,0 +1,36 @@
+{
+  "_id": "RID139",
+  "snomedId": "9999005",
+  "snomedDisplay": "Duodenal ampulla structure (body structure)",
+  "acrCommonId": "4013933",
+  "description": "duodenal ampulla",
+  "region": "Abdomen",
+  "synonyms": ["hepatopancreatic ampulla", "ampulla of vater"],
+  "codes": [
+    {
+      "system": "TA2",
+      "code": "2946",
+      "display": "Duodenal bulb"
+    }
+  ],
+  "links": [
+    {
+      "site": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ampulla_of_Vater"
+    },
+    {
+      "site": "radiopaedia",
+      "url": "https://radiopaedia.org/articles/ampulla-of-vater-1?lang=us"
+    }
+  ],
+  "partOfIds": [
+    {
+      "code": "RID94",
+      "display": "gastrointestinal tract"
+    }
+  ],
+  "containedById": {
+    "code": "RID137",
+    "display": "second part of duodenum"
+  }
+}

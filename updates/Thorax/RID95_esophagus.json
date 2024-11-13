@@ -38,5 +38,11 @@
       "code": "RID13203",
       "display": "organ"
     }
+  ],
+  "flowsTo": [
+    {
+      "code": "RID114",
+      "display": "stomach"
+    }
   ]
 }

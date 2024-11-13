@@ -38,5 +38,11 @@
       "code": "RID13203",
       "display": "organ"
     }
+  ],
+  "flowsTo": [
+    {
+      "code": "RID157",
+      "display": "ascending colon"
+    }
   ]
 }

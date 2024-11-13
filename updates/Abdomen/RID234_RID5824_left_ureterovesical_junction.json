@@ -1,0 +1,35 @@
+{
+  "_id": "RID234_RID5824",
+  "snomedId": "784375000",
+  "snomedDisplay": "Structure of left vesicoureteric junction (body structure)",
+  "description": "left ureterovesical junction",
+  "region": "Abdomen",
+  "synonyms": [
+    "left UVJ",
+    "left VUJ",
+    "left ureter bladder junction",
+    "left vesicoureteric junction"
+  ],
+  "partOfIds": [
+    {
+      "id": "RID204",
+      "display": "urinary tract"
+    }
+  ],
+  "containedById": {
+    "id": "RID237",
+    "display": "urinary bladder"
+  },
+  "righttRef": {
+    "id": "RID234_RID5825",
+    "display": "right ureterovesical junction"
+  },
+  "unsidedRef": {
+    "id": "RID234",
+    "display": "ureterovesical junction"
+  },
+  "flowTo": {
+    "id": "RID237",
+    "display": "urinary bladder"
+  }
+}

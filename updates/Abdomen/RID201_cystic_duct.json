@@ -40,7 +40,7 @@
     }
   ],
   "flowsTo": {
-    "code": "RID200",
-    "display": "common hepatic duct"
+    "code": "RID199",
+    "display": "common bile duct"
   }
 }

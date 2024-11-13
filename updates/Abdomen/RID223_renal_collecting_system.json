@@ -19,5 +19,13 @@
       "site": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Collecting_duct_system"
     }
-  ]
+  ],
+  "leftRef": {
+    "id": "RID223_RID5824",
+    "display": "left renal collecting system"
+  },
+  "rightRef": {
+    "id": "RID223_RID5825",
+    "display": "right renal collecting system"
+  }
 }

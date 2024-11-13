@@ -43,7 +43,7 @@
     }
   ],
   "flowsTo": {
-    "code": "RID69",
-    "display": "left lobe of liver"
+     "code": "RID74",
+    "display": "portal vein"
   }
 }

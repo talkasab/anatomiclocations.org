@@ -1,0 +1,29 @@
+{
+  "_id": "RID228_RID5824",
+  "snomedId": "38594006",
+  "snomedDisplay": "Structure of left renal pelvis (body structure)",
+  "description": "left renal pelvis",
+  "region": "Abdomen",
+  "synonyms": ["Pelvis of the left kidney", "left renal sinus", "left kidney pelvis"],
+  "containedByRef": {
+    "id": "RID223_RID5824",
+    "display": "left renal collecting system"
+  },
+  "partOfRef": {
+    "id": "RID205",
+    "display": "kidney"
+  },
+  "embedding_vector": [],
+  "flowTo": {
+    "id": "RID230_RID5824",
+    "display": "left ureteropelvic junction"
+  },
+  "unsidedRef": {
+    "id": "RID228",
+    "display": "renal pelvis"
+  },
+  "rightRef": {
+    "id": "RID228_RID5825",
+    "display": "right renal pelvis"
+  }
+}

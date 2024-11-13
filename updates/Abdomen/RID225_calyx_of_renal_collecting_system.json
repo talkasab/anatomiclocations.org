@@ -20,5 +20,19 @@
     "id": "RID205",
     "display": "kidney"
   },
-  "embedding_vector": []
+  "embedding_vector": [],
+  "leftRef": {
+    "id": "RID225_RID5824",
+    "display": "left calyx of renal collecting system"
+  },
+  "rightRef": {
+    "id": "RID225_RID5825",
+    "display": "right calyx of renal collecting system"
+  },
+  "flowsTo": [
+    {
+      "code": "RID228",
+      "display": "renal pelvis"
+    }
+  ]
 }

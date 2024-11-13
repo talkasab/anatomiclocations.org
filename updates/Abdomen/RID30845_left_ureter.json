@@ -48,5 +48,8 @@
       "code": "RID13203",
       "display": "organ"
     }
-  ]
+  ], "flowsTo": {
+    "id": "RID234_RID5824",
+    "display": "left ureterovesical junction"
+  }
 }
