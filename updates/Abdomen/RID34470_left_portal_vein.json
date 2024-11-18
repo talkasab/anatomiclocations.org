@@ -43,7 +43,15 @@
     }
   ],
   "flowsTo": {
-     "code": "RID74",
+    "code": "RID74",
     "display": "portal vein"
+  },
+  "rightRef": {
+    "id": "RID34469",
+    "display": "right portal vein"
+  },
+  "unsidedRef": {
+    "id": "portal vein",
+    "display": "RID1208"
   }
 }

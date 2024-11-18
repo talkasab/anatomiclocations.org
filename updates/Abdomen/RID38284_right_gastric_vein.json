@@ -49,5 +49,9 @@
   "flowsTo": {
     "code": "RID1208",
     "display": "portal vein"
+  },
+   "leftRef": {
+    "id": "RID38283",
+    "display": "left gastric vein"
   }
 }

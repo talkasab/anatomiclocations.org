@@ -63,5 +63,13 @@
   "flowsTo": {
     "code": "RID58",
     "display": "liver"
+  },
+  "leftRef": {
+    "id": "RID34470",
+    "display": "left portal vein"
+  },
+  "rightRef": {
+    "id": "RID34469",
+    "display": "right portal vein"
   }
 }

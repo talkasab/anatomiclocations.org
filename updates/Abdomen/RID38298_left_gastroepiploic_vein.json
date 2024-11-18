@@ -45,5 +45,9 @@
   "flowsTo": {
     "code": "RID1209",
     "display": "splenic vein"
+  },
+  "rightRef": {
+    "id": "RID38281",
+    "display": "right gastroepiploic vein"
   }
 }

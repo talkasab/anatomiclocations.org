@@ -48,7 +48,8 @@
   "unsidedRef": {
     "id": "RID229",
     "display": "ureter"
-  }, "flowsTo": {
+  },
+  "flowsTo": {
     "id": "RID234_RID5825",
     "display": "right ureterovesical junction"
   }

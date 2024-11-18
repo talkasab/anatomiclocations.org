@@ -34,5 +34,13 @@
   "branchOfRef": {
     "code": "RID905",
     "display": "abdominal aorta"
+  },
+  "leftRef": {
+    "id": "RID38762_RID5824",
+    "display": "left inferior phrenic artery"
+  },
+  "unsidedRef": {
+    "id": "RID38762",
+    "display": "inferior phrenic artery"
   }
 }

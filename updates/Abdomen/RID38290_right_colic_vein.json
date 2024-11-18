@@ -49,5 +49,9 @@
   "flowsTo": {
     "code": "RID1212",
     "display": "superior mesenteric vein"
+  },
+  "leftRef": {
+    "id": "RID38301",
+    "display": "left colic vein"
   }
 }

@@ -41,5 +41,13 @@
   "branchOf": {
     "code": "RID74",
     "display": "portal vein"
+  },
+  "leftRef": {
+    "id": "RID34470",
+    "display": "left portal vein"
+  },
+  "unsidedRef": {
+    "id": "RID1208",
+    "display": "portal vein"
   }
 }

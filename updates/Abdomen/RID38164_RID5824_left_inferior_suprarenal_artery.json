@@ -24,5 +24,13 @@
       "code": "RID13183",
       "display": "arterial system"
     }
-  ]
+  ],
+  "rightRef": {
+    "id": "RID38164_RID5825",
+    "display": "right inferior suprarenal artery"
+  },
+  "unsidedRef": {
+    "id": "RID3864",
+    "display": "inferior suprarenal artery"
+  }
 }

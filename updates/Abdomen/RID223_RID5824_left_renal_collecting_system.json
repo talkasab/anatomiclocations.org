@@ -13,9 +13,9 @@
     "id": "RID204",
     "display": "urinary tract"
   },
-  "leftRef": {
+  "rightRef": {
     "id": "RID223_RID5825",
-    "display": "rightt renal collecting system"
+    "display": "right renal collecting system"
   },
   "unsidedRef": {
     "id": "RID223",
