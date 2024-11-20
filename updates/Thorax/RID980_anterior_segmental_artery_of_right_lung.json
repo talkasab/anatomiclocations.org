@@ -27,5 +27,8 @@
   "branchOfRef": {
     "id": "RID977",
     "display": "superior lobar artery of right lung"
-  }
+  },
+  "region": "Thorax",
+  "synonyms": ["anterior segmental branch of right upper lobe"],
+  "Description": "Anterior segmental artery of right lung"
 }

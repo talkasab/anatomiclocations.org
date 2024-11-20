@@ -2,6 +2,7 @@
   "_id": "RID28591_RID6162_RID5825",
   "anatomicLocationsId": "RID28591_RID6162_RID5825",
   "description": "right twelfth rib",
+  "synonyms": ["right lowest rib"],
   "region": "Thorax",
   "containedByRef": {
     "id": "RID2468",

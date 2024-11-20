@@ -5,6 +5,7 @@
   "snomedId": "32849002",
   "snomedDisplay": "Esophageal structure",
   "description": "esophagus",
+  "synonyms": ["esophageal tract"],
   "region": "Thorax",
   "containedByRef": {
     "id": "RID1384",

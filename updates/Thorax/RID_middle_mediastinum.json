@@ -3,6 +3,9 @@
   "anatomicLocationsId": "*",
   "snomedId": "69608005",
   "snomedDisplay": "middle mediastinum structure (body structure)",
+  "synonyms": ["mediastinal space"],
+  "description": "mediastinum",
+  "region": "Thorax",
   "codes": [
     {
       "system": "TA2",
@@ -32,12 +35,6 @@
     {
       "id": "RID1408",
       "display": "pericardial cavity"
-    }
-  ],
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
     }
   ]
 }

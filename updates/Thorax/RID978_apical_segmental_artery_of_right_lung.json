@@ -10,6 +10,7 @@
       "display": "Apical segmental artery of right lung"
     }
   ],
+  "Description": "Apical segmental artery of right lung",
   "partOfRef": {
     "id": "RID977",
     "display": "right upper lobe artery"
@@ -29,5 +30,7 @@
   "branchOfRef": {
     "id": "RID977",
     "display": "superior lobar artery of right lung"
-  }
+  },
+  "region": "Thorax",
+  "synonyms": ["right upper lobe apical artery"]
 }

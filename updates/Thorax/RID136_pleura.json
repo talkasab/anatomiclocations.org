@@ -8,6 +8,7 @@
   "region": "thorax",
   "right": "RID5825",
   "left": "RID5824",
+  "synonyms": ["pleural membrane"],
   "containedByRef": {
     "id": "RID1243",
     "display": "thorax"
@@ -42,11 +43,5 @@
   "partOfRef": {
     "id": "RID39189",
     "display": "respiratory system"
-  },
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  }
 }

@@ -3,6 +3,9 @@
   "anatomicLocationsId": "RID28742",
   "snomedId": "71274004",
   "snomedDisplay": "superior mediastinum structure (body structure)",
+  "synonyms": ["superior mediastinal space"],
+  "description": "superior mediastinum",
+  "region": "Thorax",
   "codes": [
     {
       "system": "TA2",
@@ -21,11 +24,5 @@
   "containedByRef": {
     "id": "RID1384",
     "display": "mediastinum"
-  },
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  }
 }

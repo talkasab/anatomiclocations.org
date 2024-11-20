@@ -27,5 +27,8 @@
   "partOfRef": {
     "id": "RID13181",
     "display": "cardiovascular system"
-  }
+  },
+  "region": "Thorax",
+  "synonyms": ["right middle lung medial segmental artery"],
+  "Description": "medial segmental artery of right lung"
 }

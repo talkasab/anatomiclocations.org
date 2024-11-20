@@ -1,6 +1,7 @@
 {
   "_id": "RID979",
   "anatomicLocationsId": "RID979",
+  "Description": "Posterior segmental artery of right lung",
   "codes": [
     {
       "system": "TA2",
@@ -27,5 +28,7 @@
   "branchOfRef": {
     "id": "RID977",
     "display": "superior lobar artery of right lung"
-  }
+  },
+  "region": "Thorax",
+  "synonyms": ["right upper lobe posterior artery"]
 }

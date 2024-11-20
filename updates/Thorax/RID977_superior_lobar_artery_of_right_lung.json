@@ -2,6 +2,7 @@
   "_id": "RID977",
   "anatomicLocationsId": "RID977",
   "Description": "Superior lobar artery of right lung",
+  "region": "Thorax",
   "codes": [
     {
       "system": "TA2",
@@ -28,5 +29,6 @@
   "branchOfRef": {
     "id": "RID976",
     "display": "right pulmonary artery"
-  }
+  },
+  "synonyms": ["right upper lobe artery"]
 }

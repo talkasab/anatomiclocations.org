@@ -27,5 +27,8 @@
   "branchOfRef": {
     "id": "RID986",
     "display": "right lower lobe artery"
-  }
+  },
+  "region": "Thorax",
+  "synonyms": ["right lower lobe superior artery"],
+  "Description": "superior segmental artery of right lung"
 }

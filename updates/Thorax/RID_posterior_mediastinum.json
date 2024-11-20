@@ -3,6 +3,9 @@
   "anatomicLocationsId": "*",
   "snomedId": "27291007",
   "snomedDisplay": "structure of posterior mediastinum (body structure)",
+  "synonyms": ["posterior mediastinal space"],
+  "description": "posterior mediastinum",
+  "region": "Thorax",
   "codes": [
     {
       "system": "TA2",
@@ -23,11 +26,5 @@
   "containedByRef": {
     "id": "RID1384",
     "display": "mediastinum"
-  },
-  "isAIds": [
-    {
-      "code": "",
-      "display": ""
-    }
-  ]
+  }
 }

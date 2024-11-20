@@ -29,5 +29,8 @@
   "branchOfRef": {
     "id": "RID976",
     "display": "right pulmonary artery"
-  }
+  },
+  "region": "Thorax",
+  "synonyms": ["right middle lobe artery"],
+  "Description": "middle lobar artery of right lung"
 }

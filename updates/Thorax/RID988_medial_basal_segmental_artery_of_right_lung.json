@@ -31,5 +31,8 @@
   "branchOfRef": {
     "id": "RID986",
     "display": "right lower lobe artery"
-  }
+  },
+  "region": "Thorax",
+  "synonyms": ["right inferior lung medial basal artery"],
+  "Description": "medial basal segmental artery of right lung"
 }

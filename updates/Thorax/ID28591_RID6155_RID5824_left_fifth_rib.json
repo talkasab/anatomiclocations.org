@@ -2,6 +2,7 @@
   "_id": "RID28591_RID6155_RID5824",
   "anatomicLocationsId": "RID28591_RID6155_RID5824",
   "description": "left fifth rib",
+  "synonyms": ["left superior rib", "left uppermost rib", "first thoracic rib on the left side"],
   "region": "Thorax",
   "containedByRef": {
     "id": "RID2468",

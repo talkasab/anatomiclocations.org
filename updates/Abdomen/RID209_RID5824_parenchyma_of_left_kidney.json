@@ -1,0 +1,26 @@
+{
+  "_id": "RID209_RID5824",
+  "snomedId": "719805004",
+  "snomedDisplay": " Structure of parenchyma of left kidney (body structure)",
+  "description": "parenchyma of left kidney",
+  "region": "Abdomen",
+  "synonyms": ["left renal parenchyma"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID29663",
+    "display": "left kidney"
+  },
+  "rightRef": {
+    "id": "RID209_RID5825",
+    "display": "parenchyma of right kidney"
+  },
+  "unsidedRef": {
+    "id": "RID209",
+    "display": "parenchyma of kidney"
+  }
+}
