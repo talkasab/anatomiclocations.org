@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID33429_RID211",
+  "snomedId": "50403003_279371005_119276001",
+  "snomedDisplay": "Structure of cortex of collecting system of middle pole of left kidney (body structure)",
+  "description": "cortical collecting system of middle part of left kidney",
+  "region": "Abdomen",
+  "synonyms": ["middle pole cortical collecting ducts of left kidney"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID223_RID33429",
+    "display": "middle part of left kidney collecting system"
+  },
+  "rightRef": {
+    "id": "RID223_RID33489_RID211",
+    "display": "cortical collecting system of middle part of right kidney"
+  },
+  "unsidedRef": {
+    "id": "RID223_RID208_RID211",
+    "display": "cortical collecting system of middle part of kidney"
+  }
+}

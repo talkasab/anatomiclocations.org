@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID206",
+  "snomedId": "279371005_5324007",
+  "snomedDisplay": "Structure of collecting system of superior pole of kidney (body structure)",
+  "description": "renal collecting system of upper pole of kidney",
+  "region": "Abdomen",
+  "synonyms": ["upper pole renal collecting system"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID205",
+    "display": "kidney"
+  },
+  "leftRef": {
+    "id": "RID223_RID33425",
+    "display": "superior pole of left kidney collecting system"
+  },
+  "rightRef": {
+    "id": "RID223_RID33424",
+    "display": "superior pole of right kidney collecting system"
+  }
+}

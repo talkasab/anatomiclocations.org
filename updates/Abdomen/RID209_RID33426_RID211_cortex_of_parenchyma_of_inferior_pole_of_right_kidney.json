@@ -1,0 +1,26 @@
+{
+  "_id": "RID209_RID33426_RID211",
+  "snomedId": "50403003_119280006",
+  "snomedDisplay": "Structure of cortex of inferior pole of right kidney (body structure)",
+  "description": "cortex of parenchyma of lower pole of right kidney",
+  "region": "Abdomen",
+  "synonyms": ["inferior pole cortex of right kidney"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID209_RID33426",
+    "display": "parenchyma of inferior pole of right kidney"
+  },
+  "leftRef": {
+    "id": "RID209_RID33427_RID211",
+    "display": "cortex of parenchyma of inferior pole of left kidney"
+  },
+  "unsided": {
+    "id": "RID209_RID207_RID211",
+    "display": "cortex of parenchyma of inferior pole of kidney"
+  }
+}

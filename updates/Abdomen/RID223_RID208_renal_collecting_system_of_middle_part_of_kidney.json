@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID208",
+  "snomedId": "279371005_119275002",
+  "snomedDisplay": "structure of renal collecting system of middle part of kidney (body structure)",
+  "description": "renal collecting system of middle part of kidney",
+  "region": "Abdomen",
+  "synonyms": ["collecting system of middle pole of the kidney"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID205",
+    "display": "kidney"
+  },
+  "leftRef": {
+    "id": "RID223_RID33429",
+    "display": "middle part of left kidney collecting system"
+  },
+  "rightRef": {
+    "id": "RID223_RID33428",
+    "display": "middle part of right kidney collecting system"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID33428_RID213",
+  "snomedId": "30737000_279371005_119279008",
+  "snomedDisplay": "Structure of medullary collecting system of middle pole of right kidney (body structure)",
+  "description": "medullary collecting ducts of middle part of right kidney",
+  "region": "Abdomen",
+  "synonyms": ["medullary collecting tubules of middle pole of right kidney"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID223_RID33428",
+    "display": "middle part of right kidney collecting system"
+  },
+  "leftRef": {
+    "id": "RID223_RID33429_RID213",
+    "display": "medullary collecting system of middle part of left kidney"
+  },
+  "unsidedRef": {
+    "id": "ID223_RID208_RID213",
+    "display": "medullary collecting ducts of middle part of kidney"
+  }
+}

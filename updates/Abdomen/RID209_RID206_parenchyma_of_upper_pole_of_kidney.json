@@ -1,0 +1,26 @@
+{
+  "_id": "RID209_RID206",
+  "snomedId": "29704000_5324007",
+  "snomedDisplay": "Structure of parenchyma of superior pole of kidney (body structure)",
+  "description": "parenchyma of upper pole of kidney",
+  "region": "Abdomen",
+  "synonyms": ["renal parenchyma of superior pole"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID205",
+    "display": "kidney"
+  },
+  "leftRef": {
+    "id": "RID209_RID33425",
+    "display": "parenchyma of superior pole of left kidney"
+  },
+  "rightRef": {
+    "id": "RID209_RID33424",
+    "display": "parenchyma of superior pole of right kidney"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "RID209_RID208_RID213",
+  "snomedId": "30737000_119275002",
+  "snomedDisplay": "Structure of medulla of middle pole of kidney (body structure)",
+  "description": "medulla of parenchyma of middle part of kidney",
+  "region": "Abdomen",
+  "synonyms": ["renal medulla of middle pole"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID209_RID33428",
+    "display": "parenchyma of middle part of right kidney"
+  },
+  "leftRef": {
+    "id": "RID209_RID33429_RID213",
+    "display": "medulla of parenchyma of middle part of left kidney"
+  },
+  "rightRef": {
+    "id": "RID209_RID33428_RID213",
+    "display": "medulla of parenchyma of middle part of right kidney"
+  }
+}

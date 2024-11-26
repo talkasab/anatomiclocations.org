@@ -1,0 +1,26 @@
+{
+  "_id": "RID209_RID206_RID211",
+  "snomedId": "50403003_5324007",
+  "snomedDisplay": "Structure of cortex of superior pole of kidney (body structure)",
+  "description": "cortex of parenchyma of upper pole of kidney",
+  "region": "Abdomen",
+  "synonyms": ["cortical tissue of upper renal lobe"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID209_RID206",
+    "display": "parenchyma of upper pole of kidney"
+  },
+  "leftRef": {
+    "id": "RID209_RID33425_RID211",
+    "display": "cortex of parenchyma of upper pole of left kidney"
+  },
+  "rightRef": {
+    "id": "RID209_RID33424_RID211",
+    "display": "cortex of parenchyma of upper pole of right kidney"
+  }
+}

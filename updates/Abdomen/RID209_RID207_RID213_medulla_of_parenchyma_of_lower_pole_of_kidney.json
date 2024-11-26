@@ -1,0 +1,26 @@
+{
+  "_id": "RID209_RID207_RID213",
+  "snomedId": "30737000_89658009",
+  "snomedDisplay": "Structure of medulla of inferior pole of kidney (body structure)",
+  "description": "medulla of parenchyma of lower pole of kidney",
+  "region": "Abdomen",
+  "synonyms": ["inferior pole medulla of kidney"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID209_RID207",
+    "display": "parenchyma of lower pole of kidney"
+  },
+  "leftRef": {
+    "id": "RID209_RID33427_RID213",
+    "display": "medulla of parenchyma of inferior pole of left kidney"
+  },
+  "rightRef": {
+    "id": "RID209_RID33426_RID213",
+    "display": "medulla of parenchyma of inferior pole of right kidney"
+  }
+}

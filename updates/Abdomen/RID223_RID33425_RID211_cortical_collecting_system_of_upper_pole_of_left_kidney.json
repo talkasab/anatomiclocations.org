@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID33425_RID211",
+  "snomedId": "50403003_279371005_119277005",
+  "snomedDisplay": "cotical collecting system of superior pole of left kidney (body structure)",
+  "description": "cotical collecting system of upper pole of left kidney",
+  "region": "Abdomen",
+  "synonyms": ["upper pole cortical collecting system of left kidney"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID223_RID33425",
+    "display": "superior pole of left kidney collecting system"
+  },
+  "rightRef": {
+    "id": "RID223_RID33424_RID211",
+    "display": "cotical collecting system of upper pole of right kidney"
+  },
+  "unsidedRef": {
+    "id": "RID223_RID206_RID211",
+    "display": "cotical collecting system of upper pole of kidney"
+  }
+}

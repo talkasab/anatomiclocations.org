@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID33425_RID213",
+  "snomedId": "30737000_279371005_119277005",
+  "snomedDisplay": "Structure of medullary collecting system of superior pole of left kidney (body structure)",
+  "description": "medullary collecting system of upper pole of left kidney",
+  "region": "Abdomen",
+  "synonyms": ["upper pole medullary collecting system of left kidney"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID223_RID33425",
+    "display": "superior pole of left kidney collecting system"
+  },
+  "rightRef": {
+    "id": "RID223_RID33424_RID213",
+    "display": "medullary collecting system of upper pole of right kidney"
+  },
+  "unsidedRef": {
+    "id": "RID223_RID206_RID213",
+    "display": "medullary collecting system of upper pole of kidney"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "RID209_RID33428_RID211",
+  "snomedId": "50403003_119279008",
+  "snomedDisplay": "Structure of cortex of middle pole of right kidney (body structure)",
+  "description": "cortex of parenchyma of middle part of right kidney",
+  "region": "Abdomen",
+  "synonyms": ["right renal cortex of middle pole"],
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ],
+  "containedById": {
+    "code": "RID209_RID33428",
+    "display": "parenchyma of middle part of right kidney"
+  },
+  "leftRef": {
+    "id": "RID209_RID33429_RID211",
+    "display": "cortex of parenchyma of middle part of left kidney"
+  },
+  "unsidedRef": {
+    "id": "RID209_RID208_RID211",
+    "display": "cortex of parenchyma of middle part of kidney"
+  }
+}
