@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID207_RID213",
+  "snomedId": "30737000_279371005_89658009",
+  "snomedDisplay": "structure of medullary of renal collecting system of inferior pole",
+  "description": "medullary collecting system of lower pole of kidney",
+  "region": "Abdomen",
+  "synonyms": ["medullary collecting system in inferior lobe"],
+  "containedById": {
+    "code": "RID223_RID33426",
+    "display": "inferior pole of right kidney collecting system"
+  },
+  "rightRef": {
+    "id": "RID223_RID33426_RID213",
+    "display": "medullary collecting system of lower pole of right kidney"
+  },
+  "leftRef": {
+    "id": "RID223_RID33427_RID213",
+    "display": "medullary collecting system of lower pole of left kidney"
+  },
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ]
+}

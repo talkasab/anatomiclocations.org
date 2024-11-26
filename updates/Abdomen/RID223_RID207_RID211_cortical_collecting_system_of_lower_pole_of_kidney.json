@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID207_RID211",
+  "snomedId": "50403003_279371005_89658009",
+  "snomedDisplay": "structure of cortical collecting system of inferior pole of kidney",
+  "description": "cortical collecting system of lower pole of kidney",
+  "region": "Abdomen",
+  "synonyms": ["cortical collecting system of inferior pole of kidney"],
+  "containedById": {
+    "code": "RID223_RID207",
+    "display": "renal collecting system of lower pole of kidney"
+  },
+  "leftRef": {
+    "id": "RID223_RID33427_RID211",
+    "display": "cortical collecting system of lower pole of left kidney"
+  },
+  "rightRef": {
+    "id": "RID223_RID33426_RID211",
+    "display": "cortical collecting system of lower pole of right kidney"
+  },
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ]
+}

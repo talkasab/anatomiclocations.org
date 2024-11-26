@@ -1,0 +1,26 @@
+{
+  "_id": "RID223_RID33427",
+  "snomedId": "279371005_119274003",
+  "snomedDisplay": "structure of renal collecting system  of inferior pole of left kidney (body structure)",
+  "description": "renal collecting system of lower pole of left kidney",
+  "region": "Abdomen",
+  "synonyms": ["left renal collecting system of of inferior pole"],
+  "containedById": {
+    "code": "RID29663",
+    "display": "left kidney"
+  },
+  "leftRef": {
+    "id": "RID223_RID33426",
+    "display": "inferior pole of right kidney collecting system"
+  },
+  "unsidedRef": {
+    "id": "RID223_RID207",
+    "display": "renal collecting system of lower pole of kidney"
+  },
+  "partOfIds": [
+    {
+      "code": "RID39347",
+      "display": "urinary system"
+    }
+  ]
+}
