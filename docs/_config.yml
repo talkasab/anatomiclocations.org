@@ -21,8 +21,8 @@
 title: AnatomicLocations.org
 email: info@anatomiclocations.org
 description: >- # this means to ignore newlines until "baseurl:"
-  A curated set of anatomic location tags to enable cross-referencing in
-  imaging informatics.
+  A curated set of anatomic locations for imaging informatics, organized
+  into a containment hierarchy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.anatomiclocations.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
