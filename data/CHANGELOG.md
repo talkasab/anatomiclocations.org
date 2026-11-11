@@ -6,6 +6,43 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-08
+Every change in this release, with its reason, is listed in [release-notes/1.0.1-changes.csv](release-notes/1.0.1-changes.csv).
+
+### Added
+- Added a `definition` field, with the RadLex definition on 269 entries
+- Raised the number of SNOMED CT codes from 2,634 to 2,697, FMA codes from 2,667 to 2,695, and TA2 codes from 852 to 884, such as the codes of the intervertebral discs, the Couinaud segments, and the carpal bones
+- Added common names as synonyms, such as `pulmonary trunk` and `MPA` for `RID975` main pulmonary artery and `fibular collateral ligament` for `RID2797` lateral collateral ligament
+
+### Changed
+- Moved 347 entries to the region that encloses them, such as `RID7094` falx cerebri to the cranial cavity, the mandibular teeth to the mandible, and the nasal, zygomatic, and lacrimal bones and the maxilla to the face. The rules are on the Code page under "Placement Conventions"
+- Placed intracranial vessels by one rule: dural venous sinuses in the cranial cavity, except the sagittal sinuses in the falx cerebri, and brain vessels in the smallest brain division that holds their course
+- Moved `RID94` gastrointestinal tract and `RID30906` iliopsoas, with its left and right entries, to `RID39569` whole body, since each spans several regions
+- Added 170 `partOfId` values, changed 67, and removed 10, such as `RID168` appendix from the cecum to `RID152` large intestine and the IASLC stations to `RID28852` set of mediastinal lymph nodes
+- Corrected or standardized 101 labels, such as `eight thoracic vertebra` to `eighth thoracic vertebra` and `temporal artery` to `temporal branches of middle cerebral artery`. Most replaced labels are kept as synonyms
+- Removed synonyms that name a different, broader, or narrower structure, such as `coronary artery segment 11` (the proximal circumflex) for `RID486` left main coronary artery and `pyloric part of stomach` for `RID122` pylorus. Synonyms that are correct but shared with another structure, such as `uncinate process`, are kept
+
+### Removed
+- Removed the left and right entries of three unpaired structures; use the unsided entry instead:
+  - `RID44638` left and `RID44639` right anterior spinal artery; use `RID789`
+  - `RID7651_RID5824` left and `RID7651_RID5825` right transverse arytenoid muscle; use `RID7651`
+  - `RID36189` left and `RID36188` right great cerebral vein; use `RID1132`
+
+### Fixed
+- Pointed the `$schema` declaration at the schema in the 1.0.1 release, which adds `definition`
+- Corrected the MeSH code for `RID7745` atlas, from `D020466`, the publication type, to `D001270`
+- Replaced codes that named a broader or neighboring structure, such as SNOMED CT `11899006` esophageal lymph node with `127940001` on `RID1484` paraesophageal lymph node (station 8), FMA `305654`, a ligament cluster, with `9660` on `RID2797` lateral collateral ligament, and TA2 `2972` ileal orifice with `2971` ileal papilla on `RID153` ileocecal valve
+- Replaced the SNOMED CT code of `RID56` abdomen, `818983003`, which includes the pelvis, with `818984009` abdomen proper, since the pelvis is a separate entry
+- Removed the FMA codes for the TA98 artery divisions from `RID651` A2 and `RID680` M3 segments and their left and right entries, since those divisions run farther than the radiology segments
+- Removed TA2 `4572`, the lateral occipital artery, from `RID818` P3 segment of the posterior cerebral artery
+- Removed TA2 `3740` and the synonym `small bowel mesentery` from `RID33180` mesentery, which is the generic mesentery
+- Replaced the retired UMLS CUI of `RID1490` inferior pulmonary ligament lymph node, `C4248061`, with `C1268057`
+- Replaced 13 UMLS CUIs that named SNOMED CT "Entire" concepts with the CUIs of the entries' "Structure" concepts, on 12 teeth and `RID7780` erector spinae muscle group
+- Replaced the UMLS CUI of `RID28591` set of ribs, a single rib, with `C0223074` all ribs, and of `RID407` rectouterine pouch, a generic cul-de-sac, with `C0013075`
+- Replaced the laterality expressions of the left and right wrist joint with SNOMED CT's sided concepts, `840404009` and `840403003`
+- Corrected misspelled and garbled synonyms, such as `cortical part of middle cerebral artery` on `RID680` M3 segment, now `opercular segment of middle cerebral artery`
+- Marked `RID407` rectouterine pouch `Female`
+
 ## [1.0.0] - 2026-10-23
 ### Added
 - Added 852 TA2 codes

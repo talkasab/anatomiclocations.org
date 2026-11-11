@@ -1,0 +1,978 @@
+radlexId,description,change,detail,reason
+RID2507,pelvis,add FMA,9578,FMA 'Pelvis'
+RID2332_RID2392,metacarpophalangeal joint of thumb,add FMA,35249,FMA class names the entry exactly
+RID2332_RID2392_RID5824,metacarpophalangeal joint of left thumb,add FMA,35251,FMA class names the entry exactly
+RID2332_RID2392_RID5825,metacarpophalangeal joint of right thumb,add FMA,35250,FMA class names the entry exactly
+RID2408_RID2394,proximal interphalangeal joint of index finger,add FMA,35315,FMA class names the entry exactly
+RID2408_RID2394_RID5824,proximal interphalangeal joint of left index finger,add FMA,35317,FMA class names the entry exactly
+RID2408_RID2394_RID5825,proximal interphalangeal joint of right index finger,add FMA,35316,FMA class names the entry exactly
+RID2408_RID2396,proximal interphalangeal joint of middle finger,add FMA,35318,FMA class names the entry exactly
+RID2408_RID2396_RID5824,proximal interphalangeal joint of left middle finger,add FMA,35320,FMA class names the entry exactly
+RID2408_RID2396_RID5825,proximal interphalangeal joint of right middle finger,add FMA,35319,FMA class names the entry exactly
+RID2408_RID2398,proximal interphalangeal joint of ring finger,add FMA,35321,FMA class names the entry exactly
+RID2408_RID2398_RID5824,proximal interphalangeal joint of left ring finger,add FMA,35323,FMA class names the entry exactly
+RID2408_RID2398_RID5825,proximal interphalangeal joint of right ring finger,add FMA,35322,FMA class names the entry exactly
+RID2418_RID2394,distal interphalangeal joint of index finger,add FMA,35334,FMA class names the entry exactly
+RID2418_RID2394_RID5824,distal interphalangeal joint of left index finger,add FMA,35336,FMA class names the entry exactly
+RID2418_RID2394_RID5825,distal interphalangeal joint of right index finger,add FMA,35335,FMA class names the entry exactly
+RID2418_RID2396,distal interphalangeal joint of middle finger,add FMA,35337,FMA class names the entry exactly
+RID2418_RID2396_RID5824,distal interphalangeal joint of left middle finger,add FMA,35339,FMA class names the entry exactly
+RID2418_RID2396_RID5825,distal interphalangeal joint of right middle finger,add FMA,35338,FMA class names the entry exactly
+RID2418_RID2398,distal interphalangeal joint of ring finger,add FMA,35340,FMA class names the entry exactly
+RID2418_RID2398_RID5824,distal interphalangeal joint of left ring finger,add FMA,35342,FMA class names the entry exactly
+RID2418_RID2398_RID5825,distal interphalangeal joint of right ring finger,add FMA,35341,FMA class names the entry exactly
+RID680,M3 segment of middle cerebral artery,remove FMA,79633,FMA 'cortical part of MCA' is TA98's M3 (all of the MCA past the insula); radiology M3 is opercular
+RID680_RID5824,left M3 segment of middle cerebral artery,remove FMA,79635,FMA 'cortical part of MCA' is TA98's M3 (all of the MCA past the insula); radiology M3 is opercular
+RID680_RID5825,right M3 segment of middle cerebral artery,remove FMA,79634,FMA 'cortical part of MCA' is TA98's M3 (all of the MCA past the insula); radiology M3 is opercular
+RID651,A2 segment of anterior cerebral artery,remove FMA,50074,FMA 'postcommunicating part of ACA' carries the pericallosal and callosomarginal branches: A2-A5
+RID651_RID5824,left A2 segment of anterior cerebral artery,remove FMA,50078,FMA 'postcommunicating part of ACA' carries the pericallosal and callosomarginal branches: A2-A5
+RID651_RID5825,right A2 segment of anterior cerebral artery,remove FMA,50077,FMA 'postcommunicating part of ACA' carries the pericallosal and callosomarginal branches: A2-A5
+RID2797,lateral collateral ligament,replace FMA,305654 -> 9660,FMA 305654 'Lateral collateral ligament' is a ligament cluster; 9660 is the fibular collateral ligament
+RID48950,right lateral collateral ligament,replace FMA,305666 -> 44609,FMA 305654 'Lateral collateral ligament' is a ligament cluster; 9660 is the fibular collateral ligament
+RID48951,left lateral collateral ligament,replace FMA,305670 -> 44610,FMA 305654 'Lateral collateral ligament' is a ligament cluster; 9660 is the fibular collateral ligament
+RID2408_RID2400,proximal interphalangeal joint of small finger,add FMA,35324,FMA class names the entry exactly
+RID2408_RID2400_RID5825,proximal interphalangeal joint of right small finger,add FMA,35325,FMA class names the entry exactly
+RID2408_RID2400_RID5824,proximal interphalangeal joint of left small finger,add FMA,35326,FMA class names the entry exactly
+RID2418_RID2400,distal interphalangeal joint of small finger,add FMA,35343,FMA class names the entry exactly
+RID2418_RID2400_RID5825,distal interphalangeal joint of right small finger,add FMA,35344,FMA class names the entry exactly
+RID2418_RID2400_RID5824,distal interphalangeal joint of left small finger,add FMA,35345,FMA class names the entry exactly
+RID30906,iliopsoas muscle,add FMA,64918,FMA class names the entry exactly
+RID30907,right iliopsoas muscle,add FMA,64919,FMA class names the entry exactly
+RID30908,left iliopsoas muscle,add FMA,64920,FMA class names the entry exactly
+RID9707,trochlea of superior oblique muscle,add FMA,49065,FMA class names the entry exactly
+RID9707_RID5825,right trochlea of superior oblique muscle,add FMA,49067,FMA class names the entry exactly
+RID9707_RID5824,left trochlea of superior oblique muscle,add FMA,49068,FMA class names the entry exactly
+RID975,main pulmonary artery,add FMA,8612,FMA class names the entry exactly
+RID1333,lingula,add FMA,7433,FMA class names the entry exactly
+RID9127_RID9106_RID5827_RID5825,right mandibular central incisor tooth,add FMA,57142,FMA class names the entry exactly
+RID9127_RID9106_RID5827_RID5824,left mandibular central incisor tooth,add FMA,57143,FMA class names the entry exactly
+RID7745,atlas,replace MESH,D020466 -> D001270,D020466 is the MeSH publication type 'Atlas'; D001270 is Cervical Atlas
+RID944,common iliac artery,remove MESH,D007083,MeSH Iliac Artery covers all iliac arteries
+RID1193,common iliac vein,remove MESH,D007084,MeSH Iliac Vein covers all iliac veins
+RID1258,bronchus intermedius,add SNOMED,245512006,Structure of truncus intermedius of right main bronchus
+RID50392,cervical intervertebral disk,add SNOMED,68818006,Structure of cervical intervertebral disc
+RID50392_RID6182,C2/C3 cervical intervertebral disk,add SNOMED,1078209008,disc of C2 = C2/C3
+RID50392_RID6183,C3/C4 cervical intervertebral disk,add SNOMED,58820006,disc of C3 = C3/C4
+RID50392_RID6184,C4/C5 cervical intervertebral disk,add SNOMED,49400002,disc of C4 = C4/C5
+RID50392_RID6185,C5/C6 cervical intervertebral disk,add SNOMED,73959003,disc of C5 = C5/C6
+RID50392_RID6186,C6/C7 cervical intervertebral disk,add SNOMED,75095006,disc of C6 = C6/C7
+RID50392_RID6187,C7/T1 cervical intervertebral disk,add SNOMED,37414007,disc of C7 = C7/T1
+RID28830_RID6202,L1/L2 lumbar intervertebral disk,add SNOMED,80064006,disc of L1 = L1/L2
+RID28830_RID6203,L2/L3 lumbar intervertebral disk,add SNOMED,67459009,disc of L2 = L2/L3
+RID28830_RID6204,L3/L4 lumbar intervertebral disk,add SNOMED,62551000,disc of L3 = L3/L4
+RID28830_RID6205,L4/L5 lumbar intervertebral disk,add SNOMED,84020006,disc of L4 = L4/L5
+RID28830_RID6206,L5/S1 lumbar intervertebral disk,add SNOMED,715056000,Structure of intervertebral disc of L5 and S1
+RID33237,segment II of liver,add SNOMED,277956007,Couinaud hepatic segment II
+RID33238,segment III of liver,add SNOMED,277957003,Couinaud hepatic segment III
+RID33243,segment IVa of liver,add SNOMED,871688003,Couinaud hepatic segment IVa
+RID33244,segment IVb of liver,add SNOMED,871689006,Couinaud hepatic segment IVb
+RID33240,segment V of liver,add SNOMED,277959000,Couinaud hepatic segment V
+RID33242,segment VI of liver,add SNOMED,277960005,Couinaud hepatic segment VI
+RID33241,segment VII of liver,add SNOMED,277961009,Couinaud hepatic segment VII
+RID33239,segment VIII of liver,add SNOMED,277962002,Couinaud hepatic segment VIII
+RID43260_RID5824,left oblique fissure,add SNOMED,63914005,Structure of oblique interlobar fissure of left lung
+RID43260_RID5825,right oblique fissure,add SNOMED,24720008,Structure of oblique interlobar fissure of right lung
+RID28727,set of coronary arteries,add SNOMED,41801008,Coronary artery structure; SNOMED CT has no set concept
+RID16280,set of autonomic nerves,add SNOMED,53520000,Autonomic nerve structure; SNOMED CT has no set concept
+RID9364,mastoid process of temporal bone,add SNOMED,59066005,Mastoid structure; SNOMED CT synonym 'Mastoid process of temporal bone'
+RID31919,gastric lymph node group,add SNOMED,245287007,Perigastric lymph node group
+RID31931,pancreatic lymph node group,add SNOMED,16050005,Structure of pancreaticosplenic lymph node; matches the entry's synonyms and FMA members
+RID31968,mesenteric lymph node group,add SNOMED,303139006,Mesenteric artery lymph node group (superior and inferior)
+RID3192,flexor digitorum longus tendon,add SNOMED,15243009,Structure of flexor digitorum pedis longus muscle tendon within foot; same tendon
+RID13338,extensor digitorum tendon to index finger,add SNOMED,76086009,Structure of extensor tendon within index finger; same tendon
+RID41595,extensor digitorum tendon to right index finger,add SNOMED,773719000,Structure of extensor tendon within index finger of right hand
+RID41596,extensor digitorum tendon to left index finger,add SNOMED,773718008,Structure of extensor tendon within index finger of left hand
+RID41597,extensor digitorum tendon to middle finger,add SNOMED,49685001,Structure of extensor tendon within middle finger; same tendon
+RID41598,extensor digitorum tendon to right middle finger,add SNOMED,773715006,Structure of extensor tendon within middle finger of right hand
+RID41599,extensor digitorum tendon to left middle finger,add SNOMED,773714005,Structure of extensor tendon within middle finger of left hand
+RID13340,extensor digitorum tendon to ring finger,add SNOMED,13675000,Structure of extensor tendon within ring finger; same tendon
+RID41600,extensor digitorum tendon to right ring finger,add SNOMED,773713004,Structure of extensor tendon within ring finger of right hand
+RID41601,extensor digitorum tendon to left ring finger,add SNOMED,773712009,Structure of extensor tendon within ring finger of left hand
+RID41602,extensor digitorum tendon to small finger,add SNOMED,10972000,Structure of extensor tendon within little finger; same tendon
+RID41603,extensor digitorum tendon to right small finger,add SNOMED,773716007,Structure of extensor tendon within little finger of right hand
+RID41604,extensor digitorum tendon to left small finger,add SNOMED,773717003,Structure of extensor tendon within little finger of left hand
+RID1490,inferior pulmonary ligament lymph node (station 9),add SNOMED,127941002,Structure of lymph node of pulmonary ligament
+RID1492,right inferior pulmonary ligament lymph node (station 9),add SNOMED,1285490005,Structure of right lymph node of pulmonary ligament
+RID1494,left inferior pulmonary ligament lymph node (station 9),add SNOMED,1285491009,Structure of left lymph node of pulmonary ligament
+RID9196,skull,add SNOMED,89546000,Bone structure of cranium (synonym Skull)
+RID9814,metopic suture,add SNOMED,74448009,Structure of frontal suture of skull
+RID6537,set of basal ganglia,add SNOMED,32610002,Structure of basal nucleus (synonym Basal ganglia)
+RID28579,paranasal sinuses,add SNOMED,2095001,Nasal sinus structure (synonym Paranasal sinus)
+RID9279,maxillary dental arcade,add SNOMED,39481002,Upper dental arch structure
+RID9106,mandibular dental arcade,add SNOMED,88176008,Lower dental arch structure
+RID655,polar frontal artery,add SNOMED,369335007,Structure of frontopolar branch of anterior cerebral artery
+RID2797,lateral collateral ligament,add SNOMED,39959004,Structure of lateral collateral ligament of knee joint
+RID48950,right lateral collateral ligament,add SNOMED,763874006,Structure of lateral collateral ligament of right knee joint
+RID48951,left lateral collateral ligament,add SNOMED,763873000,Structure of lateral collateral ligament of left knee joint
+RID32755,musculature of thorax,add SNOMED,15187006,Skeletal muscle structure of thorax (UMLS crosswalk agrees)
+RID32809,musculature of anterior abdominal wall,add SNOMED,424161004,Structure of anterior muscle of abdomen (UMLS crosswalk agrees)
+RID32793,musculature of perineum,add SNOMED,7295002,Skeletal muscle structure of perineum (UMLS crosswalk agrees)
+RID1484,paraesophageal lymph node (station 8),replace SNOMED,11899006 -> 127940001,127940001 'Paraesophageal lymph node below carina' is IASLC station 8
+RID1486,right paraesophageal lymph node (station 8),remove SNOMED,11899006:272741003=24028007,re-derived from the new unsided concept
+RID1488,left paraesophageal lymph node (station 8),remove SNOMED,11899006:272741003=7771000,re-derived from the new unsided concept
+RID9286,sella turcica,replace SNOMED,42575006 -> 1356805000,42575006 is the pituitary fossa; 1356805000 is the sella turcica
+RID2509,sacrum,replace SNOMED,699698002 -> 54735007,"bone concept, as for the other bones"
+RID2524,coccyx,replace SNOMED,278915007 -> 64688005,"bone concept, as for the other bones and the entry's UMLS CUI"
+RID56,abdomen,replace SNOMED,818983003 -> 818984009,818983003 includes the true pelvis; 818984009 'Abdomen proper' excludes it
+RID28935,para-aortic thoracic lymph node (station 6),add SNOMED,127939003,'Lymph node of AJCC Station 6'
+RID41227,right flexor digitorum longus tendon,add SNOMED,15243009:272741003=24028007,no sided concept under unsided 15243009; laterality expression
+RID41228,left flexor digitorum longus tendon,add SNOMED,15243009:272741003=7771000,no sided concept under unsided 15243009; laterality expression
+RID2202_RID5824,left wrist joint,replace SNOMED,699026005:272741003=7771000 -> 840404009,SNOMED CT has the sided concept: Structure of joint of left wrist region (body structure)
+RID2202_RID5825,right wrist joint,replace SNOMED,699026005:272741003=24028007 -> 840403003,SNOMED CT has the sided concept: Structure of joint of right wrist region (body structure)
+RID1486,right paraesophageal lymph node (station 8),add SNOMED,1285488009,sided concept under unsided 127940001: Structure of right paraesophageal lymph node below carina (body structure)
+RID1488,left paraesophageal lymph node (station 8),add SNOMED,1285489001,sided concept under unsided 127940001: Structure of left paraesophageal lymph node below carina (body structure)
+RID7565_RID5824,left retropharyngeal space,add SNOMED,789564000:272741003=7771000,no sided concept under unsided 789564000; laterality expression
+RID7565_RID5825,right retropharyngeal space,add SNOMED,789564000:272741003=24028007,no sided concept under unsided 789564000; laterality expression
+RID655_RID5824,left polar frontal artery,add SNOMED,369335007:272741003=7771000,no sided concept under unsided 369335007; laterality expression
+RID655_RID5825,right polar frontal artery,add SNOMED,369335007:272741003=24028007,no sided concept under unsided 369335007; laterality expression
+RID818,P3 segment of posterior cerebral artery,remove TA2,4572,"TA2 4572 is the lateral occipital artery, a branch, not the P3 segment"
+RID9569,sphenoid sinus,add TA2,600,TA2 term names the entry exactly
+RID956,middle rectal artery,add TA2,4338,TA2 term names the entry exactly
+RID490,left anterior descending artery,add TA2,4143,TA2 term names the entry exactly
+RID30781,back,add TA2,135,TA2 term names the entry exactly
+RID2978,medial cuneiform,add TA2,1486,TA2 term names the entry exactly
+RID2981,intermediate cuneiform,add TA2,1487,TA2 term names the entry exactly
+RID2983,lateral cuneiform,add TA2,1488,TA2 term names the entry exactly
+RID2181,scaphoid,add TA2,1250,TA2 term names the entry exactly
+RID2230,palmar radioulnar ligament,add TA2,1785,TA2 term names the entry exactly
+RID29245,first part of duodenum,add TA2,2945,TA2 term names the entry exactly
+RID9279,maxillary dental arcade,add TA2,902,TA2 term names the entry exactly
+RID9106,mandibular dental arcade,add TA2,903,TA2 term names the entry exactly
+RID2797,lateral collateral ligament,add TA2,1895,TA2 term names the entry exactly
+RID2313,flexor retinaculum,add TA2,2550,TA2 term names the entry exactly
+RID2309,extensor retinaculum,add TA2,2546,TA2 term names the entry exactly
+RID153,ileocecal valve,replace TA2,2972 -> 2971,TA2 2972 is the ileal orifice; 2971 ileal papilla is TA2's ileocecal valve
+RID176,pancreatic duct,remove TA2,3129,TA2 3129 Ductus pancreaticus is the main pancreatic duct
+RID177,main pancreatic duct,add TA2,3129,TA2 3129 Ductus pancreaticus is the main pancreatic duct
+RID94,gastrointestinal tract,replace TA2,2773 -> 2886,"TA2 2773 is the digestive system, with liver and pancreas; 2886 is the digestive canal"
+RID33180,mesentery,remove TA2,3740,TA2 Mesenterium is the small-bowel mesentery; this entry is the generic mesentery
+RID2189,triquetrum,add TA2,1253,TA2 term names the entry exactly
+RID2191,pisiform,add TA2,1254,TA2 term names the entry exactly
+RID2193,trapezium,add TA2,1255,TA2 term names the entry exactly
+RID2195,trapezoid,add TA2,1257,TA2 term names the entry exactly
+RID2197,capitate,add TA2,1258,TA2 term names the entry exactly
+RID2198,hamate,add TA2,1259,TA2 term names the entry exactly
+RID2200,hook of hamate,add TA2,1260,TA2 term names the entry exactly
+RID2257,radial collateral ligament of wrist,add TA2,1801,TA2 term names the entry exactly
+RID2235,ulnar collateral ligament of wrist,add TA2,1800,TA2 term names the entry exactly
+RID30906,iliopsoas muscle,add TA2,2593,TA2 term names the entry exactly
+RID2668,femoral neck,add TA2,1363,TA2 term names the entry exactly
+RID2976,tarsal navicular,add TA2,1484,TA2 term names the entry exactly
+RID2973,cuboid,add TA2,1489,TA2 term names the entry exactly
+RID2848,quadriceps tendon,add TA2,2621,TA2 term names the entry exactly
+RID2933,superficial posterior compartment of leg,add TA2,2655,TA2 term names the entry exactly
+RID2934,deep posterior compartment of leg,add TA2,2664,TA2 term names the entry exactly
+RID975,main pulmonary artery,add TA2,4075,TA2 term names the entry exactly
+RID1333,lingula,add TA2,3304,TA2 term names the entry exactly
+RID36453,temporal branches of middle cerebral artery,add TA2,4513,TA2 term names the entry exactly
+RID1490,inferior pulmonary ligament lymph node (station 9),replace UMLS,C4248061 -> C1268057,C4248061 is not in current UMLS; C1268057 holds FMA 276867 and SNOMED 127941002
+RID773,subclavian artery,add UMLS,C0038530,rc.1 had this subclavian artery CUI on the stomach; it belongs here
+RID7780,erector spinae muscle group,replace UMLS,C1305743 -> C0224301,C1305743 is the SNOMED CT 'Entire' concept; C0224301 holds the entry's Structure concept 44947003
+RID9129_RID9106_RID5996_RID5825,right mandibular first premolar tooth,replace UMLS,C0447300 -> C0227069,C0447300 is the SNOMED CT 'Entire' concept; C0227069 holds the entry's Structure concept 80140008
+RID9127_RID9131_RID9279_RID39121_RID5825,deciduous right maxillary lateral incisor tooth,replace UMLS,C0447233 -> C0227086,C0447233 is the SNOMED CT 'Entire' concept; C0227086 holds the entry's Structure concept 65624003
+RID9126_RID9131_RID9279_RID5825,deciduous right maxillary canine tooth,replace UMLS,C0447231 -> C0227087,C0447231 is the SNOMED CT 'Entire' concept; C0227087 holds the entry's Structure concept 30618001
+RID9127_RID9131_RID9279_RID5827_RID5824,deciduous left maxillary central incisor tooth,replace UMLS,C0457268 -> C1533615,C0457268 is the SNOMED CT 'Entire' concept; C1533615 holds the entry's Structure concept 51678005
+RID9127_RID9131_RID9279_RID39121_RID5824,deciduous left maxillary lateral incisor tooth,replace UMLS,C0447240 -> C0227091,C0447240 is the SNOMED CT 'Entire' concept; C0227091 holds the entry's Structure concept 43622005
+RID9126_RID9131_RID9279_RID5824,deciduous left maxillary canine tooth,replace UMLS,C0447238 -> C0227092,C0447238 is the SNOMED CT 'Entire' concept; C0227092 holds the entry's Structure concept 73937000
+RID9128_RID9131_RID9279_RID5998_RID5824,deciduous left maxillary second molar tooth,replace UMLS,C0447236 -> C0227094,C0447236 is the SNOMED CT 'Entire' concept; C0227094 holds the entry's Structure concept 51943008
+RID9128_RID9131_RID9106_RID5996_RID5825,deciduous right mandibular first molar tooth,replace UMLS,C0447244 -> C0227098,C0447244 is the SNOMED CT 'Entire' concept; C0227098 holds the entry's Structure concept 58646007
+RID9128_RID9131_RID9106_RID5998_RID5825,deciduous right mandibular second molar tooth,replace UMLS,C0447243 -> C0227099,C0447243 is the SNOMED CT 'Entire' concept; C0227099 holds the entry's Structure concept 61868007
+RID9127_RID9131_RID9106_RID5827_RID5824,deciduous left mandibular central incisor tooth,replace UMLS,C0447254 -> C0227100,C0447254 is the SNOMED CT 'Entire' concept; C0227100 holds the entry's Structure concept 89552004
+RID9126_RID9131_RID9106_RID5824,deciduous left mandibular canine tooth,replace UMLS,C0447255 -> C0227102,C0447255 is the SNOMED CT 'Entire' concept; C0227102 holds the entry's Structure concept 43281008
+RID9128_RID9131_RID9106_RID5996_RID5824,deciduous left mandibular first molar tooth,replace UMLS,C0447251 -> C0227103,C0447251 is the SNOMED CT 'Entire' concept; C0227103 holds the entry's Structure concept 38896004
+RID28591,set of ribs,replace UMLS,C0035561 -> C0223074,C0035561 is a single rib; C0223074 'All ribs' holds SNOMED CT 24201007
+RID407,rectouterine pouch,replace UMLS,C4551648 -> C0013075,C4551648 is a generic 'cul-de-sac'; C0013075 is the rectouterine pouch and holds SNOMED CT 53843000
+RID7094,falx cerebri,change containedById,RID6389_RID6434 -> RID6383_RID9080,"the falx cerebri is dura, not brain; the cranial cavity encloses it"
+RID201,cystic duct,change containedById,RID415 -> RID56,only the end of the cystic duct runs in the hepatoduodenal ligament
+RID29955,accessory breast tissue,change containedById,RID1850 -> RID29859,"accessory breast tissue lies along the milk line on the chest wall, not in the limb"
+RID29955_RID5824,left accessory breast tissue,change containedById,RID1850_RID5824 -> RID29859,"accessory breast tissue lies along the milk line on the chest wall, not in the limb"
+RID29955_RID5825,right accessory breast tissue,change containedById,RID1850_RID5825 -> RID29859,"accessory breast tissue lies along the milk line on the chest wall, not in the limb"
+RID2230,palmar radioulnar ligament,change containedById,RID2202 -> RID2203,radioulnar ligaments belong to the distal radioulnar joint
+RID2230_RID5824,left palmar radioulnar ligament,change containedById,RID2202_RID5824 -> RID2203_RID5824,radioulnar ligaments belong to the distal radioulnar joint
+RID2230_RID5825,right palmar radioulnar ligament,change containedById,RID2202_RID5825 -> RID2203_RID5825,radioulnar ligaments belong to the distal radioulnar joint
+RID2229,dorsal radioulnar ligament,change containedById,RID2202 -> RID2203,radioulnar ligaments belong to the distal radioulnar joint
+RID2229_RID5824,left dorsal radioulnar ligament,change containedById,RID2202_RID5824 -> RID2203_RID5824,radioulnar ligaments belong to the distal radioulnar joint
+RID2229_RID5825,right dorsal radioulnar ligament,change containedById,RID2202_RID5825 -> RID2203_RID5825,radioulnar ligaments belong to the distal radioulnar joint
+RID1901,coracoclavicular ligament,change containedById,RID1895 -> RID39518,coracoclavicular and costoclavicular ligaments are extracapsular
+RID42243,left coracoclavicular ligament,change containedById,RID42239 -> RID39518_RID5824,coracoclavicular and costoclavicular ligaments are extracapsular
+RID42242,right coracoclavicular ligament,change containedById,RID42238 -> RID39518_RID5825,coracoclavicular and costoclavicular ligaments are extracapsular
+RID1892,costoclavicular ligament,change containedById,RID1884 -> RID39518,coracoclavicular and costoclavicular ligaments are extracapsular
+RID1892_RID5824,left costoclavicular ligament,change containedById,RID42237 -> RID39518_RID5824,coracoclavicular and costoclavicular ligaments are extracapsular
+RID1892_RID5825,right costoclavicular ligament,change containedById,RID42236 -> RID39518_RID5825,coracoclavicular and costoclavicular ligaments are extracapsular
+RID1517,axillary lymph node,change containedById,RID1243 -> RID39518,axillary nodes sit with the axillary vessels and nerve
+RID1517_RID5824,left axillary lymph node,change containedById,RID1243 -> RID39518_RID5824,axillary nodes sit with the axillary vessels and nerve
+RID1517_RID5825,right axillary lymph node,change containedById,RID1243 -> RID39518_RID5825,axillary nodes sit with the axillary vessels and nerve
+RID1197,great saphenous vein,change containedById,RID2691 -> RID2638,"the great saphenous vein is superficial, outside the deep fascia"
+RID1197_RID5824,left great saphenous vein,change containedById,RID48158 -> RID2638_RID5824,"the great saphenous vein is superficial, outside the deep fascia"
+RID1197_RID5825,right great saphenous vein,change containedById,RID48157 -> RID2638_RID5825,"the great saphenous vein is superficial, outside the deep fascia"
+RID2746,patella,change containedById,RID2848 -> RID2743,the quadriceps tendon inserts on the patella; it does not enclose it
+RID48531,left patella,change containedById,RID48533 -> RID49360,the quadriceps tendon inserts on the patella; it does not enclose it
+RID48530,right patella,change containedById,RID48532 -> RID49359,the quadriceps tendon inserts on the patella; it does not enclose it
+RID2872,head of fibula,change containedById,RID2751 -> RID2743,the fibula is not part of the knee joint
+RID2872_RID5824,left head of fibula,change containedById,RID49393 -> RID49360,the fibula is not part of the knee joint
+RID2872_RID5825,right head of fibula,change containedById,RID49392 -> RID49359,the fibula is not part of the knee joint
+RID2875,neck of fibula,change containedById,RID2751 -> RID2743,the fibula is not part of the knee joint
+RID2875_RID5824,left neck of fibula,change containedById,RID49393 -> RID49360,the fibula is not part of the knee joint
+RID2875_RID5825,right neck of fibula,change containedById,RID49392 -> RID49359,the fibula is not part of the knee joint
+RID2564,acetabulum,change containedById,RID2640 -> RID2639,joints do not contain the bones that form them
+RID2564_RID5824,left acetabulum,change containedById,RID2640_RID5824 -> RID2639_RID5824,joints do not contain the bones that form them
+RID2564_RID5825,right acetabulum,change containedById,RID2640_RID5825 -> RID2639_RID5825,joints do not contain the bones that form them
+RID2664,head of femur,change containedById,RID2640 -> RID2639,joints do not contain the bones that form them
+RID2664_RID5824,left head of femur,change containedById,RID2640_RID5824 -> RID2639_RID5824,joints do not contain the bones that form them
+RID2664_RID5825,right head of femur,change containedById,RID2640_RID5825 -> RID2639_RID5825,joints do not contain the bones that form them
+RID2668,femoral neck,change containedById,RID2640 -> RID2639,joints do not contain the bones that form them
+RID2668_RID5824,left femoral neck,change containedById,RID2640_RID5824 -> RID2639_RID5824,joints do not contain the bones that form them
+RID2668_RID5825,right femoral neck,change containedById,RID2640_RID5825 -> RID2639_RID5825,joints do not contain the bones that form them
+RID39626,medial condyle of tibia,change containedById,RID2751 -> RID2743,joints do not contain the bones that form them
+RID39628,medial condyle of left tibia,change containedById,RID49393 -> RID49360,joints do not contain the bones that form them
+RID39627,medial condyle of right tibia,change containedById,RID49392 -> RID49359,joints do not contain the bones that form them
+RID39629,lateral condyle of tibia,change containedById,RID2751 -> RID2743,joints do not contain the bones that form them
+RID39631,lateral condyle of left tibia,change containedById,RID49393 -> RID49360,joints do not contain the bones that form them
+RID39630,lateral condyle of right tibia,change containedById,RID49392 -> RID49359,joints do not contain the bones that form them
+RID2892,medial tibial spine,change containedById,RID2751 -> RID2743,joints do not contain the bones that form them
+RID39649,left medial tibial spine,change containedById,RID49393 -> RID49360,joints do not contain the bones that form them
+RID39648,right medial tibial spine,change containedById,RID49392 -> RID49359,joints do not contain the bones that form them
+RID2889,lateral tibial spine,change containedById,RID2751 -> RID2743,joints do not contain the bones that form them
+RID39647,left lateral tibial spine,change containedById,RID49393 -> RID49360,joints do not contain the bones that form them
+RID39646,right lateral tibial spine,change containedById,RID49392 -> RID49359,joints do not contain the bones that form them
+RID2904,medial malleolus,change containedById,RID3004 -> RID28545,joints do not contain the bones that form them
+RID39872,left medial malleolus,change containedById,RID3004_RID5824 -> RID28545_RID5824,joints do not contain the bones that form them
+RID39871,right medial malleolus,change containedById,RID3004_RID5825 -> RID28545_RID5825,joints do not contain the bones that form them
+RID2883,lateral malleolus,change containedById,RID3004 -> RID28545,joints do not contain the bones that form them
+RID39865,left lateral malleolus,change containedById,RID3004_RID5824 -> RID28545_RID5824,joints do not contain the bones that form them
+RID39864,right lateral malleolus,change containedById,RID3004_RID5825 -> RID28545_RID5825,joints do not contain the bones that form them
+RID2949,talus,change containedById,RID3004 -> RID28829,the talus is a tarsal bone; the other tarsals are in the foot
+RID2949_RID5824,left talus,change containedById,RID3004_RID5824 -> RID28829_RID5824,the talus is a tarsal bone; the other tarsals are in the foot
+RID2949_RID5825,right talus,change containedById,RID3004_RID5825 -> RID28829_RID5825,the talus is a tarsal bone; the other tarsals are in the foot
+RID2671,greater trochanter of femur,change containedById,RID2660 -> RID2639,the trochanters are at the hip
+RID39755,greater trochanter of left femur,change containedById,RID2660_RID5824 -> RID2639_RID5824,the trochanters are at the hip
+RID39754,greater trochanter of right femur,change containedById,RID2660_RID5825 -> RID2639_RID5825,the trochanters are at the hip
+RID2673,lesser trochanter of femur,change containedById,RID2660 -> RID2639,the trochanters are at the hip
+RID39757,lesser trochanter of left femur,change containedById,RID2660_RID5824 -> RID2639_RID5824,the trochanters are at the hip
+RID39756,lesser trochanter of right femur,change containedById,RID2660_RID5825 -> RID2639_RID5825,the trochanters are at the hip
+RID38808,anterior tibiofibular ligament,change containedById,RID3004 -> RID28545,"tibiofibular ligaments belong to the syndesmosis, not the ankle joint"
+RID38808_RID5824,left anterior tibiofibular ligament,change containedById,RID3004_RID5824 -> RID28545_RID5824,"tibiofibular ligaments belong to the syndesmosis, not the ankle joint"
+RID38808_RID5825,right anterior tibiofibular ligament,change containedById,RID3004_RID5825 -> RID28545_RID5825,"tibiofibular ligaments belong to the syndesmosis, not the ankle joint"
+RID38809,posterior tibiofibular ligament,change containedById,RID3004 -> RID28545,"tibiofibular ligaments belong to the syndesmosis, not the ankle joint"
+RID38809_RID5824,left posterior tibiofibular ligament,change containedById,RID3004_RID5824 -> RID28545_RID5824,"tibiofibular ligaments belong to the syndesmosis, not the ankle joint"
+RID38809_RID5825,right posterior tibiofibular ligament,change containedById,RID3004_RID5825 -> RID28545_RID5825,"tibiofibular ligaments belong to the syndesmosis, not the ankle joint"
+RID41191,tendon of extensor digitorum longus to second toe,change containedById,RID28545 -> RID28829,the slips run over the dorsum of the foot
+RID41193,tendon of left extensor digitorum longus to left second toe,change containedById,RID28545_RID5824 -> RID28829_RID5824,the slips run over the dorsum of the foot
+RID41192,tendon of right extensor digitorum longus to right second toe,change containedById,RID28545_RID5825 -> RID28829_RID5825,the slips run over the dorsum of the foot
+RID41194,tendon of extensor digitorum longus to third toe,change containedById,RID28545 -> RID28829,the slips run over the dorsum of the foot
+RID41196,tendon of left extensor digitorum longus to left third toe,change containedById,RID28545_RID5824 -> RID28829_RID5824,the slips run over the dorsum of the foot
+RID41195,tendon of right extensor digitorum longus to right third toe,change containedById,RID28545_RID5825 -> RID28829_RID5825,the slips run over the dorsum of the foot
+RID41197,tendon of extensor digitorum longus to fourth toe,change containedById,RID28545 -> RID28829,the slips run over the dorsum of the foot
+RID41199,tendon of left extensor digitorum longus to left fourth toe,change containedById,RID28545_RID5824 -> RID28829_RID5824,the slips run over the dorsum of the foot
+RID41198,tendon of right extensor digitorum longus to right fourth toe,change containedById,RID28545_RID5825 -> RID28829_RID5825,the slips run over the dorsum of the foot
+RID41200,tendon of extensor digitorum longus to fifth toe,change containedById,RID28545 -> RID28829,the slips run over the dorsum of the foot
+RID41202,tendon of left extensor digitorum longus to left fifth toe,change containedById,RID28545_RID5824 -> RID28829_RID5824,the slips run over the dorsum of the foot
+RID41201,tendon of right extensor digitorum longus to right fifth toe,change containedById,RID28545_RID5825 -> RID28829_RID5825,the slips run over the dorsum of the foot
+RID7348,common peroneal nerve,change containedById,RID2869 -> RID2743,the common peroneal nerve divides at the fibular neck
+RID7348_RID5824,left common peroneal nerve,change containedById,RID2869_RID5824 -> RID49360,the common peroneal nerve divides at the fibular neck
+RID7348_RID5825,right common peroneal nerve,change containedById,RID2869_RID5825 -> RID49359,the common peroneal nerve divides at the fibular neck
+RID465,inguinal lymph node,change containedById,RID2639 -> RID2660,inguinal nodes lie in the femoral triangle
+RID465_RID5824,left inguinal lymph node,change containedById,RID2639_RID5824 -> RID2660_RID5824,inguinal nodes lie in the femoral triangle
+RID465_RID5825,right inguinal lymph node,change containedById,RID2639_RID5825 -> RID2660_RID5825,inguinal nodes lie in the femoral triangle
+RID2531,ilium,change containedById,RID2639 -> RID2507,the three parts of the hip bone belong together; the pubis is in the pelvis
+RID2531_RID5824,left ilium,change containedById,RID2639_RID5824 -> RID2507,the three parts of the hip bone belong together; the pubis is in the pelvis
+RID2531_RID5825,right ilium,change containedById,RID2639_RID5825 -> RID2507,the three parts of the hip bone belong together; the pubis is in the pelvis
+RID2545,ischium,change containedById,RID2639 -> RID2507,the three parts of the hip bone belong together; the pubis is in the pelvis
+RID2545_RID5824,left ischium,change containedById,RID2639_RID5824 -> RID2507,the three parts of the hip bone belong together; the pubis is in the pelvis
+RID2545_RID5825,right ischium,change containedById,RID2639_RID5825 -> RID2507,the three parts of the hip bone belong together; the pubis is in the pelvis
+RID967,posterior tibial artery,change containedById,RID2869 -> RID2934,"posterior tibial vessels run in the deep posterior compartment, like the peroneal vessels"
+RID967_RID5824,left posterior tibial artery,change containedById,RID2869_RID5824 -> RID2934_RID5824,"posterior tibial vessels run in the deep posterior compartment, like the peroneal vessels"
+RID967_RID5825,right posterior tibial artery,change containedById,RID2869_RID5825 -> RID2934_RID5825,"posterior tibial vessels run in the deep posterior compartment, like the peroneal vessels"
+RID1207,posterior tibial vein,change containedById,RID2869 -> RID2934,"posterior tibial vessels run in the deep posterior compartment, like the peroneal vessels"
+RID1207_RID5824,left posterior tibial vein,change containedById,RID2869_RID5824 -> RID2934_RID5824,"posterior tibial vessels run in the deep posterior compartment, like the peroneal vessels"
+RID1207_RID5825,right posterior tibial vein,change containedById,RID2869_RID5825 -> RID2934_RID5825,"posterior tibial vessels run in the deep posterior compartment, like the peroneal vessels"
+RID7657,epiglottis,change containedById,RID7488 -> RID7589,the epiglottis is part of the larynx
+RID10010,palatine tonsil,change containedById,RID13211 -> RID10003,palatine and lingual tonsils are oropharyngeal
+RID10010_RID5824,left palatine tonsil,change containedById,RID13211 -> RID10003,palatine and lingual tonsils are oropharyngeal
+RID10010_RID5825,right palatine tonsil,change containedById,RID13211 -> RID10003,palatine and lingual tonsils are oropharyngeal
+RID10008,lingual tonsil,change containedById,RID13211 -> RID10003,palatine and lingual tonsils are oropharyngeal
+RID10008_RID5824,left lingual tonsil,change containedById,RID13211 -> RID10003,palatine and lingual tonsils are oropharyngeal
+RID10008_RID5825,right lingual tonsil,change containedById,RID13211 -> RID10003,palatine and lingual tonsils are oropharyngeal
+RID7516,mylohyoid muscle,change containedById,RID7488 -> RID7540,"suprahyoid muscles, like the digastric"
+RID7516_RID5824,left mylohyoid muscle,change containedById,RID7488 -> RID7540,"suprahyoid muscles, like the digastric"
+RID7516_RID5825,right mylohyoid muscle,change containedById,RID7488 -> RID7540,"suprahyoid muscles, like the digastric"
+RID7517,geniohyoid muscle,change containedById,RID7488 -> RID7540,"suprahyoid muscles, like the digastric"
+RID7517_RID5824,left geniohyoid muscle,change containedById,RID7488 -> RID7540,"suprahyoid muscles, like the digastric"
+RID7517_RID5825,right geniohyoid muscle,change containedById,RID7488 -> RID7540,"suprahyoid muscles, like the digastric"
+RID582,brachiocephalic artery,change containedById,RID1243 -> RID1384,mediastinal vessels
+RID44771,pericardiacophrenic artery,change containedById,RID1243 -> RID1384,mediastinal vessels
+RID44773,left pericardiacophrenic artery,change containedById,RID1243 -> RID1384,mediastinal vessels
+RID44772,right pericardiacophrenic artery,change containedById,RID1243 -> RID1384,mediastinal vessels
+RID43951,lateral thoracic vein,change containedById,RID1243 -> RID2468,a superficial vein of the chest wall
+RID43953,left lateral thoracic vein,change containedById,RID1243 -> RID2468,a superficial vein of the chest wall
+RID43952,right lateral thoracic vein,change containedById,RID1243 -> RID2468,a superficial vein of the chest wall
+RID579,sinotubular junction,change containedById,RID1384 -> RID879,"part of the thoracic aorta, like the arch and ascending aorta"
+RID1232,right common pulmonary vein,change containedById,RID1243 -> RID1384,"mediastinal, like the pulmonary vein"
+RID1238,left common pulmonary vein,change containedById,RID1243 -> RID1384,"mediastinal, like the pulmonary vein"
+RID376,pampiniform plexus,change containedById,RID2485 -> RID375,the pampiniform plexus is part of the spermatic cord
+RID929,right colic artery,change containedById,RID397 -> RID431,the colic vessels run behind the peritoneum
+RID940,left colic artery,change containedById,RID397 -> RID431,the colic vessels run behind the peritoneum
+RID38290,right colic vein,change containedById,RID397 -> RID431,the colic vessels run behind the peritoneum
+RID942,superior rectal artery,change containedById,RID397 -> RID2507,the superior rectal artery runs in the mesorectum
+RID919,cystic artery,change containedById,RID415 -> RID56,same reasoning as the cystic duct
+RID32809,musculature of anterior abdominal wall,change containedById,RID30014 -> RID30008,smallest enclosing region
+RID948,iliolumbar artery,change containedById,RID431 -> RID2507,an internal iliac branch
+RID948_RID5824,left iliolumbar artery,change containedById,RID431 -> RID2507,an internal iliac branch
+RID948_RID5825,right iliolumbar artery,change containedById,RID431 -> RID2507,an internal iliac branch
+RID31931,pancreatic lymph node group,change containedById,RID56 -> RID431,"retroperitoneal, like the celiac and precaval groups"
+RID28857,pancreaticoduodenal lymph node,change containedById,RID56 -> RID431,"retroperitoneal, like the celiac and precaval groups"
+RID168,appendix,change containedById,RID2507 -> RID397,the appendix arises from the cecum in the peritoneal cavity
+RID44764,medial occipital artery,change containedById,RID13284 -> RID6502,a posterior cerebral artery branch to the occipital lobe
+RID44766,left medial occipital artery,change containedById,RID13284 -> RID13869,a posterior cerebral artery branch to the occipital lobe
+RID44765,right medial occipital artery,change containedById,RID13284 -> RID13868,a posterior cerebral artery branch to the occipital lobe
+RID44762,right lateral occipital artery,change containedById,RID13284 -> RID13858,"a posterior cerebral artery branch, intracranial"
+RID44763,left lateral occipital artery,change containedById,RID13284 -> RID13859,"a posterior cerebral artery branch, intracranial"
+RID7099,trigeminal cave,change containedById,RID9361 -> RID6383_RID9080,Meckel's cave is a dural recess in the middle cranial fossa
+RID9569,sphenoid sinus,change containedById,RID13284 -> RID9281,the sphenoid sinus is inside the sphenoid bone
+RID9569_RID5824,left sphenoid sinus,change containedById,RID13284 -> RID9281,the sphenoid sinus is inside the sphenoid bone
+RID9569_RID5825,right sphenoid sinus,change containedById,RID13284 -> RID9281,the sphenoid sinus is inside the sphenoid bone
+RID10100,tympanic membrane,change containedById,RID10109 -> RID13303,"the tympanic membrane is a wall of the tympanic cavity, not inside it"
+RID10100_RID5824,left tympanic membrane,change containedById,RID10109_RID5824 -> RID13303_RID5824,"the tympanic membrane is a wall of the tympanic cavity, not inside it"
+RID10100_RID5825,right tympanic membrane,change containedById,RID10109_RID5825 -> RID13303_RID5825,"the tympanic membrane is a wall of the tympanic cavity, not inside it"
+RID9392,internal auditory canal,change containedById,RID10199 -> RID9361,the internal auditory canal is a canal in the petrous bone
+RID9392_RID5824,left internal auditory canal,change containedById,RID10199_RID5824 -> RID9361_RID5824,the internal auditory canal is a canal in the petrous bone
+RID9392_RID5825,right internal auditory canal,change containedById,RID10199_RID5825 -> RID9361_RID5825,the internal auditory canal is a canal in the petrous bone
+RID1095,superior ophthalmic vein,change containedById,RID9725 -> RID9573,the ophthalmic veins are mostly extraconal
+RID36056,left superior ophthalmic vein,change containedById,RID9725_RID5824 -> RID9573_RID5824,the ophthalmic veins are mostly extraconal
+RID36055,right superior ophthalmic vein,change containedById,RID9725_RID5825 -> RID9573_RID5825,the ophthalmic veins are mostly extraconal
+RID1117,inferior ophthalmic vein,change containedById,RID9725 -> RID9573,the ophthalmic veins are mostly extraconal
+RID36101,left inferior ophthalmic vein,change containedById,RID9725_RID5824 -> RID9573_RID5824,the ophthalmic veins are mostly extraconal
+RID36100,right inferior ophthalmic vein,change containedById,RID9725_RID5825 -> RID9573_RID5825,the ophthalmic veins are mostly extraconal
+RID38674,pituitary gland,change containedById,RID9286 -> RID6383_RID9080,the pituitary rises above the sella
+RID9887,occipitofrontalis muscle,change containedById,RID9080 -> RID9919,a layer of the scalp
+RID9887_RID5824,left occipitofrontalis muscle,change containedById,RID9080 -> RID9919,a layer of the scalp
+RID9887_RID5825,right occipitofrontalis muscle,change containedById,RID9080 -> RID9919,a layer of the scalp
+RID9236,maxilla,change containedById,RID9196 -> RID13284,"the maxilla is part of the skull but lies in the face, like the mandible"
+RID6456,central sulcus,change containedById,RID6389_RID6434 -> RID13857,lies within one hemisphere
+RID6457,precentral sulcus,change containedById,RID6391 -> RID6440,frontal sulci belong with the frontal lobe
+RID6458,superior frontal sulcus,change containedById,RID6391 -> RID6440,frontal sulci belong with the frontal lobe
+RID6459,inferior frontal sulcus,change containedById,RID6391 -> RID6440,frontal sulci belong with the frontal lobe
+RID6482,uncus,change containedById,RID6392 -> RID6476,the uncus is temporal
+RID29903,nipple of male breast,change containedById,RID29914 -> RID29898,the areola surrounds the nipple but does not enclose it
+RID29904,nipple of right male breast,change containedById,RID29915 -> RID29899,the areola surrounds the nipple but does not enclose it
+RID29905,nipple of left male breast,change containedById,RID29916 -> RID29900,the areola surrounds the nipple but does not enclose it
+RID29906,nipple of female breast,change containedById,RID29917 -> RID29895,the areola surrounds the nipple but does not enclose it
+RID29907,nipple of right female breast,change containedById,RID29918 -> RID29896,the areola surrounds the nipple but does not enclose it
+RID29908,nipple of left female breast,change containedById,RID29919 -> RID29897,the areola surrounds the nipple but does not enclose it
+RID9106,mandibular dental arcade,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9106_RID5827_RID5825,right mandibular central incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9106_RID39121_RID5825,right mandibular lateral incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9126_RID9106_RID5825,right mandibular canine tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9129_RID9106_RID5996_RID5825,right mandibular first premolar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9129_RID9106_RID5998_RID5825,right mandibular second premolar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9106_RID5996_RID5825,right mandibular first molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9106_RID5998_RID5825,right mandibular second molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9106_RID6000_RID5825,right mandibular third molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9106_RID5827_RID5824,left mandibular central incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9106_RID39121_RID5824,left mandibular lateral incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9126_RID9106_RID5824,left mandibular canine tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9129_RID9106_RID5996_RID5824,left mandibular first premolar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9129_RID9106_RID5998_RID5824,left mandibular second premolar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9106_RID5996_RID5824,left mandibular first molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9106_RID5998_RID5824,left mandibular second molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9106_RID6000_RID5824,left mandibular third molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9131_RID9106_RID5827_RID5825,deciduous right mandibular central incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9131_RID9106_RID39121_RID5825,deciduous right mandibular lateral incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9126_RID9131_RID9106_RID5825,deciduous right mandibular canine tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9131_RID9106_RID5996_RID5825,deciduous right mandibular first molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9131_RID9106_RID5998_RID5825,deciduous right mandibular second molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9131_RID9106_RID5827_RID5824,deciduous left mandibular central incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9127_RID9131_RID9106_RID39121_RID5824,deciduous left mandibular lateral incisor tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9126_RID9131_RID9106_RID5824,deciduous left mandibular canine tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9131_RID9106_RID5996_RID5824,deciduous left mandibular first molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9128_RID9131_RID9106_RID5998_RID5824,deciduous left mandibular second molar tooth,change containedById,RID9938 -> RID9082,"mandibular teeth are in the mandible, as maxillary teeth are in the maxilla"
+RID9470,nasal bone,change containedById,RID9196 -> RID13284,facial skeleton is in the face; still part of the skull
+RID9458,zygomatic bone,change containedById,RID9196 -> RID13284,facial skeleton is in the face; still part of the skull
+RID9471,lacrimal bone,change containedById,RID9196 -> RID13284,facial skeleton is in the face; still part of the skull
+RID9247,zygomaticomaxillary suture of maxilla,change containedById,RID9196 -> RID13284,facial skeleton is in the face; still part of the skull
+RID28599,zygomatic arch,change containedById,RID9196 -> RID13284,facial skeleton is in the face; still part of the skull
+RID94,gastrointestinal tract,change containedById,RID1243 -> RID39569,"spans thorax, abdomen and pelvis (GI tract) or abdomen, pelvis and thigh (iliopsoas)"
+RID30906,iliopsoas muscle,change containedById,RID2691 -> RID39569,"spans thorax, abdomen and pelvis (GI tract) or abdomen, pelvis and thigh (iliopsoas)"
+RID30907,right iliopsoas muscle,change containedById,RID48157 -> RID39569,"spans thorax, abdomen and pelvis (GI tract) or abdomen, pelvis and thigh (iliopsoas)"
+RID30908,left iliopsoas muscle,change containedById,RID48158 -> RID39569,"spans thorax, abdomen and pelvis (GI tract) or abdomen, pelvis and thigh (iliopsoas)"
+RID648,anterior cerebral artery,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID36392,right anterior cerebral artery,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID36393,left anterior cerebral artery,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID650,A1 segment of anterior cerebral artery,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID650_RID5824,left A1 segment of anterior cerebral artery,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID650_RID5825,right A1 segment of anterior cerebral artery,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID651,A2 segment of anterior cerebral artery,change containedById,RID6391 -> RID6440,intracranial vessel placement rule
+RID651_RID5824,left A2 segment of anterior cerebral artery,change containedById,RID6391_RID5824 -> RID13863,intracranial vessel placement rule
+RID651_RID5825,right A2 segment of anterior cerebral artery,change containedById,RID6391_RID5825 -> RID13862,intracranial vessel placement rule
+RID656,pericallosal artery,change containedById,RID6440 -> RID13857,intracranial vessel placement rule
+RID36434,right pericallosal artery,change containedById,RID13862 -> RID13858,intracranial vessel placement rule
+RID36435,left pericallosal artery,change containedById,RID13863 -> RID13859,intracranial vessel placement rule
+RID649,anterior communicating artery,change containedById,RID6391 -> RID6389_RID6434,intracranial vessel placement rule
+RID652,distal medial striate artery,change containedById,RID6440 -> RID13857,intracranial vessel placement rule
+RID652_RID5824,left distal medial striate artery,change containedById,RID13863 -> RID13859,intracranial vessel placement rule
+RID652_RID5825,right distal medial striate artery,change containedById,RID13862 -> RID13858,intracranial vessel placement rule
+RID665,middle cerebral artery,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID36443,right middle cerebral artery,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID36444,left middle cerebral artery,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID666,M1 segment of middle cerebral artery,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID666_RID5824,left M1 segment of middle cerebral artery,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID666_RID5825,right M1 segment of middle cerebral artery,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID671,M2 segment of middle cerebral artery,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID671_RID5824,left M2 segment of middle cerebral artery,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID671_RID5825,right M2 segment of middle cerebral artery,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID680,M3 segment of middle cerebral artery,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID680_RID5824,left M3 segment of middle cerebral artery,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID680_RID5825,right M3 segment of middle cerebral artery,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID682,M4 segment of middle cerebral artery,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID682_RID5824,left M4 segment of middle cerebral artery,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID682_RID5825,right M4 segment of middle cerebral artery,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID668,lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13857,intracranial vessel placement rule
+RID668_RID5824,left lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13859,intracranial vessel placement rule
+RID668_RID5825,right lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13858,intracranial vessel placement rule
+RID670,medial lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13857,intracranial vessel placement rule
+RID670_RID5824,left medial lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13859,intracranial vessel placement rule
+RID670_RID5825,right medial lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13858,intracranial vessel placement rule
+RID669,lateral lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13857,intracranial vessel placement rule
+RID669_RID5824,left lateral lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13859,intracranial vessel placement rule
+RID669_RID5825,right lateral lenticulostriate artery,change containedById,RID6383_RID9080 -> RID13858,intracranial vessel placement rule
+RID643,anterior choroidal artery,change containedById,RID6476 -> RID6389_RID6434,intracranial vessel placement rule
+RID36541,right anterior choroidal artery,change containedById,RID13864 -> RID6389_RID6434,intracranial vessel placement rule
+RID36542,left anterior choroidal artery,change containedById,RID13865 -> RID6389_RID6434,intracranial vessel placement rule
+RID676,artery of central sulcus,change containedById,RID6440 -> RID13857,intracranial vessel placement rule
+RID676_RID5824,left artery of central sulcus,change containedById,RID13863 -> RID13859,intracranial vessel placement rule
+RID676_RID5825,right artery of central sulcus,change containedById,RID13862 -> RID13858,intracranial vessel placement rule
+RID804,posterior cerebral artery,change containedById,RID6393 -> RID6434,intracranial vessel placement rule
+RID44716,right posterior cerebral artery,change containedById,RID6393_RID5825 -> RID6434,intracranial vessel placement rule
+RID44717,left posterior cerebral artery,change containedById,RID6393_RID5824 -> RID6434,intracranial vessel placement rule
+RID807,P2 segment of posterior cerebral artery,change containedById,RID6393 -> RID6434,intracranial vessel placement rule
+RID807_RID5824,left P2 segment of posterior cerebral artery,change containedById,RID6393_RID5824 -> RID6434,intracranial vessel placement rule
+RID807_RID5825,right P2 segment of posterior cerebral artery,change containedById,RID6393_RID5825 -> RID6434,intracranial vessel placement rule
+RID818,P3 segment of posterior cerebral artery,change containedById,RID6393 -> RID6434,intracranial vessel placement rule
+RID818_RID5824,left P3 segment of posterior cerebral artery,change containedById,RID6393_RID5824 -> RID6434,intracranial vessel placement rule
+RID818_RID5825,right P3 segment of posterior cerebral artery,change containedById,RID6393_RID5825 -> RID6434,intracranial vessel placement rule
+RID813,medial posterior choroidal artery,change containedById,RID6677 -> RID6434,intracranial vessel placement rule
+RID813_RID5824,left medial posterior choroidal artery,change containedById,RID6677 -> RID6434,intracranial vessel placement rule
+RID813_RID5825,right medial posterior choroidal artery,change containedById,RID6677 -> RID6434,intracranial vessel placement rule
+RID814,lateral posterior choroidal artery,change containedById,RID6677 -> RID6434,intracranial vessel placement rule
+RID814_RID5824,left lateral posterior choroidal artery,change containedById,RID6677 -> RID6434,intracranial vessel placement rule
+RID814_RID5825,right lateral posterior choroidal artery,change containedById,RID6677 -> RID6434,intracranial vessel placement rule
+RID810,anterior thalamoperforating artery,change containedById,RID6383_RID9080 -> RID6389_RID6434,intracranial vessel placement rule
+RID810_RID5824,left anterior thalamoperforating artery,change containedById,RID6383_RID9080 -> RID6389_RID6434,intracranial vessel placement rule
+RID810_RID5825,right anterior thalamoperforating artery,change containedById,RID6383_RID9080 -> RID6389_RID6434,intracranial vessel placement rule
+RID811,posterior thalamoperforating artery,change containedById,RID6383_RID9080 -> RID6434,intracranial vessel placement rule
+RID811_RID5824,left posterior thalamoperforating artery,change containedById,RID6383_RID9080 -> RID6434,intracranial vessel placement rule
+RID811_RID5825,right posterior thalamoperforating artery,change containedById,RID6383_RID9080 -> RID6434,intracranial vessel placement rule
+RID812,thalamogeniculate artery,change containedById,RID6383_RID9080 -> RID6389_RID6434,intracranial vessel placement rule
+RID44726,right thalamogeniculate artery,change containedById,RID6383_RID9080 -> RID6389_RID6434,intracranial vessel placement rule
+RID44727,left thalamogeniculate artery,change containedById,RID6383_RID9080 -> RID6389_RID6434,intracranial vessel placement rule
+RID819,parieto-occipital artery,change containedById,RID6393 -> RID13857,intracranial vessel placement rule
+RID44755,right parietal occipital artery,change containedById,RID6393_RID5825 -> RID13858,intracranial vessel placement rule
+RID44756,left parietal occipital artery,change containedById,RID6393_RID5824 -> RID13859,intracranial vessel placement rule
+RID781,anterior medullary segment of PICA,change containedById,RID6815 -> RID6381_RID6434,intracranial vessel placement rule
+RID781_RID5824,left anterior medullary segment of PICA,change containedById,RID6815 -> RID6381_RID6434,intracranial vessel placement rule
+RID781_RID5825,right anterior medullary segment of PICA,change containedById,RID6815 -> RID6381_RID6434,intracranial vessel placement rule
+RID783,posterior medullary segment of PICA,change containedById,RID6815 -> RID6381_RID6434,intracranial vessel placement rule
+RID783_RID5824,left posterior medullary segment of PICA,change containedById,RID6815 -> RID6381_RID6434,intracranial vessel placement rule
+RID783_RID5825,right posterior medullary segment of PICA,change containedById,RID6815 -> RID6381_RID6434,intracranial vessel placement rule
+RID44660,pontine artery,change containedById,RID6381_RID6434 -> RID6728,intracranial vessel placement rule
+RID44661,right pontine artery,change containedById,RID6381_RID6434 -> RID6728,intracranial vessel placement rule
+RID44662,left pontine artery,change containedById,RID6381_RID6434 -> RID6728,intracranial vessel placement rule
+RID793,circumflex pontine artery,change containedById,RID6381_RID6434 -> RID6728,intracranial vessel placement rule
+RID793_RID5824,left circumflex pontine artery,change containedById,RID6381_RID6434 -> RID6728,intracranial vessel placement rule
+RID793_RID5825,right circumflex pontine artery,change containedById,RID6381_RID6434 -> RID6728,intracranial vessel placement rule
+RID34446,superficial cerebral vein,change containedById,RID6383_RID9080 -> RID13857,intracranial vessel placement rule
+RID34446_RID5824,left superficial cerebral vein,change containedById,RID6383_RID9080 -> RID13859,intracranial vessel placement rule
+RID34446_RID5825,right superficial cerebral vein,change containedById,RID6383_RID9080 -> RID13858,intracranial vessel placement rule
+RID36152,inferior cerebral vein,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID36152_RID5824,left inferior cerebral vein,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID36152_RID5825,right inferior cerebral vein,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID1124,superficial middle cerebral vein,change containedById,RID6389_RID6434 -> RID13857,intracranial vessel placement rule
+RID36102,right superficial middle cerebral vein,change containedById,RID6389_RID6434 -> RID13858,intracranial vessel placement rule
+RID36103,left superficial middle cerebral vein,change containedById,RID6389_RID6434 -> RID13859,intracranial vessel placement rule
+RID36164,deep middle cerebral vein,change containedById,RID6391 -> RID13857,intracranial vessel placement rule
+RID36165,right deep middle cerebral vein,change containedById,RID6391_RID5825 -> RID13858,intracranial vessel placement rule
+RID36166,left deep middle cerebral vein,change containedById,RID6391_RID5824 -> RID13859,intracranial vessel placement rule
+RID36147,superior anastomotic vein,change containedById,RID6383_RID9080 -> RID13857,intracranial vessel placement rule
+RID36148,right superior anastomotic vein,change containedById,RID6383_RID9080 -> RID13858,intracranial vessel placement rule
+RID36149,left superior anastomotic vein,change containedById,RID6383_RID9080 -> RID13859,intracranial vessel placement rule
+RID36150,right inferior anastomotic vein,change containedById,RID6383_RID9080 -> RID13864,intracranial vessel placement rule
+RID36151,left inferior anastomotic vein,change containedById,RID6383_RID9080 -> RID13865,intracranial vessel placement rule
+RID36153,vein of uncus,change containedById,RID6389_RID6434 -> RID6476,intracranial vessel placement rule
+RID36154,vein of right uncus,change containedById,RID6389_RID6434 -> RID13864,intracranial vessel placement rule
+RID36155,vein of left uncus,change containedById,RID6389_RID6434 -> RID13865,intracranial vessel placement rule
+RID36161,anterior cerebral vein,change containedById,RID6381_RID6434 -> RID6389_RID6434,intracranial vessel placement rule
+RID36162,right anterior cerebral vein,change containedById,RID6381_RID6434 -> RID6389_RID6434,intracranial vessel placement rule
+RID36163,left anterior cerebral vein,change containedById,RID6381_RID6434 -> RID6389_RID6434,intracranial vessel placement rule
+RID1142,internal cerebral vein,change containedById,RID6391 -> RID6389_RID6434,intracranial vessel placement rule
+RID36190,right internal cerebral vein,change containedById,RID6391_RID5825 -> RID6389_RID6434,intracranial vessel placement rule
+RID36191,left internal cerebral vein,change containedById,RID6391_RID5824 -> RID6389_RID6434,intracranial vessel placement rule
+RID1132,great cerebral vein,change containedById,RID6383_RID9080 -> RID6434,intracranial vessel placement rule
+RID1152,basal vein,change containedById,RID6381_RID6434 -> RID6434,intracranial vessel placement rule
+RID36159,right basal vein,change containedById,RID6381_RID6434 -> RID6434,intracranial vessel placement rule
+RID36160,left basal vein,change containedById,RID6381_RID6434 -> RID6434,intracranial vessel placement rule
+RID1122,transverse sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1122_RID5824,left transverse sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1122_RID5825,right transverse sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1092,sigmoid sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1092_RID5824,left sigmoid sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1092_RID5825,right sigmoid sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1119,sphenoparietal sinus,change containedById,RID6392 -> RID6383_RID9080,intracranial vessel placement rule
+RID1119_RID5824,left sphenoparietal sinus,change containedById,RID6392_RID5824 -> RID6383_RID9080,intracranial vessel placement rule
+RID1119_RID5825,right sphenoparietal sinus,change containedById,RID6392_RID5825 -> RID6383_RID9080,intracranial vessel placement rule
+RID1121,superior petrosal sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1121_RID5824,left superior petrosal sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1121_RID5825,right superior petrosal sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1093,inferior petrosal sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1093_RID5824,left inferior petrosal sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1093_RID5825,right inferior petrosal sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID1126,occipital sinus,change containedById,RID6381_RID6434 -> RID6383_RID9080,intracranial vessel placement rule
+RID6578,thalamus,change containedById,RID13857 -> RID6389_RID6434,"diencephalon, not hemisphere; as the hypothalamus"
+RID13495,right thalamus,change containedById,RID13858 -> RID6389_RID6434,"diencephalon, not hemisphere; as the hypothalamus"
+RID13496,left thalamus,change containedById,RID13859 -> RID6389_RID6434,"diencephalon, not hemisphere; as the hypothalamus"
+RID39569,whole body,add definitions,269 entries,RadLex definitions for entries keyed by a single RadLex ID
+RID44638,right anterior spinal artery,remove entry,,the anterior spinal artery is a single midline vessel; its left and right entries are removed
+RID44639,left anterior spinal artery,remove entry,,the anterior spinal artery is a single midline vessel; its left and right entries are removed
+RID7651_RID5824,left transverse arytenoid muscle,remove entry,,the transverse arytenoid is a single unpaired muscle; its left and right entries are removed
+RID7651_RID5825,right transverse arytenoid muscle,remove entry,,the transverse arytenoid is a single unpaired muscle; its left and right entries are removed
+RID36188,right great cerebral vein,remove entry,,the great cerebral vein is a single midline vein; its left and right entries are removed
+RID36189,left great cerebral vein,remove entry,,the great cerebral vein is a single midline vein; its left and right entries are removed
+RID29205,eighth thoracic vertebra,change label,eight thoracic vertebra -> eighth thoracic vertebra,typo
+RID342,male genital system,change label,genital system of the male human body -> male genital system,matches female genital system and TA2
+RID43071,right pectoralis major muscle,change label,right pectoralis major -> right pectoralis major muscle,matches the unsided label
+RID43072,left pectoralis major muscle,change label,left pectoralis major -> left pectoralis major muscle,matches the unsided label
+RID43073,right pectoralis minor muscle,change label,right pectoralis minor -> right pectoralis minor muscle,matches the unsided label
+RID43074,left pectoralis minor muscle,change label,left pectoralis minor -> left pectoralis minor muscle,matches the unsided label
+RID43052,right serratus anterior muscle,change label,right serratus anterior -> right serratus anterior muscle,matches the unsided label
+RID43053,left serratus anterior muscle,change label,left serratus anterior -> left serratus anterior muscle,matches the unsided label
+RID43045,right trapezius muscle,change label,right trapezius -> right trapezius muscle,matches the unsided label
+RID43046,left trapezius muscle,change label,left trapezius -> left trapezius muscle,matches the unsided label
+RID43050,right levator scapulae muscle,change label,right levator scapulae -> right levator scapulae muscle,matches the unsided label
+RID43051,left levator scapulae muscle,change label,left levator scapulae -> left levator scapulae muscle,matches the unsided label
+RID48480,right tibialis posterior muscle,change label,right tibialis posterior -> right tibialis posterior muscle,matches the unsided label
+RID48481,left tibialis posterior muscle,change label,left tibialis posterior -> left tibialis posterior muscle,matches the unsided label
+RID32248,right psoas major muscle,change label,right psoas major -> right psoas major muscle,matches the unsided label
+RID32249,left psoas major muscle,change label,left psoas major -> left psoas major muscle,matches the unsided label
+RID32250,right psoas minor muscle,change label,right psoas minor -> right psoas minor muscle,matches the unsided label
+RID32251,left psoas minor muscle,change label,left psoas minor -> left psoas minor muscle,matches the unsided label
+RID43054,right rhomboid major muscle,change label,right rhomboid major -> right rhomboid major muscle,matches the unsided label
+RID43055,left rhomboid major muscle,change label,left rhomboid major -> left rhomboid major muscle,matches the unsided label
+RID43056,right rhomboid minor muscle,change label,right rhomboid minor -> right rhomboid minor muscle,matches the unsided label
+RID43057,left rhomboid minor muscle,change label,left rhomboid minor -> left rhomboid minor muscle,matches the unsided label
+RID43143,abductor digiti minimi muscle of right hand,change label,abductor digiti minimi of right hand -> abductor digiti minimi muscle of right hand,matches the unsided label
+RID43144,abductor digiti minimi muscle of left hand,change label,abductor digiti minimi of left hand -> abductor digiti minimi muscle of left hand,matches the unsided label
+RID43145,flexor digiti minimi brevis muscle of right hand,change label,flexor digiti minimi brevis of right hand -> flexor digiti minimi brevis muscle of right hand,matches the unsided label
+RID43146,flexor digiti minimi brevis muscle of left hand,change label,flexor digiti minimi brevis of left hand -> flexor digiti minimi brevis muscle of left hand,matches the unsided label
+RID43147,opponens digiti minimi muscle of right hand,change label,opponens digiti minimi of right hand -> opponens digiti minimi muscle of right hand,matches the unsided label
+RID43148,opponens digiti minimi muscle of left hand,change label,opponens digiti minimi of left hand -> opponens digiti minimi muscle of left hand,matches the unsided label
+RID41143,right biceps femoris tendon,change label,tendon of right biceps femoris -> right biceps femoris tendon,matches the unsided label
+RID41144,left biceps femoris tendon,change label,tendon of left biceps femoris -> left biceps femoris tendon,matches the unsided label
+RID2500,rhomboid major muscle,change label,rhomboideus major muscle -> rhomboid major muscle,matches the sided labels
+RID2501,rhomboid minor muscle,change label,rhomboideus minor muscle -> rhomboid minor muscle,matches the sided labels
+RID44755,right parieto-occipital artery,change label,right parietal occipital artery -> right parieto-occipital artery,matches the unsided label
+RID44756,left parieto-occipital artery,change label,left parietal occipital artery -> left parieto-occipital artery,matches the unsided label
+RID6770,cerebral peduncle,change label,peduncle of midbrain -> cerebral peduncle,"matches the sided labels, TA2, FMA and SNOMED"
+RID36453,temporal branches of middle cerebral artery,change label,temporal artery -> temporal branches of middle cerebral artery,'temporal artery' reads as the superficial temporal artery; codes are the MCA branches
+RID36455,temporal branches of left middle cerebral artery,change label,left temporal artery -> temporal branches of left middle cerebral artery,same
+RID36454,temporal branches of right middle cerebral artery,change label,right temporal artery -> temporal branches of right middle cerebral artery,same
+RID674,medial orbitofrontal artery,change label,orbitofrontal artery -> medial orbitofrontal artery,the ACA branch; bare name usually means the MCA lateral orbitofrontal
+RID674_RID5824,left medial orbitofrontal artery,change label,left orbitofrontal artery -> left medial orbitofrontal artery,the ACA branch; bare name usually means the MCA lateral orbitofrontal
+RID674_RID5825,right medial orbitofrontal artery,change label,right orbitofrontal artery -> right medial orbitofrontal artery,the ACA branch; bare name usually means the MCA lateral orbitofrontal
+RID2957,talar sulcus,change label,sulcus tali -> talar sulcus,TA2
+RID2957_RID5824,left talar sulcus,change label,left sulcus tali -> left talar sulcus,TA2
+RID2957_RID5825,right talar sulcus,change label,right sulcus tali -> right talar sulcus,TA2
+RID972,dorsalis pedis artery,change label,dorsal pedal artery -> dorsalis pedis artery,"TA2, FMA, SNOMED"
+RID972_RID5824,left dorsalis pedis artery,change label,left dorsal pedal artery -> left dorsalis pedis artery,"TA2, FMA, SNOMED"
+RID972_RID5825,right dorsalis pedis artery,change label,right dorsal pedal artery -> right dorsalis pedis artery,"TA2, FMA, SNOMED"
+RID970,plantar arterial arch,change label,plantar arch -> plantar arterial arch,SNOMED; bare name collides with the foot arches
+RID970_RID5824,left plantar arterial arch,change label,left plantar arch -> left plantar arterial arch,SNOMED; bare name collides with the foot arches
+RID970_RID5825,right plantar arterial arch,change label,right plantar arch -> right plantar arterial arch,SNOMED; bare name collides with the foot arches
+RID652,recurrent artery of Heubner,change label,distal medial striate artery -> recurrent artery of Heubner,SNOMED; radiology usage
+RID652_RID5824,left recurrent artery of Heubner,change label,left distal medial striate artery -> left recurrent artery of Heubner,SNOMED; radiology usage
+RID652_RID5825,right recurrent artery of Heubner,change label,right distal medial striate artery -> right recurrent artery of Heubner,SNOMED; radiology usage
+RID2594,pubic symphysis,change label,symphysis pubis -> pubic symphysis,"TA2, FMA"
+RID9247,zygomaticomaxillary suture,change label,zygomaticomaxillary suture of maxilla -> zygomaticomaxillary suture,"TA2, FMA"
+RID781,anterior medullary segment of posterior inferior cerebellar artery,change label,anterior medullary segment of PICA -> anterior medullary segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID781_RID5824,left anterior medullary segment of posterior inferior cerebellar artery,change label,left anterior medullary segment of PICA -> left anterior medullary segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID781_RID5825,right anterior medullary segment of posterior inferior cerebellar artery,change label,right anterior medullary segment of PICA -> right anterior medullary segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID783,posterior medullary segment of posterior inferior cerebellar artery,change label,posterior medullary segment of PICA -> posterior medullary segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID783_RID5824,left posterior medullary segment of posterior inferior cerebellar artery,change label,left posterior medullary segment of PICA -> left posterior medullary segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID783_RID5825,right posterior medullary segment of posterior inferior cerebellar artery,change label,right posterior medullary segment of PICA -> right posterior medullary segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID784,supratonsillar segment of posterior inferior cerebellar artery,change label,supratonsillar segment of PICA -> supratonsillar segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID784_RID5824,left supratonsillar segment of posterior inferior cerebellar artery,change label,left supratonsillar segment of PICA -> left supratonsillar segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID784_RID5825,right supratonsillar segment of posterior inferior cerebellar artery,change label,right supratonsillar segment of PICA -> right supratonsillar segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID786,retrotonsillar segment of posterior inferior cerebellar artery,change label,retrotonsillar segment of PICA -> retrotonsillar segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID786_RID5824,left retrotonsillar segment of posterior inferior cerebellar artery,change label,left retrotonsillar segment of PICA -> left retrotonsillar segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID786_RID5825,right retrotonsillar segment of posterior inferior cerebellar artery,change label,right retrotonsillar segment of PICA -> right retrotonsillar segment of posterior inferior cerebellar artery,labels spell out abbreviations
+RID787,inferior vermian artery of posterior inferior cerebellar artery,change label,inferior vermian artery of PICA -> inferior vermian artery of posterior inferior cerebellar artery,labels spell out abbreviations
+RID787_RID5824,left inferior vermian artery of posterior inferior cerebellar artery,change label,left inferior vermian artery of PICA -> left inferior vermian artery of posterior inferior cerebellar artery,labels spell out abbreviations
+RID787_RID5825,right inferior vermian artery of posterior inferior cerebellar artery,change label,right inferior vermian artery of PICA -> right inferior vermian artery of posterior inferior cerebellar artery,labels spell out abbreviations
+RID3181,plantar interosseous muscle of foot,change label,plantar interossei muscle of foot -> plantar interosseous muscle of foot,"singular, like the hand entries"
+RID3181_RID5824,left plantar interosseous muscle of foot,change label,left plantar interossei muscle of foot -> left plantar interosseous muscle of foot,"singular, like the hand entries"
+RID3181_RID5825,right plantar interosseous muscle of foot,change label,right plantar interossei muscle of foot -> right plantar interosseous muscle of foot,"singular, like the hand entries"
+RID3182,dorsal interosseous muscle of foot,change label,dorsal interossei muscle of foot -> dorsal interosseous muscle of foot,"singular, like the hand entries"
+RID3182_RID5824,left dorsal interosseous muscle of foot,change label,left dorsal interossei muscle of foot -> left dorsal interosseous muscle of foot,"singular, like the hand entries"
+RID3182_RID5825,right dorsal interosseous muscle of foot,change label,right dorsal interossei muscle of foot -> right dorsal interosseous muscle of foot,"singular, like the hand entries"
+RID453,gastrohepatic ligament lymph node,change label,gastrohepatic ligament node -> gastrohepatic ligament lymph node,like the other lymph node entries
+RID1499,right hilar lymph node (station 10R),change label,right hilar lymph node (station 10) -> right hilar lymph node (station 10R),IASLC station 10R
+RID9993_RID5824,left half of pharyngeal tonsil,change label,left pharyngeal tonsil -> left half of pharyngeal tonsil,one midline organ; matches SNOMED 781383005 'left half of adenoid'
+RID9993_RID5825,right half of pharyngeal tonsil,change label,right pharyngeal tonsil -> right half of pharyngeal tonsil,one midline organ; matches SNOMED 781384004 'right half of adenoid'
+RID1501,left hilar lymph node (station 10L),change label,left hilar lymph node (station 10) -> left hilar lymph node (station 10L),IASLC station 10L
+RID9127_RID9131_RID9279_RID5827_RID5825,right deciduous maxillary central incisor tooth,change label,deciduous right maxillary central incisor tooth -> right deciduous maxillary central incisor tooth,"side first, as on every other entry"
+RID9127_RID9131_RID9279_RID39121_RID5825,right deciduous maxillary lateral incisor tooth,change label,deciduous right maxillary lateral incisor tooth -> right deciduous maxillary lateral incisor tooth,"side first, as on every other entry"
+RID9126_RID9131_RID9279_RID5825,right deciduous maxillary canine tooth,change label,deciduous right maxillary canine tooth -> right deciduous maxillary canine tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9279_RID5996_RID5825,right deciduous maxillary first molar tooth,change label,deciduous right maxillary first molar tooth -> right deciduous maxillary first molar tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9279_RID5998_RID5825,right deciduous maxillary second molar tooth,change label,deciduous right maxillary second molar tooth -> right deciduous maxillary second molar tooth,"side first, as on every other entry"
+RID9127_RID9131_RID9279_RID5827_RID5824,left deciduous maxillary central incisor tooth,change label,deciduous left maxillary central incisor tooth -> left deciduous maxillary central incisor tooth,"side first, as on every other entry"
+RID9127_RID9131_RID9279_RID39121_RID5824,left deciduous maxillary lateral incisor tooth,change label,deciduous left maxillary lateral incisor tooth -> left deciduous maxillary lateral incisor tooth,"side first, as on every other entry"
+RID9126_RID9131_RID9279_RID5824,left deciduous maxillary canine tooth,change label,deciduous left maxillary canine tooth -> left deciduous maxillary canine tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9279_RID5996_RID5824,left deciduous maxillary first molar tooth,change label,deciduous left maxillary first molar tooth -> left deciduous maxillary first molar tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9279_RID5998_RID5824,left deciduous maxillary second molar tooth,change label,deciduous left maxillary second molar tooth -> left deciduous maxillary second molar tooth,"side first, as on every other entry"
+RID9127_RID9131_RID9106_RID5827_RID5825,right deciduous mandibular central incisor tooth,change label,deciduous right mandibular central incisor tooth -> right deciduous mandibular central incisor tooth,"side first, as on every other entry"
+RID9127_RID9131_RID9106_RID39121_RID5825,right deciduous mandibular lateral incisor tooth,change label,deciduous right mandibular lateral incisor tooth -> right deciduous mandibular lateral incisor tooth,"side first, as on every other entry"
+RID9126_RID9131_RID9106_RID5825,right deciduous mandibular canine tooth,change label,deciduous right mandibular canine tooth -> right deciduous mandibular canine tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9106_RID5996_RID5825,right deciduous mandibular first molar tooth,change label,deciduous right mandibular first molar tooth -> right deciduous mandibular first molar tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9106_RID5998_RID5825,right deciduous mandibular second molar tooth,change label,deciduous right mandibular second molar tooth -> right deciduous mandibular second molar tooth,"side first, as on every other entry"
+RID9127_RID9131_RID9106_RID5827_RID5824,left deciduous mandibular central incisor tooth,change label,deciduous left mandibular central incisor tooth -> left deciduous mandibular central incisor tooth,"side first, as on every other entry"
+RID9127_RID9131_RID9106_RID39121_RID5824,left deciduous mandibular lateral incisor tooth,change label,deciduous left mandibular lateral incisor tooth -> left deciduous mandibular lateral incisor tooth,"side first, as on every other entry"
+RID9126_RID9131_RID9106_RID5824,left deciduous mandibular canine tooth,change label,deciduous left mandibular canine tooth -> left deciduous mandibular canine tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9106_RID5996_RID5824,left deciduous mandibular first molar tooth,change label,deciduous left mandibular first molar tooth -> left deciduous mandibular first molar tooth,"side first, as on every other entry"
+RID9128_RID9131_RID9106_RID5998_RID5824,left deciduous mandibular second molar tooth,change label,deciduous left mandibular second molar tooth -> left deciduous mandibular second molar tooth,"side first, as on every other entry"
+RID789,anterior spinal artery,remove leftId/rightId,"RID44639, RID44638",left and right entries removed
+RID7651,transverse arytenoid muscle,remove leftId/rightId,"RID7651_RID5824, RID7651_RID5825",left and right entries removed
+RID1132,great cerebral vein,remove leftId/rightId,"RID36189, RID36188",left and right entries removed
+RID2625,psoas major muscle,change partOfId,RID32808 -> RID30906,TA2: iliopsoas is iliacus plus psoas major
+RID32249,left psoas major muscle,change partOfId,RID32808 -> RID30908,TA2: iliopsoas is iliacus plus psoas major
+RID32248,right psoas major muscle,change partOfId,RID32808 -> RID30907,TA2: iliopsoas is iliacus plus psoas major
+RID31607,quadratus lumborum,change partOfId,RID32808 -> RID32811,TA2 2356 'Muscles of abdomen' lists quadratus lumborum
+RID31609,left quadratus lumborum,change partOfId,RID32808 -> RID32811,TA2 2356 'Muscles of abdomen' lists quadratus lumborum
+RID31608,right quadratus lumborum,change partOfId,RID32808 -> RID32811,TA2 2356 'Muscles of abdomen' lists quadratus lumborum
+RID39500,levator ani,change partOfId,RID32793 -> None,"pelvic diaphragm, not perineum (FMA: musculature of pelvis); pelvic floor entry after 1.0.0"
+RID39500_RID5824,left levator ani,change partOfId,RID32793 -> None,"pelvic diaphragm, not perineum (FMA: musculature of pelvis); pelvic floor entry after 1.0.0"
+RID39500_RID5825,right levator ani,change partOfId,RID32793 -> None,"pelvic diaphragm, not perineum (FMA: musculature of pelvis); pelvic floor entry after 1.0.0"
+RID7819,coccygeus muscle,change partOfId,RID32793 -> None,"pelvic diaphragm, not perineum (FMA: musculature of pelvis); pelvic floor entry after 1.0.0"
+RID7819_RID5824,left coccygeus muscle,change partOfId,RID32793 -> None,"pelvic diaphragm, not perineum (FMA: musculature of pelvis); pelvic floor entry after 1.0.0"
+RID7819_RID5825,right coccygeus muscle,change partOfId,RID32793 -> None,"pelvic diaphragm, not perineum (FMA: musculature of pelvis); pelvic floor entry after 1.0.0"
+RID39061,external anal sphincter,change partOfId,None -> RID32793,FMA and TA2: a perineal muscle
+RID168,appendix,change partOfId,RID154 -> RID152,TA2 lists the appendix beside the cecum in the large intestine
+RID10039,nasal septum,change partOfId,RID9199 -> RID10029,FMA: part of the nose; the septum is also vomer and cartilage
+RID6578,thalamus,change partOfId,RID13857 -> RID6434,"diencephalon, not hemisphere; as the hypothalamus"
+RID13495,right thalamus,change partOfId,RID13858 -> RID6434,"diencephalon, not hemisphere; as the hypothalamus"
+RID13496,left thalamus,change partOfId,RID13859 -> RID6434,"diencephalon, not hemisphere; as the hypothalamus"
+RID1248,carina,change partOfId,RID1246 -> RID1247,FMA: part of the trachea
+RID10190,posterior fold of malleus,change partOfId,RID10163 -> RID10100,TA2: fold of the membranous wall (tympanic membrane)
+RID10190_RID5824,left posterior fold of malleus,change partOfId,RID10163_RID5824 -> RID10100_RID5824,TA2: fold of the membranous wall (tympanic membrane)
+RID10190_RID5825,right posterior fold of malleus,change partOfId,RID10163_RID5825 -> RID10100_RID5825,TA2: fold of the membranous wall (tympanic membrane)
+RID10191,anterior fold of malleus,change partOfId,RID10163 -> RID10100,TA2: fold of the membranous wall (tympanic membrane)
+RID10191_RID5824,left anterior fold of malleus,change partOfId,RID10163_RID5824 -> RID10100_RID5824,TA2: fold of the membranous wall (tympanic membrane)
+RID10191_RID5825,right anterior fold of malleus,change partOfId,RID10163_RID5825 -> RID10100_RID5825,TA2: fold of the membranous wall (tympanic membrane)
+RID10197,fold of incus,change partOfId,RID10157 -> RID10109,TA2: fold of the membranous wall of the tympanic cavity
+RID10197_RID5824,left fold of incus,change partOfId,RID10157_RID5824 -> RID10109_RID5824,TA2: fold of the membranous wall of the tympanic cavity
+RID10197_RID5825,right fold of incus,change partOfId,RID10157_RID5825 -> RID10109_RID5825,TA2: fold of the membranous wall of the tympanic cavity
+RID356,periprostatic venous plexus,change partOfId,RID342 -> RID49933,a pelvic venous plexus
+RID376,pampiniform plexus,change partOfId,RID342 -> RID375,FMA: part of the spermatic cord
+RID49962,set of chest vessels,change partOfId,RID13183 -> None,the set includes veins; no vascular-system entry
+RID49921,set of abdominal vessels,change partOfId,RID13183 -> None,the set includes veins; no vascular-system entry
+RID50378,set of visceral vessels,change partOfId,RID13183 -> None,the set includes veins; no vascular-system entry
+RID49933,set of pelvis vessels,change partOfId,RID13183 -> None,the set includes veins; no vascular-system entry
+RID13087,superior vesical artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID13087_RID5824,left superior vesical artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID13087_RID5825,right superior vesical artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID13086,inferior vesical artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID13086_RID5824,left inferior vesical artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID13086_RID5825,right inferior vesical artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID956,middle rectal artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID956_RID5824,left middle rectal artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID956_RID5825,right middle rectal artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID942,superior rectal artery,change partOfId,RID50378 -> RID49933,a pelvic artery
+RID948,iliolumbar artery,change partOfId,RID49921 -> RID49933,a pelvic artery
+RID948_RID5824,left iliolumbar artery,change partOfId,RID49921 -> RID49933,a pelvic artery
+RID948_RID5825,right iliolumbar artery,change partOfId,RID49921 -> RID49933,a pelvic artery
+RID13091,inferior epigastric artery,change partOfId,RID50378 -> RID49921,"an abdominal wall artery, not visceral"
+RID13091_RID5824,left inferior epigastric artery,change partOfId,RID50378 -> RID49921,"an abdominal wall artery, not visceral"
+RID13091_RID5825,right inferior epigastric artery,change partOfId,RID50378 -> RID49921,"an abdominal wall artery, not visceral"
+RID884,intercostal artery,change partOfId,RID49962 -> RID49536,member of the set of intercostal arteries
+RID1465,upper paratracheal lymph node (station 2),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1467,right upper paratracheal lymph node (station 2R),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1469,left upper paratracheal lymph node (station 2L),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1477,aortopulmonary lymph node (station 5),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID28935,para-aortic thoracic lymph node (station 6),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1482,subcarinal lymph node (station 7),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1484,paraesophageal lymph node (station 8),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1486,right paraesophageal lymph node (station 8),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1488,left paraesophageal lymph node (station 8),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1490,inferior pulmonary ligament lymph node (station 9),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1492,right inferior pulmonary ligament lymph node (station 9),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1494,left inferior pulmonary ligament lymph node (station 9),change partOfId,RID28847 -> RID28852,IASLC mediastinal station
+RID1516,supraclavicular lymph node,change partOfId,RID28847 -> RID28848,supraclavicular nodes are cervical nodes
+RID1516_RID5824,left supraclavicular lymph node,change partOfId,RID28847 -> RID28848,supraclavicular nodes are cervical nodes
+RID1516_RID5825,right supraclavicular lymph node,change partOfId,RID28847 -> RID28848,supraclavicular nodes are cervical nodes
+RID32011,common iliac lymph node group,change partOfId,RID28854 -> RID28855,TA2: parietal pelvic lymph nodes
+RID32013,left common iliac lymph node group,change partOfId,RID28854 -> RID28855,TA2: parietal pelvic lymph nodes
+RID32012,right common iliac lymph node group,change partOfId,RID28854 -> RID28855,TA2: parietal pelvic lymph nodes
+RID32018,external iliac lymph node group,change partOfId,RID28847 -> RID28855,TA2: parietal pelvic lymph nodes
+RID32019,right external iliac lymph node group,change partOfId,RID28847 -> RID28855,TA2: parietal pelvic lymph nodes
+RID32020,left external iliac lymph node group,change partOfId,RID28847 -> RID28855,TA2: parietal pelvic lymph nodes
+RID7601,cricoid cartilage,change partOfId,None -> RID7589,part of the larynx
+RID7590,thyroid cartilage,change partOfId,None -> RID7589,part of the larynx
+RID7606,arytenoid cartilage,change partOfId,None -> RID7589,part of the larynx
+RID7619,corniculate cartilage,change partOfId,None -> RID7589,part of the larynx
+RID7621,cuneiform cartilage,change partOfId,None -> RID7589,part of the larynx
+RID7657,epiglottis,change partOfId,None -> RID7589,part of the larynx
+RID7649,oblique arytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7649_RID5824,left oblique arytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7649_RID5825,right oblique arytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7651,transverse arytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7643,posterior cricoarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7643_RID5824,left posterior cricoarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7643_RID5825,right posterior cricoarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7645,lateral cricoarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7645_RID5824,left lateral cricoarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7645_RID5825,right lateral cricoarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7647,thyroarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7647_RID5824,left thyroarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7647_RID5825,right thyroarytenoid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7640,cricothyroid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7640_RID5824,left cricothyroid muscle,change partOfId,None -> RID7589,part of the larynx
+RID7640_RID5825,right cricothyroid muscle,change partOfId,None -> RID7589,part of the larynx
+RID2044,radial collateral ligament of elbow,change partOfId,None -> RID2011,"part of its joint, as the shoulder ligaments"
+RID2044_RID5824,left radial collateral ligament of elbow,change partOfId,None -> RID2011_RID5824,"part of its joint, as the shoulder ligaments"
+RID2044_RID5825,right radial collateral ligament of elbow,change partOfId,None -> RID2011_RID5825,"part of its joint, as the shoulder ligaments"
+RID2048,annular ligament of radius,change partOfId,None -> RID2011,"part of its joint, as the shoulder ligaments"
+RID2048_RID5824,left annular ligament of radius,change partOfId,None -> RID2011_RID5824,"part of its joint, as the shoulder ligaments"
+RID2048_RID5825,right annular ligament of radius,change partOfId,None -> RID2011_RID5825,"part of its joint, as the shoulder ligaments"
+RID2035,ulnar collateral ligament of elbow,change partOfId,None -> RID2011,"part of its joint, as the shoulder ligaments"
+RID40855,ulnar collateral ligament of left elbow,change partOfId,None -> RID2011_RID5824,"part of its joint, as the shoulder ligaments"
+RID40856,ulnar collateral ligament of right elbow,change partOfId,None -> RID2011_RID5825,"part of its joint, as the shoulder ligaments"
+RID40874,palmar radiocarpal ligament,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID40876,left palmar radiocarpal ligament,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID40875,right palmar radiocarpal ligament,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID2257,radial collateral ligament of wrist,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID2257_RID5824,left radial collateral ligament of wrist,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID2257_RID5825,right radial collateral ligament of wrist,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID2235,ulnar collateral ligament of wrist,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID2235_RID5824,left ulnar collateral ligament of wrist,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID2235_RID5825,right ulnar collateral ligament of wrist,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID40937,palmar intercarpal ligament,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID40939,left palmar intercarpal ligament,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID40938,right palmar intercarpal ligament,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID2267,pisohamate ligament,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID40944,left pisohamate ligament,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID40943,right pisohamate ligament,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID40945,pisometacarpal ligament,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID40947,left pisometacarpal ligament,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID40946,right pisometacarpal ligament,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID2281,dorsal radiocarpal ligament,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID40873,left dorsal radiocarpal ligament,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID40872,right dorsal radiocarpal ligament,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID2259,scapholunate ligament,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID2259_RID5824,left scapholunate ligament,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID2259_RID5825,right scapholunate ligament,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID2249,capitohamate joint,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID2249_RID5824,left capitohamate joint,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID2249_RID5825,right capitohamate joint,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID2247,capitolunate joint,change partOfId,None -> RID2202,"part of its joint, as the shoulder ligaments"
+RID2247_RID5824,left capitolunate joint,change partOfId,None -> RID2202_RID5824,"part of its joint, as the shoulder ligaments"
+RID2247_RID5825,right capitolunate joint,change partOfId,None -> RID2202_RID5825,"part of its joint, as the shoulder ligaments"
+RID3022,anterior talofibular ligament,change partOfId,None -> RID3004,"part of its joint, as the shoulder ligaments"
+RID3022_RID5824,left anterior talofibular ligament,change partOfId,None -> RID3004_RID5824,"part of its joint, as the shoulder ligaments"
+RID3022_RID5825,right anterior talofibular ligament,change partOfId,None -> RID3004_RID5825,"part of its joint, as the shoulder ligaments"
+RID3024,posterior talofibular ligament,change partOfId,None -> RID3004,"part of its joint, as the shoulder ligaments"
+RID3024_RID5824,left posterior talofibular ligament,change partOfId,None -> RID3004_RID5824,"part of its joint, as the shoulder ligaments"
+RID3024_RID5825,right posterior talofibular ligament,change partOfId,None -> RID3004_RID5825,"part of its joint, as the shoulder ligaments"
+RID3015,anterior tibiotalar ligament,change partOfId,None -> RID3004,"part of its joint, as the shoulder ligaments"
+RID3015_RID5824,left anterior tibiotalar ligament,change partOfId,None -> RID3004_RID5824,"part of its joint, as the shoulder ligaments"
+RID3015_RID5825,right anterior tibiotalar ligament,change partOfId,None -> RID3004_RID5825,"part of its joint, as the shoulder ligaments"
+RID3016,deep posterior tibiotalar ligament,change partOfId,None -> RID3004,"part of its joint, as the shoulder ligaments"
+RID3016_RID5824,left deep posterior tibiotalar ligament,change partOfId,None -> RID3004_RID5824,"part of its joint, as the shoulder ligaments"
+RID3016_RID5825,right deep posterior tibiotalar ligament,change partOfId,None -> RID3004_RID5825,"part of its joint, as the shoulder ligaments"
+RID3020,tibionavicular ligament,change partOfId,None -> RID3004,"part of its joint, as the shoulder ligaments"
+RID3020_RID5824,left tibionavicular ligament,change partOfId,None -> RID3004_RID5824,"part of its joint, as the shoulder ligaments"
+RID3020_RID5825,right tibionavicular ligament,change partOfId,None -> RID3004_RID5825,"part of its joint, as the shoulder ligaments"
+RID3018,tibiocalcaneal ligament,change partOfId,None -> RID3004,"part of its joint, as the shoulder ligaments"
+RID3018_RID5824,left tibiocalcaneal ligament,change partOfId,None -> RID3004_RID5824,"part of its joint, as the shoulder ligaments"
+RID3018_RID5825,right tibiocalcaneal ligament,change partOfId,None -> RID3004_RID5825,"part of its joint, as the shoulder ligaments"
+RID3023,calcaneofibular ligament,change partOfId,None -> RID3004,"part of its joint, as the shoulder ligaments"
+RID3023_RID5824,left calcaneofibular ligament,change partOfId,None -> RID3004_RID5824,"part of its joint, as the shoulder ligaments"
+RID3023_RID5825,right calcaneofibular ligament,change partOfId,None -> RID3004_RID5825,"part of its joint, as the shoulder ligaments"
+RID29903,nipple of male breast,change partOfId,None -> RID29898,part of its breast
+RID29904,nipple of right male breast,change partOfId,None -> RID29899,part of its breast
+RID29905,nipple of left male breast,change partOfId,None -> RID29900,part of its breast
+RID29906,nipple of female breast,change partOfId,None -> RID29895,part of its breast
+RID29907,nipple of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29908,nipple of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29914,areola of male breast,change partOfId,None -> RID29898,part of its breast
+RID29915,areola of right male breast,change partOfId,None -> RID29899,part of its breast
+RID29916,areola of left male breast,change partOfId,None -> RID29900,part of its breast
+RID29917,areola of female breast,change partOfId,None -> RID29895,part of its breast
+RID29918,areola of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29919,areola of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29928,upper outer quadrant of female breast,change partOfId,None -> RID29895,part of its breast
+RID29929,upper outer quadrant of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29930,upper outer quadrant of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29931,upper inner quadrant of female breast,change partOfId,None -> RID29895,part of its breast
+RID29932,upper inner quadrant of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29933,upper inner quadrant of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29934,lower outer quadrant of female breast,change partOfId,None -> RID29895,part of its breast
+RID29935,lower outer quadrant of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29936,lower outer quadrant of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29937,lower inner quadrant of female breast,change partOfId,None -> RID29895,part of its breast
+RID29938,lower inner quadrant of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29939,lower inner quadrant of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29940,superior region of female breast,change partOfId,None -> RID29895,part of its breast
+RID29941,superior region of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29942,superior region of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29943,medial region of female breast,change partOfId,None -> RID29895,part of its breast
+RID29944,medial region of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29945,medial region of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29946,lateral region of female breast,change partOfId,None -> RID29895,part of its breast
+RID29947,lateral region of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29948,lateral region of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29949,central region of female breast,change partOfId,None -> RID29895,part of its breast
+RID29950,central region of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29951,central region of left female breast,change partOfId,None -> RID29897,part of its breast
+RID29952,subareolar region of female breast,change partOfId,None -> RID29895,part of its breast
+RID29953,subareolar region of right female breast,change partOfId,None -> RID29896,part of its breast
+RID29954,subareolar region of left female breast,change partOfId,None -> RID29897,part of its breast
+RID781,anterior medullary segment of posterior inferior cerebellar artery,change partOfId,None -> RID779,"segment or branch of the PICA, as the A/M/P segments"
+RID781_RID5824,left anterior medullary segment of posterior inferior cerebellar artery,change partOfId,None -> RID44641,"segment or branch of the PICA, as the A/M/P segments"
+RID781_RID5825,right anterior medullary segment of posterior inferior cerebellar artery,change partOfId,None -> RID44640,"segment or branch of the PICA, as the A/M/P segments"
+RID783,posterior medullary segment of posterior inferior cerebellar artery,change partOfId,None -> RID779,"segment or branch of the PICA, as the A/M/P segments"
+RID783_RID5824,left posterior medullary segment of posterior inferior cerebellar artery,change partOfId,None -> RID44641,"segment or branch of the PICA, as the A/M/P segments"
+RID783_RID5825,right posterior medullary segment of posterior inferior cerebellar artery,change partOfId,None -> RID44640,"segment or branch of the PICA, as the A/M/P segments"
+RID784,supratonsillar segment of posterior inferior cerebellar artery,change partOfId,None -> RID779,"segment or branch of the PICA, as the A/M/P segments"
+RID784_RID5824,left supratonsillar segment of posterior inferior cerebellar artery,change partOfId,None -> RID44641,"segment or branch of the PICA, as the A/M/P segments"
+RID784_RID5825,right supratonsillar segment of posterior inferior cerebellar artery,change partOfId,None -> RID44640,"segment or branch of the PICA, as the A/M/P segments"
+RID786,retrotonsillar segment of posterior inferior cerebellar artery,change partOfId,None -> RID779,"segment or branch of the PICA, as the A/M/P segments"
+RID786_RID5824,left retrotonsillar segment of posterior inferior cerebellar artery,change partOfId,None -> RID44641,"segment or branch of the PICA, as the A/M/P segments"
+RID786_RID5825,right retrotonsillar segment of posterior inferior cerebellar artery,change partOfId,None -> RID44640,"segment or branch of the PICA, as the A/M/P segments"
+RID787,inferior vermian artery of posterior inferior cerebellar artery,change partOfId,None -> RID779,"segment or branch of the PICA, as the A/M/P segments"
+RID787_RID5824,left inferior vermian artery of posterior inferior cerebellar artery,change partOfId,None -> RID44641,"segment or branch of the PICA, as the A/M/P segments"
+RID787_RID5825,right inferior vermian artery of posterior inferior cerebellar artery,change partOfId,None -> RID44640,"segment or branch of the PICA, as the A/M/P segments"
+RID13857,cerebral hemisphere,change partOfId,None -> RID6434,as the brainstem and cerebellum
+RID13859,left cerebral hemisphere,change partOfId,None -> RID6434,as the brainstem and cerebellum
+RID13858,right cerebral hemisphere,change partOfId,None -> RID6434,as the brainstem and cerebellum
+RID10223,cochlea,change partOfId,None -> RID10199,part of the inner ear
+RID10223_RID5824,left cochlea,change partOfId,None -> RID10199_RID5824,part of the inner ear
+RID10223_RID5825,right cochlea,change partOfId,None -> RID10199_RID5825,part of the inner ear
+RID10202,vestibule of bony labyrinth,change partOfId,None -> RID10199,part of the inner ear
+RID10202_RID5824,left vestibule of bony labyrinth,change partOfId,None -> RID10199_RID5824,part of the inner ear
+RID10202_RID5825,right vestibule of bony labyrinth,change partOfId,None -> RID10199_RID5825,part of the inner ear
+RID10214,superior semicircular canal,change partOfId,None -> RID10199,part of the inner ear
+RID10214_RID5824,left superior semicircular canal,change partOfId,None -> RID10199_RID5824,part of the inner ear
+RID10214_RID5825,right superior semicircular canal,change partOfId,None -> RID10199_RID5825,part of the inner ear
+RID10216,posterior semicircular canal,change partOfId,None -> RID10199,part of the inner ear
+RID10216_RID5824,left posterior semicircular canal,change partOfId,None -> RID10199_RID5824,part of the inner ear
+RID10216_RID5825,right posterior semicircular canal,change partOfId,None -> RID10199_RID5825,part of the inner ear
+RID10218,lateral semicircular canal,change partOfId,None -> RID10199,part of the inner ear
+RID10218_RID5824,left lateral semicircular canal,change partOfId,None -> RID10199_RID5824,part of the inner ear
+RID10218_RID5825,right lateral semicircular canal,change partOfId,None -> RID10199_RID5825,part of the inner ear
+RID9566,ethmoidal bulla,change partOfId,None -> RID9199,part of the ethmoid bone
+RID9566_RID5824,left ethmoidal bulla,change partOfId,None -> RID9199,part of the ethmoid bone
+RID9566_RID5825,right ethmoidal bulla,change partOfId,None -> RID9199,part of the ethmoid bone
+RID9298,optic canal,change partOfId,None -> RID9281,part of the sphenoid bone
+RID343,prostate,change partOfId,None -> RID342,as the seminal vesicle and testis
+RID358,vas deferens,change partOfId,None -> RID342,as the seminal vesicle and testis
+RID358_RID5824,left vas deferens,change partOfId,None -> RID342,as the seminal vesicle and testis
+RID358_RID5825,right vas deferens,change partOfId,None -> RID342,as the seminal vesicle and testis
+RID290,ovary,change partOfId,RID270 -> RID294,FMA: part of the uterine adnexa
+RID32830,left ovary,change partOfId,RID270 -> RID294_RID5824,FMA: part of the uterine adnexa
+RID32829,right ovary,change partOfId,RID270 -> RID294_RID5825,FMA: part of the uterine adnexa
+RID31596,external oblique,change partOfId,None -> RID32809,as the rectus abdominis
+RID31598,left external oblique,change partOfId,None -> RID32809,as the rectus abdominis
+RID31597,right external oblique,change partOfId,None -> RID32809,as the rectus abdominis
+RID31599,internal oblique,change partOfId,None -> RID32809,as the rectus abdominis
+RID31601,left internal oblique,change partOfId,None -> RID32809,as the rectus abdominis
+RID31600,right internal oblique,change partOfId,None -> RID32809,as the rectus abdominis
+RID31602,transversus abdominis,change partOfId,RID32811 -> RID32809,as the rectus abdominis
+RID31604,left transversus abdominis,change partOfId,RID32811 -> RID32809,as the rectus abdominis
+RID31603,right transversus abdominis,change partOfId,RID32811 -> RID32809,as the rectus abdominis
+RID28584,apex of lung,change partOfId,None -> RID1301,part of the lung
+RID407,rectouterine pouch,set sexSpecific,Female,the rectouterine pouch exists only in females (as RID406 vesicouterine pouch)
+RID2005,brachialis muscle,remove synonym,casserio muscle,Casserio's muscle is the coracobrachialis
+RID40874,palmar radiocarpal ligament,remove synonym,palmar ligament,the palmar ligaments are the MCP/IP palmar plates
+RID967,posterior tibial artery,remove synonym,posterior tibial recurrent artery,a different artery (branch of the anterior tibial)
+RID972,dorsal pedal artery,remove synonym,dorsal metatarsal artery,separate distal branches
+RID2889,lateral tibial spine,remove synonym,lateral tibial tubercle,usually means Gerdy's tubercle
+RID7534,superficial cervical fascia,remove synonym,superficial layer of cervical fascia,SNOMED's name for the investing layer of the deep fascia (RID7536)
+RID486,left main coronary artery,remove synonym,coronary artery segment 11,SCCT/AHA segment 11 is the proximal circumflex; left main is 5
+RID490,left anterior descending artery,remove synonym,left anterior branch of anterior interventricular branch of left coronary artery,"FMA 3878, a branch of the LAD"
+RID1477,aortopulmonary lymph node (station 5),remove synonym,5R+L thoracic lymph node,station 5 is left-only
+RID28935,para-aortic thoracic lymph node (station 6),remove synonym,6R+L thoracic lymph node,station 6 isn't sided
+RID1152,basal vein,remove synonym,posterior mesencephalic vein,a separate tributary of the basal vein
+RID39320,anterior intercavernous sinus,remove synonym,anterior cavernous sinus,reads as part of the cavernous sinus
+RID39321,posterior intercavernous sinus,remove synonym,posterior cavernous sinus,reads as part of the cavernous sinus
+RID7331,tibial nerve,remove synonym,tibial division of sciatic nerve,"a component inside the sciatic nerve, not the tibial nerve"
+RID7348,common peroneal nerve,remove synonym,fibular division of sciatic nerve,"same, for the peroneal division"
+RID182,accessory pancreatic duct,remove synonym,dorsal pancreatic duct,"the embryonic duct, which also forms the main duct"
+RID6440,frontal lobe,remove synonym,frontal region,names the separate frontal brain region / scalp region
+RID6493,parietal lobe,remove synonym,parietal region,same
+RID6502,occipital lobe,remove synonym,occipital region,same
+RID6381_RID6434,infratentorial brain,remove synonym,infratentorial compartment,"the compartment includes dura, sinuses, CSF; probably why sinuses were filed here"
+RID9578,supraorbital margin,remove synonym,supraorbital ridge,usually means the brow ridge (superciliary arch)
+RID9248,infratemporal surface of maxilla,remove synonym,infratemporal fossa of maxilla,"the fossa is a space, not this surface"
+RID40874,palmar radiocarpal ligament,remove synonym,radiocarpal ligament,also covers the dorsal radiocarpal ligament
+RID2797,lateral collateral ligament,remove synonym,lateral collateral ligament complex,the posterolateral complex is broader
+RID48951,left lateral collateral ligament,remove synonym,left lateral collateral ligament complex,the posterolateral complex is broader
+RID48950,right lateral collateral ligament,remove synonym,right lateral collateral ligament complex,the posterolateral complex is broader
+RID48947,medial collateral ligament,remove synonym,medial collateral ligament complex,adds the posterior oblique ligament
+RID48949,left medial collateral ligament,remove synonym,left medial collateral ligament complex,adds the posterior oblique ligament
+RID48948,right medial collateral ligament,remove synonym,right medial collateral ligament complex,adds the posterior oblique ligament
+RID3004,ankle joint,remove synonym,ankle mortise,"the bony socket, not the joint"
+RID16276,set of intercostal nerves,remove synonym,ventral rami of thoracic nerves,includes T12 subcostal
+RID16276,set of intercostal nerves,remove synonym,anterior rami of thoracic nerves,same
+RID122,pylorus,remove synonym,pyloric part of stomach,pyloric part contains the pylorus
+RID28857,pancreaticoduodenal lymph node,remove synonym,peripancreatic lymph node,"separate, broader SNOMED concept"
+RID39061,external anal sphincter,remove synonym,external sphincter complex,external sphincter + puborectalis
+RID9561,ethmoid sinus,remove synonym,ethmoidal labyrinth,the labyrinth includes conchae and uncinate
+RID9561,ethmoid sinus,remove synonym,ethmoid labyrinth,same
+RID9286,sella turcica,remove synonym,sellar region,broader than the sella
+RID7565,retropharyngeal space,remove synonym,retropharyngeal space of head,FMA 84965 is a narrower regional part (+ sided)
+RID7565_RID5824,left retropharyngeal space,remove synonym,left retropharyngeal space of head,FMA 84965 is a narrower regional part (+ sided)
+RID7565_RID5825,right retropharyngeal space,remove synonym,right retropharyngeal space of head,FMA 84965 is a narrower regional part (+ sided)
+RID1017,cephalic vein,remove synonym,cephalic vein of forearm,the forearm segment only
+RID1016,basilic vein,remove synonym,basilic vein of forearm,the forearm segment only
+RID9940,hard palate,remove synonym,bony palate,only the skeleton of the hard palate
+RID315,myometrium,remove synonym,outer myometrium,one MRI zone
+RID32691,anal canal,remove synonym,anatomical anal canal,one of two definitions
+RID651,A2 segment of anterior cerebral artery,remove synonym,postcommunicating part of anterior cerebral artery,FMA's postcommunicating part is A2–A5
+RID6440,frontal lobe,remove synonym,frontal cortex,cortex is narrower than the lobe
+RID6493,parietal lobe,remove synonym,parietal cortex,same
+RID6476,temporal lobe,remove synonym,temporal cortex,same
+RID6502,occipital lobe,remove synonym,occipital cortex,same
+RID2429,extensor indicis tendon,fix synonym,tendon of extensor indicis muslce -> tendon of extensor indicis muscle,misspelled
+RID807,P2 segment of posterior cerebral artery,fix synonym,ambient segment of posterior cerebral artery of posterior cerebral artery -> ambient segment of posterior cerebral artery,garbled
+RID680,M3 segment of middle cerebral artery,fix synonym,cortical part of middle cerebral artery -> opercular segment of middle cerebral artery,M3 is opercular; cortical is M4
+RID7243,musculocutaneous nerve,fix synonym,casserio nerve -> nerve of Casserio,eponym form (TA2)
+RID2502,serratus anterior muscle,fix synonym,boxer muscle -> boxer's muscle,correct form
+RID322,round ligament of uterus,fix synonym,hunter ligament -> Hunter ligament,eponym
+RID922,dorsal pancreatic artery,fix synonym,haller artery -> Haller artery,eponym
+RID38122,inferior pancreatic artery,fix synonym,testut artery -> Testut artery,eponym
+RID31997,hepatoportal lymph node group,remove synonym,JPS 12p lymph nodes,other-terminology notation
+RID31997,hepatoportal lymph node group,remove synonym,area 12p lymph node group,same
+RID9361,temporal bone,remove synonym,temp bone,slang
+RID6476,temporal lobe,remove synonym,temp lobe,slang
+RID6781,midbrain tectum,remove synonym,neuraxis tectum,NeuroNames jargon
+RID6482,uncus,remove synonym,uncus hippocampi,Latin
+RID1863,coracoid process,remove synonym,scapula coracoid process,"a reordered string, not a name"
+RID7694,thoracic duct,remove synonym,trunk of thoracic duct tree,FMA phrasing
+RID30781,back,remove synonym,back of body proper,FMA phrasing
+RID77,caudate lobe of liver,remove synonym,posterior liver,not a term; confusable with the right posterior section
+RID77,caudate lobe of liver,remove synonym,spiegelian lobe,duplicate of 'Spigelian lobe'
+RID32286,spinalis capitis,remove synonym,biventer cervicis muscle,part of semispinalis capitis
+RID2797,lateral collateral ligament,add synonym,fibular collateral ligament,TA2/FMA name
+RID48951,left lateral collateral ligament,add synonym,left fibular collateral ligament,TA2/FMA name
+RID48950,right lateral collateral ligament,add synonym,right fibular collateral ligament,TA2/FMA name
+RID2784,posterior cruciate ligament,add synonym,PCL,ACL has 'ACL'
+RID3184,Achilles tendon,add synonym,calcaneal tendon,"TA2/FMA name, display of its own codes"
+RID975,main pulmonary artery,add synonym,pulmonary trunk,TA2/FMA name; search misses it now
+RID975,main pulmonary artery,add synonym,MPA,common abbreviation
+RID490,left anterior descending artery,add synonym,anterior interventricular artery,TA2 name
+RID50392,cervical intervertebral disk,add synonym,cervical intervertebral disc,lumbar group has the 'disc' form
+RID41794,diaphyseal segment of ulna,add synonym,ulnar shaft,humerus/radius have '… shaft'
+RID41796,diaphyseal segment of left ulna,add synonym,left ulnar shaft,humerus/radius have '… shaft'
+RID41795,diaphyseal segment of right ulna,add synonym,right ulnar shaft,humerus/radius have '… shaft'
+RID2004,coracobrachialis muscle,add synonym,Casserio's muscle,moved from brachialis
+RID32807,musculature of back of thorax,remove synonym,thoracic paraspinal musculature,"its members are trapezius, rhomboids, psoas and quadratus lumborum, not the paraspinal muscles"
+RID32807,musculature of back of thorax,remove synonym,thoracic paraspinal muscles,"its members are trapezius, rhomboids, psoas and quadratus lumborum, not the paraspinal muscles"
+RID32808,musculature of back of abdomen,remove synonym,lumbar paraspinal muscles,"its members are trapezius, rhomboids, psoas and quadratus lumborum, not the paraspinal muscles"
+RID33180,mesentery,remove synonym,small bowel mesentery,this entry is the generic mesentery

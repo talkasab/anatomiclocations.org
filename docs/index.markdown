@@ -27,7 +27,7 @@ We drew candidate terms from about 100,000 consecutive radiology reports. Three 
 - Unsided, left, and right entries for paired structures, linked to each other
 - Flags for structures specific to the male or female sex phenotype
 - Codes in SNOMED CT, FMA, MeSH, UMLS, and Terminologia Anatomica (TA2)
-- A single [JSON file](https://raw.githubusercontent.com/talkasab/anatomiclocations.org/main/data/body_parts.json), release 1.0.0, described on the [Code page](/code/)
+- A single [JSON file](https://raw.githubusercontent.com/talkasab/anatomiclocations.org/main/data/body_parts.json), release 1.0.1, described on the [Code page](/code/)
 - Companion libraries for [TypeScript](https://github.com/talkasab/BodyPartIndex.ts) and [Python](https://github.com/talkasab/BodyPartIndex.py)
 - A [GitHub project](https://github.com/talkasab/anatomiclocations.org) under an [open-source license](https://raw.githubusercontent.com/talkasab/anatomiclocations.org/main/LICENSE.txt) ([ISC License](https://en.wikipedia.org/wiki/ISC_license))
 
@@ -42,7 +42,7 @@ To propose an addition or correction, open an issue or pull request on [GitHub](
   - Extend coverage to fetal, neonatal, and developmental anatomy and to anatomic variants
   - Define exam types by the body parts each one includes, using the LOINC and RadLex Playbook exam definitions
 - Code
-  - Bundle release 1.0.0 in [BodyPartIndex.ts](https://github.com/talkasab/BodyPartIndex.ts) and [BodyPartIndex.py](https://github.com/talkasab/BodyPartIndex.py)
+  - Bundle release 1.0.1 in [BodyPartIndex.ts](https://github.com/talkasab/BodyPartIndex.ts) and [BodyPartIndex.py](https://github.com/talkasab/BodyPartIndex.py)
   - Finish [BodyPartIndex.py](https://github.com/talkasab/BodyPartIndex.py) and publish to [PyPI](https://pypi.org)
   - Create a BodyPartIndex.cs
 - Website
