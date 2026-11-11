@@ -166,6 +166,9 @@ class Checker:
                     continue
                 te = self.E[t]
                 if e.get("unsidedId"):  # sided entry pointing at its opposite number
+                    u = e["unsidedId"]
+                    if t == rid or t != self.E.get(u, {}).get(k) or te.get("unsidedId") != u:
+                        self.add("error", "laterality-links", rid, f"{k} {t} is not the opposite-side entry of unsidedId {u}")
                     continue
                 if te.get("unsidedId") == rid:
                     continue
@@ -279,7 +282,7 @@ class Checker:
                     self.add("error", "codes-format", rid, f"malformed {c['system']} code '{c['code']}'")
             s = self.effective_side(rid)
             for code in self.snomed(rid):
-                if ":" not in code:
+                if ":" not in code or not CODE_FORMATS["SNOMED"].fullmatch(code):
                     continue
                 focus, val = code.split(":")[0], code.split("=")[1]
                 if not s:
@@ -401,6 +404,8 @@ class Checker:
 
     def run(self, terminologies: Path | None, accepted_words=frozenset()):
         self.check_schema()
+        if any(f.level == "error" for f in self.findings):
+            return  # Later checks require schema-valid entries.
         self.check_ids()
         self.check_containment()
         self.check_laterality()
@@ -456,7 +461,7 @@ def main(argv=None):
     ck = Checker(args.data, args.schema)
     ck.run(args.terminologies, frozenset(allow.get("words", [])))
 
-    findings = [f for f in ck.findings if (f.check, f.rid) not in allowed]
+    findings = [f for f in ck.findings if f.level != "warning" or (f.check, f.rid) not in allowed]
     n_accepted = len(ck.findings) - len(findings)
     if args.only:
         keep = set(args.only.split(","))
