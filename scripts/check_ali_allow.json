@@ -1,0 +1,78 @@
+{
+  "_comment": "Accepted findings. 'words': real words the spelling check would flag. 'accepted': {check, radlexId, reason} for reviewed warnings.",
+  "words": [
+    "lingula",
+    "rectum",
+    "ventral",
+    "coeliac",
+    "porta",
+    "hepatis",
+    "pelvic",
+    "angle",
+    "para",
+    "nose",
+    "aica",
+    "magnum",
+    "hard",
+    "mamillary",
+    "teeth",
+    "anal"
+  ],
+  "accepted": [
+    {
+      "check": "laterality-names",
+      "radlexId": "RID30036",
+      "reason": "hemiscrotum is the sided form of scrotum"
+    },
+    {
+      "check": "laterality-names",
+      "radlexId": "RID30037",
+      "reason": "hemiscrotum is the sided form of scrotum"
+    },
+    {
+      "check": "laterality-names",
+      "radlexId": "RID1467",
+      "reason": "IASLC station 2R"
+    },
+    {
+      "check": "laterality-names",
+      "radlexId": "RID1469",
+      "reason": "IASLC station 2L"
+    },
+    {
+      "check": "laterality-names",
+      "radlexId": "RID1499",
+      "reason": "IASLC station 10R"
+    },
+    {
+      "check": "laterality-names",
+      "radlexId": "RID1501",
+      "reason": "IASLC station 10L"
+    },
+    {
+      "check": "laterality-names",
+      "radlexId": "RID9993_RID5824",
+      "reason": "a half of the single midline pharyngeal tonsil (SNOMED 'left/right half of adenoid')"
+    },
+    {
+      "check": "laterality-names",
+      "radlexId": "RID9993_RID5825",
+      "reason": "a half of the single midline pharyngeal tonsil (SNOMED 'left/right half of adenoid')"
+    },
+    {
+      "check": "sex-inheritance",
+      "radlexId": "RID34263",
+      "reason": "intramammary nodes occur in both sexes; no sex-neutral breast entry yet to contain them"
+    },
+    {
+      "check": "sex-inheritance",
+      "radlexId": "RID34263_RID5824",
+      "reason": "intramammary nodes occur in both sexes; no sex-neutral breast entry yet to contain them"
+    },
+    {
+      "check": "sex-inheritance",
+      "radlexId": "RID34263_RID5825",
+      "reason": "intramammary nodes occur in both sexes; no sex-neutral breast entry yet to contain them"
+    }
+  ]
+}

@@ -50,6 +50,9 @@
                         "type": "string"
                     }
                 },
+                "definition": {
+                    "type": "string"
+                },
                 "codes": {
                     "type": "array",
                     "items": {
