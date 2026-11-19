@@ -1,0 +1,1014 @@
+ALI ID	Provisional RID	Label
+RID294_RID5824	RID52000	left uterine adnexa
+RID294_RID5825	RID52001	right uterine adnexa
+RID935_RID5824	RID52002	left adrenal artery
+RID935_RID5825	RID52003	right adrenal artery
+RID1011_RID5824	RID52004	left brachiocephalic vein
+RID1011_RID5825	RID52005	right brachiocephalic vein
+RID29955_RID5824	RID52006	left accessory breast tissue
+RID29955_RID5825	RID52007	right accessory breast tissue
+RID944_RID5824	RID52008	left common iliac artery
+RID944_RID5825	RID52009	right common iliac artery
+RID1193_RID5824	RID52010	left common iliac vein
+RID1193_RID5825	RID52011	right common iliac vein
+RID1362_RID5824	RID52012	left pleura
+RID1362_RID5825	RID52013	right pleura
+RID2553_RID5824	RID52014	left pubis
+RID2553_RID5825	RID52015	right pubis
+RID375_RID5824	RID52016	left spermatic cord
+RID375_RID5825	RID52017	right spermatic cord
+RID371_RID5824	RID52018	left epididymis
+RID371_RID5825	RID52019	right epididymis
+RID2638_RID5824	RID52020	left lower extremity
+RID2638_RID5825	RID52021	right lower extremity
+RID2639_RID5824	RID52022	left hip
+RID2639_RID5825	RID52023	right hip
+RID2660_RID5824	RID52024	left thigh
+RID2660_RID5825	RID52025	right thigh
+RID2869_RID5824	RID52026	left leg
+RID2869_RID5825	RID52027	right leg
+RID28545_RID5824	RID52028	left ankle
+RID28545_RID5825	RID52029	right ankle
+RID28829_RID5824	RID52030	left foot
+RID28829_RID5825	RID52031	right foot
+RID2934_RID5824	RID52032	left deep posterior compartment of leg
+RID2934_RID5825	RID52033	right deep posterior compartment of leg
+RID2933_RID5824	RID52034	left superficial posterior compartment of leg
+RID2933_RID5825	RID52035	right superficial posterior compartment of leg
+RID2640_RID5824	RID52036	left hip joint
+RID2640_RID5825	RID52037	right hip joint
+RID2531_RID5824	RID52038	left ilium
+RID2531_RID5825	RID52039	right ilium
+RID2545_RID5824	RID52040	left ischium
+RID2545_RID5825	RID52041	right ischium
+RID2564_RID5824	RID52042	left acetabulum
+RID2564_RID5825	RID52043	right acetabulum
+RID2644_RID5824	RID52044	left acetabular labrum
+RID2644_RID5825	RID52045	right acetabular labrum
+RID2567_RID5824	RID52046	left acetabular notch
+RID2567_RID5825	RID52047	right acetabular notch
+RID2664_RID5824	RID52048	left head of femur
+RID2664_RID5825	RID52049	right head of femur
+RID2668_RID5824	RID52050	left femoral neck
+RID2668_RID5825	RID52051	right femoral neck
+RID2652_RID5824	RID52052	left pubofemoral ligament
+RID2652_RID5825	RID52053	right pubofemoral ligament
+RID2650_RID5824	RID52054	left iliofemoral ligament
+RID2650_RID5825	RID52055	right iliofemoral ligament
+RID2651_RID5824	RID52056	left ischiofemoral ligament
+RID2651_RID5825	RID52057	right ischiofemoral ligament
+RID2872_RID5824	RID52058	left head of fibula
+RID2872_RID5825	RID52059	right head of fibula
+RID2875_RID5824	RID52060	left neck of fibula
+RID2875_RID5825	RID52061	right neck of fibula
+RID3004_RID5824	RID52062	left ankle joint
+RID3004_RID5825	RID52063	right ankle joint
+RID2959_RID5824	RID52064	left calcaneus
+RID2959_RID5825	RID52065	right calcaneus
+RID2962_RID5824	RID52066	left calcaneal tuberosity
+RID2962_RID5825	RID52067	right calcaneal tuberosity
+RID2949_RID5824	RID52068	left talus
+RID2949_RID5825	RID52069	right talus
+RID2957_RID5824	RID52070	left talar sulcus
+RID2957_RID5825	RID52071	right talar sulcus
+RID2952_RID5824	RID52072	left medial tubercle of talus
+RID2952_RID5825	RID52073	right medial tubercle of talus
+RID2976_RID5824	RID52074	left tarsal navicular
+RID2976_RID5825	RID52075	right tarsal navicular
+RID2973_RID5824	RID52076	left cuboid
+RID2973_RID5825	RID52077	right cuboid
+RID2978_RID5824	RID52078	left medial cuneiform
+RID2978_RID5825	RID52079	right medial cuneiform
+RID2983_RID5824	RID52080	left lateral cuneiform
+RID2983_RID5825	RID52081	right lateral cuneiform
+RID2981_RID5824	RID52082	left intermediate cuneiform
+RID2981_RID5825	RID52083	right intermediate cuneiform
+RID3184_RID5824	RID52084	left Achilles tendon
+RID3184_RID5825	RID52085	right Achilles tendon
+RID3055_RID5824	RID52086	left calcaneocuboid joint
+RID3055_RID5825	RID52087	right calcaneocuboid joint
+RID38808_RID5824	RID52088	left anterior tibiofibular ligament
+RID38808_RID5825	RID52089	right anterior tibiofibular ligament
+RID38809_RID5824	RID52090	left posterior tibiofibular ligament
+RID38809_RID5825	RID52091	right posterior tibiofibular ligament
+RID3022_RID5824	RID52092	left anterior talofibular ligament
+RID3022_RID5825	RID52093	right anterior talofibular ligament
+RID3024_RID5824	RID52094	left posterior talofibular ligament
+RID3024_RID5825	RID52095	right posterior talofibular ligament
+RID3015_RID5824	RID52096	left anterior tibiotalar ligament
+RID3015_RID5825	RID52097	right anterior tibiotalar ligament
+RID3016_RID5824	RID52098	left deep posterior tibiotalar ligament
+RID3016_RID5825	RID52099	right deep posterior tibiotalar ligament
+RID3020_RID5824	RID52100	left tibionavicular ligament
+RID3020_RID5825	RID52101	right tibionavicular ligament
+RID3018_RID5824	RID52102	left tibiocalcaneal ligament
+RID3018_RID5825	RID52103	right tibiocalcaneal ligament
+RID3023_RID5824	RID52104	left calcaneofibular ligament
+RID3023_RID5825	RID52105	right calcaneofibular ligament
+RID3129_RID2993	RID52106	metatarsophalangeal joint of great toe
+RID3129_RID2993_RID5824	RID52107	left metatarsophalangeal joint of great toe
+RID3129_RID2993_RID5825	RID52108	right metatarsophalangeal joint of great toe
+RID3129_RID2996	RID52109	metatarsophalangeal joint of second toe
+RID3129_RID2996_RID5824	RID52110	left metatarsophalangeal joint of second toe
+RID3129_RID2996_RID5825	RID52111	right metatarsophalangeal joint of second toe
+RID3129_RID2997	RID52112	metatarsophalangeal joint of third toe
+RID3129_RID2997_RID5824	RID52113	left metatarsophalangeal joint of third toe
+RID3129_RID2997_RID5825	RID52114	right metatarsophalangeal joint of third toe
+RID3129_RID2998	RID52115	metatarsophalangeal joint of fourth toe
+RID3129_RID2998_RID5824	RID52116	left metatarsophalangeal joint of fourth toe
+RID3129_RID2998_RID5825	RID52117	right metatarsophalangeal joint of fourth toe
+RID3129_RID2999	RID52118	metatarsophalangeal joint of fifth toe
+RID3129_RID2999_RID5824	RID52119	left metatarsophalangeal joint of fifth toe
+RID3129_RID2999_RID5825	RID52120	right metatarsophalangeal joint of fifth toe
+RID34530_RID2993	RID52121	interphalangeal joint of great toe
+RID34530_RID2993_RID5824	RID52122	left interphalangeal joint of great toe
+RID34530_RID2993_RID5825	RID52123	right interphalangeal joint of great toe
+RID3139_RID2996	RID52124	proximal interphalangeal joint of second toe
+RID3139_RID2996_RID5824	RID52125	left proximal interphalangeal joint of second toe
+RID3139_RID2996_RID5825	RID52126	right proximal interphalangeal joint of second toe
+RID3139_RID2997	RID52127	proximal interphalangeal joint of third toe
+RID3139_RID2997_RID5824	RID52128	left proximal interphalangeal joint of third toe
+RID3139_RID2997_RID5825	RID52129	right proximal interphalangeal joint of third toe
+RID3139_RID2998	RID52130	proximal interphalangeal joint of fourth toe
+RID3139_RID2998_RID5824	RID52131	left proximal interphalangeal joint of fourth toe
+RID3139_RID2998_RID5825	RID52132	right proximal interphalangeal joint of fourth toe
+RID3139_RID2999	RID52133	proximal interphalangeal joint of fifth toe
+RID3139_RID2999_RID5824	RID52134	left proximal interphalangeal joint of fifth toe
+RID3139_RID2999_RID5825	RID52135	right proximal interphalangeal joint of fifth toe
+RID3148_RID2996	RID52136	distal interphalangeal joint of second toe
+RID3148_RID2996_RID5824	RID52137	left distal interphalangeal joint of second toe
+RID3148_RID2996_RID5825	RID52138	right distal interphalangeal joint of second toe
+RID3148_RID2997	RID52139	distal interphalangeal joint of third toe
+RID3148_RID2997_RID5824	RID52140	left distal interphalangeal joint of third toe
+RID3148_RID2997_RID5825	RID52141	right distal interphalangeal joint of third toe
+RID3148_RID2998	RID52142	distal interphalangeal joint of fourth toe
+RID3148_RID2998_RID5824	RID52143	left distal interphalangeal joint of fourth toe
+RID3148_RID2998_RID5825	RID52144	right distal interphalangeal joint of fourth toe
+RID3148_RID2999	RID52145	distal interphalangeal joint of fifth toe
+RID3148_RID2999_RID5824	RID52146	left distal interphalangeal joint of fifth toe
+RID3148_RID2999_RID5825	RID52147	right distal interphalangeal joint of fifth toe
+RID2986_RID2993	RID52148	first metatarsal
+RID2986_RID2993_RID5824	RID52149	left first metatarsal
+RID2986_RID2993_RID5825	RID52150	right first metatarsal
+RID2986_RID2996	RID52151	second metatarsal
+RID2986_RID2996_RID5824	RID52152	left second metatarsal
+RID2986_RID2996_RID5825	RID52153	right second metatarsal
+RID2986_RID2997	RID52154	third metatarsal
+RID2986_RID2997_RID5824	RID52155	left third metatarsal
+RID2986_RID2997_RID5825	RID52156	right third metatarsal
+RID2986_RID2998	RID52157	fourth metatarsal
+RID2986_RID2998_RID5824	RID52158	left fourth metatarsal
+RID2986_RID2998_RID5825	RID52159	right fourth metatarsal
+RID13324_RID5824	RID52160	left fifth metatarsal
+RID13324_RID5825	RID52161	right fifth metatarsal
+RID3000_RID2993	RID52162	proximal phalanx of great toe
+RID3000_RID2993_RID5824	RID52163	left proximal phalanx of great toe
+RID3000_RID2993_RID5825	RID52164	right proximal phalanx of great toe
+RID3000_RID2996	RID52165	proximal phalanx of second toe
+RID3000_RID2996_RID5824	RID52166	left proximal phalanx of second toe
+RID3000_RID2996_RID5825	RID52167	right proximal phalanx of second toe
+RID3000_RID2997	RID52168	proximal phalanx of third toe
+RID3000_RID2997_RID5824	RID52169	left proximal phalanx of third toe
+RID3000_RID2997_RID5825	RID52170	right proximal phalanx of third toe
+RID3000_RID2998	RID52171	proximal phalanx of fourth toe
+RID3000_RID2998_RID5824	RID52172	left proximal phalanx of fourth toe
+RID3000_RID2998_RID5825	RID52173	right proximal phalanx of fourth toe
+RID3000_RID2999	RID52174	proximal phalanx of fifth toe
+RID3000_RID2999_RID5824	RID52175	left proximal phalanx of fifth toe
+RID3000_RID2999_RID5825	RID52176	right proximal phalanx of fifth toe
+RID3001_RID2996	RID52177	middle phalanx of second toe
+RID3001_RID2996_RID5824	RID52178	left middle phalanx of second toe
+RID3001_RID2996_RID5825	RID52179	right middle phalanx of second toe
+RID3001_RID2997	RID52180	middle phalanx of third toe
+RID3001_RID2997_RID5824	RID52181	left middle phalanx of third toe
+RID3001_RID2997_RID5825	RID52182	right middle phalanx of third toe
+RID3001_RID2998	RID52183	middle phalanx of fourth toe
+RID3001_RID2998_RID5824	RID52184	left middle phalanx of fourth toe
+RID3001_RID2998_RID5825	RID52185	right middle phalanx of fourth toe
+RID3001_RID2999	RID52186	middle phalanx of fifth toe
+RID3001_RID2999_RID5824	RID52187	left middle phalanx of fifth toe
+RID3001_RID2999_RID5825	RID52188	right middle phalanx of fifth toe
+RID3002_RID2993	RID52189	distal phalanx of great toe
+RID3002_RID2993_RID5824	RID52190	left distal phalanx of great toe
+RID3002_RID2993_RID5825	RID52191	right distal phalanx of great toe
+RID3002_RID2996	RID52192	distal phalanx of second toe
+RID3002_RID2996_RID5824	RID52193	left distal phalanx of second toe
+RID3002_RID2996_RID5825	RID52194	right distal phalanx of second toe
+RID3002_RID2997	RID52195	distal phalanx of third toe
+RID3002_RID2997_RID5824	RID52196	left distal phalanx of third toe
+RID3002_RID2997_RID5825	RID52197	right distal phalanx of third toe
+RID3002_RID2998	RID52198	distal phalanx of fourth toe
+RID3002_RID2998_RID5824	RID52199	left distal phalanx of fourth toe
+RID3002_RID2998_RID5825	RID52200	right distal phalanx of fourth toe
+RID3002_RID2999	RID52201	distal phalanx of fifth toe
+RID3002_RID2999_RID5824	RID52202	left distal phalanx of fifth toe
+RID3002_RID2999_RID5825	RID52203	right distal phalanx of fifth toe
+RID949_RID5824	RID52204	left superior gluteal artery
+RID949_RID5825	RID52205	right superior gluteal artery
+RID950_RID5824	RID52206	left inferior gluteal artery
+RID950_RID5825	RID52207	right inferior gluteal artery
+RID957_RID5824	RID52208	left external iliac artery
+RID957_RID5825	RID52209	right external iliac artery
+RID1195_RID5824	RID52210	left external iliac vein
+RID1195_RID5825	RID52211	right external iliac vein
+RID958_RID5824	RID52212	left common femoral artery
+RID958_RID5825	RID52213	right common femoral artery
+RID961_RID5824	RID52214	left superficial femoral artery
+RID961_RID5825	RID52215	right superficial femoral artery
+RID1199_RID5824	RID52216	left femoral vein
+RID1199_RID5825	RID52217	right femoral vein
+RID959_RID5824	RID52218	left deep femoral artery
+RID959_RID5825	RID52219	right deep femoral artery
+RID1197_RID5824	RID52220	left great saphenous vein
+RID1197_RID5825	RID52221	right great saphenous vein
+RID1202_RID5824	RID52222	left small saphenous vein
+RID1202_RID5825	RID52223	right small saphenous vein
+RID962_RID5824	RID52224	left popliteal artery
+RID962_RID5825	RID52225	right popliteal artery
+RID1201_RID5824	RID52226	left popliteal vein
+RID1201_RID5825	RID52227	right popliteal vein
+RID971_RID5824	RID52228	left anterior tibial artery
+RID971_RID5825	RID52229	right anterior tibial artery
+RID1205_RID5824	RID52230	left anterior tibial vein
+RID1205_RID5825	RID52231	right anterior tibial vein
+RID967_RID5824	RID52232	left posterior tibial artery
+RID967_RID5825	RID52233	right posterior tibial artery
+RID1207_RID5824	RID52234	left posterior tibial vein
+RID1207_RID5825	RID52235	right posterior tibial vein
+RID964_RID5824	RID52236	left peroneal artery
+RID964_RID5825	RID52237	right peroneal artery
+RID1206_RID5824	RID52238	left peroneal vein
+RID1206_RID5825	RID52239	right peroneal vein
+RID972_RID5824	RID52240	left dorsalis pedis artery
+RID972_RID5825	RID52241	right dorsalis pedis artery
+RID970_RID5824	RID52242	left plantar arterial arch
+RID970_RID5825	RID52243	right plantar arterial arch
+RID7348_RID5824	RID52244	left common peroneal nerve
+RID7348_RID5825	RID52245	right common peroneal nerve
+RID2629_RID5824	RID52246	left gluteus maximus muscle
+RID2629_RID5825	RID52247	right gluteus maximus muscle
+RID2630_RID5824	RID52248	left gluteus medius muscle
+RID2630_RID5825	RID52249	right gluteus medius muscle
+RID2631_RID5824	RID52250	left gluteus minimus muscle
+RID2631_RID5825	RID52251	right gluteus minimus muscle
+RID2703_RID5824	RID52252	left tensor fasciae latae muscle
+RID2703_RID5825	RID52253	right tensor fasciae latae muscle
+RID2700_RID5824	RID52254	left vastus medialis muscle
+RID2700_RID5825	RID52255	right vastus medialis muscle
+RID2702_RID5824	RID52256	left vastus intermedius muscle
+RID2702_RID5825	RID52257	right vastus intermedius muscle
+RID2699_RID5824	RID52258	left vastus lateralis muscle
+RID2699_RID5825	RID52259	right vastus lateralis muscle
+RID2698_RID5824	RID52260	left rectus femoris muscle
+RID2698_RID5825	RID52261	right rectus femoris muscle
+RID3162_RID5824	RID52262	left extensor digitorum brevis muscle
+RID3162_RID5825	RID52263	right extensor digitorum brevis muscle
+RID3163_RID5824	RID52264	left extensor hallucis brevis muscle
+RID3163_RID5825	RID52265	right extensor hallucis brevis muscle
+RID3166_RID5824	RID52266	left flexor digitorum brevis muscle
+RID3166_RID5825	RID52267	right flexor digitorum brevis muscle
+RID3173_RID5824	RID52268	left flexor hallucis brevis muscle
+RID3173_RID5825	RID52269	right flexor hallucis brevis muscle
+RID3165_RID5824	RID52270	left abductor hallucis muscle
+RID3165_RID5825	RID52271	right abductor hallucis muscle
+RID3176_RID5824	RID52272	left adductor hallucis muscle
+RID3176_RID5825	RID52273	right adductor hallucis muscle
+RID3169_RID5824	RID52274	left quadratus plantae muscle
+RID3169_RID5825	RID52275	right quadratus plantae muscle
+RID3172_RID5824	RID52276	left lumbrical muscle of foot
+RID3172_RID5825	RID52277	right lumbrical muscle of foot
+RID3167_RID5824	RID52278	left abductor digiti minimi muscle of foot
+RID3167_RID5825	RID52279	right abductor digiti minimi muscle of foot
+RID3181_RID5824	RID52280	left plantar interosseous muscle of foot
+RID3181_RID5825	RID52281	right plantar interosseous muscle of foot
+RID3182_RID5824	RID52282	left dorsal interosseous muscle of foot
+RID3182_RID5825	RID52283	right dorsal interosseous muscle of foot
+RID465_RID5824	RID52284	left inguinal lymph node
+RID465_RID5825	RID52285	right inguinal lymph node
+RID1850_RID5824	RID52286	left upper extremity
+RID1850_RID5825	RID52287	right upper extremity
+RID39518_RID5824	RID52288	left shoulder
+RID39518_RID5825	RID52289	right shoulder
+RID1968_RID5824	RID52290	left arm
+RID1968_RID5825	RID52291	right arm
+RID2010_RID5824	RID52292	left elbow
+RID2010_RID5825	RID52293	right elbow
+RID2107_RID5824	RID52294	left forearm
+RID2107_RID5825	RID52295	right forearm
+RID2177_RID5824	RID52296	left wrist
+RID2177_RID5825	RID52297	right wrist
+RID2318_RID5824	RID52298	left hand
+RID2318_RID5825	RID52299	right hand
+RID1892_RID5824	RID52300	left costoclavicular ligament
+RID1892_RID5825	RID52301	right costoclavicular ligament
+RID1916_RID5824	RID52302	left glenohumeral ligament
+RID1916_RID5825	RID52303	right glenohumeral ligament
+RID1972_RID5824	RID52304	left anatomical neck of humerus
+RID1972_RID5825	RID52305	right anatomical neck of humerus
+RID1973_RID5824	RID52306	left greater tuberosity of humerus
+RID1973_RID5825	RID52307	right greater tuberosity of humerus
+RID1978_RID5824	RID52308	left lesser tuberosity of humerus
+RID1978_RID5825	RID52309	right lesser tuberosity of humerus
+RID1944_RID5824	RID52310	left long head of biceps brachii tendon
+RID1944_RID5825	RID52311	right long head of biceps brachii tendon
+RID1945_RID5824	RID52312	left short head of biceps brachii tendon
+RID1945_RID5825	RID52313	right short head of biceps brachii tendon
+RID1985_RID5824	RID52314	left medial epicondyle of humerus
+RID1985_RID5825	RID52315	right medial epicondyle of humerus
+RID1984_RID5824	RID52316	left lateral epicondyle of humerus
+RID1984_RID5825	RID52317	right lateral epicondyle of humerus
+RID1987_RID5824	RID52318	left capitellum of humerus
+RID1987_RID5825	RID52319	right capitellum of humerus
+RID2011_RID5824	RID52320	left elbow joint
+RID2011_RID5825	RID52321	right elbow joint
+RID2086_RID5824	RID52322	left bicipitoradial bursa
+RID2086_RID5825	RID52323	right bicipitoradial bursa
+RID2068_RID5824	RID52324	left common extensor tendon
+RID2068_RID5825	RID52325	right common extensor tendon
+RID2044_RID5824	RID52326	left radial collateral ligament of elbow
+RID2044_RID5825	RID52327	right radial collateral ligament of elbow
+RID2048_RID5824	RID52328	left annular ligament of radius
+RID2048_RID5825	RID52329	right annular ligament of radius
+RID28590_RID5824	RID52330	left head of radius
+RID28590_RID5825	RID52331	right head of radius
+RID42286_RID5824	RID52332	left head of ulna
+RID42286_RID5825	RID52333	right head of ulna
+RID2203_RID5824	RID52334	left distal radioulnar joint
+RID2203_RID5825	RID52335	right distal radioulnar joint
+RID2230_RID5824	RID52336	left palmar radioulnar ligament
+RID2230_RID5825	RID52337	right palmar radioulnar ligament
+RID2257_RID5824	RID52338	left radial collateral ligament of wrist
+RID2257_RID5825	RID52339	right radial collateral ligament of wrist
+RID2235_RID5824	RID52340	left ulnar collateral ligament of wrist
+RID2235_RID5825	RID52341	right ulnar collateral ligament of wrist
+RID2229_RID5824	RID52342	left dorsal radioulnar ligament
+RID2229_RID5825	RID52343	right dorsal radioulnar ligament
+RID2259_RID5824	RID52344	left scapholunate ligament
+RID2259_RID5825	RID52345	right scapholunate ligament
+RID2249_RID5824	RID52346	left capitohamate joint
+RID2249_RID5825	RID52347	right capitohamate joint
+RID2247_RID5824	RID52348	left capitolunate joint
+RID2247_RID5825	RID52349	right capitolunate joint
+RID2313_RID5824	RID52350	left flexor retinaculum
+RID2313_RID5825	RID52351	right flexor retinaculum
+RID2309_RID5824	RID52352	left extensor retinaculum
+RID2309_RID5825	RID52353	right extensor retinaculum
+RID2202_RID5824	RID52354	left wrist joint
+RID2202_RID5825	RID52355	right wrist joint
+RID2181_RID5824	RID52356	left scaphoid
+RID2181_RID5825	RID52357	right scaphoid
+RID2187_RID5824	RID52358	left lunate
+RID2187_RID5825	RID52359	right lunate
+RID2189_RID5824	RID52360	left triquetrum
+RID2189_RID5825	RID52361	right triquetrum
+RID2191_RID5824	RID52362	left pisiform
+RID2191_RID5825	RID52363	right pisiform
+RID2193_RID5824	RID52364	left trapezium
+RID2193_RID5825	RID52365	right trapezium
+RID2195_RID5824	RID52366	left trapezoid
+RID2195_RID5825	RID52367	right trapezoid
+RID2197_RID5824	RID52368	left capitate
+RID2197_RID5825	RID52369	right capitate
+RID2198_RID5824	RID52370	left hamate
+RID2198_RID5825	RID52371	right hamate
+RID2200_RID5824	RID52372	left hook of hamate
+RID2200_RID5825	RID52373	right hook of hamate
+RID2320_RID5824	RID52374	left metacarpal bone
+RID2320_RID5825	RID52375	right metacarpal bone
+RID34545_RID5824	RID52376	left first metacarpal bone
+RID34545_RID5825	RID52377	right first metacarpal bone
+RID34546_RID5824	RID52378	left second metacarpal bone
+RID34546_RID5825	RID52379	right second metacarpal bone
+RID34547_RID5824	RID52380	left third metacarpal bone
+RID34547_RID5825	RID52381	right third metacarpal bone
+RID34548_RID5824	RID52382	left fourth metacarpal bone
+RID34548_RID5825	RID52383	right fourth metacarpal bone
+RID34549_RID5824	RID52384	left fifth metacarpal bone
+RID34549_RID5825	RID52385	right fifth metacarpal bone
+RID2332_RID2392	RID52386	metacarpophalangeal joint of thumb
+RID2332_RID2392_RID5824	RID52387	metacarpophalangeal joint of left thumb
+RID2332_RID2392_RID5825	RID52388	metacarpophalangeal joint of right thumb
+RID2332_RID2394	RID52389	metacarpophalangeal joint of index finger
+RID2332_RID2394_RID5824	RID52390	metacarpophalangeal joint of left index finger
+RID2332_RID2394_RID5825	RID52391	metacarpophalangeal joint of right index finger
+RID2332_RID2396	RID52392	metacarpophalangeal joint of middle finger
+RID2332_RID2396_RID5824	RID52393	metacarpophalangeal joint of left middle finger
+RID2332_RID2396_RID5825	RID52394	metacarpophalangeal joint of right middle finger
+RID2332_RID2398	RID52395	metacarpophalangeal joint of ring finger
+RID2332_RID2398_RID5824	RID52396	metacarpophalangeal joint of left ring finger
+RID2332_RID2398_RID5825	RID52397	metacarpophalangeal joint of right ring finger
+RID2332_RID2400	RID52398	metacarpophalangeal joint of small finger
+RID2332_RID2400_RID5824	RID52399	metacarpophalangeal joint of left small finger
+RID2332_RID2400_RID5825	RID52400	metacarpophalangeal joint of right small finger
+RID34533_RID5824	RID52401	interphalangeal joint of left thumb
+RID34533_RID5825	RID52402	interphalangeal joint of right thumb
+RID2408_RID2394	RID52403	proximal interphalangeal joint of index finger
+RID2408_RID2394_RID5824	RID52404	proximal interphalangeal joint of left index finger
+RID2408_RID2394_RID5825	RID52405	proximal interphalangeal joint of right index finger
+RID2408_RID2396	RID52406	proximal interphalangeal joint of middle finger
+RID2408_RID2396_RID5824	RID52407	proximal interphalangeal joint of left middle finger
+RID2408_RID2396_RID5825	RID52408	proximal interphalangeal joint of right middle finger
+RID2408_RID2398	RID52409	proximal interphalangeal joint of ring finger
+RID2408_RID2398_RID5824	RID52410	proximal interphalangeal joint of left ring finger
+RID2408_RID2398_RID5825	RID52411	proximal interphalangeal joint of right ring finger
+RID2408_RID2400	RID52412	proximal interphalangeal joint of small finger
+RID2408_RID2400_RID5824	RID52413	proximal interphalangeal joint of left small finger
+RID2408_RID2400_RID5825	RID52414	proximal interphalangeal joint of right small finger
+RID2418_RID2394	RID52415	distal interphalangeal joint of index finger
+RID2418_RID2394_RID5824	RID52416	distal interphalangeal joint of left index finger
+RID2418_RID2394_RID5825	RID52417	distal interphalangeal joint of right index finger
+RID2418_RID2396	RID52418	distal interphalangeal joint of middle finger
+RID2418_RID2396_RID5824	RID52419	distal interphalangeal joint of left middle finger
+RID2418_RID2396_RID5825	RID52420	distal interphalangeal joint of right middle finger
+RID2418_RID2398	RID52421	distal interphalangeal joint of ring finger
+RID2418_RID2398_RID5824	RID52422	distal interphalangeal joint of left ring finger
+RID2418_RID2398_RID5825	RID52423	distal interphalangeal joint of right ring finger
+RID2418_RID2400	RID52424	distal interphalangeal joint of small finger
+RID2418_RID2400_RID5824	RID52425	distal interphalangeal joint of left small finger
+RID2418_RID2400_RID5825	RID52426	distal interphalangeal joint of right small finger
+RID2404_RID2392	RID52427	proximal phalanx of thumb
+RID2404_RID2392_RID5824	RID52428	proximal phalanx of left thumb
+RID2404_RID2392_RID5825	RID52429	proximal phalanx of right thumb
+RID2404_RID2394	RID52430	proximal phalanx of index finger
+RID2404_RID2394_RID5824	RID52431	proximal phalanx of left index finger
+RID2404_RID2394_RID5825	RID52432	proximal phalanx of right index finger
+RID2404_RID2396	RID52433	proximal phalanx of middle finger
+RID2404_RID2396_RID5824	RID52434	proximal phalanx of left middle finger
+RID2404_RID2396_RID5825	RID52435	proximal phalanx of right middle finger
+RID2404_RID2398	RID52436	proximal phalanx of ring finger
+RID2404_RID2398_RID5824	RID52437	proximal phalanx of left ring finger
+RID2404_RID2398_RID5825	RID52438	proximal phalanx of right ring finger
+RID2404_RID2400	RID52439	proximal phalanx of small finger
+RID2404_RID2400_RID5824	RID52440	proximal phalanx of left small finger
+RID2404_RID2400_RID5825	RID52441	proximal phalanx of right small finger
+RID2405_RID2394	RID52442	middle phalanx of index finger
+RID2405_RID2394_RID5824	RID52443	middle phalanx of left index finger
+RID2405_RID2394_RID5825	RID52444	middle phalanx of right index finger
+RID2405_RID2396	RID52445	middle phalanx of middle finger
+RID2405_RID2396_RID5824	RID52446	middle phalanx of left middle finger
+RID2405_RID2396_RID5825	RID52447	middle phalanx of right middle finger
+RID2405_RID2398	RID52448	middle phalanx of ring finger
+RID2405_RID2398_RID5824	RID52449	middle phalanx of left ring finger
+RID2405_RID2398_RID5825	RID52450	middle phalanx of right ring finger
+RID2405_RID2400	RID52451	middle phalanx of small finger
+RID2405_RID2400_RID5824	RID52452	middle phalanx of left small finger
+RID2405_RID2400_RID5825	RID52453	middle phalanx of right small finger
+RID2406_RID2392	RID52454	distal phalanx of thumb
+RID2406_RID2392_RID5824	RID52455	distal phalanx of left thumb
+RID2406_RID2392_RID5825	RID52456	distal phalanx of right thumb
+RID2406_RID2394	RID52457	distal phalanx of index finger
+RID2406_RID2394_RID5824	RID52458	distal phalanx of left index finger
+RID2406_RID2394_RID5825	RID52459	distal phalanx of right index finger
+RID2406_RID2396	RID52460	distal phalanx of middle finger
+RID2406_RID2396_RID5824	RID52461	distal phalanx of left middle finger
+RID2406_RID2396_RID5825	RID52462	distal phalanx of right middle finger
+RID2406_RID2398	RID52463	distal phalanx of ring finger
+RID2406_RID2398_RID5824	RID52464	distal phalanx of left ring finger
+RID2406_RID2398_RID5825	RID52465	distal phalanx of right ring finger
+RID2406_RID2400	RID52466	distal phalanx of small finger
+RID2406_RID2400_RID5824	RID52467	distal phalanx of left small finger
+RID2406_RID2400_RID5825	RID52468	distal phalanx of right small finger
+RID1015_RID5824	RID52469	left brachial vein
+RID1015_RID5825	RID52470	right brachial vein
+RID867_RID5824	RID52471	left deep palmar arch
+RID867_RID5825	RID52472	right deep palmar arch
+RID871_RID5824	RID52473	left superficial palmar arch
+RID871_RID5825	RID52474	right superficial palmar arch
+RID1517_RID5824	RID52475	left axillary lymph node
+RID1517_RID5825	RID52476	right axillary lymph node
+RID13091_RID5824	RID52477	left inferior epigastric artery
+RID13091_RID5825	RID52478	right inferior epigastric artery
+RID225_RID5824	RID52479	left renal calyx
+RID225_RID5825	RID52480	right renal calyx
+RID7780_RID5824	RID52481	left erector spinae muscle group
+RID7780_RID5825	RID52482	right erector spinae muscle group
+RID50392_RID6182	RID52483	C2/C3 cervical intervertebral disk
+RID50392_RID6183	RID52484	C3/C4 cervical intervertebral disk
+RID50392_RID6184	RID52485	C4/C5 cervical intervertebral disk
+RID50392_RID6185	RID52486	C5/C6 cervical intervertebral disk
+RID50392_RID6186	RID52487	C6/C7 cervical intervertebral disk
+RID50392_RID6187	RID52488	C7/T1 cervical intervertebral disk
+RID28830_RID6202	RID52489	L1/L2 lumbar intervertebral disk
+RID28830_RID6203	RID52490	L2/L3 lumbar intervertebral disk
+RID28830_RID6204	RID52491	L3/L4 lumbar intervertebral disk
+RID28830_RID6205	RID52492	L4/L5 lumbar intervertebral disk
+RID28830_RID6206	RID52493	L5/S1 lumbar intervertebral disk
+RID28591_RID6151	RID52494	first rib
+RID28591_RID6151_RID5824	RID52495	left first rib
+RID28591_RID6151_RID5825	RID52496	right first rib
+RID28591_RID6152	RID52497	second rib
+RID28591_RID6152_RID5824	RID52498	left second rib
+RID28591_RID6152_RID5825	RID52499	right second rib
+RID28591_RID6153	RID52500	third rib
+RID28591_RID6153_RID5824	RID52501	left third rib
+RID28591_RID6153_RID5825	RID52502	right third rib
+RID28591_RID6154	RID52503	fourth rib
+RID28591_RID6154_RID5824	RID52504	left fourth rib
+RID28591_RID6154_RID5825	RID52505	right fourth rib
+RID28591_RID6155	RID52506	fifth rib
+RID28591_RID6155_RID5824	RID52507	left fifth rib
+RID28591_RID6155_RID5825	RID52508	right fifth rib
+RID28591_RID6156	RID52509	sixth rib
+RID28591_RID6156_RID5824	RID52510	left sixth rib
+RID28591_RID6156_RID5825	RID52511	right sixth rib
+RID28591_RID6157	RID52512	seventh rib
+RID28591_RID6157_RID5824	RID52513	left seventh rib
+RID28591_RID6157_RID5825	RID52514	right seventh rib
+RID28591_RID6158	RID52515	eighth rib
+RID28591_RID6158_RID5824	RID52516	left eighth rib
+RID28591_RID6158_RID5825	RID52517	right eighth rib
+RID28591_RID6159	RID52518	ninth rib
+RID28591_RID6159_RID5824	RID52519	left ninth rib
+RID28591_RID6159_RID5825	RID52520	right ninth rib
+RID28591_RID6160	RID52521	tenth rib
+RID28591_RID6160_RID5824	RID52522	left tenth rib
+RID28591_RID6160_RID5825	RID52523	right tenth rib
+RID28591_RID6161	RID52524	eleventh rib
+RID28591_RID6161_RID5824	RID52525	left eleventh rib
+RID28591_RID6161_RID5825	RID52526	right eleventh rib
+RID28591_RID6162	RID52527	twelfth rib
+RID28591_RID6162_RID5824	RID52528	left twelfth rib
+RID28591_RID6162_RID5825	RID52529	right twelfth rib
+RID228_RID5824	RID52530	left renal pelvis
+RID228_RID5825	RID52531	right renal pelvis
+RID38762_RID5824	RID52532	left inferior phrenic artery
+RID38762_RID5825	RID52533	right inferior phrenic artery
+RID39500_RID5824	RID52534	left levator ani
+RID39500_RID5825	RID52535	right levator ani
+RID2633_RID5825	RID52536	right obturator internus muscle
+RID2633_RID5824	RID52537	left obturator internus muscle
+RID2636_RID5824	RID52538	left obturator externus muscle
+RID2636_RID5825	RID52539	right obturator externus muscle
+RID953_RID5824	RID52540	left obturator artery
+RID953_RID5825	RID52541	right obturator artery
+RID954_RID5824	RID52542	left internal pudendal artery
+RID954_RID5825	RID52543	right internal pudendal artery
+RID358_RID5824	RID52544	left vas deferens
+RID358_RID5825	RID52545	right vas deferens
+RID2632_RID5824	RID52546	left piriformis muscle
+RID2632_RID5825	RID52547	right piriformis muscle
+RID7819_RID5825	RID52548	right coccygeus muscle
+RID7819_RID5824	RID52549	left coccygeus muscle
+RID13315_RID5824	RID52550	left inguinal ligament
+RID13315_RID5825	RID52551	right inguinal ligament
+RID13087_RID5824	RID52552	left superior vesical artery
+RID13087_RID5825	RID52553	right superior vesical artery
+RID13086_RID5824	RID52554	left inferior vesical artery
+RID13086_RID5825	RID52555	right inferior vesical artery
+RID956_RID5824	RID52556	left middle rectal artery
+RID956_RID5825	RID52557	right middle rectal artery
+RID947_RID5824	RID52558	left lateral sacral artery
+RID947_RID5825	RID52559	right lateral sacral artery
+RID948_RID5824	RID52560	left iliolumbar artery
+RID948_RID5825	RID52561	right iliolumbar artery
+RID1176_RID5824	RID52562	left ascending lumbar vein
+RID1176_RID5825	RID52563	right ascending lumbar vein
+RID34263_RID5824	RID52564	left intramammary lymph node
+RID34263_RID5825	RID52565	right intramammary lymph node
+RID466_RID5824	RID52566	left mesorectal lymph node
+RID466_RID5825	RID52567	right mesorectal lymph node
+RID1522_RID5824	RID52568	left superior diaphragmatic lymph node
+RID1522_RID5825	RID52569	right superior diaphragmatic lymph node
+RID584_RID5824	RID52570	left common carotid artery
+RID584_RID5825	RID52571	right common carotid artery
+RID585_RID5824	RID52572	left internal carotid artery
+RID585_RID5825	RID52573	right internal carotid artery
+RID684_RID5824	RID52574	left external carotid artery
+RID684_RID5825	RID52575	right external carotid artery
+RID685_RID5824	RID52576	left superior thyroid artery
+RID685_RID5825	RID52577	right superior thyroid artery
+RID692_RID5824	RID52578	left ascending pharyngeal artery
+RID692_RID5825	RID52579	right ascending pharyngeal artery
+RID837_RID5824	RID52580	left thyrocervical trunk
+RID837_RID5825	RID52581	right thyrocervical trunk
+RID853_RID5824	RID52582	left costocervical trunk
+RID853_RID5825	RID52583	right costocervical trunk
+RID1024_RID5824	RID52584	left internal jugular vein
+RID1024_RID5825	RID52585	right internal jugular vein
+RID1037_RID5824	RID52586	left superior thyroid vein
+RID1037_RID5825	RID52587	right superior thyroid vein
+RID1079_RID5824	RID52588	left vertebral vein
+RID1079_RID5825	RID52589	right vertebral vein
+RID6383_RID9080	RID52590	cranial cavity
+RID7565_RID5824	RID52591	left retropharyngeal space
+RID7565_RID5825	RID52592	right retropharyngeal space
+RID7569_RID5824	RID52593	left masticator space
+RID7569_RID5825	RID52594	right masticator space
+RID7572_RID5824	RID52595	left perivertebral space
+RID7572_RID5825	RID52596	right perivertebral space
+RID7568_RID5824	RID52597	left carotid space
+RID7568_RID5825	RID52598	right carotid space
+RID7500_RID5824	RID52599	left sternocleidomastoid muscle
+RID7500_RID5825	RID52600	right sternocleidomastoid muscle
+RID7519_RID5824	RID52601	left sternohyoid muscle
+RID7519_RID5825	RID52602	right sternohyoid muscle
+RID7520_RID5824	RID52603	left omohyoid muscle
+RID7520_RID5825	RID52604	right omohyoid muscle
+RID7523_RID5824	RID52605	left sternothyroid muscle
+RID7523_RID5825	RID52606	right sternothyroid muscle
+RID7524_RID5824	RID52607	left thyrohyoid muscle
+RID7524_RID5825	RID52608	right thyrohyoid muscle
+RID7512_RID5824	RID52609	left digastric muscle
+RID7512_RID5825	RID52610	right digastric muscle
+RID7516_RID5824	RID52611	left mylohyoid muscle
+RID7516_RID5825	RID52612	right mylohyoid muscle
+RID7515_RID5824	RID52613	left stylohyoid muscle
+RID7515_RID5825	RID52614	right stylohyoid muscle
+RID7517_RID5824	RID52615	left geniohyoid muscle
+RID7517_RID5825	RID52616	right geniohyoid muscle
+RID7496_RID5824	RID52617	left anterior scalene muscle
+RID7496_RID5825	RID52618	right anterior scalene muscle
+RID7497_RID5824	RID52619	left middle scalene muscle
+RID7497_RID5825	RID52620	right middle scalene muscle
+RID7498_RID5824	RID52621	left posterior scalene muscle
+RID7498_RID5825	RID52622	right posterior scalene muscle
+RID7815_RID5824	RID52623	left spinalis cervicis
+RID7815_RID5825	RID52624	right spinalis cervicis
+RID7649_RID5824	RID52625	left oblique arytenoid muscle
+RID7649_RID5825	RID52626	right oblique arytenoid muscle
+RID7643_RID5824	RID52627	left posterior cricoarytenoid muscle
+RID7643_RID5825	RID52628	right posterior cricoarytenoid muscle
+RID7645_RID5824	RID52629	left lateral cricoarytenoid muscle
+RID7645_RID5825	RID52630	right lateral cricoarytenoid muscle
+RID7647_RID5824	RID52631	left thyroarytenoid muscle
+RID7647_RID5825	RID52632	right thyroarytenoid muscle
+RID7640_RID5824	RID52633	left cricothyroid muscle
+RID7640_RID5825	RID52634	right cricothyroid muscle
+RID7563_RID5824	RID52635	left salpingopharyngeus muscle
+RID7563_RID5825	RID52636	right salpingopharyngeus muscle
+RID7548_RID5824	RID52637	left superior constrictor muscle
+RID7548_RID5825	RID52638	right superior constrictor muscle
+RID7553_RID5824	RID52639	left middle constrictor muscle
+RID7553_RID5825	RID52640	right middle constrictor muscle
+RID7560_RID5824	RID52641	left palatopharyngeus muscle
+RID7560_RID5825	RID52642	right palatopharyngeus muscle
+RID7556_RID5824	RID52643	left inferior constrictor muscle
+RID7556_RID5825	RID52644	right inferior constrictor muscle
+RID7559_RID5824	RID52645	left stylopharyngeus muscle
+RID7559_RID5825	RID52646	right stylopharyngeus muscle
+RID1516_RID5824	RID52647	left supraclavicular lymph node
+RID1516_RID5825	RID52648	right supraclavicular lymph node
+RID9993_RID5824	RID52649	left half of pharyngeal tonsil
+RID9993_RID5825	RID52650	right half of pharyngeal tonsil
+RID10010_RID5824	RID52651	left palatine tonsil
+RID10010_RID5825	RID52652	right palatine tonsil
+RID9998_RID5824	RID52653	left tubal tonsil
+RID9998_RID5825	RID52654	right tubal tonsil
+RID10008_RID5824	RID52655	left lingual tonsil
+RID10008_RID5825	RID52656	right lingual tonsil
+RID9573_RID5824	RID52657	left orbit
+RID9573_RID5825	RID52658	right orbit
+RID9592_RID5824	RID52659	left globe
+RID9592_RID5825	RID52660	right globe
+RID9725_RID5824	RID52661	left intraconal space of orbit
+RID9725_RID5825	RID52662	right intraconal space of orbit
+RID9726_RID5824	RID52663	left extraconal space of orbit
+RID9726_RID5825	RID52664	right extraconal space of orbit
+RID9675_RID5824	RID52665	left anterior chamber of globe
+RID9675_RID5825	RID52666	right anterior chamber of globe
+RID9678_RID5824	RID52667	left posterior chamber of globe
+RID9678_RID5825	RID52668	right posterior chamber of globe
+RID9606_RID5824	RID52669	left cornea
+RID9606_RID5825	RID52670	right cornea
+RID9688_RID5824	RID52671	left lens
+RID9688_RID5825	RID52672	right lens
+RID9635_RID5824	RID52673	left iris
+RID9635_RID5825	RID52674	right iris
+RID9682_RID5824	RID52675	left vitreous body
+RID9682_RID5825	RID52676	right vitreous body
+RID9651_RID5824	RID52677	left retina
+RID9651_RID5825	RID52678	right retina
+RID9594_RID5824	RID52679	left sclera
+RID9594_RID5825	RID52680	right sclera
+RID9624_RID5824	RID52681	left ciliary body
+RID9624_RID5825	RID52682	right ciliary body
+RID9617_RID5824	RID52683	left choroid of globe
+RID9617_RID5825	RID52684	right choroid of globe
+RID10053_RID5824	RID52685	left ear
+RID10053_RID5825	RID52686	right ear
+RID10054_RID5824	RID52687	left external ear
+RID10054_RID5825	RID52688	right external ear
+RID13303_RID5824	RID52689	left middle ear
+RID13303_RID5825	RID52690	right middle ear
+RID10199_RID5824	RID52691	left inner ear
+RID10199_RID5825	RID52692	right inner ear
+RID10094_RID5824	RID52693	left external auditory canal
+RID10094_RID5825	RID52694	right external auditory canal
+RID10100_RID5824	RID52695	left tympanic membrane
+RID10100_RID5825	RID52696	right tympanic membrane
+RID10109_RID5824	RID52697	left tympanic cavity
+RID10109_RID5825	RID52698	right tympanic cavity
+RID9419_RID5824	RID52699	left eustachian tube
+RID9419_RID5825	RID52700	right eustachian tube
+RID10223_RID5824	RID52701	left cochlea
+RID10223_RID5825	RID52702	right cochlea
+RID9392_RID5824	RID52703	left internal auditory canal
+RID9392_RID5825	RID52704	right internal auditory canal
+RID10163_RID5824	RID52705	left malleus
+RID10163_RID5825	RID52706	right malleus
+RID10165_RID5824	RID52707	left handle of malleus
+RID10165_RID5825	RID52708	right handle of malleus
+RID10166_RID5824	RID52709	left head of malleus
+RID10166_RID5825	RID52710	right head of malleus
+RID10167_RID5824	RID52711	left neck of malleus
+RID10167_RID5825	RID52712	right neck of malleus
+RID10168_RID5824	RID52713	left lateral process of malleus
+RID10168_RID5825	RID52714	right lateral process of malleus
+RID10169_RID5824	RID52715	left anterior process of malleus
+RID10169_RID5825	RID52716	right anterior process of malleus
+RID10190_RID5824	RID52717	left posterior fold of malleus
+RID10190_RID5825	RID52718	right posterior fold of malleus
+RID10191_RID5824	RID52719	left anterior fold of malleus
+RID10191_RID5825	RID52720	right anterior fold of malleus
+RID10157_RID5824	RID52721	left incus
+RID10157_RID5825	RID52722	right incus
+RID10159_RID5824	RID52723	left body of incus
+RID10159_RID5825	RID52724	right body of incus
+RID10160_RID5824	RID52725	left long process of incus
+RID10160_RID5825	RID52726	right long process of incus
+RID10161_RID5824	RID52727	left lenticular process of incus
+RID10161_RID5825	RID52728	right lenticular process of incus
+RID10162_RID5824	RID52729	left short process of incus
+RID10162_RID5825	RID52730	right short process of incus
+RID10197_RID5824	RID52731	left fold of incus
+RID10197_RID5825	RID52732	right fold of incus
+RID10151_RID5824	RID52733	left stapes
+RID10151_RID5825	RID52734	right stapes
+RID10153_RID5824	RID52735	left head of stapes
+RID10153_RID5825	RID52736	right head of stapes
+RID10154_RID5824	RID52737	left anterior limb of stapes
+RID10154_RID5825	RID52738	right anterior limb of stapes
+RID10155_RID5824	RID52739	left posterior limb of stapes
+RID10155_RID5825	RID52740	right posterior limb of stapes
+RID10156_RID5824	RID52741	left footplate of stapes
+RID10156_RID5825	RID52742	right footplate of stapes
+RID10202_RID5824	RID52743	left vestibule of bony labyrinth
+RID10202_RID5825	RID52744	right vestibule of bony labyrinth
+RID10143_RID5824	RID52745	left mastoid antrum
+RID10143_RID5825	RID52746	right mastoid antrum
+RID10214_RID5824	RID52747	left superior semicircular canal
+RID10214_RID5825	RID52748	right superior semicircular canal
+RID10216_RID5824	RID52749	left posterior semicircular canal
+RID10216_RID5825	RID52750	right posterior semicircular canal
+RID10218_RID5824	RID52751	left lateral semicircular canal
+RID10218_RID5825	RID52752	right lateral semicircular canal
+RID9567_RID5824	RID52753	left ethmoidal infundibulum
+RID9567_RID5825	RID52754	right ethmoidal infundibulum
+RID9535_RID5824	RID52755	left superior meatus
+RID9535_RID5825	RID52756	right superior meatus
+RID9536_RID5824	RID52757	left middle meatus
+RID9536_RID5825	RID52758	right middle meatus
+RID9537_RID5824	RID52759	left inferior meatus
+RID9537_RID5825	RID52760	right inferior meatus
+RID9566_RID5824	RID52761	left ethmoidal bulla
+RID9566_RID5825	RID52762	right ethmoidal bulla
+RID10049_RID5824	RID52763	left superior turbinate
+RID10049_RID5825	RID52764	right superior turbinate
+RID10050_RID5824	RID52765	left middle turbinate
+RID10050_RID5825	RID52766	right middle turbinate
+RID10051_RID5824	RID52767	left inferior turbinate
+RID10051_RID5825	RID52768	right inferior turbinate
+RID9206_RID5824	RID52769	left uncinate process of ethmoid
+RID9206_RID5825	RID52770	right uncinate process of ethmoid
+RID9555_RID5824	RID52771	left frontal sinus
+RID9555_RID5825	RID52772	right frontal sinus
+RID9557_RID5824	RID52773	left maxillary sinus
+RID9557_RID5825	RID52774	right maxillary sinus
+RID9569_RID5824	RID52775	left sphenoid sinus
+RID9569_RID5825	RID52776	right sphenoid sinus
+RID9561_RID5824	RID52777	left ethmoid sinus
+RID9561_RID5825	RID52778	right ethmoid sinus
+RID650_RID5824	RID52779	left A1 segment of anterior cerebral artery
+RID650_RID5825	RID52780	right A1 segment of anterior cerebral artery
+RID651_RID5824	RID52781	left A2 segment of anterior cerebral artery
+RID651_RID5825	RID52782	right A2 segment of anterior cerebral artery
+RID674_RID5824	RID52783	left medial orbitofrontal artery
+RID674_RID5825	RID52784	right medial orbitofrontal artery
+RID666_RID5824	RID52785	left M1 segment of middle cerebral artery
+RID666_RID5825	RID52786	right M1 segment of middle cerebral artery
+RID671_RID5824	RID52787	left M2 segment of middle cerebral artery
+RID671_RID5825	RID52788	right M2 segment of middle cerebral artery
+RID680_RID5824	RID52789	left M3 segment of middle cerebral artery
+RID680_RID5825	RID52790	right M3 segment of middle cerebral artery
+RID682_RID5824	RID52791	left M4 segment of middle cerebral artery
+RID682_RID5825	RID52792	right M4 segment of middle cerebral artery
+RID668_RID5824	RID52793	left lenticulostriate artery
+RID668_RID5825	RID52794	right lenticulostriate artery
+RID670_RID5824	RID52795	left medial lenticulostriate artery
+RID670_RID5825	RID52796	right medial lenticulostriate artery
+RID669_RID5824	RID52797	left lateral lenticulostriate artery
+RID669_RID5825	RID52798	right lateral lenticulostriate artery
+RID676_RID5824	RID52799	left artery of central sulcus
+RID676_RID5825	RID52800	right artery of central sulcus
+RID658_RID5824	RID52801	left superior internal parietal artery
+RID658_RID5825	RID52802	right superior internal parietal artery
+RID659_RID5824	RID52803	left inferior internal parietal artery
+RID659_RID5825	RID52804	right inferior internal parietal artery
+RID731_RID5824	RID52805	left middle temporal artery
+RID731_RID5825	RID52806	right middle temporal artery
+RID805_RID5824	RID52807	left P1 segment of posterior cerebral artery
+RID805_RID5825	RID52808	right P1 segment of posterior cerebral artery
+RID807_RID5824	RID52809	left P2 segment of posterior cerebral artery
+RID807_RID5825	RID52810	right P2 segment of posterior cerebral artery
+RID818_RID5824	RID52811	left P3 segment of posterior cerebral artery
+RID818_RID5825	RID52812	right P3 segment of posterior cerebral artery
+RID813_RID5824	RID52813	left medial posterior choroidal artery
+RID813_RID5825	RID52814	right medial posterior choroidal artery
+RID814_RID5824	RID52815	left lateral posterior choroidal artery
+RID814_RID5825	RID52816	right lateral posterior choroidal artery
+RID810_RID5824	RID52817	left anterior thalamoperforating artery
+RID810_RID5825	RID52818	right anterior thalamoperforating artery
+RID811_RID5824	RID52819	left posterior thalamoperforating artery
+RID811_RID5825	RID52820	right posterior thalamoperforating artery
+RID711_RID5824	RID52821	left occipital artery
+RID711_RID5825	RID52822	right occipital artery
+RID781_RID5824	RID52823	left anterior medullary segment of posterior inferior cerebellar artery
+RID781_RID5825	RID52824	right anterior medullary segment of posterior inferior cerebellar artery
+RID783_RID5824	RID52825	left posterior medullary segment of posterior inferior cerebellar artery
+RID783_RID5825	RID52826	right posterior medullary segment of posterior inferior cerebellar artery
+RID784_RID5824	RID52827	left supratonsillar segment of posterior inferior cerebellar artery
+RID784_RID5825	RID52828	right supratonsillar segment of posterior inferior cerebellar artery
+RID786_RID5824	RID52829	left retrotonsillar segment of posterior inferior cerebellar artery
+RID786_RID5825	RID52830	right retrotonsillar segment of posterior inferior cerebellar artery
+RID787_RID5824	RID52831	left inferior vermian artery of posterior inferior cerebellar artery
+RID787_RID5825	RID52832	right inferior vermian artery of posterior inferior cerebellar artery
+RID793_RID5824	RID52833	left circumflex pontine artery
+RID793_RID5825	RID52834	right circumflex pontine artery
+RID696_RID5824	RID52835	left lingual artery
+RID696_RID5825	RID52836	right lingual artery
+RID701_RID5824	RID52837	left facial artery
+RID701_RID5825	RID52838	right facial artery
+RID734_RID5824	RID52839	left maxillary artery
+RID734_RID5825	RID52840	right maxillary artery
+RID34446_RID5824	RID52841	left superficial cerebral vein
+RID34446_RID5825	RID52842	right superficial cerebral vein
+RID36152_RID5824	RID52843	left inferior cerebral vein
+RID36152_RID5825	RID52844	right inferior cerebral vein
+RID1122_RID5824	RID52845	left transverse sinus
+RID1122_RID5825	RID52846	right transverse sinus
+RID1092_RID5824	RID52847	left sigmoid sinus
+RID1092_RID5825	RID52848	right sigmoid sinus
+RID1094_RID5824	RID52849	left cavernous sinus
+RID1094_RID5825	RID52850	right cavernous sinus
+RID1119_RID5824	RID52851	left sphenoparietal sinus
+RID1119_RID5825	RID52852	right sphenoparietal sinus
+RID1121_RID5824	RID52853	left superior petrosal sinus
+RID1121_RID5825	RID52854	right superior petrosal sinus
+RID1093_RID5824	RID52855	left inferior petrosal sinus
+RID1093_RID5825	RID52856	right inferior petrosal sinus
+RID9912_RID5824	RID52857	left temporalis muscle
+RID9912_RID5825	RID52858	right temporalis muscle
+RID9908_RID5824	RID52859	left masseter muscle
+RID9908_RID5825	RID52860	right masseter muscle
+RID9911_RID5824	RID52861	left medial pterygoid muscle
+RID9911_RID5825	RID52862	right medial pterygoid muscle
+RID9905_RID5824	RID52863	left lateral pterygoid muscle
+RID9905_RID5825	RID52864	right lateral pterygoid muscle
+RID9887_RID5824	RID52865	left occipitofrontalis muscle
+RID9887_RID5825	RID52866	right occipitofrontalis muscle
+RID9875_RID5824	RID52867	left orbicularis oculi muscle
+RID9875_RID5825	RID52868	right orbicularis oculi muscle
+RID9869_RID5824	RID52869	left nasalis muscle
+RID9869_RID5825	RID52870	right nasalis muscle
+RID9854_RID5824	RID52871	left levator labii superioris muscle
+RID9854_RID5825	RID52872	right levator labii superioris muscle
+RID9863_RID5824	RID52873	left zygomaticus major muscle
+RID9863_RID5825	RID52874	right zygomaticus major muscle
+RID9864_RID5824	RID52875	left zygomaticus minor muscle
+RID9864_RID5825	RID52876	right zygomaticus minor muscle
+RID9860_RID5824	RID52877	left depressor anguli oris muscle
+RID9860_RID5825	RID52878	right depressor anguli oris muscle
+RID9867_RID5824	RID52879	left mentalis muscle
+RID9867_RID5825	RID52880	right mentalis muscle
+RID9853_RID5824	RID52881	left depressor labii inferioris muscle
+RID9853_RID5825	RID52882	right depressor labii inferioris muscle
+RID9866_RID5824	RID52883	left buccinator muscle
+RID9866_RID5825	RID52884	right buccinator muscle
+RID9862_RID5824	RID52885	left risorius muscle
+RID9862_RID5825	RID52886	right risorius muscle
+RID9881_RID5824	RID52887	left depressor supercilii muscle
+RID9881_RID5825	RID52888	right depressor supercilii muscle
+RID9880_RID5824	RID52889	left corrugator supercilii muscle
+RID9880_RID5825	RID52890	right corrugator supercilii muscle
+RID9855_RID5824	RID52891	left levator labii superioris alaeque nasi muscle
+RID9855_RID5825	RID52892	right levator labii superioris alaeque nasi muscle
+RID9706_RID5824	RID52893	left superior oblique muscle
+RID9706_RID5825	RID52894	right superior oblique muscle
+RID9701_RID5824	RID52895	left superior rectus muscle
+RID9701_RID5825	RID52896	right superior rectus muscle
+RID9702_RID5824	RID52897	left inferior rectus muscle
+RID9702_RID5825	RID52898	right inferior rectus muscle
+RID9703_RID5824	RID52899	left medial rectus muscle
+RID9703_RID5825	RID52900	right medial rectus muscle
+RID9704_RID5824	RID52901	left lateral rectus muscle
+RID9704_RID5825	RID52902	right lateral rectus muscle
+RID9709_RID5824	RID52903	left inferior oblique muscle
+RID9709_RID5825	RID52904	right inferior oblique muscle
+RID9707_RID5824	RID52905	left trochlea of superior oblique muscle
+RID9707_RID5825	RID52906	right trochlea of superior oblique muscle
+RID9718_RID5824	RID52907	left common tendinous ring of extraocular muscles
+RID9718_RID5825	RID52908	right common tendinous ring of extraocular muscles
+RID9900_RID5824	RID52909	left superior longitudinal muscle of tongue
+RID9900_RID5825	RID52910	right superior longitudinal muscle of tongue
+RID9901_RID5824	RID52911	left inferior longitudinal muscle of tongue
+RID9901_RID5825	RID52912	right inferior longitudinal muscle of tongue
+RID9902_RID5824	RID52913	left transverse muscle of tongue
+RID9902_RID5825	RID52914	right transverse muscle of tongue
+RID9894_RID5824	RID52915	left genioglossus muscle
+RID9894_RID5825	RID52916	right genioglossus muscle
+RID9895_RID5824	RID52917	left hyoglossus muscle
+RID9895_RID5825	RID52918	right hyoglossus muscle
+RID9898_RID5824	RID52919	left styloglossus muscle
+RID9898_RID5825	RID52920	right styloglossus muscle
+RID9899_RID5824	RID52921	left palatoglossus muscle
+RID9899_RID5825	RID52922	right palatoglossus muscle
+RID9903_RID5824	RID52923	left vertical muscle of tongue
+RID9903_RID5825	RID52924	right vertical muscle of tongue
+RID9710_RID5824	RID52925	left levator palpebrae superioris muscle
+RID9710_RID5825	RID52926	right levator palpebrae superioris muscle
+RID9750_RID5824	RID52927	left superior tarsal muscle
+RID9750_RID5825	RID52928	right superior tarsal muscle
+RID9751_RID5824	RID52929	left inferior tarsal muscle
+RID9751_RID5825	RID52930	right inferior tarsal muscle
+RID9989_RID5824	RID52931	left retromolar trigone
+RID9989_RID5825	RID52932	right retromolar trigone
+RID9590_RID5824	RID52933	left superior orbital fissure
+RID9590_RID5825	RID52934	right superior orbital fissure
+RID9591_RID5824	RID52935	left inferior orbital fissure
+RID9591_RID5825	RID52936	right inferior orbital fissure
+RID9779_RID5824	RID52937	left temporomandibular joint
+RID9779_RID5825	RID52938	right temporomandibular joint
+RID9361_RID5824	RID52939	left temporal bone
+RID9361_RID5825	RID52940	right temporal bone
+RID9108_RID5824	RID52941	left ramus of mandible
+RID9108_RID5825	RID52942	right ramus of mandible
+RID9110_RID5824	RID52943	left condyle of mandible
+RID9110_RID5825	RID52944	right condyle of mandible
+RID9115_RID5824	RID52945	left coronoid process of mandible
+RID9115_RID5825	RID52946	right coronoid process of mandible
+RID6389_RID6434	RID52947	supratentorial brain
+RID6381_RID6434	RID52948	infratentorial brain
+RID726_RID5824	RID52949	left superficial temporal artery
+RID726_RID5825	RID52950	right superficial temporal artery
+RID718_RID5824	RID52951	left posterior auricular artery
+RID718_RID5825	RID52952	right posterior auricular artery
+RID9127_RID9279_RID5827_RID5825	RID52953	right maxillary central incisor tooth
+RID9127_RID9279_RID39121_RID5825	RID52954	right maxillary lateral incisor tooth
+RID9126_RID9279_RID5825	RID52955	right maxillary canine tooth
+RID9129_RID9279_RID5996_RID5825	RID52956	right maxillary first premolar tooth
+RID9129_RID9279_RID5998_RID5825	RID52957	right maxillary second premolar tooth
+RID9128_RID9279_RID5996_RID5825	RID52958	right maxillary first molar tooth
+RID9128_RID9279_RID5998_RID5825	RID52959	right maxillary second molar tooth
+RID9128_RID9279_RID6000_RID5825	RID52960	right maxillary third molar tooth
+RID9127_RID9279_RID5827_RID5824	RID52961	left maxillary central incisor tooth
+RID9127_RID9279_RID39121_RID5824	RID52962	left maxillary lateral incisor tooth
+RID9126_RID9279_RID5824	RID52963	left maxillary canine tooth
+RID9129_RID9279_RID5996_RID5824	RID52964	left maxillary first premolar tooth
+RID9129_RID9279_RID5998_RID5824	RID52965	left maxillary second premolar tooth
+RID9128_RID9279_RID5996_RID5824	RID52966	left maxillary first molar tooth
+RID9128_RID9279_RID5998_RID5824	RID52967	left maxillary second molar tooth
+RID9128_RID9279_RID6000_RID5824	RID52968	left maxillary third molar tooth
+RID9127_RID9106_RID5827_RID5825	RID52969	right mandibular central incisor tooth
+RID9127_RID9106_RID39121_RID5825	RID52970	right mandibular lateral incisor tooth
+RID9126_RID9106_RID5825	RID52971	right mandibular canine tooth
+RID9129_RID9106_RID5996_RID5825	RID52972	right mandibular first premolar tooth
+RID9129_RID9106_RID5998_RID5825	RID52973	right mandibular second premolar tooth
+RID9128_RID9106_RID5996_RID5825	RID52974	right mandibular first molar tooth
+RID9128_RID9106_RID5998_RID5825	RID52975	right mandibular second molar tooth
+RID9128_RID9106_RID6000_RID5825	RID52976	right mandibular third molar tooth
+RID9127_RID9106_RID5827_RID5824	RID52977	left mandibular central incisor tooth
+RID9127_RID9106_RID39121_RID5824	RID52978	left mandibular lateral incisor tooth
+RID9126_RID9106_RID5824	RID52979	left mandibular canine tooth
+RID9129_RID9106_RID5996_RID5824	RID52980	left mandibular first premolar tooth
+RID9129_RID9106_RID5998_RID5824	RID52981	left mandibular second premolar tooth
+RID9128_RID9106_RID5996_RID5824	RID52982	left mandibular first molar tooth
+RID9128_RID9106_RID5998_RID5824	RID52983	left mandibular second molar tooth
+RID9128_RID9106_RID6000_RID5824	RID52984	left mandibular third molar tooth
+RID9127_RID9131_RID9279_RID5827_RID5825	RID52985	right deciduous maxillary central incisor tooth
+RID9127_RID9131_RID9279_RID39121_RID5825	RID52986	right deciduous maxillary lateral incisor tooth
+RID9126_RID9131_RID9279_RID5825	RID52987	right deciduous maxillary canine tooth
+RID9128_RID9131_RID9279_RID5996_RID5825	RID52988	right deciduous maxillary first molar tooth
+RID9128_RID9131_RID9279_RID5998_RID5825	RID52989	right deciduous maxillary second molar tooth
+RID9127_RID9131_RID9279_RID5827_RID5824	RID52990	left deciduous maxillary central incisor tooth
+RID9127_RID9131_RID9279_RID39121_RID5824	RID52991	left deciduous maxillary lateral incisor tooth
+RID9126_RID9131_RID9279_RID5824	RID52992	left deciduous maxillary canine tooth
+RID9128_RID9131_RID9279_RID5996_RID5824	RID52993	left deciduous maxillary first molar tooth
+RID9128_RID9131_RID9279_RID5998_RID5824	RID52994	left deciduous maxillary second molar tooth
+RID9127_RID9131_RID9106_RID5827_RID5825	RID52995	right deciduous mandibular central incisor tooth
+RID9127_RID9131_RID9106_RID39121_RID5825	RID52996	right deciduous mandibular lateral incisor tooth
+RID9126_RID9131_RID9106_RID5825	RID52997	right deciduous mandibular canine tooth
+RID9128_RID9131_RID9106_RID5996_RID5825	RID52998	right deciduous mandibular first molar tooth
+RID9128_RID9131_RID9106_RID5998_RID5825	RID52999	right deciduous mandibular second molar tooth
+RID9127_RID9131_RID9106_RID5827_RID5824	RID53000	left deciduous mandibular central incisor tooth
+RID9127_RID9131_RID9106_RID39121_RID5824	RID53001	left deciduous mandibular lateral incisor tooth
+RID9126_RID9131_RID9106_RID5824	RID53002	left deciduous mandibular canine tooth
+RID9128_RID9131_RID9106_RID5996_RID5824	RID53003	left deciduous mandibular first molar tooth
+RID9128_RID9131_RID9106_RID5998_RID5824	RID53004	left deciduous mandibular second molar tooth
+RID6391_RID5824	RID53005	left frontal brain region
+RID6391_RID5825	RID53006	right frontal brain region
+RID6392_RID5824	RID53007	left temporal brain region
+RID6392_RID5825	RID53008	right temporal brain region
+RID6393_RID5824	RID53009	left occipital brain region
+RID6393_RID5825	RID53010	right occipital brain region
+RID6394_RID5824	RID53011	left parietal brain region
+RID6394_RID5825	RID53012	right parietal brain region

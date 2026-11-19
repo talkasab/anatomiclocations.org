@@ -1,0 +1,715 @@
+ID	ALI ID	Status	ALI label	Current RadLex label	Label	Contained in	Contained in label	Contains	Contains label	Synonyms	Synonyms (no language tag)	Acronyms	Acronyms (no language tag)	Definition	Definition (en)	Codes	Annotated code	UMLS term
+ID					AL rdfs:label@en SPLIT=|	SC RID:Contained_In some % SPLIT=|		SC RID:Contains some %		AL oboInOwl:hasExactSynonym@en SPLIT=|	A oboInOwl:hasExactSynonym SPLIT=|	AL RID:Acronym@en SPLIT=|	A RID:Acronym SPLIT=|	A obo:IAO_0000115	AL obo:IAO_0000115@en	A RID:ExternalRefID SPLIT=|	A RID:ExternalRefID	>A RID:UMLS_Term
+RID:RID56	RID56	existing	abdomen	abdomen						abdominopelvic region|abdominopelvis				Subdivision of trunk proper which is demarcated from the thorax internally by the inferior surface of the sternocostal part of the diaphragm and externally by the costal margin, from the back of abdomen by the external surface of the posterior abdominal wall,  from the perineum by the superior surface of the urogenital diaphragm and from the lower limbs by the inguinal folds; together with the thorax, and perineum, it constitutes the trunk proper. Examples: There is only one abdomen. [FMA]				
+RID:RID29541		existing		right side of retroperitoneal compartment				RID:RID30324	right adrenal gland									
+RID:RID30324	RID30324	existing	right adrenal gland	right adrenal gland		RID:RID29541	right side of retroperitoneal compartment											
+RID:RID29542		existing		left side of retroperitoneal compartment				RID:RID30325	left adrenal gland									
+RID:RID30325	RID30325	existing	left adrenal gland	left adrenal gland		RID:RID29542	left side of retroperitoneal compartment											
+RID:RID32954		existing		abdominal cavity				RID:RID168	appendix									
+RID:RID168	RID168	existing	appendix	appendix		RID:RID32954	abdominal cavity							Organ with organ cavity which is continuous proximally with the cecum and distally terminates in the tip of the appendix. Examples: There is only one appendix. [FMA]				
+RID:RID33652	RID33652	existing	biliary tree	biliary tree										Hollow tree organ, the organ parts of which consists of the bile ducts. Examples: There is only one biliary tree.				
+RID:RID2617		existing		pelvic cavity				RID:RID237	urinary bladder									
+RID:RID237	RID237	existing	bladder	urinary bladder	urinary bladder	RID:RID2617	pelvic cavity			bladder				Organ with organ cavity which is continuous proximally with the right and left ureters and distally with the urethra. Examples: There is only one urinary bladder.				
+RID:RID29928	RID29928	existing	upper outer quadrant of female breast	upper outer quadrant of breast	upper outer quadrant of breast													
+RID:RID29931	RID29931	existing	upper inner quadrant of female breast	upper inner quadrant of breast	upper inner quadrant of breast													
+RID:RID29934	RID29934	existing	lower outer quadrant of female breast	lower outer quadrant of breast	lower outer quadrant of breast													
+RID:RID29937	RID29937	existing	lower inner quadrant of female breast	lower inner quadrant of breast	lower inner quadrant of breast													
+RID:RID29940	RID29940	existing	superior region of female breast	superior region of breast	superior region of breast													
+RID:RID29941	RID29941	existing	superior region of right female breast	superior region of right breast	superior region of right breast													
+RID:RID29942	RID29942	existing	superior region of left female breast	superior region of left breast	superior region of left breast													
+RID:RID29943	RID29943	existing	medial region of female breast	medial region of breast	medial region of breast													
+RID:RID29944	RID29944	existing	medial region of right female breast	medial region of right breast	medial region of right breast													
+RID:RID29945	RID29945	existing	medial region of left female breast	medial region of left breast	medial region of left breast													
+RID:RID29946	RID29946	existing	lateral region of female breast	lateral region of breast	lateral region of breast													
+RID:RID29947	RID29947	existing	lateral region of right female breast	lateral region of right breast	lateral region of right breast													
+RID:RID29948	RID29948	existing	lateral region of left female breast	lateral region of left breast	lateral region of left breast													
+RID:RID29949	RID29949	existing	central region of female breast	central region of breast	central region of breast													
+RID:RID29950	RID29950	existing	central region of right female breast	central region of right breast	central region of right breast													
+RID:RID29951	RID29951	existing	central region of left female breast	central region of left breast	central region of left breast													
+RID:RID29952	RID29952	existing	subareolar region of female breast	subareolar region of breast	subareolar region of breast													
+RID:RID29953	RID29953	existing	subareolar region of right female breast	subareolar region of right breast	subareolar region of right breast													
+RID:RID29954	RID29954	existing	subareolar region of left female breast	subareolar region of left breast	subareolar region of left breast													
+RID:RID29955	RID29955	existing	accessory breast tissue	accessory breast	accessory breast													
+RID:RID2468	RID2468	existing	chest wall	chest wall										Subdivision of thorax which includes all structures from the skin to the costal pleura. Examples: There is only one chest wall. [FMA]				
+RID:RID95	RID95	existing	esophagus	esophagus						esoph				Organ with organ cavity which is continuous superiorly with  the pharynx and inferiorly with the stomach. [FMA]				
+RID:RID295	RID295	existing	fallopian tube	uterine tube	uterine tube					fallopian tube				Organ with organ cavity which connects the uterine cavity to the peritoneal cavity. Examples: There are only two uterine tubes, the right and the left uterine tubes. [FMA]				
+RID:RID30346	RID30346	existing	left fallopian tube	left uterine tube	left uterine tube													
+RID:RID30345	RID30345	existing	right fallopian tube	right uterine tube	right uterine tube													
+RID:RID32954		existing		abdominal cavity				RID:RID187	gallbladder									
+RID:RID187	RID187	existing	gallbladder	gallbladder		RID:RID32954	abdominal cavity			gall bladder				Organ with organ cavity which is continuous proximally with the cystic duct and distally terminates in the fundus of the gallbladder.  [FMA]				
+RID:RID96	RID96	existing	gastroesophageal junction	gastroesophageal junction						gastro-esophageal junction								
+RID:RID56		existing		abdomen				RID:RID94	gastrointestinal tract									
+RID:RID94	RID94	existing	gastrointestinal tract	gastrointestinal tract		RID:RID56	abdomen			gastro-intestinal system								
+RID:RID158	RID158	existing	hepatic flexure of colon	hepatic flexure of colon						hepatic flexure								
+RID:RID29541		existing		right side of retroperitoneal compartment				RID:RID29662	right kidney									
+RID:RID29662	RID29662	existing	right kidney	right kidney		RID:RID29541	right side of retroperitoneal compartment											
+RID:RID29542		existing		left side of retroperitoneal compartment				RID:RID29663	left kidney									
+RID:RID29663	RID29663	existing	left kidney	left kidney		RID:RID29542	left side of retroperitoneal compartment											
+RID:RID32954		existing		abdominal cavity				RID:RID152	large intestine									
+RID:RID152	RID152	existing	large intestine	large intestine		RID:RID32954	abdominal cavity											
+RID:RID490	RID490	existing	left anterior descending artery	left anterior descending artery						Left anterior branch of anterior interventricular branch of left coronary artery								
+RID:RID486	RID486	existing	left main coronary artery	left coronary artery	left coronary artery					left main coronary artery|coronary artery segment 11								
+RID:RID1384	RID1384	existing	mediastinum	mediastinum						mediast						FMA:9826		
+RID:RID1310	RID1310	existing	middle lobe of right lung	middle lobe of lung	middle lobe of lung					middle lobe of right lung								
+RID:RID32979		existing		abdominopelvic cavity				RID:RID32830	left ovary									
+RID:RID32830	RID32830	existing	left ovary	left ovary		RID:RID32979	abdominopelvic cavity											
+RID:RID32979		existing		abdominopelvic cavity				RID:RID32829	right ovary									
+RID:RID32829	RID32829	existing	right ovary	right ovary		RID:RID32979	abdominopelvic cavity											
+RID:RID171	RID171	existing	head of pancreas	head of pancreas						pancreatic head								
+RID:RID177	RID177	existing	main pancreatic duct	main pancreatic duct						duct of Wirsung|ventral duct								
+RID:RID173	RID173	existing	neck of pancreas	neck of pancreas						pancreatic neck								
+RID:RID174	RID174	existing	body of pancreas	body of pancreas						pancreatic body								
+RID:RID175	RID175	existing	tail of pancreas	tail of pancreas						pancreatic tail								
+RID:RID2507	RID2507	existing	pelvis	pelvis						lesser pelvis|pelvis minor|true pelvis								
+RID:RID397	RID397	existing	peritoneal cavity	peritoneal cavity													UMLS:C0031138	peritoneal cavity
+RID:RID410	RID410	existing	peritoneum	peritoneum						perito								
+RID:RID122	RID122	existing	pylorus	pylorus						pyloric part of stomach								
+RID:RID431	RID431	existing	retroperitoneal space	retroperitoneum	retroperitoneum					retroperito								
+RID:RID357	RID357	existing	seminal vesicle	seminal vesicle										"A saclike, glandular diverticulum on each ductus deferens in male vertebrates. It is united with the excretory duct and serves for temporary storage of semen. (From McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed) [MeSH]
+[PI-RADS] One of the two paired glands in the male genitourinary system, posterior to the bladder and superior to the prostate gland, that produces fructose-rich seminal fluid which is a component of semen. These glands join the ipsilateral ductus (vas) deferens to form the ejaculatory duct at the base of the prostate"				
+RID:RID50232	RID50232	existing	right seminal vesicle	right seminal vesicle						Structure of right seminal vesicle								
+RID:RID50233	RID50233	existing	left seminal vesicle	left seminal vesicle						Structure of left seminal vesicle								
+RID:RID28727	RID28727	existing	set of coronary arteries	set of coronary arteries						cor arts								
+RID:RID32954		existing		abdominal cavity				RID:RID132	small intestine									
+RID:RID132	RID132	existing	small intestine	small intestine		RID:RID32954	abdominal cavity			sm int								
+RID:RID7361	RID7361	existing	spinal cord	spinal cord										Segment of neuraxis that has as its parts gray matter and white matter that surround the central canal. Examples: There is only one spinal cord.				
+RID:RID29542		existing		left side of retroperitoneal compartment				RID:RID86	spleen									
+RID:RID86	RID86	existing	spleen	spleen		RID:RID29542	left side of retroperitoneal compartment											
+RID:RID32954		existing		abdominal cavity				RID:RID114	stomach									
+RID:RID114	RID114	existing	stomach	stomach		RID:RID32954	abdominal cavity											
+RID:RID1247	RID1247	existing	trachea	trachea						trach								
+RID:RID229	RID229	existing	ureter	ureter										Organ with organ cavity which connects the renal sinus to the urinary bladder. Examples: There are only two ureters, the right and the left ureters. [FMA]				
+RID:RID302	RID302	existing	uterus	uterus										Organ with organ cavity which is continuous proximally with the right and left uterine tubes and distally is connected to the vagina.  {FMA]				
+RID:RID325	RID325	existing	vagina	vagina										The genital canal in the female, extending from the uterus to the vulva. (Stedman, 25th ed) [MeSH]				
+RID:RID270	RID270	existing	female genital system	genital system of female human body													UMLS:C0017421	female genital system
+RID:RID270	RID270	existing	female genital system	genital system of female human body	genital system of female human body						female genital system							
+RID:RID342	RID342	existing	male genital system	genital system of male human body	genital system of male human body					male genital system								
+RID:RID356	RID356	existing	periprostatic venous plexus	periprostatic venous plexus										the network of veins around the prostate, most prominent at the apex				
+RID:RID2509	RID2509	existing	sacrum	sacrum						sacr								
+RID:RID1258	RID1258	existing	bronchus intermedius	interlobar bronchus	interlobar bronchus					bronchus intermedius								
+RID:RID413	RID413	existing	hepatogastric ligament	gastrohepatic ligament	gastrohepatic ligament					hepatogastric ligament								
+RID:RID417	RID417	existing	gastrocolic ligament	gastrocolic ligament						proximal greater omentum								
+RID:RID33180	RID33180	existing	mesentery	mesentery										Anatomical organ component composed of a double layer of serous membrane that suspends a viscus from the body wall or connects adjacent viscera and in doing so conveys blood vessels, lymphatics and nerves to and from the viscera.  Examples: greater omentum, broad ligament of uterus, sigmoid mesocolon.				
+RID:RID2691	RID2691	existing	anterior compartment of thigh	anterior compartment of thigh												FMA:45151		
+RID:RID48157	RID48157	existing	anterior compartment of right thigh	anterior compartment of right thigh												FMA:45153		
+RID:RID48158	RID48158	existing	anterior compartment of left thigh	anterior compartment of left thigh												FMA:45155		
+RID:RID48159	RID48159	existing	posterior compartment of thigh	posterior compartment of thigh												FMA:45157		
+RID:RID48160	RID48160	existing	posterior compartment of right thigh	posterior compartment of right thigh												FMA:45158		
+RID:RID48161	RID48161	existing	posterior compartment of left thigh	posterior compartment of left thigh												FMA:45159		
+RID:RID2692	RID2692	existing	medial compartment of thigh	medial compartment of thigh												FMA:45160		
+RID:RID48162	RID48162	existing	medial compartment of right thigh	medial compartment of right thigh												FMA:45161		
+RID:RID48163	RID48163	existing	medial compartment of left thigh	medial compartment of left thigh												FMA:45162		
+RID:RID2931	RID2931	existing	anterior compartment of leg	anterior compartment of leg												FMA:45163		
+RID:RID48164	RID48164	existing	anterior compartment of right leg	anterior compartment of right leg												FMA:45164		
+RID:RID48165	RID48165	existing	anterior compartment of left leg	anterior compartment of left leg												FMA:45165		
+RID:RID2932	RID2932	existing	lateral compartment of leg	lateral compartment of leg												FMA:45185		
+RID:RID48175	RID48175	existing	lateral compartment of right leg	lateral compartment of right leg												FMA:45186		
+RID:RID48176	RID48176	existing	lateral compartment of left leg	lateral compartment of left leg												FMA:45187		
+RID:RID2664	RID2664	existing	head of femur	head of femur						femoral caput				The hemispheric articular surface at the upper extremity of the thigh bone. (Stedman, 26th ed) [MeSH]				
+RID:RID2668	RID2668	existing	femoral neck	femoral neck						fem neck								
+RID:RID39754	RID39754	existing	greater trochanter of right femur	right greater trochanter	right greater trochanter					greater trochanter of right femur								
+RID:RID39755	RID39755	existing	greater trochanter of left femur	left greater trochanter	left greater trochanter					greater trochanter of left femur								
+RID:RID39756	RID39756	existing	lesser trochanter of right femur	right lesser trochanter	right lesser trochanter					lesser trochanter of right femur								
+RID:RID39757	RID39757	existing	lesser trochanter of left femur	left lesser trochanter	left lesser trochanter					lesser trochanter of left femur								
+RID:RID41864	RID41864	existing	diaphyseal segment of femur	diaphysis of femur	diaphysis of femur													
+RID:RID41865	RID41865	existing	diaphyseal segment of right femur	diaphysis of right femur	diaphysis of right femur													
+RID:RID41866	RID41866	existing	diaphyseal segment of left femur	diaphysis of left femur	diaphysis of left femur													
+RID:RID2848	RID2848	existing	quadriceps tendon	quadriceps tendon						common quadriceps femoris tendon|common tendon of quadriceps femoris muscle complex|quadriceps femoris tendon|tendon of quadriceps femoris|tendon of quadriceps femoris muscle								
+RID:RID48532	RID48532	existing	right quadriceps tendon	common tendon of right quadriceps femoris	common tendon of right quadriceps femoris													
+RID:RID48533	RID48533	existing	left quadriceps tendon	common tendon of left quadriceps femoris	common tendon of left quadriceps femoris													
+RID:RID41143	RID41143	existing	right biceps femoris tendon	tendon of right biceps femoris	tendon of right biceps femoris					right biceps femoris tendon								
+RID:RID41144	RID41144	existing	left biceps femoris tendon	tendon of left biceps femoris	tendon of left biceps femoris					left biceps femoris tendon								
+RID:RID2849	RID2849	existing	patellar tendon	patellar ligament	patellar ligament					patellar tendon								
+RID:RID48958	RID48958	existing	right patellar tendon	right patellar ligament	right patellar ligament					rIght patellar tendon								
+RID:RID48959	RID48959	existing	left patellar tendon	left patellar ligament	left patellar ligament					left patellar tendon								
+RID:RID2797	RID2797	existing	lateral collateral ligament	lateral collateral ligament						lateral collateral ligament complex						FMA:305654		
+RID:RID48950	RID48950	existing	right lateral collateral ligament	right lateral collateral ligament						right lateral collateral ligament complex						FMA:305666		
+RID:RID48951	RID48951	existing	left lateral collateral ligament	left lateral collateral ligament						left lateral collateral ligament complex						FMA:305670		
+RID:RID48947	RID48947	existing	medial collateral ligament	medial collateral ligament						medial collateral ligament complex								
+RID:RID48948	RID48948	existing	right medial collateral ligament	right medial collateral ligament						right medial collateral ligament complex								
+RID:RID48949	RID48949	existing	left medial collateral ligament	left medial collateral ligament						left medial collateral ligament complex|right MCL								
+RID:RID2872	RID2872	existing	head of fibula	head of fibula						proximal epiphysis of fibula						FMA:33729		
+RID:RID39648	RID39648	existing	right medial tibial spine	medial intercondylar tubercle of right tibia	medial intercondylar tubercle of right tibia					right medial tibial spine								
+RID:RID39649	RID39649	existing	left medial tibial spine	medial intercondylar tubercle of left tibia	medial intercondylar tubercle of left tibia					left medial tibial spine								
+RID:RID2889	RID2889	existing	lateral tibial spine	lateral tibial spine						lateral tibial tubercle								
+RID:RID39646	RID39646	existing	right lateral tibial spine	lateral intercondylar tubercle of right tibia	lateral intercondylar tubercle of right tibia					right lateral tibial spine								
+RID:RID39647	RID39647	existing	left lateral tibial spine	lateral intercondylar tubercle of left tibia	lateral intercondylar tubercle of left tibia					left lateral tibial spine								
+RID:RID2900	RID2900	existing	diaphyseal segment of tibia	shaft of tibia	shaft of tibia													
+RID:RID41869	RID41869	existing	diaphyseal segment of right tibia	diaphysis of right tibia	diaphysis of right tibia													
+RID:RID41870	RID41870	existing	diaphyseal segment of left tibia	diaphysis of left tibia	diaphysis of left tibia													
+RID:RID3004	RID3004	existing	ankle joint	ankle joint						ankle mortise								
+RID:RID2949	RID2949	existing	talus	talus						astralgus								
+RID:RID2957	RID2957	existing	talar sulcus	sulcus tali	sulcus tali													
+RID:RID2952	RID2952	existing	medial tubercle of talus	medial tubercle	medial tubercle					medial tubercle of talus								
+RID:RID41203	RID41203	existing	peroneus tertius tendon	tendon of fibularis tertius	tendon of fibularis tertius													
+RID:RID41204	RID41204	existing	right peroneus tertius tendon	tendon of right fibularis tertius	tendon of right fibularis tertius													
+RID:RID41205	RID41205	existing	left peroneus tertius tendon	tendon of left fibularis tertius	tendon of left fibularis tertius													
+RID:RID41186	RID41186	existing	right extensor hallucis longus tendon	tendon of right extensor hallucis longus	tendon of right extensor hallucis longus					right extensor hallucis longus tendon								
+RID:RID41187	RID41187	existing	left extensor hallucis longus tendon	tendon of left extensor hallucis longus	tendon of left extensor hallucis longus					left extensor hallucis longus tendon								
+RID:RID41175	RID41175	existing	tibialis anterior tendon	tendon of tibialis anterior	tendon of tibialis anterior					tibialis anterior tendon								
+RID:RID41176	RID41176	existing	right tibialis anterior tendon	tendon of right tibialis anterior	tendon of right tibialis anterior					right tibialis anterior tendon								
+RID:RID41177	RID41177	existing	left tibialis anterior tendon	tendon of left tibialis anterior	tendon of left tibialis anterior					left tibialis anterior tendon								
+RID:RID3194	RID3194	existing	tibialis posterior tendon	posterior tibial tendon	posterior tibial tendon					tibialis posterior tendon								
+RID:RID41178	RID41178	existing	right tibialis posterior tendon	tendon of right tibialis posterior	tendon of right tibialis posterior					right tibialis posterior tendon								
+RID:RID41179	RID41179	existing	left tibialis posterior tendon	tendon of left tibialis posterior	tendon of left tibialis posterior					left tibialis posterior tendon								
+RID:RID41227	RID41227	existing	right flexor digitorum longus tendon	tendon of right flexor digitorum longus	tendon of right flexor digitorum longus					right flexor digitorum longus tendon								
+RID:RID41228	RID41228	existing	left flexor digitorum longus tendon	tendon of left flexor digitorum longus	tendon of left flexor digitorum longus					left flexor digitorum longus tendon								
+RID:RID41225	RID41225	existing	right flexor hallucis longus tendon	tendon of right flexor hallucis longus	tendon of right flexor hallucis longus					right flexor hallucis longus tendon								
+RID:RID41226	RID41226	existing	left flexor hallucis longus tendon	tendon of left flexor hallucis longus	tendon of left flexor hallucis longus					left flexor hallucis longus tendon								
+RID:RID3197	RID3197	existing	peroneus brevis tendon	tendon of peroneus brevis	tendon of peroneus brevis													
+RID:RID41209	RID41209	existing	right peroneus brevis tendon	tendon of right fibularis brevis	tendon of right fibularis brevis													
+RID:RID41210	RID41210	existing	left peroneus brevis tendon	tendon of left fibularis brevis	tendon of left fibularis brevis													
+RID:RID41206	RID41206	existing	peroneus longus tendon	tendon of fibularis longus	tendon of fibularis longus													
+RID:RID41207	RID41207	existing	right peroneus longus tendon	tendon of right fibularis longus	tendon of right fibularis longus													
+RID:RID41208	RID41208	existing	left peroneus longus tendon	tendon of left fibularis longus	tendon of left fibularis longus													
+RID:RID3016	RID3016	existing	deep posterior tibiotalar ligament	posterior tibiotalar ligament	posterior tibiotalar ligament													
+RID:RID1197	RID1197	existing	great saphenous vein	greater saphenous vein	greater saphenous vein					great saphenous vein								
+RID:RID1202	RID1202	existing	small saphenous vein	lesser saphenous vein	lesser saphenous vein					small saphenous vein								
+RID:RID967	RID967	existing	posterior tibial artery	posterior tibial artery						posterior tibial recurrent artery								
+RID:RID972	RID972	existing	dorsalis pedis artery	dorsal pedal artery	dorsal pedal artery					dorsalis pedis artery|dorsal metatarsal artery								
+RID:RID970	RID970	existing	plantar arterial arch	plantar arch	plantar arch													
+RID:RID7331	RID7331	existing	tibial nerve	tibial nerve						tibial division of sciatic nerve								
+RID:RID7348	RID7348	existing	common peroneal nerve	common peroneal nerve						fibular division of sciatic nerve								
+RID:RID48512		existing		space of posterior compartment of thigh				RID:RID2717	semitendinosus muscle									
+RID:RID2717	RID2717	existing	semitendinosus muscle	semitendinosus muscle		RID:RID48512	space of posterior compartment of thigh											
+RID:RID48513		existing		space of posterior compartment of right thigh				RID:RID48228	right semitendinosus									
+RID:RID48228	RID48228	existing	right semitendinosus muscle	right semitendinosus	right semitendinosus	RID:RID48513	space of posterior compartment of right thigh			right semitendinosus muscle								
+RID:RID48514		existing		space of posterior compartment of left thigh				RID:RID48229	left semitendinosus									
+RID:RID48229	RID48229	existing	left semitendinosus muscle	left semitendinosus	left semitendinosus	RID:RID48514	space of posterior compartment of left thigh			left semitendinosus muscle								
+RID:RID48512		existing		space of posterior compartment of thigh				RID:RID2718	semimembranosus muscle									
+RID:RID2718	RID2718	existing	semimembranosus muscle	semimembranosus muscle		RID:RID48512	space of posterior compartment of thigh											
+RID:RID48513		existing		space of posterior compartment of right thigh				RID:RID48230	right semimembranosus									
+RID:RID48230	RID48230	existing	right semimembranosus muscle	right semimembranosus	right semimembranosus	RID:RID48513	space of posterior compartment of right thigh			right semimembranosus muscle								
+RID:RID48514		existing		space of posterior compartment of left thigh				RID:RID48231	left semimembranosus									
+RID:RID48231	RID48231	existing	left semimembranosus muscle	left semimembranosus	left semimembranosus	RID:RID48514	space of posterior compartment of left thigh			left semimembranosus muscle								
+RID:RID48512		existing		space of posterior compartment of thigh				RID:RID2714	biceps femoris muscle									
+RID:RID2714	RID2714	existing	biceps femoris muscle	biceps femoris muscle		RID:RID48512	space of posterior compartment of thigh											
+RID:RID48513		existing		space of posterior compartment of right thigh				RID:RID48226	right biceps femoris									
+RID:RID48226	RID48226	existing	right biceps femoris muscle	right biceps femoris	right biceps femoris	RID:RID48513	space of posterior compartment of right thigh			right biceps femoris muscle								
+RID:RID48514		existing		space of posterior compartment of left thigh				RID:RID48227	left biceps femoris									
+RID:RID48227	RID48227	existing	left biceps femoris muscle	left biceps femoris	left biceps femoris	RID:RID48514	space of posterior compartment of left thigh			left biceps femoris muscle								
+RID:RID48515		existing		space of medial compartment of thigh				RID:RID2709	gracilis muscle									
+RID:RID2709	RID2709	existing	gracilis muscle	gracilis muscle		RID:RID48515	space of medial compartment of thigh											
+RID:RID48516		existing		space of medial compartment of right thigh				RID:RID48233	right gracilis									
+RID:RID48233	RID48233	existing	right gracilis muscle	right gracilis	right gracilis	RID:RID48516	space of medial compartment of right thigh			right gracilis muscle								
+RID:RID48517		existing		space of medial compartment of left thigh				RID:RID48234	left gracilis									
+RID:RID48234	RID48234	existing	left gracilis muscle	left gracilis	left gracilis	RID:RID48517	space of medial compartment of left thigh			right gracilis muscle								
+RID:RID48509		existing		space of anterior compartment of thigh				RID:RID2696	sartorius muscle									
+RID:RID2696	RID2696	existing	sartorius muscle	sartorius muscle		RID:RID48509	space of anterior compartment of thigh											
+RID:RID48510		existing		space of anterior compartment of right thigh				RID:RID48209	right sartorius									
+RID:RID48209	RID48209	existing	right sartorius muscle	right sartorius	right sartorius	RID:RID48510	space of anterior compartment of right thigh			right sartorius muscle								
+RID:RID48511		existing		space of anterior compartment of left thigh				RID:RID48210	left sartorius									
+RID:RID48210	RID48210	existing	left sartorius muscle	left sartorius	left sartorius	RID:RID48511	space of anterior compartment of left thigh			left sartorius muscle								
+RID:RID48509		existing		space of anterior compartment of thigh				RID:RID2707	pectineus muscle									
+RID:RID2707	RID2707	existing	pectineus muscle	pectineus muscle		RID:RID48509	space of anterior compartment of thigh											
+RID:RID48510		existing		space of anterior compartment of right thigh				RID:RID48235	right pectineus									
+RID:RID48235	RID48235	existing	right pectineus muscle	right pectineus	right pectineus	RID:RID48510	space of anterior compartment of right thigh			right pectineus muscle								
+RID:RID48511		existing		space of anterior compartment of left thigh				RID:RID48236	left pectineus									
+RID:RID48236	RID48236	existing	left pectineus muscle	left pectineus	left pectineus	RID:RID48511	space of anterior compartment of left thigh			right pectineus muscle								
+RID:RID30906	RID30906	existing	iliopsoas muscle	iliopsoas	iliopsoas													
+RID:RID30907	RID30907	existing	right iliopsoas muscle	right iliopsoas	right iliopsoas													
+RID:RID30908	RID30908	existing	left iliopsoas muscle	left iliopsoas	left iliopsoas													
+RID:RID2703	RID2703	existing	tensor fasciae latae muscle	tensor fascia lata muscle	tensor fascia lata muscle													
+RID:RID2723	RID2723	existing	iliotibial band	iliotibial tract	iliotibial tract					iliotibial band								
+RID:RID49024	RID49024	existing	right iliotibial band	right iliotibial tract	right iliotibial tract					right iliotibial band								
+RID:RID49025	RID49025	existing	left iliotibial band	left iliotibial tract	left iliotibial tract					left iliotibial band								
+RID:RID48509		existing		space of anterior compartment of thigh				RID:RID2698	rectus femoris muscle									
+RID:RID2698	RID2698	existing	rectus femoris muscle	rectus femoris muscle		RID:RID48509	space of anterior compartment of thigh											
+RID:RID48515		existing		space of medial compartment of thigh				RID:RID2710	adductor brevis muscle									
+RID:RID2710	RID2710	existing	adductor brevis muscle	adductor brevis muscle		RID:RID48515	space of medial compartment of thigh											
+RID:RID48516		existing		space of medial compartment of right thigh				RID:RID48239	right adductor brevis									
+RID:RID48239	RID48239	existing	right adductor brevis muscle	right adductor brevis	right adductor brevis	RID:RID48516	space of medial compartment of right thigh			right adductor brevis muscle								
+RID:RID48517		existing		space of medial compartment of left thigh				RID:RID48240	left adductor brevis									
+RID:RID48240	RID48240	existing	left adductor brevis muscle	left adductor brevis	left adductor brevis	RID:RID48517	space of medial compartment of left thigh			left adductor brevis muscle								
+RID:RID48515		existing		space of medial compartment of thigh				RID:RID2708	adductor longus muscle									
+RID:RID2708	RID2708	existing	adductor longus muscle	adductor longus muscle		RID:RID48515	space of medial compartment of thigh											
+RID:RID48516		existing		space of medial compartment of right thigh				RID:RID48237	right adductor longus									
+RID:RID48237	RID48237	existing	right adductor longus muscle	right adductor longus	right adductor longus	RID:RID48516	space of medial compartment of right thigh			right adductor longus muscle								
+RID:RID48517		existing		space of medial compartment of left thigh				RID:RID48238	left adductor longus									
+RID:RID48238	RID48238	existing	left adductor longus muscle	left adductor longus	left adductor longus	RID:RID48517	space of medial compartment of left thigh			right adductor longus muscle								
+RID:RID48241	RID48241	existing	right adductor magnus muscle	right adductor magnus	right adductor magnus					right adductor magnus muscle								
+RID:RID48242	RID48242	existing	left adductor magnus muscle	left adductor magnus	left adductor magnus					left adductor magnus muscle								
+RID:RID48213	RID48213	existing	left articularis genus	left articularis genus						right articularis genus muscle								
+RID:RID48524		existing		space of superficial part of posterior compartment of leg				RID:RID2920	gastrocnemius muscle									
+RID:RID2920	RID2920	existing	gastrocnemius muscle	gastrocnemius muscle		RID:RID48524	space of superficial part of posterior compartment of leg											
+RID:RID48525		existing		space of superficial part of posterior compartment of right leg				RID:RID48467	right gastrocnemius									
+RID:RID48467	RID48467	existing	right gastrocnemius muscle	right gastrocnemius	right gastrocnemius	RID:RID48525	space of superficial part of posterior compartment of right leg			right gastrocnemius muscle								
+RID:RID48526		existing		space of superficial part of posterior compartment of left leg				RID:RID48468	left gastrocnemius									
+RID:RID48468	RID48468	existing	left gastrocnemius muscle	left gastrocnemius	left gastrocnemius	RID:RID48526	space of superficial part of posterior compartment of left leg			left gastrocnemius muscle								
+RID:RID48524		existing		space of superficial part of posterior compartment of leg				RID:RID2924	soleus muscle									
+RID:RID2924	RID2924	existing	soleus muscle	soleus muscle		RID:RID48524	space of superficial part of posterior compartment of leg											
+RID:RID48525		existing		space of superficial part of posterior compartment of right leg				RID:RID48469	right soleus									
+RID:RID48469	RID48469	existing	right soleus muscle	right soleus	right soleus	RID:RID48525	space of superficial part of posterior compartment of right leg			right soleus muscle								
+RID:RID48526		existing		space of superficial part of posterior compartment of left leg				RID:RID48470	left soleus									
+RID:RID48470	RID48470	existing	left soleus muscle	left soleus	left soleus	RID:RID48526	space of superficial part of posterior compartment of left leg			left soleus muscle								
+RID:RID48518		existing		space of anterior compartment of leg				RID:RID2912	tibialis anterior muscle									
+RID:RID2912	RID2912	existing	tibialis anterior muscle	tibialis anterior muscle		RID:RID48518	space of anterior compartment of leg											
+RID:RID48519		existing		space of anterior compartment of right leg				RID:RID48456	right tibialis anterior									
+RID:RID48456	RID48456	existing	right tibialis anterior muscle	right tibialis anterior	right tibialis anterior	RID:RID48519	space of anterior compartment of right leg			right tibialis anterior muscle								
+RID:RID48520		existing		space of anterior compartment of left leg				RID:RID48457	left tibialis anterior									
+RID:RID48457	RID48457	existing	left tibialis anterior muscle	left tibialis anterior	left tibialis anterior	RID:RID48520	space of anterior compartment of left leg			left tibialis anterior muscle								
+RID:RID48527		existing		space of deep part of posterior compartment of leg				RID:RID2927	tibialis posterior muscle									
+RID:RID2927	RID2927	existing	tibialis posterior muscle	tibialis posterior muscle		RID:RID48527	space of deep part of posterior compartment of leg											
+RID:RID48528		existing		space of deep part of posterior compartment of right leg				RID:RID48480	right tibialis posterior									
+RID:RID48480	RID48480	existing	right tibialis posterior muscle	right tibialis posterior	right tibialis posterior	RID:RID48528	space of deep part of posterior compartment of right leg			right tibialis posterior muscle								
+RID:RID48529		existing		space of deep part of posterior compartment of left leg				RID:RID48481	left tibialis posterior									
+RID:RID48481	RID48481	existing	left tibialis posterior muscle	left tibialis posterior	left tibialis posterior	RID:RID48529	space of deep part of posterior compartment of left leg			right tibialis posterior muscle								
+RID:RID48521		existing		space of lateral compartment of leg				RID:RID2918	peroneus longus muscle									
+RID:RID2918	RID2918	existing	peroneus longus muscle	peroneus longus muscle		RID:RID48521	space of lateral compartment of leg											
+RID:RID48522		existing		space of lateral compartment of right leg				RID:RID48483	right fibularis longus									
+RID:RID48483	RID48483	existing	right peroneus longus muscle	right fibularis longus	right fibularis longus	RID:RID48522	space of lateral compartment of right leg			right peroneus longus muscle								
+RID:RID48523		existing		space of lateral compartment of left leg				RID:RID48484	left fibularis longus									
+RID:RID48484	RID48484	existing	left peroneus longus muscle	left fibularis longus	left fibularis longus	RID:RID48523	space of lateral compartment of left leg			left peroneus longus muscle								
+RID:RID48521		existing		space of lateral compartment of leg				RID:RID2917	peroneus brevis muscle									
+RID:RID2917	RID2917	existing	peroneus brevis muscle	peroneus brevis muscle		RID:RID48521	space of lateral compartment of leg											
+RID:RID48522		existing		space of lateral compartment of right leg				RID:RID48485	right fibularis brevis									
+RID:RID48485	RID48485	existing	right peroneus brevis muscle	right fibularis brevis	right fibularis brevis	RID:RID48522	space of lateral compartment of right leg			right peroneus brevis muscle								
+RID:RID48523		existing		space of lateral compartment of left leg				RID:RID48486	left fibularis brevis									
+RID:RID48486	RID48486	existing	left peroneus brevis muscle	left fibularis brevis	left fibularis brevis	RID:RID48523	space of lateral compartment of left leg											
+RID:RID48519		existing		space of anterior compartment of right leg				RID:RID48461	right extensor digitorum longus									
+RID:RID48461	RID48461	existing	right extensor digitorum longus muscle	right extensor digitorum longus	right extensor digitorum longus	RID:RID48519	space of anterior compartment of right leg			right extensor digitorum longus muscle								
+RID:RID48520		existing		space of anterior compartment of left leg				RID:RID48462	left extensor digitorum longus									
+RID:RID48462	RID48462	existing	left extensor digitorum longus muscle	left extensor digitorum longus	left extensor digitorum longus	RID:RID48520	space of anterior compartment of left leg			left extensor digitorum longus muscle								
+RID:RID48518		existing		space of anterior compartment of leg				RID:RID2914	extensor hallucis longus muscle									
+RID:RID2914	RID2914	existing	extensor hallucis longus muscle	extensor hallucis longus muscle		RID:RID48518	space of anterior compartment of leg											
+RID:RID48519		existing		space of anterior compartment of right leg				RID:RID48458	right extensor hallucis longus									
+RID:RID48458	RID48458	existing	right extensor hallucis longus muscle	right extensor hallucis longus	right extensor hallucis longus	RID:RID48519	space of anterior compartment of right leg			right extensor hallucis longus muscle								
+RID:RID48520		existing		space of anterior compartment of left leg				RID:RID48459	left extensor hallucis longus									
+RID:RID48459	RID48459	existing	left extensor hallucis longus muscle	left extensor hallucis longus	left extensor hallucis longus	RID:RID48520	space of anterior compartment of left leg			left extensor hallucis longus muscle								
+RID:RID48527		existing		space of deep part of posterior compartment of leg				RID:RID2929	flexor digitorum longus muscle									
+RID:RID2929	RID2929	existing	flexor digitorum longus muscle	flexor digitorum longus muscle		RID:RID48527	space of deep part of posterior compartment of leg											
+RID:RID48528		existing		space of deep part of posterior compartment of right leg				RID:RID48478	right flexor digitorum longus									
+RID:RID48478	RID48478	existing	right flexor digitorum longus muscle	right flexor digitorum longus	right flexor digitorum longus	RID:RID48528	space of deep part of posterior compartment of right leg			right flexor digitorum longus muscle								
+RID:RID48529		existing		space of deep part of posterior compartment of left leg				RID:RID48479	left flexor digitorum longus									
+RID:RID48479	RID48479	existing	left flexor digitorum longus muscle	left flexor digitorum longus	left flexor digitorum longus	RID:RID48529	space of deep part of posterior compartment of left leg			right flexor digitorum longus muscle								
+RID:RID48527		existing		space of deep part of posterior compartment of leg				RID:RID2928	flexor hallucis longus muscle									
+RID:RID2928	RID2928	existing	flexor hallucis longus muscle	flexor hallucis longus muscle		RID:RID48527	space of deep part of posterior compartment of leg											
+RID:RID48528		existing		space of deep part of posterior compartment of right leg				RID:RID48476	right flexor hallucis longus									
+RID:RID48476	RID48476	existing	right flexor hallucis longus muscle	right flexor hallucis longus	right flexor hallucis longus	RID:RID48528	space of deep part of posterior compartment of right leg			right flexor hallucis longus muscle								
+RID:RID48529		existing		space of deep part of posterior compartment of left leg				RID:RID48477	left flexor hallucis longus									
+RID:RID48477	RID48477	existing	left flexor hallucis longus muscle	left flexor hallucis longus	left flexor hallucis longus	RID:RID48529	space of deep part of posterior compartment of left leg			left flexor hallucis longus muscle								
+RID:RID48518		existing		space of anterior compartment of leg				RID:RID2915	peroneus tertius									
+RID:RID2915	RID2915	existing	peroneus tertius muscle	peroneus tertius	peroneus tertius	RID:RID48518	space of anterior compartment of leg											
+RID:RID48519		existing		space of anterior compartment of right leg				RID:RID48463	right fibularis tertius									
+RID:RID48463	RID48463	existing	right peroneus tertius muscle	right fibularis tertius	right fibularis tertius	RID:RID48519	space of anterior compartment of right leg			right fibularis tertius muscle								
+RID:RID48520		existing		space of anterior compartment of left leg				RID:RID48464	left fibularis tertius									
+RID:RID48464	RID48464	existing	left peroneus tertius muscle	left fibularis tertius	left fibularis tertius	RID:RID48520	space of anterior compartment of left leg			left peroneus tertius muscle|left fibularis tertius muscle								
+RID:RID3166	RID3166	existing	flexor digitorum brevis muscle	flexor digitorum brevis muscle of foot	flexor digitorum brevis muscle of foot													
+RID:RID3167	RID3167	existing	abductor digiti minimi muscle of foot	abductor digiti minimi muscle	abductor digiti minimi muscle					abductor digiti quinti muscle								
+RID:RID3181	RID3181	existing	plantar interosseous muscle of foot	plantar interossei muscle of foot	plantar interossei muscle of foot					plantar interosseous muscle of foot								
+RID:RID3182	RID3182	existing	dorsal interosseous muscle of foot	dorsal interossei muscle of foot	dorsal interossei muscle of foot					dorsal interosseous muscle of foot								
+RID:RID1850	RID1850	existing	upper extremity	upper extremity						forequarter								
+RID:RID1968	RID1968	existing	arm	arm						upper limb								
+RID:RID38666	RID38666	existing	anterior compartment of arm	anterior compartment of arm												FMA:37673		
+RID:RID39955	RID39955	existing	anterior compartment of right arm	anterior compartment of right arm												FMA:37674		
+RID:RID39956	RID39956	existing	anterior compartment of left arm	anterior compartment of left arm												FMA:37675		
+RID:RID39957	RID39957	existing	posterior compartment of arm	posterior compartment of arm												FMA:37676		
+RID:RID39958	RID39958	existing	posterior compartment of right arm	posterior compartment of right arm												FMA:37677		
+RID:RID39959	RID39959	existing	posterior compartment of left arm	posterior compartment of left arm												FMA:37678		
+RID:RID39931	RID39931	existing	anterior compartment of forearm	anterior compartment of forearm												FMA:12255		
+RID:RID39933	RID39933	existing	anterior compartment of left forearm	anterior compartment of left forearm												FMA:38410		
+RID:RID39932	RID39932	existing	anterior compartment of right forearm	anterior compartment of right forearm												FMA:38409		
+RID:RID39928	RID39928	existing	posterior compartment of forearm	posterior compartment of forearm												FMA:38411		
+RID:RID39930	RID39930	existing	posterior compartment of left forearm	posterior compartment of left forearm												FMA:38413		
+RID:RID39929	RID39929	existing	posterior compartment of right forearm	posterior compartment of right forearm												FMA:38412		
+RID:RID1860	RID1860	existing	scapula	scapula						scap								
+RID:RID1863	RID1863	existing	coracoid process	coracoid process						scapula coracoid process								
+RID:RID1895	RID1895	existing	acromioclavicular joint	acromioclavicular joint						acromio-clavicular joint								
+RID:RID1884	RID1884	existing	sternoclavicular joint	sternoclavicular joint						sterno-clavicular joint								
+RID:RID1915	RID1915	existing	coracoacromial ligament	coracoacromial ligament						coraco-acromial ligament								
+RID:RID40842	RID40842	existing	right coracoacromial ligament	right coraco-acromial ligament	right coraco-acromial ligament					right coracoacromial ligament								
+RID:RID40843	RID40843	existing	left coracoacromial ligament	left coraco-acromial ligament	left coraco-acromial ligament					left coracoacromial ligament								
+RID:RID1973	RID1973	existing	greater tuberosity of humerus	greater tuberosity of humerus						teres minor insertion								
+RID:RID1978	RID1978	existing	lesser tuberosity of humerus	lesser tuberosity of humerus						subscapularis attachment|subscapularis insertion								
+RID:RID41789	RID41789	existing	diaphyseal segment of humerus	diaphysis of humerus	diaphysis of humerus													
+RID:RID41790	RID41790	existing	diaphyseal segment of right humerus	diaphysis of right humerus	diaphysis of right humerus													
+RID:RID41791	RID41791	existing	diaphyseal segment of left humerus	diaphysis of left humerus	diaphysis of left humerus													
+RID:RID1944	RID1944	existing	long head of biceps brachii tendon	tendon of long head of biceps brachii	tendon of long head of biceps brachii													
+RID:RID1945	RID1945	existing	short head of biceps brachii tendon	tendon of short head of biceps brachii	tendon of short head of biceps brachii													
+RID:RID41116	RID41116	existing	right supraspinatus tendon	tendon of right supraspinatus	tendon of right supraspinatus					right supraspinatus tendon								
+RID:RID41117	RID41117	existing	left supraspinatus tendon	tendon of left supraspinatus	tendon of left supraspinatus					left supraspinatus tendon								
+RID:RID1949	RID1949	existing	infraspinatus tendon	tendon of infraspinatus	tendon of infraspinatus					infraspinatus tendon								
+RID:RID41124	RID41124	existing	right infraspinatus tendon	tendon of right infraspinatus muscle	tendon of right infraspinatus muscle					right infraspinatus tendon								
+RID:RID41125	RID41125	existing	left infraspinatus tendon	tendon of left infraspinatus muscle	tendon of left infraspinatus muscle					left infraspinatus tendon								
+RID:RID41100	RID41100	existing	right teres minor tendon	tendon of right teres minor	tendon of right teres minor					right teres minor tendon								
+RID:RID41101	RID41101	existing	left teres minor tendon	tendon of left teres minor	tendon of left teres minor					left teres minor tendon								
+RID:RID41108	RID41108	existing	right subscapularis tendon	tendon of right subscapularis	tendon of right subscapularis					right subscapularis tendon								
+RID:RID41109	RID41109	existing	left subscapularis tendon	tendon of left subscapularis	tendon of left subscapularis					left subscapularis tendon								
+RID:RID2035	RID2035	existing	ulnar collateral ligament of elbow	ulnar collateral ligament of elbow						ligamentum collaterale ulnare								
+RID:RID39355	RID39355	existing	diaphyseal segment of radius	diaphysis of radius	diaphysis of radius													
+RID:RID41792	RID41792	existing	diaphyseal segment of right radius	diaphysis of right radius	diaphysis of right radius													
+RID:RID41793	RID41793	existing	diaphyseal segment of left radius	diaphysis of left radius	diaphysis of left radius													
+RID:RID43006	RID43006	existing	coronoid process of right ulna	right coronoid process	right coronoid process													
+RID:RID43007	RID43007	existing	coronoid process of left ulna	left coronoid process	left coronoid process													
+RID:RID41794	RID41794	existing	diaphyseal segment of ulna	diaphysis of ulna	diaphysis of ulna													
+RID:RID41795	RID41795	existing	diaphyseal segment of right ulna	diaphysis of right ulna	diaphysis of right ulna													
+RID:RID41796	RID41796	existing	diaphyseal segment of left ulna	diaphysis of left ulna	diaphysis of left ulna													
+RID:RID2132	RID2132	existing	styloid process of ulna	ulnar styloid	ulnar styloid					styloid process of ulna								
+RID:RID2230	RID2230	existing	palmar radioulnar ligament	volar radioulnar ligament	volar radioulnar ligament													
+RID:RID41516	RID41516	existing	flexor digitorum superficialis tendon to index finger	tendon of flexor digitorum superficialis to index finger	tendon of flexor digitorum superficialis to index finger													
+RID:RID41517	RID41517	existing	flexor digitorum superficialis tendon to right index finger	tendon of right flexor digitorum superficialis to right index finger	tendon of right flexor digitorum superficialis to right index finger													
+RID:RID41518	RID41518	existing	flexor digitorum superficialis tendon to left index finger	tendon of left flexor digitorum superficialis to left index finger	tendon of left flexor digitorum superficialis to left index finger													
+RID:RID41519	RID41519	existing	flexor digitorum superficialis tendon to middle finger	tendon of flexor digitorum superficialis to middle finger	tendon of flexor digitorum superficialis to middle finger													
+RID:RID41520	RID41520	existing	flexor digitorum superficialis tendon to right middle finger	tendon of right flexor digitorum superficialis to right middle finger	tendon of right flexor digitorum superficialis to right middle finger													
+RID:RID41521	RID41521	existing	flexor digitorum superficialis tendon to left middle finger	tendon of left flexor digitorum superficialis to left middle finger	tendon of left flexor digitorum superficialis to left middle finger													
+RID:RID41522	RID41522	existing	flexor digitorum superficialis tendon to ring finger	tendon of flexor digitorum superficialis to ring finger	tendon of flexor digitorum superficialis to ring finger													
+RID:RID41523	RID41523	existing	flexor digitorum superficialis tendon to right ring finger	tendon of right flexor digitorum superficialis to right ring finger	tendon of right flexor digitorum superficialis to right ring finger													
+RID:RID41524	RID41524	existing	flexor digitorum superficialis tendon to left ring finger	tendon of left flexor digitorum superficialis to left ring finger	tendon of left flexor digitorum superficialis to left ring finger													
+RID:RID41525	RID41525	existing	flexor digitorum superficialis tendon to small finger	tendon of flexor digitorum superficialis to little finger	tendon of flexor digitorum superficialis to little finger													
+RID:RID41526	RID41526	existing	flexor digitorum superficialis tendon to right small finger	tendon of right flexor digitorum superficialis to right little finger	tendon of right flexor digitorum superficialis to right little finger													
+RID:RID41527	RID41527	existing	flexor digitorum superficialis tendon to left small finger	tendon of left flexor digitorum superficialis to left little finger	tendon of left flexor digitorum superficialis to left little finger													
+RID:RID41500	RID41500	existing	right palmaris longus tendon	tendon of right palmaris longus	tendon of right palmaris longus					right palmaris longus tendon								
+RID:RID41501	RID41501	existing	left palmaris longus tendon	tendon of left palmaris longus	tendon of left palmaris longus					left palmaris longus tendon								
+RID:RID41494	RID41494	existing	flexor carpi radialis tendon	tendon of flexor carpi radialis	tendon of flexor carpi radialis					flexor carpi radialis tendon								
+RID:RID41495	RID41495	existing	right flexor carpi radialis tendon	tendon of right flexor carpi radialis	tendon of right flexor carpi radialis					right flexor carpi radialis tendon								
+RID:RID41496	RID41496	existing	left flexor carpi radialis tendon	tendon of left flexor carpi radialis	tendon of left flexor carpi radialis					left flexor carpi radialis tendon								
+RID:RID41581	RID41581	existing	right flexor pollicis longus tendon	tendon of right flexor pollicis longus	tendon of right flexor pollicis longus					right flexor pollicis longus tendon								
+RID:RID41582	RID41582	existing	left flexor pollicis longus tendon	tendon of left flexor pollicis longus	tendon of left flexor pollicis longus					left flexor pollicis longus tendon								
+RID:RID41621	RID41621	existing	right abductor pollicis longus tendon	tendon of right abductor pollicis longus	tendon of right abductor pollicis longus					right abductor pollicis longus tendon								
+RID:RID41622	RID41622	existing	left abductor pollicis longus tendon	tendon of left abductor pollicis longus	tendon of left abductor pollicis longus					left abductor pollicis longus tendon								
+RID:RID41631	RID41631	existing	right extensor pollicis brevis tendon	tendon of right extensor pollicis brevis	tendon of right extensor pollicis brevis					right extensor pollicis brevis tendon								
+RID:RID41632	RID41632	existing	left extensor pollicis brevis tendon	tendon of left extensor pollicis brevis	tendon of left extensor pollicis brevis					left extensor pollicis brevis tendon								
+RID:RID41629	RID41629	existing	right extensor pollicis longus tendon	tendon of right extensor pollicis longus	tendon of right extensor pollicis longus					right extensor pollicis longus tendon								
+RID:RID41630	RID41630	existing	left extensor pollicis longus tendon	tendon of left extensor pollicis longus	tendon of left extensor pollicis longus					left extensor pollicis longus tendon								
+RID:RID41589	RID41589	existing	right extensor carpi radialis longus tendon	tendon of right extensor carpi radialis longus	tendon of right extensor carpi radialis longus					right extensor carpi radialis longus tendon								
+RID:RID41590	RID41590	existing	left extensor carpi radialis longus tendon	tendon of left extensor carpi radialis longus	tendon of left extensor carpi radialis longus					left extensor carpi radialis longus tendon								
+RID:RID41591	RID41591	existing	right extensor carpi radialis brevis tendon	tendon of right extensor carpi radialis brevis	tendon of right extensor carpi radialis brevis					right extensor carpi radialis brevis tendon								
+RID:RID41592	RID41592	existing	left extensor carpi radialis brevis tendon	tendon of left extensor carpi radialis brevis	tendon of left extensor carpi radialis brevis					left extensor carpi radialis brevis tendon								
+RID:RID2429	RID2429	existing	extensor indicis tendon	extensor indicis tendon						tendon of extensor indicis muslce								
+RID:RID41633	RID41633	existing	right extensor indicis tendon	tendon of right extensor indicis	tendon of right extensor indicis					right extensor indicis tendon								
+RID:RID41634	RID41634	existing	left extensor indicis tendon	tendon of left extensor indicis	tendon of left extensor indicis					left extensor indicis tendon								
+RID:RID13338	RID13338	existing	extensor digitorum tendon to index finger	tendon of extensor digitorum to index finger	tendon of extensor digitorum to index finger					extensor digitorum communis muscle of index finger|extensor digitorum communis muscle, index finger								
+RID:RID41595	RID41595	existing	extensor digitorum tendon to right index finger	tendon of right extensor digitorum to right index finger	tendon of right extensor digitorum to right index finger													
+RID:RID41596	RID41596	existing	extensor digitorum tendon to left index finger	tendon of left extensor digitorum to left index finger	tendon of left extensor digitorum to left index finger													
+RID:RID41597	RID41597	existing	extensor digitorum tendon to middle finger	tendon of extensor digitorum to middle finger	tendon of extensor digitorum to middle finger													
+RID:RID41598	RID41598	existing	extensor digitorum tendon to right middle finger	tendon of right extensor digitorum to right middle finger	tendon of right extensor digitorum to right middle finger													
+RID:RID41599	RID41599	existing	extensor digitorum tendon to left middle finger	tendon of left extensor digitorum to left middle finger	tendon of left extensor digitorum to left middle finger													
+RID:RID13340	RID13340	existing	extensor digitorum tendon to ring finger	tendon of extensor digitorum to ring finger	tendon of extensor digitorum to ring finger					extensor digitorum communis muscle of ring finger|extensor digitorum communis muscle, ring finger								
+RID:RID41600	RID41600	existing	extensor digitorum tendon to right ring finger	tendon of right extensor digitorum to right ring finger	tendon of right extensor digitorum to right ring finger													
+RID:RID41601	RID41601	existing	extensor digitorum tendon to left ring finger	tendon of left extensor digitorum to left ring finger	tendon of left extensor digitorum to left ring finger													
+RID:RID41602	RID41602	existing	extensor digitorum tendon to small finger	tendon of extensor digitorum to little finger	tendon of extensor digitorum to little finger													
+RID:RID41603	RID41603	existing	extensor digitorum tendon to right small finger	tendon of right extensor digitorum to right little finger	tendon of right extensor digitorum to right little finger													
+RID:RID41604	RID41604	existing	extensor digitorum tendon to left small finger	tendon of left extensor digitorum to left little finger	tendon of left extensor digitorum to left little finger													
+RID:RID41605	RID41605	existing	right extensor digiti minimi tendon	tendon of right extensor digiti minimi	tendon of right extensor digiti minimi					right extensor digiti minimi tendon								
+RID:RID41606	RID41606	existing	left extensor digiti minimi tendon	tendon of left extensor digiti minimi	tendon of left extensor digiti minimi					left extensor digiti minimi tendon								
+RID:RID41613	RID41613	existing	right extensor carpi ulnaris tendon	tendon of right extensor carpi ulnaris	tendon of right extensor carpi ulnaris					right extensor carpi ulnaris tendon								
+RID:RID41614	RID41614	existing	left extensor carpi ulnaris tendon	tendon of left extensor carpi ulnaris	tendon of left extensor carpi ulnaris					left extensor carpi ulnaris tendon								
+RID:RID1017	RID1017	existing	cephalic vein	cephalic vein						cephalic vein of forearm								
+RID:RID1016	RID1016	existing	basilic vein	basilic vein						basilic vein of forearm								
+RID:RID7243	RID7243	existing	musculocutaneous nerve	musculocutaneous nerve						casserio nerve								
+RID:RID1936	RID1936	existing	deltoid muscle	deltoid muscle						delt|deltoideus								
+RID:RID43059	RID43059	existing	right deltoid muscle	right deltoid	right deltoid					right deltoid muscle								
+RID:RID43060	RID43060	existing	left deltoid muscle	left deltoid	left deltoid					left deltoid muscle								
+RID:RID43069	RID43069	existing	right subscapularis muscle	right subscapularis	right subscapularis					right subscapularis muscle								
+RID:RID43070	RID43070	existing	left subscapularis muscle	left subscapularis	left subscapularis					right subscapularis muscle								
+RID:RID43061	RID43061	existing	right supraspinatus muscle	right supraspinatus	right supraspinatus					right supraspinatus muscle								
+RID:RID43062	RID43062	existing	left supraspinatus muscle	left supraspinatus	left supraspinatus					left supraspinatus muscle								
+RID:RID43063	RID43063	existing	right infraspinatus muscle	right infraspinatus	right infraspinatus					right infraspinatus muscle								
+RID:RID43064	RID43064	existing	left infraspinatus muscle	left infraspinatus	left infraspinatus					left infraspinatus muscle								
+RID:RID43067	RID43067	existing	right teres minor muscle	right teres minor	right teres minor					right teres minor muscle								
+RID:RID43068	RID43068	existing	left teres minor muscle	left teres minor	left teres minor					left teres minor muscle								
+RID:RID43065	RID43065	existing	right teres major muscle	right teres major	right teres major					right teres major muscle								
+RID:RID43066	RID43066	existing	left teres major muscle	left teres major	left teres major					left teres major muscle								
+RID:RID2004	RID2004	existing	coracobrachialis muscle	coracobrachialis muscle						pirogoff aponeurosis								
+RID:RID43080	RID43080	existing	right coracobrachialis muscle	right coracobrachialis	right coracobrachialis					right coracobrachialis muscle								
+RID:RID43081	RID43081	existing	left coracobrachialis muscle	left coracobrachialis	left coracobrachialis					right coracobrachialis muscle								
+RID:RID43084	RID43084	existing	right triceps brachii muscle	right triceps brachii	right triceps brachii					right triceps brachii muscle								
+RID:RID43085	RID43085	existing	left triceps brachii muscle	left triceps brachii	left triceps brachii					left triceps brachii muscle								
+RID:RID43078	RID43078	existing	right biceps brachii muscle	right biceps brachii	right biceps brachii					right biceps brachii muscle								
+RID:RID43079	RID43079	existing	left biceps brachii muscle	left biceps brachii	left biceps brachii					right biceps brachii muscle								
+RID:RID2005	RID2005	existing	brachialis muscle	brachialis muscle						casserio muscle								
+RID:RID43082	RID43082	existing	right brachialis muscle	right brachialis	right brachialis					right brachialis muscle								
+RID:RID43083	RID43083	existing	left brachialis muscle	left brachialis	left brachialis					right brachialis muscle								
+RID:RID43121	RID43121	existing	right supinator muscle	right supinator	right supinator					right supinator muscle								
+RID:RID43122	RID43122	existing	left supinator muscle	left supinator	left supinator					left supinator muscle								
+RID:RID43108	RID43108	existing	right brachioradialis muscle	right brachioradialis	right brachioradialis					right brachioradialis muscle								
+RID:RID43109	RID43109	existing	left brachioradialis muscle	left brachioradialis	left brachioradialis					left brachioradialis muscle								
+RID:RID43100	RID43100	existing	right flexor digitorum superficialis muscle	right flexor digitorum superficialis	right flexor digitorum superficialis					right flexor digitorum superficialis muscle								
+RID:RID43101	RID43101	existing	left flexor digitorum superficialis muscle	left flexor digitorum superficialis	left flexor digitorum superficialis					left flexor digitorum superficialis muscle								
+RID:RID43102	RID43102	existing	right flexor digitorum profundus muscle	right flexor digitorum profundus	right flexor digitorum profundus													
+RID:RID43103	RID43103	existing	left flexor digitorum profundus muscle	left flexor digitorum profundus	left flexor digitorum profundus													
+RID:RID43094	RID43094	existing	right flexor carpi radialis muscle	right flexor carpi radialis	right flexor carpi radialis					right flexor carpi radialis muscle								
+RID:RID43095	RID43095	existing	left flexor carpi radialis muscle	left flexor carpi radialis	left flexor carpi radialis					left flexor carpi radialis muscle								
+RID:RID43098	RID43098	existing	right flexor carpi ulnaris muscle	right flexor carpi ulnaris	right flexor carpi ulnaris					right flexor carpi ulnaris muscle								
+RID:RID43099	RID43099	existing	left flexor carpi ulnaris muscle	left flexor carpi ulnaris	left flexor carpi ulnaris					left flexor carpi ulnaris muscle								
+RID:RID43106	RID43106	existing	right pronator quadratus muscle	right pronator quadratus	right pronator quadratus													
+RID:RID43107	RID43107	existing	left pronator quadratus muscle	left pronator quadratus	left pronator quadratus													
+RID:RID43092	RID43092	existing	right pronator teres muscle	right pronator teres	right pronator teres					right pronator teres muscle								
+RID:RID43093	RID43093	existing	left pronator teres muscle	left pronator teres	left pronator teres					left pronator teres muscle								
+RID:RID43096	RID43096	existing	right palmaris longus muscle	right palmaris longus	right palmaris longus					right palmaris longus muscle								
+RID:RID43097	RID43097	existing	left palmaris longus muscle	left palmaris longus	left palmaris longus					left palmaris longus muscle								
+RID:RID43104	RID43104	existing	right flexor pollicis longus muscle	right flexor pollicis longus	right flexor pollicis longus													
+RID:RID43105	RID43105	existing	left flexor pollicis longus muscle	left flexor pollicis longus	left flexor pollicis longus													
+RID:RID43089	RID43089	existing	right anconeus muscle	right anconeus	right anconeus					right anconeus muscle								
+RID:RID43090	RID43090	existing	left anconeus muscle	left anconeus	left anconeus					left anconeus muscle								
+RID:RID43110	RID43110	existing	right extensor carpi radialis longus muscle	right extensor carpi radialis longus	right extensor carpi radialis longus					left brachioradialis muscle								
+RID:RID43111	RID43111	existing	left extensor carpi radialis longus muscle	left extensor carpi radialis longus	left extensor carpi radialis longus					left extensor carpi radialis longus muscle								
+RID:RID43112	RID43112	existing	right extensor carpi radialis brevis muscle	right extensor carpi radialis brevis	right extensor carpi radialis brevis					right extensor carpi radialis brevis muscle								
+RID:RID43113	RID43113	existing	left extensor carpi radialis brevis muscle	left extensor carpi radialis brevis	left extensor carpi radialis brevis					left extensor carpi radialis brevis muscle								
+RID:RID43119	RID43119	existing	right extensor carpi ulnaris muscle	right extensor carpi ulnaris	right extensor carpi ulnaris					right extensor carpi ulnaris muscle								
+RID:RID43120	RID43120	existing	left extensor carpi ulnaris muscle	left extensor carpi ulnaris	left extensor carpi ulnaris					left extensor carpi ulnaris muscle								
+RID:RID43114	RID43114	existing	extensor digitorum muscle	extensor digitorum	extensor digitorum													
+RID:RID43115	RID43115	existing	right extensor digitorum muscle	right extensor digitorum	right extensor digitorum					right extensor digitorum muscle								
+RID:RID43116	RID43116	existing	left extensor digitorum muscle	left extensor digitorum	left extensor digitorum					left extensor digitorum muscle								
+RID:RID43117	RID43117	existing	right extensor digiti minimi muscle	right extensor digiti minimi	right extensor digiti minimi					right extensor digiti minimi muscle								
+RID:RID43118	RID43118	existing	left extensor digiti minimi muscle	left extensor digiti minimi	left extensor digiti minimi					left extensor digiti minimi muscle								
+RID:RID2154	RID2154	existing	abductor pollicis longus muscle	abductor pollicis longus	abductor pollicis longus					abductor pollicis longus muscle								
+RID:RID43123	RID43123	existing	right abductor pollicis longus muscle	right abductor pollicis longus	right abductor pollicis longus					right abductor pollicis longus muscle								
+RID:RID43124	RID43124	existing	left abductor pollicis longus muscle	left abductor pollicis longus	left abductor pollicis longus					left abductor pollicis longus muscle								
+RID:RID43127	RID43127	existing	right extensor pollicis longus muscle	right extensor pollicis longus	right extensor pollicis longus					right extensor pollicis longus muscle								
+RID:RID43128	RID43128	existing	left extensor pollicis longus muscle	left extensor pollicis longus	left extensor pollicis longus					right extensor pollicis longus muscle								
+RID:RID43125	RID43125	existing	right extensor pollicis brevis muscle	right extensor pollicis brevis	right extensor pollicis brevis					right extensor pollicis brevis muscle								
+RID:RID43126	RID43126	existing	left extensor pollicis brevis muscle	left extensor pollicis brevis	left extensor pollicis brevis					left extensor pollicis brevis muscle								
+RID:RID43129	RID43129	existing	right extensor indicis muscle	right extensor indicis	right extensor indicis					right extensor indicis muscle								
+RID:RID43130	RID43130	existing	left extensor indicis muscle	left extensor indicis	left extensor indicis					left extensor indicis muscle								
+RID:RID43143	RID43143	existing	abductor digiti minimi muscle of right hand	abductor digiti minimi of right hand	abductor digiti minimi of right hand													
+RID:RID43144	RID43144	existing	abductor digiti minimi muscle of left hand	abductor digiti minimi of left hand	abductor digiti minimi of left hand													
+RID:RID43145	RID43145	existing	flexor digiti minimi brevis muscle of right hand	flexor digiti minimi brevis of right hand	flexor digiti minimi brevis of right hand													
+RID:RID43146	RID43146	existing	flexor digiti minimi brevis muscle of left hand	flexor digiti minimi brevis of left hand	flexor digiti minimi brevis of left hand													
+RID:RID43147	RID43147	existing	opponens digiti minimi muscle of right hand	opponens digiti minimi of right hand	opponens digiti minimi of right hand													
+RID:RID43148	RID43148	existing	opponens digiti minimi muscle of left hand	opponens digiti minimi of left hand	opponens digiti minimi of left hand													
+RID:RID43141	RID43141	existing	right palmaris brevis muscle	right palmaris brevis	right palmaris brevis					right palmaris brevis muscle								
+RID:RID43142	RID43142	existing	left palmaris brevis muscle	left palmaris brevis	left palmaris brevis					left palmaris brevis muscle								
+RID:RID43133	RID43133	existing	right abductor pollicis brevis muscle	right abductor pollicis brevis	right abductor pollicis brevis					right abductor pollicis brevis muscle								
+RID:RID43134	RID43134	existing	left abductor pollicis brevis muscle	left abductor pollicis brevis	left abductor pollicis brevis					left abductor pollicis brevis muscle								
+RID:RID43139	RID43139	existing	right adductor pollicis muscle	right adductor pollicis	right adductor pollicis					right adductor pollicis muscle								
+RID:RID43140	RID43140	existing	left adductor pollicis muscle	left adductor pollicis	left adductor pollicis					left adductor pollicis muscle								
+RID:RID43135	RID43135	existing	right opponens pollicis muscle	right opponens pollicis	right opponens pollicis					right opponens pollicis muscle								
+RID:RID43136	RID43136	existing	left opponens pollicis muscle	left opponens pollicis	left opponens pollicis					left opponens pollicis muscle								
+RID:RID43137	RID43137	existing	right flexor pollicis brevis muscle	right flexor pollicis brevis	right flexor pollicis brevis					right flexor pollicis brevis muscle								
+RID:RID43138	RID43138	existing	left flexor pollicis brevis muscle	left flexor pollicis brevis	left flexor pollicis brevis					left flexor pollicis brevis muscle								
+RID:RID43161	RID43161	existing	dorsal interosseous muscle of hand	dorsal interosseous of hand	dorsal interosseous of hand					dorsal interosseous muscle of hand								
+RID:RID30014	RID30014	existing	wall of abdomen	wall of abdomen						abdomen wall						FMA:259054		
+RID:RID49933	RID49933	existing	set of pelvis vessels	set of pelvis vessels						pelvic vessels								
+RID:RID16280	RID16280	existing	set of autonomic nerves	set of autonomic nerves						autonomic nerves set								
+RID:RID225	RID225	existing	renal calyx	calyx of renal collecting system	calyx of renal collecting system					renal calyx								
+RID:RID30781	RID30781	existing	back	back						back of body proper								
+RID:RID43048	RID13374_RID5824	existing	left latissimus dorsi muscle	left latissimus dorsi	left latissimus dorsi					left latissimus dorsi muscle								
+RID:RID43047	RID13374_RID5825	existing	right latissimus dorsi muscle	right latissimus dorsi	right latissimus dorsi					right latissimus dorsi muscle								
+RID:RID31610	RID31610	existing	rectus abdominis	rectus abdominis						rectus abdominus muscle								
+RID:RID31607	RID31607	existing	quadratus lumborum	quadratus lumborum						quadratus lumborum muscle								
+RID:RID32248	RID32248	existing	right psoas major muscle	right psoas major	right psoas major													
+RID:RID32249	RID32249	existing	left psoas major muscle	left psoas major	left psoas major													
+RID:RID32250	RID32250	existing	right psoas minor muscle	right psoas minor	right psoas minor													
+RID:RID32251	RID32251	existing	left psoas minor muscle	left psoas minor	left psoas minor													
+RID:RID29154	RID29154	existing	vertebra	vertebra										Irregular bone that articulates with other vertebrae, or with one other vertebra and the skull or the sacrum				
+RID:RID28830	RID28830	existing	lumbar intervertebral disk	lumbar intervertebral disk						lumb disk								
+RID:RID29205	RID29205	existing	eighth thoracic vertebra	eight thoracic vertebra	eight thoracic vertebra													
+RID:RID45811	RID45811	existing	hepatopancreatic ampulla	hepatopancreatic ampulla						cholangiopancreatic duct				the duct shared by the common bile duct and the pancreatic duct in the wall of the duodenum				
+RID:RID182	RID182	existing	accessory pancreatic duct	accessory pancreatic duct						dorsal pandreatic duct								
+RID:RID116	RID116	existing	fundus of stomach	gastric fundus	gastric fundus													
+RID:RID29245	RID29245	existing	first part of duodenum	superior part of duodenum	superior part of duodenum													
+RID:RID137	RID137	existing	second part of duodenum	second part of duodenum						descending part of duodenum								
+RID:RID144	RID144	existing	third part of duodenum	third part of duodenum						inferior part of duodenum								
+RID:RID115	RID115	existing	cardia	gastric cardia	gastric cardia													
+RID:RID38281	RID38281	existing	right gastroepiploic vein	right gastroepiploic vein						right gastro-epiploic vein|vena gastro-omentalis (epiploica) dextra								
+RID:RID38298	RID38298	existing	left gastroepiploic vein	left gastroepiploic vein						left gastro-epiploic vein								
+RID:RID911	RID911	existing	right gastroepiploic artery	right gastroepiploic artery						right gastro-epiploic artery								
+RID:RID925	RID925	existing	left gastroepiploic artery	left gastroepiploic artery						left gastro-epiploic artery								
+RID:RID7694	RID7694	existing	thoracic duct	thoracic duct						trunk of thoracic duct tree				Lymphatic trunk that connects all tributaries of the thoracic duct tree to the trunk of the left brachiocephalic vein. Examples: There is only one thoracic duct tree.				
+RID:RID28909	RID28909	existing	hemidiaphragm	hemidiaphragm						hemi-diaphragm								
+RID:RID1526	RID1526	existing	right hemidiaphragm	right hemidiaphragm						right hemi-diaphragm								
+RID:RID1525	RID1525	existing	left hemidiaphragm	left hemidiaphragm						left hemi-diaphragm								
+RID:RID43071	RID43071	existing	right pectoralis major muscle	right pectoralis major	right pectoralis major					right pectoralis major muscle								
+RID:RID43072	RID43072	existing	left pectoralis major muscle	left pectoralis major	left pectoralis major					left pectoralis major muscle								
+RID:RID43073	RID43073	existing	right pectoralis minor muscle	right pectoralis minor	right pectoralis minor					right pectoralis minor muscle								
+RID:RID43074	RID43074	existing	left pectoralis minor muscle	left pectoralis minor	left pectoralis minor					left pectoralis minor muscle								
+RID:RID2502	RID2502	existing	serratus anterior muscle	serratus anterior muscle						boxer muscle								
+RID:RID43052	RID43052	existing	right serratus anterior muscle	right serratus anterior	right serratus anterior					right serratus anterior muscle								
+RID:RID43053	RID43053	existing	left serratus anterior muscle	left serratus anterior	left serratus anterior					left serratus anterior muscle								
+RID:RID2500	RID2500	existing	rhomboid major muscle	rhomboideus major muscle	rhomboideus major muscle					rhomboid major muscle								
+RID:RID43054	RID43054	existing	right rhomboid major muscle	right rhomboid major	right rhomboid major					right rhomboid major muscle								
+RID:RID43055	RID43055	existing	left rhomboid major muscle	left rhomboid major	left rhomboid major					left rhomboid major muscle								
+RID:RID2501	RID2501	existing	rhomboid minor muscle	rhomboideus minor muscle	rhomboideus minor muscle					rhomboid minor muscle								
+RID:RID43056	RID43056	existing	right rhomboid minor muscle	right rhomboid minor	right rhomboid minor					right rhomboid minor muscle								
+RID:RID43057	RID43057	existing	left rhomboid minor muscle	left rhomboid minor	left rhomboid minor					left rhomboid minor muscle								
+RID:RID43045	RID43045	existing	right trapezius muscle	right trapezius	right trapezius					right trapezius muscle								
+RID:RID43046	RID43046	existing	left trapezius muscle	left trapezius	left trapezius					left trapezius muscle								
+RID:RID32769	RID32769	existing	set of intercostal muscles	set of intercostal muscles						intercostal muscles set								
+RID:RID32770	RID32770	existing	set of right intercostal muscles	set of right intercostal muscles						right intercostal muscles set								
+RID:RID32771	RID32771	existing	set of left intercostal muscles	set of left intercostal muscles						left intercostal muscles set								
+RID:RID16276	RID16276	existing	set of intercostal nerves	set of intercostal nerves						anterior rami of thoracic nerves|intercostal nerves set|ventral rami of thoracic nerves								
+RID:RID1379	RID43260_RID5824	existing	left oblique fissure	left major fissure	left major fissure					left oblique interlobar fissure								
+RID:RID1374	RID43260_RID5825	existing	right oblique fissure	right major fissure	right major fissure					right oblique interlobar fissure								
+RID:RID12187	RID12187	existing	vagus nerve	vagus nerve						nerve X|vagus nerve [X]								
+RID:RID28584	RID28584	existing	apex of lung	apex of lung						pulm apex								
+RID:RID32990		existing		pelvirectal space				RID:RID32691	anal canal									
+RID:RID32691	RID32691	existing	anal canal	anal canal		RID:RID32990	pelvirectal space			anatomical anal canal				Organ with organ cavity which is continuous proximally with the rectum and distally terminates with the anus. Examples: There is only one anal canal.				
+RID:RID31596	RID31596	existing	external oblique	external oblique						external oblique muscle								
+RID:RID31599	RID31599	existing	internal oblique	internal oblique						internal oblique muscle								
+RID:RID358	RID358	existing	vas deferens	vas deferens										"The excretory duct of the testes that carries spermatozoa. It rises from the scrotum and joins the seminal vesicles to form the ejaculatory duct, which opens into the mid prostatic urethra at the level of the verumontanum.
+ [MeSH] plus [PI-RADS]"				
+RID:RID7819	RID7819	existing	coccygeus muscle	extensor coccygis muscle	extensor coccygis muscle													
+RID:RID407	RID407	existing	rectouterine pouch	cul-de-sac	cul-de-sac					rectouterine pouch|recto-uterine pouch								
+RID:RID406	RID406	existing	vesicouterine pouch	vesicouterine pouch						vesico-uterine pouch								
+RID:RID308	RID308	existing	cervix of uterus	cervix of uterus						cervical canal|cervical canal of uterus|cervix|endocervical canal								
+RID:RID315	RID315	existing	myometrium	myometrium						outer myometrium								
+RID:RID2594	RID2594	existing	pubic symphysis	symphysis pubis	symphysis pubis					pubic symphysis								
+RID:RID1497	RID1497	existing	hilar lymph node (station 10)	bronchopulmonary lymph node	bronchopulmonary lymph node													
+RID:RID1499	RID1499	existing	right hilar lymph node (station 10R)	right bronchopulmonary lymph node	right bronchopulmonary lymph node													
+RID:RID1501	RID1501	existing	left hilar lymph node (station 10L)	left bronchopulmonary lymph node	left bronchopulmonary lymph node													
+RID:RID31912	RID31912	existing	celiac lymph node group	celiac lymph node group						coeliac lymph nodes set				Intestinal lymph node group located around trunk opf celiac artery.				
+RID:RID31997	RID31997	existing	hepatoportal lymph node group	hepatoportal lymph node group						area 12p lymph node group|jPS 12p lymph nodes								
+RID:RID31919	RID31919	existing	gastric lymph node group	gastric lymph node group						gastric lymph nodes set								
+RID:RID28854	RID28854	existing	abdominal lymph node group	abdominal lymph node group						abdominal lymph node set								
+RID:RID28855	RID28855	existing	pelvic lymph node group	pelvic lymph node group						pelvic lymph nodes set								
+RID:RID31977	RID31977	existing	precaval lymph node group	precaval lymph node group						precaval lymph nodes set								
+RID:RID34263	RID34263	existing	intramammary lymph node	Intramammary lymph node	Intramammary lymph node													
+RID:RID31959	RID31959	existing	paracolic lymph node group	paracolic lymph node group						paracolic lymph nodes set								
+RID:RID453	RID453	existing	gastrohepatic ligament lymph node	gastrohepatic ligament node	gastrohepatic ligament node					lesser curvature/gastrohepatic ligament node|lesser curve/gastrohepatic ligament node								
+RID:RID32011	RID32011	existing	common iliac lymph node group	common iliac lymph node group						common iliac lymph nodes set								
+RID:RID32018	RID32018	existing	external iliac lymph node group	external iliac lymph node group						external iliac lymph nodes set								
+RID:RID31931	RID31931	existing	pancreatic lymph node group	pancreatic lymph node group						pancreatic lymph nodes set								
+RID:RID28857	RID28857	existing	pancreaticoduodenal lymph node	pancreaticoduodenal lymph node						peripancreatic lymph node								
+RID:RID466	RID466	existing	mesorectal lymph node	pararectal lymph node	pararectal lymph node													
+RID:RID1477	RID1477	existing	aortopulmonary lymph node (station 5)	aortopulmonary lymph node	aortopulmonary lymph node					5R+L thoracic lymph node								
+RID:RID1490	RID1490	existing	inferior pulmonary ligament lymph node (station 9)	inferior pulmonary ligament lymph node	inferior pulmonary ligament lymph node													
+RID:RID1492	RID1492	existing	right inferior pulmonary ligament lymph node (station 9)	right inferior pulmonary ligament lymph node	right inferior pulmonary ligament lymph node													
+RID:RID1494	RID1494	existing	left inferior pulmonary ligament lymph node (station 9)	left inferior pulmonary ligament lymph node	left inferior pulmonary ligament lymph node													
+RID:RID28935	RID28935	existing	para-aortic thoracic lymph node (station 6)	para-aortic thoracic lymph node	para-aortic thoracic lymph node					6R+L thoracic lymph node								
+RID:RID1484	RID1484	existing	paraesophageal lymph node (station 8)	esophageal lymph node	esophageal lymph node													
+RID:RID1486	RID1486	existing	right paraesophageal lymph node (station 8)	right paraesophageal lymph node	right paraesophageal lymph node													
+RID:RID1488	RID1488	existing	left paraesophageal lymph node (station 8)	left paraesophageal lymph node	left paraesophageal lymph node													
+RID:RID1465	RID1465	existing	upper paratracheal lymph node (station 2)	upper paratracheal lymph node	upper paratracheal lymph node													
+RID:RID1467	RID1467	existing	right upper paratracheal lymph node (station 2R)	right upper paratracheal lymph node	right upper paratracheal lymph node													
+RID:RID1469	RID1469	existing	left upper paratracheal lymph node (station 2L)	left upper paratracheal lymph node	left upper paratracheal lymph node													
+RID:RID1482	RID1482	existing	subcarinal lymph node (station 7)	subcarinal lymph node	subcarinal lymph node					tracheobronchial lymph node|tracheobronchial node								
+RID:RID28847	RID28847	existing	lymph node group	lymph node group						lymph nodes set								
+RID:RID32793	RID32793	existing	musculature of perineum	musculature of perineum						perineal muscles set								
+RID:RID103	RID103	existing	lower esophageal sphincter	lower esophageal sphincter										The physiologic or functional barrier to gastroesophageal reflux at the esophagogastric junction. Sphincteric muscles remain tonically contracted during the resting state and form the high-pressure zone separating the lumen of the esophagus from that of the stomach. (Haubrich et al, Bockus Gastroenterology, 5th ed., pp399, 415) [MeSH]				
+RID:RID32954		existing		abdominal cavity				RID:RID58	liver									
+RID:RID58	RID58	existing	liver	liver		RID:RID32954	abdominal cavity							Lobular organ which has as its parts lobules connected to the biliary tree. Examples: There is only one liver.				
+RID:RID77	RID77	existing	caudate lobe of liver	caudate lobe of liver						posterior liver|spiegelian lobe								
+RID:RID33237	RID33237	existing	segment II of liver	lateral superior area of lateral segment of left lobe of liver	lateral superior area of lateral segment of left lobe of liver													
+RID:RID33238	RID33238	existing	segment III of liver	lateral inferior area of lateral segment of left lobe of liver	lateral inferior area of lateral segment of left lobe of liver													
+RID:RID33243	RID33243	existing	segment IVa of liver	medial superior area of medial segment of left lobe of liver	medial superior area of medial segment of left lobe of liver													
+RID:RID33244	RID33244	existing	segment IVb of liver	medial inferior area of medial segment of left lobe of liver	medial inferior area of medial segment of left lobe of liver													
+RID:RID33240	RID33240	existing	segment V of liver	anterior inferior area of anterior segment of right lobe of liver	anterior inferior area of anterior segment of right lobe of liver													
+RID:RID33242	RID33242	existing	segment VI of liver	posterior inferior area of posterior segment of right lobe of liver	posterior inferior area of posterior segment of right lobe of liver													
+RID:RID33241	RID33241	existing	segment VII of liver	posterior superior area of posterior segment of right lobe of liver	posterior superior area of posterior segment of right lobe of liver													
+RID:RID33239	RID33239	existing	segment VIII of liver	anterior superior area of anterior segment of right lobe of liver	anterior superior area of anterior segment of right lobe of liver													
+RID:RID32954	RID32954	existing	abdominal cavity	abdominal cavity						cavity of abdominal compartment|cavity of compartment of abdomen|space of abdominal compartment								
+RID:RID33281		existing		left posterior subphrenic space				RID:RID31555	abdominal part of esophagus									
+RID:RID31555	RID31555	existing	abdominal part of esophagus	abdominal part of esophagus		RID:RID33281	left posterior subphrenic space			abdominal esophagus|abdominal part of oesophagus|lower esophagus|t11 segment of esophagus								
+RID:RID7534	RID7534	existing	superficial cervical fascia	superficial layer of cervical fascia	superficial layer of cervical fascia													
+RID:RID7535	RID7535	existing	deep cervical fascia	deep layer of cervical fascia	deep layer of cervical fascia					deep cervical fascia								
+RID:RID7537	RID7537	existing	middle layer of deep cervical fascia	middle layer of deep cervical fascia		RID:RID7541	pharyngeal space											
+RID:RID584	RID584	existing	common carotid artery	common carotid artery						carotid artery								
+RID:RID7577		existing		visceral space				RID:RID7578	thyroid gland									
+RID:RID7578	RID7578	existing	thyroid gland	thyroid gland		RID:RID7577	visceral space			thyroid								
+RID:RID7584	RID7584	existing	isthmus of thyroid gland	isthmus of thyroid gland						thyroid isthmus								
+RID:RID7577		existing		visceral space				RID:RID7587	parathyroid gland									
+RID:RID7587	RID7587	existing	parathyroid gland	parathyroid gland		RID:RID7577	visceral space			parathyroid								
+RID:RID9080		existing		head				RID:RID9990	nasopharynx									
+RID:RID9990	RID9990	existing	nasopharynx	nasopharynx		RID:RID9080	head			nasophar								
+RID:RID10003	RID10003	existing	oropharynx	oropharynx		RID:RID9080	head											
+RID:RID10021	RID10021	existing	hypopharynx	hypopharynx		RID:RID9080	head											
+RID:RID9938	RID9938	existing	oral cavity	oral cavity						oral cav								
+RID:RID7565	RID7565	existing	retropharyngeal space	retropharyngeal space of head	retropharyngeal space of head					retropharyngeal space								
+RID:RID32286	RID32286	existing	spinalis capitis	spinalis capitis						biventer cervicis muscle								
+RID:RID43050	RID43050	existing	right levator scapulae muscle	right levator scapulae	right levator scapulae					right levator scapulae muscle								
+RID:RID43051	RID43051	existing	left levator scapulae muscle	left levator scapulae	left levator scapulae					left levator scapulae muscle								
+RID:RID9991		existing		vault of nasopharynx				RID:RID9993	pharyngeal tonsil									
+RID:RID9993	RID9993	existing	pharyngeal tonsil	pharyngeal tonsil		RID:RID9991	vault of nasopharynx											
+RID:RID9998	RID9998	existing	tubal tonsil	tubal tonsil						Eustachian amygdala|auditory tube lymph gland								
+RID:RID9675	RID9675	existing	anterior chamber of globe	anterior chamber of globe										The space in the eye, filled with aqueous humor, bounded anteriorly by the cornea and a small portion of the sclera and posteriorly by a small portion of the ciliary body, the iris, and that part of the crystalline lens which presents through the pupil. (Cline et al., Dictionary of Visual Science, 4th ed, p109) [MeSH]				
+RID:RID9678	RID9678	existing	posterior chamber of globe	posterior chamber of globe						vitreous chamber								
+RID:RID9606	RID9606	existing	cornea	cornea										The transparent anterior portion of the fibrous coat of the eye consisting of five layers: stratified squamous corneal epithelium; bowman membrane; corneal stroma; descemet membrane; and mesenchymal corneal endothelium. It serves as the first refracting medium of the eye. It is structurally continuous with the sclera, avascular, receiving its nourishment by permeation through spaces between the lamellae, and is innervated by the ophthalmic division of the trigeminal nerve via the ciliary nerves and those of the surrounding conjunctiva which together form plexuses. (Cline et al., Dictionary of Visual Science, 4th ed) [MeSH]				
+RID:RID9594	RID9594	existing	sclera	sclera										The white, opaque, fibrous, outer tunic of the eyeball, covering it entirely excepting the segment covered anteriorly by the cornea. It is essentially avascular but contains apertures for vessels, lymphatics, and nerves. It receives the tendons of insertion of the extraocular muscles and at the corneoscleral junction contains the canal of Schlemm. (From Cline et al., Dictionary of Visual Science, 4th ed) [MeSH]				
+RID:RID9761	RID9761	existing	lacrimal gland	lacrimal gland										Lobular organ the parenchyma of which consists of glandular acini which communicate the lacrimal sac. Examples: There only two, right lacrimal and left lacrimal glands.				
+RID:RID10109	RID10109	existing	tympanic cavity	middle ear cavity	middle ear cavity					tympanic cavity								
+RID:RID10202	RID10202	existing	vestibule of bony labyrinth	vestibule of bony labyrinth													UMLS:C0042606	vestibule
+RID:RID10214	RID10214	existing	superior semicircular canal	anterior semicircular canal	anterior semicircular canal													
+RID:RID9535	RID9535	existing	superior meatus	superior nasal meatus	superior nasal meatus													
+RID:RID9536	RID9536	existing	middle meatus	middle nasal meatus	middle nasal meatus													
+RID:RID9537	RID9537	existing	inferior meatus	inferior nasal meatus	inferior nasal meatus													
+RID:RID10049	RID10049	existing	superior turbinate	superior nasal turbinate	superior nasal turbinate													
+RID:RID10050	RID10050	existing	middle turbinate	middle nasal turbinate	middle nasal turbinate													
+RID:RID10051	RID10051	existing	inferior turbinate	inferior nasal turbinate	inferior nasal turbinate													
+RID:RID9569	RID9569	existing	sphenoid sinus	sphenoid sinus						sphenoidal sinus								
+RID:RID9561	RID9561	existing	ethmoid sinus	ethmoid sinus						ethmoidal sinus								
+RID:RID28579	RID28579	existing	paranasal sinuses	paranasal sinuses						sinuses								
+RID:RID28600	RID28600	existing	circle of Willis	circle of willis	circle of willis													
+RID:RID651	RID651	existing	A2 segment of anterior cerebral artery	A2 segment of anterior cerebral artery						postcommunicating part of anterior cerebral artery								
+RID:RID652	RID652	existing	recurrent artery of Heubner	distal medial striate artery	distal medial striate artery					recurrent artery of Heubner								
+RID:RID36413	RID652_RID5824	existing	left recurrent artery of Heubner	left distal medial striate artery	left distal medial striate artery													
+RID:RID36412	RID652_RID5825	existing	right recurrent artery of Heubner	right distal medial striate artery	right distal medial striate artery													
+RID:RID674	RID674	existing	medial orbitofrontal artery	orbitofrontal artery	orbitofrontal artery					medial orbitofrontal artery|orbito frontal artery								
+RID:RID680	RID680	existing	M3 segment of middle cerebral artery	M3 segment of middle cerebral artery						cortical part of middle cerebral artery								
+RID:RID807	RID807	existing	P2 segment of posterior cerebral artery	P2 segment of posterior cerebral artery						ambient segment of posterior cerebral artery of posterior cerebral artery								
+RID:RID44755	RID44755	existing	right parieto-occipital artery	right parietal occipital artery	right parietal occipital artery													
+RID:RID44756	RID44756	existing	left parieto-occipital artery	left parietal occipital artery	left parietal occipital artery													
+RID:RID781	RID781	existing	anterior medullary segment of posterior inferior cerebellar artery	anterior medullary segment of PICA	anterior medullary segment of PICA													
+RID:RID783	RID783	existing	posterior medullary segment of posterior inferior cerebellar artery	posterior medullary segment of PICA	posterior medullary segment of PICA													
+RID:RID784	RID784	existing	supratonsillar segment of posterior inferior cerebellar artery	supratonsillar segment of PICA	supratonsillar segment of PICA													
+RID:RID786	RID786	existing	retrotonsillar segment of posterior inferior cerebellar artery	retrotonsillar segment of PICA	retrotonsillar segment of PICA													
+RID:RID787	RID787	existing	inferior vermian artery of posterior inferior cerebellar artery	inferior vermian artery of PICA	inferior vermian artery of PICA													
+RID:RID36453	RID36453	existing	temporal branches of middle cerebral artery	temporal artery	temporal artery													
+RID:RID36454	RID36454	existing	temporal branches of right middle cerebral artery	right temporal artery	right temporal artery													
+RID:RID36455	RID36455	existing	temporal branches of left middle cerebral artery	left temporal artery	left temporal artery													
+RID:RID1124	RID1124	existing	superficial middle cerebral vein	superficial middle cerebral vein						vein of Labbe								
+RID:RID1152	RID1152	existing	basal vein	basal vein						posterior mesencephalic vein								
+RID:RID39320	RID39320	existing	anterior intercavernous sinus	anterior intercavernous sinus						anterior cavernous sinus								
+RID:RID39321	RID39321	existing	posterior intercavernous sinus	posterior intercavernous sinus						posterior cavernous sinus								
+RID:RID9887	RID9887	existing	occipitofrontalis muscle	occipitofrontalis muscle						epicranius muscle								
+RID:RID9853	RID9853	existing	depressor labii inferioris muscle	depressor labii inferior muscle	depressor labii inferior muscle													
+RID:RID9862	RID9862	existing	risorius muscle	risoris muscle	risoris muscle													
+RID:RID9967		existing		submandibular space				RID:RID9968	submandibular gland									
+RID:RID9968	RID9968	existing	submandibular gland	submandibular gland		RID:RID9967	submandibular space							One of two salivary glands in the neck, located in the space bound by the two bellies of the digastric muscle and the angle of the mandible. It discharges through the submandibular duct. The secretory units are predominantly serous although a few mucous alveoli, some with serous demilunes, occur. (Stedman, 25th ed) [MeSH]				
+RID:RID28731	RID28731	existing	skull base	base of cranium	base of cranium					skull base								
+RID:RID10148	RID10148	existing	petrosquamous fissure	petrosquamous suture	petrosquamous suture					petrosquamous fissure								
+RID:RID28599	RID28599	existing	zygomatic arch	zygomatic arch						zyg arch								
+RID:RID9590	RID9590	existing	superior orbital fissure	superior orbital fissure										between the greater and lesser wings of the sphenoid bone				
+RID:RID9591	RID9591	existing	inferior orbital fissure	inferior orbital fissure										between greater wing of the sphenoid and maxillary bone				
+RID:RID9361	RID9361	existing	temporal bone	temporal bone						temp bone								
+RID:RID9578	RID9578	existing	supraorbital margin	supraorbital margin						supra-orbital margin								
+RID:RID9247	RID9247	existing	zygomaticomaxillary suture	zygomaticomaxillary suture of maxilla	zygomaticomaxillary suture of maxilla					zygomaticomaxillary suture								
+RID:RID9248	RID9248	existing	infratemporal surface of maxilla	infratemporal fossa of maxilla	infratemporal fossa of maxilla													
+RID:RID7091	RID7091	existing	meninges	meningeal cluster	meningeal cluster					meninges|brain covering|cluster of meninges								
+RID:RID6434	RID6434	existing	brain	brain										Segment of neuraxis that has as its parts gray matter and white matter that surround the cerebral ventricular system;  Examples: There is only one brain.				
+RID:RID6677	RID6677	existing	brainstem	brainstem						brnstem								
+RID:RID6768	RID6768	existing	midbrain	midbrain										Organ component of neuraxis that has as its parts the tectum, cerebral peduncle, midbrain tegmentum  and cerebral aqueduct. Examples: There is only one midbrain.				
+RID:RID6728	RID6728	existing	pons	pons										Organ component of neuraxis that has as its parts the pontine tegmentum and basal part of pons. Examples: There is only one pons.				
+RID:RID6781	RID6781	existing	midbrain tectum	midbrain tectum						neuraxis tectum								
+RID:RID6770	RID6770	existing	cerebral peduncle	peduncle of midbrain	peduncle of midbrain					cerebral peduncle								
+RID:RID6681	RID6681	existing	medulla oblongata	medulla oblongata						bulb|metepencephalon				Organ component of neuraxis that has as its parts the medullary reticular formation, inferior olivary complex and cochlear nuclear complex, among other structures. Examples: There is only one medulla oblongata.				
+RID:RID6815	RID6815	existing	cerebellum	cerebellum						epencephalon-1				Segment of neuraxis that has as its parts the cerebellar cortex, cerebellar nuclear complex and cerebellar white matter. Examples: There is only one cerebellum.				
+RID:RID9940	RID9940	existing	hard palate	bony palate	bony palate					hard palate								
+RID:RID9922		existing		mouth				RID:RID9970	tongue									
+RID:RID9970	RID9970	existing	tongue	tongue		RID:RID9922	mouth											
+RID:RID12003	RID12003	existing	optic nerve	optic nerve						nerve II|optic nerve [II]								
+RID:RID6440	RID6440	existing	frontal lobe	frontal lobe						frontal cortex|frontal region				Frontal lobe is the anterior-most of five lobes of the cerebral hemisphere.  It is bounded by the central sulcus on its posterior border and by the longitudinal cerebral fissure on its medial border.				
+RID:RID6493	RID6493	existing	parietal lobe	parietal lobe						parietal cortex|parietal region				Parietal lobe is the one of five lobes of the cerebral hemisphere which occupies the dorsal-posterior portion of the hemisphere.  It is bounded by the central sulcus on its anterior border and and by the longitudinal cerebral fissure on its medial border. Posteriorly it shares an arbitrary border with the occipital lobe.				
+RID:RID6476	RID6476	existing	temporal lobe	temporal lobe						temp lobe|temporal cortex				Temporal lobe is the ventrolateral lobe of five lobes comprising each cerebral hemisphere.  It is bounded dorsally by the lateral fissure and posteriorly by an arbitrary border shared with the occipital lobe.				
+RID:RID6502	RID6502	existing	occipital lobe	occipital lobe						occipital cortex|occipital region				Occipital lobe is the one of five lobes of the cerebral hemisphere which occupies the posterior-most portion of the hemisphere.  Anteriorly, it shares an arbitrary border with the parietal lobe and temporal lobe.  Medially, it is bounded by the longitudinal cerebral fissure.				
+RID:RID6482	RID6482	existing	uncus	uncus						pyriform area (Crosby)|uncus hippocampi								
+RID:RID6545	RID6545	existing	caudate nucleus	caudate nucleus										Nucleus of  brain which is an elongated crescent-shaped mass lying parallel and adjacent to the lateral ventricle throughout its extent.				
+RID:RID6576	RID6576	existing	pineal gland	pineal gland										Circumventricular organ of neuraxis which is shaped like a pine cone and  attached on the midline near the posterior and habenular commissures of the epithalamus.				
+RID:RID6578	RID6578	existing	thalamus	thalamus						dorsal thalamus (Anthoney)								
+RID:RID6911	RID6911	existing	anterior commissure	anterior commissure						commissura rostralis								
+RID:RID6918	RID6918	existing	genu of corpus callosum	genu of corpus callosum						rostrum of corpus callosum (Mai)								
+RID:RID38674	RID38674	existing	pituitary gland	pituitary gland						hypophysis cerebri								
+RID:RID7124	RID7124	existing	lateral ventricle	lateral ventricle												FMA:78448		
+RID:RID13788	RID13788	existing	right lateral ventricle	right lateral ventricle												FMA:78449		
+RID:RID13789	RID13789	existing	left lateral ventricle	left lateral ventricle												FMA:78450		
+RID:RID7125	RID7125	existing	body of lateral ventricle	body of lateral ventricle												FMA:83703		
+RID:RID13806	RID13806	existing	body of right lateral ventricle	body of right lateral ventricle												FMA:242376		
+RID:RID13807	RID13807	existing	body of left lateral ventricle	body of left lateral ventricle												FMA:242378		
+RID:RID7126	RID7126	existing	frontal horn of lateral ventricle	frontal horn of lateral ventricle												FMA:74520		
+RID:RID13798	RID13798	existing	frontal horn of right lateral ventricle	frontal horn of right lateral ventricle												FMA:242360		
+RID:RID13799	RID13799	existing	frontal horn of left lateral ventricle	frontal horn of left lateral ventricle												FMA:242362		
+RID:RID7127	RID7127	existing	occipital horn of lateral ventricle	occipital horn of lateral ventricle												FMA:83700		
+RID:RID13800	RID13800	existing	occipital horn of right lateral ventricle	occipital horn of right lateral ventricle												FMA:242364		
+RID:RID13801	RID13801	existing	occipital horn of left lateral ventricle	occipital horn of left lateral ventricle												FMA:242366		
+RID:RID7128	RID7128	existing	temporal horn of lateral ventricle	temporal horn of lateral ventricle												FMA:83701		
+RID:RID13802	RID13802	existing	temporal horn of right lateral ventricle	temporal horn of right lateral ventricle												FMA:242368		
+RID:RID13803	RID13803	existing	temporal horn of left lateral ventricle	temporal horn of left lateral ventricle												FMA:242370		
+RID:RID7137	RID7137	existing	third ventricle	third ventricle						3 vent						FMA:78454		
+RID:RID7171	RID7171	existing	cerebral aqueduct	cerebral aqueduct						Sylvian aqueduct|aque|aqueduct|aqueduct (Sylvius)						FMA:78467		
+RID:RID7147	RID7147	existing	fourth ventricle	fourth ventricle												FMA:78469		
+RID:RID7099	RID7099	existing	trigeminal cave	cavum trigeminale	cavum trigeminale					trigeminal cave								
+RID:RID12024	RID12024	existing	trigeminal nerve	trigeminal nerve						nerve V|trigem|trigeminal nerve [V]								
+RID:RID6908	RID6908	existing	external capsule	external capsule										External capsule is an organ subdivision of the telencephalon which is made up primarily of myelinated axonal neural tissue (white matter).  The external capsule is a sheet-like fiber bundle located lateral to the to the putamen and globus pallidus which projects dorsally to the white matter underlying the cerebral cortex.				
+RID:RID6551	RID6551	existing	putamen	putamen										Nucleus of  brain which lies ventral to the caudate nucleus and internal capsule and medial to the external capsule.				
+RID:RID21016	RID21016	existing	globus pallidus	globus pallidus										Nucleus of  brain which is located medially to the putamen and laterally to the internal capsule.				
+RID:RID9558	RID9558	existing	ostiomeatal complex	ostiomeatal unit	ostiomeatal unit					ostiomeatal complex								
