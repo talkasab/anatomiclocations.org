@@ -1,0 +1,26 @@
+radlexId,description,change,detail,reason
+RID30906,iliopsoas muscle,change containedById,RID39569 -> RID2691,"a muscle sits in the compartment that holds most of it, not at whole body"
+RID30907,right iliopsoas muscle,change containedById,RID39569 -> RID48157,"a muscle sits in the compartment that holds most of it, not at whole body"
+RID30908,left iliopsoas muscle,change containedById,RID39569 -> RID48158,"a muscle sits in the compartment that holds most of it, not at whole body"
+RID13374,latissimus dorsi muscle,change partOfId,RID32755 -> RID30781,"part of the back, which contains it"
+RID13374_RID5824,left latissimus dorsi muscle,change partOfId,RID32755 -> RID30781,"part of the back, which contains it"
+RID13374_RID5825,right latissimus dorsi muscle,change partOfId,RID32755 -> RID30781,"part of the back, which contains it"
+RID2500,rhomboid major muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43054,right rhomboid major muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43055,left rhomboid major muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID2501,rhomboid minor muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43056,right rhomboid minor muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43057,left rhomboid minor muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID1937,trapezius muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43045,right trapezius muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43046,left trapezius muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID34263,intramammary lymph node,change partOfId,RID28847 -> RID29895,"part of the female breast, which contains it"
+RID34263_RID5824,left intramammary lymph node,change partOfId,RID28847 -> RID29897,"part of the left female breast, which contains it"
+RID34263_RID5825,right intramammary lymph node,change partOfId,RID28847 -> RID29896,"part of the right female breast, which contains it"
+RID9962,sublingual space,add entry,in RID9938,added to hold the sublingual gland
+RID9962_RID5824,left sublingual space,add entry,in RID9938,added to hold the sublingual gland
+RID9962_RID5825,right sublingual space,add entry,in RID9938,added to hold the sublingual gland
+RID39003,sublingual gland,change containedById,RID7540 -> RID9962,"the sublingual gland sits in the sublingual space, now an entry"
+RID39004,right sublingual gland,change containedById,RID7540 -> RID9962_RID5825,"the sublingual gland sits in the sublingual space, now an entry"
+RID39005,left sublingual gland,change containedById,RID7540 -> RID9962_RID5824,"the sublingual gland sits in the sublingual space, now an entry"
+RID7527,hyoid bone,change partOfId,RID9196 -> None,the hyoid bone is in the neck and is not part of the skull

@@ -1,6 +1,6 @@
 {
-  "$version": "1.0.1",
-  "$schema": "https://raw.githubusercontent.com/talkasab/anatomiclocations.org/1.0.1/data/body_parts_schema.json",
+  "$version": "1.0.2",
+  "$schema": "https://raw.githubusercontent.com/talkasab/anatomiclocations.org/1.0.2/data/body_parts_schema.json",
   "bodyParts": [
     {
       "radlexId": "RID56",
@@ -14922,7 +14922,7 @@
     {
       "radlexId": "RID30906",
       "description": "iliopsoas muscle",
-      "containedById": "RID39569",
+      "containedById": "RID2691",
       "partOfId": "RID2660",
       "leftId": "RID30908",
       "rightId": "RID30907",
@@ -14947,7 +14947,7 @@
     {
       "radlexId": "RID30907",
       "description": "right iliopsoas muscle",
-      "containedById": "RID39569",
+      "containedById": "RID48157",
       "partOfId": "RID2660_RID5825",
       "leftId": "RID30908",
       "unsidedId": "RID30906",
@@ -14968,7 +14968,7 @@
     {
       "radlexId": "RID30908",
       "description": "left iliopsoas muscle",
-      "containedById": "RID39569",
+      "containedById": "RID48158",
       "partOfId": "RID2660_RID5824",
       "rightId": "RID30907",
       "unsidedId": "RID30906",
@@ -29297,7 +29297,7 @@
       "radlexId": "RID13374",
       "description": "latissimus dorsi muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32755",
+      "partOfId": "RID30781",
       "leftId": "RID13374_RID5824",
       "rightId": "RID13374_RID5825",
       "synonyms": [
@@ -29326,7 +29326,7 @@
       "radlexId": "RID13374_RID5824",
       "description": "left latissimus dorsi muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32755",
+      "partOfId": "RID30781",
       "rightId": "RID13374_RID5825",
       "unsidedId": "RID13374",
       "codes": [
@@ -29344,7 +29344,7 @@
       "radlexId": "RID13374_RID5825",
       "description": "right latissimus dorsi muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32755",
+      "partOfId": "RID30781",
       "leftId": "RID13374_RID5824",
       "unsidedId": "RID13374",
       "codes": [
@@ -32947,7 +32947,7 @@
       "radlexId": "RID2500",
       "description": "rhomboid major muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43055",
       "rightId": "RID43054",
       "synonyms": [
@@ -32977,7 +32977,7 @@
       "radlexId": "RID43054",
       "description": "right rhomboid major muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43055",
       "unsidedId": "RID2500",
       "synonyms": [
@@ -33003,7 +33003,7 @@
       "radlexId": "RID43055",
       "description": "left rhomboid major muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "rightId": "RID43054",
       "unsidedId": "RID2500",
       "synonyms": [
@@ -33029,7 +33029,7 @@
       "radlexId": "RID2501",
       "description": "rhomboid minor muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43057",
       "rightId": "RID43056",
       "synonyms": [
@@ -33058,7 +33058,7 @@
       "radlexId": "RID43056",
       "description": "right rhomboid minor muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43057",
       "unsidedId": "RID2501",
       "synonyms": [
@@ -33084,7 +33084,7 @@
       "radlexId": "RID43057",
       "description": "left rhomboid minor muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "rightId": "RID43056",
       "unsidedId": "RID2501",
       "synonyms": [
@@ -33110,7 +33110,7 @@
       "radlexId": "RID1937",
       "description": "trapezius muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43046",
       "rightId": "RID43045",
       "codes": [
@@ -33136,7 +33136,7 @@
       "radlexId": "RID43045",
       "description": "right trapezius muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43046",
       "unsidedId": "RID1937",
       "synonyms": [
@@ -33161,7 +33161,7 @@
       "radlexId": "RID43046",
       "description": "left trapezius muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "rightId": "RID43045",
       "unsidedId": "RID1937",
       "synonyms": [
@@ -35849,7 +35849,7 @@
       "radlexId": "RID34263",
       "description": "intramammary lymph node",
       "containedById": "RID29895",
-      "partOfId": "RID28847",
+      "partOfId": "RID29895",
       "leftId": "RID34263_RID5824",
       "rightId": "RID34263_RID5825",
       "codes": [
@@ -35867,7 +35867,7 @@
       "radlexId": "RID34263_RID5824",
       "description": "left intramammary lymph node",
       "containedById": "RID29897",
-      "partOfId": "RID28847",
+      "partOfId": "RID29897",
       "rightId": "RID34263_RID5825",
       "unsidedId": "RID34263",
       "codes": [
@@ -35881,7 +35881,7 @@
       "radlexId": "RID34263_RID5825",
       "description": "right intramammary lymph node",
       "containedById": "RID29896",
-      "partOfId": "RID28847",
+      "partOfId": "RID29896",
       "leftId": "RID34263_RID5824",
       "unsidedId": "RID34263",
       "codes": [
@@ -52226,9 +52226,52 @@
       ]
     },
     {
+      "radlexId": "RID9962",
+      "description": "sublingual space",
+      "containedById": "RID9938",
+      "leftId": "RID9962_RID5824",
+      "rightId": "RID9962_RID5825",
+      "codes": [
+        {
+          "system": "FMA",
+          "code": "323792"
+        },
+        {
+          "system": "SNOMED",
+          "code": "122861001"
+        }
+      ]
+    },
+    {
+      "radlexId": "RID9962_RID5824",
+      "description": "left sublingual space",
+      "containedById": "RID9938",
+      "rightId": "RID9962_RID5825",
+      "unsidedId": "RID9962",
+      "codes": [
+        {
+          "system": "SNOMED",
+          "code": "122861001:272741003=7771000"
+        }
+      ]
+    },
+    {
+      "radlexId": "RID9962_RID5825",
+      "description": "right sublingual space",
+      "containedById": "RID9938",
+      "leftId": "RID9962_RID5824",
+      "unsidedId": "RID9962",
+      "codes": [
+        {
+          "system": "SNOMED",
+          "code": "122861001:272741003=24028007"
+        }
+      ]
+    },
+    {
       "radlexId": "RID39003",
       "description": "sublingual gland",
-      "containedById": "RID7540",
+      "containedById": "RID9962",
       "leftId": "RID39005",
       "rightId": "RID39004",
       "synonyms": [
@@ -52257,7 +52300,7 @@
     {
       "radlexId": "RID39004",
       "description": "right sublingual gland",
-      "containedById": "RID7540",
+      "containedById": "RID9962_RID5825",
       "leftId": "RID39005",
       "unsidedId": "RID39003",
       "codes": [
@@ -52274,7 +52317,7 @@
     {
       "radlexId": "RID39005",
       "description": "left sublingual gland",
-      "containedById": "RID7540",
+      "containedById": "RID9962_RID5824",
       "rightId": "RID39004",
       "unsidedId": "RID39003",
       "codes": [
@@ -53862,7 +53905,6 @@
       "radlexId": "RID7527",
       "description": "hyoid bone",
       "containedById": "RID7488",
-      "partOfId": "RID9196",
       "codes": [
         {
           "system": "FMA",

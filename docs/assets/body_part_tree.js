@@ -1,27 +1,27 @@
 var tree = [
   {
-    "name": "RID39569: whole body [2898 descendants]",
+    "name": "RID39569: whole body [2895 descendants]",
     "children": [
       {
-        "name": "RID9080: head [820 descendants]",
+        "name": "RID9080: head [824 descendants]",
         "children": [
           {
-            "name": "RID6383_RID9080: cranial cavity [355 descendants]",
+            "name": "RID6383_RID9080: cranial cavity [362 descendants]",
             "children": [
               {
-                "name": "RID6434: brain [319 descendants]",
+                "name": "RID6434: brain [332 descendants]",
                 "children": [
                   {
-                    "name": "RID6389_RID6434: supratentorial brain [226 descendants]",
+                    "name": "RID6389_RID6434: supratentorial brain [242 descendants]",
                     "children": [
                       {
-                        "name": "RID13857: cerebral hemisphere [40 descendants]",
+                        "name": "RID13857: cerebral hemisphere [62 descendants]",
                         "children": [
                           {
-                            "name": "RID6440: frontal lobe [9 descendants]",
+                            "name": "RID6440: frontal lobe [10 descendants]",
                             "children": [
                               {
-                                "name": "RID676: artery of central sulcus",
+                                "name": "RID651: A2 segment of anterior cerebral artery",
                                 "children": []
                               },
                               {
@@ -33,11 +33,11 @@ var tree = [
                                 "children": []
                               },
                               {
-                                "name": "RID652: distal medial striate artery",
+                                "name": "RID7126: frontal horn of lateral ventricle",
                                 "children": []
                               },
                               {
-                                "name": "RID7126: frontal horn of lateral ventricle",
+                                "name": "RID6459: inferior frontal sulcus",
                                 "children": []
                               },
                               {
@@ -45,26 +45,26 @@ var tree = [
                                 "children": []
                               },
                               {
-                                "name": "RID674: orbitofrontal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID656: pericallosal artery",
+                                "name": "RID674: medial orbitofrontal artery",
                                 "children": []
                               },
                               {
                                 "name": "RID655: polar frontal artery",
                                 "children": []
+                              },
+                              {
+                                "name": "RID6457: precentral sulcus",
+                                "children": []
+                              },
+                              {
+                                "name": "RID6458: superior frontal sulcus",
+                                "children": []
                               }
                             ]
                           },
                           {
-                            "name": "RID6476: temporal lobe [7 descendants]",
+                            "name": "RID6476: temporal lobe [8 descendants]",
                             "children": [
-                              {
-                                "name": "RID643: anterior choroidal artery",
-                                "children": []
-                              },
                               {
                                 "name": "RID673: anterior temporal artery",
                                 "children": []
@@ -78,7 +78,7 @@ var tree = [
                                 "children": []
                               },
                               {
-                                "name": "RID36453: temporal artery",
+                                "name": "RID36453: temporal branches of middle cerebral artery",
                                 "children": []
                               },
                               {
@@ -87,6 +87,14 @@ var tree = [
                               },
                               {
                                 "name": "RID647: uncal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID6482: uncus",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36153: vein of uncus",
                                 "children": []
                               }
                             ]
@@ -134,6 +142,23 @@ var tree = [
                             ]
                           },
                           {
+                            "name": "RID6502: occipital lobe [3 descendants]",
+                            "children": [
+                              {
+                                "name": "RID820: calcarine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID44764: medial occipital artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID7127: occipital horn of lateral ventricle",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
                             "name": "RID6549: lentiform nucleus [2 descendants]",
                             "children": [
                               {
@@ -147,17 +172,16 @@ var tree = [
                             ]
                           },
                           {
-                            "name": "RID6502: occipital lobe [2 descendants]",
-                            "children": [
-                              {
-                                "name": "RID820: calcarine artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID7127: occipital horn of lateral ventricle",
-                                "children": []
-                              }
-                            ]
+                            "name": "RID650: A1 segment of anterior cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID648: anterior cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID676: artery of central sulcus",
+                            "children": []
                           },
                           {
                             "name": "RID7125: body of lateral ventricle",
@@ -168,7 +192,23 @@ var tree = [
                             "children": []
                           },
                           {
+                            "name": "RID6456: central sulcus",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36164: deep middle cerebral vein",
+                            "children": []
+                          },
+                          {
                             "name": "RID6908: external capsule",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36152: inferior cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID669: lateral lenticulostriate artery",
                             "children": []
                           },
                           {
@@ -176,68 +216,75 @@ var tree = [
                             "children": []
                           },
                           {
+                            "name": "RID668: lenticulostriate artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID666: M1 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID671: M2 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID680: M3 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID682: M4 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID670: medial lenticulostriate artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID665: middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID819: parieto-occipital artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID656: pericallosal artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID652: recurrent artery of Heubner",
+                            "children": []
+                          },
+                          {
                             "name": "RID6537: set of basal ganglia",
                             "children": []
                           },
                           {
-                            "name": "RID6578: thalamus",
+                            "name": "RID34446: superficial cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID1124: superficial middle cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36147: superior anastomotic vein",
                             "children": []
                           }
                         ]
                       },
                       {
-                        "name": "RID13859: left cerebral hemisphere [39 descendants]",
+                        "name": "RID13859: left cerebral hemisphere [58 descendants]",
                         "children": [
                           {
-                            "name": "RID13863: left frontal lobe [9 descendants]",
+                            "name": "RID13865: left temporal lobe [8 descendants]",
                             "children": [
-                              {
-                                "name": "RID36496: artery of left precentral sulcus",
-                                "children": []
-                              },
-                              {
-                                "name": "RID13799: frontal horn of left lateral ventricle",
-                                "children": []
-                              },
-                              {
-                                "name": "RID676_RID5824: left artery of central sulcus",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36419: left callosomarginal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID652_RID5824: left distal medial striate artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36490: left lateral frontobasal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID674_RID5824: left orbitofrontal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36435: left pericallosal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID655_RID5824: left polar frontal artery",
-                                "children": []
-                              }
-                            ]
-                          },
-                          {
-                            "name": "RID13865: left temporal lobe [7 descendants]",
-                            "children": [
-                              {
-                                "name": "RID36542: left anterior choroidal artery",
-                                "children": []
-                              },
                               {
                                 "name": "RID36460: left anterior temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36151: left inferior anastomotic vein",
                                 "children": []
                               },
                               {
@@ -249,15 +296,52 @@ var tree = [
                                 "children": []
                               },
                               {
-                                "name": "RID36455: left temporal artery",
-                                "children": []
-                              },
-                              {
                                 "name": "RID36601: left uncal artery",
                                 "children": []
                               },
                               {
+                                "name": "RID36455: temporal branches of left middle cerebral artery",
+                                "children": []
+                              },
+                              {
                                 "name": "RID13803: temporal horn of left lateral ventricle",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36155: vein of left uncus",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "RID13863: left frontal lobe [7 descendants]",
+                            "children": [
+                              {
+                                "name": "RID36496: artery of left precentral sulcus",
+                                "children": []
+                              },
+                              {
+                                "name": "RID13799: frontal horn of left lateral ventricle",
+                                "children": []
+                              },
+                              {
+                                "name": "RID651_RID5824: left A2 segment of anterior cerebral artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36419: left callosomarginal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36490: left lateral frontobasal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID674_RID5824: left medial orbitofrontal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID655_RID5824: left polar frontal artery",
                                 "children": []
                               }
                             ]
@@ -305,6 +389,23 @@ var tree = [
                             ]
                           },
                           {
+                            "name": "RID13869: left occipital lobe [3 descendants]",
+                            "children": [
+                              {
+                                "name": "RID44758: left calcarine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID44766: left medial occipital artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID13801: occipital horn of left lateral ventricle",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
                             "name": "RID20918: left lentiform nucleus [2 descendants]",
                             "children": [
                               {
@@ -318,20 +419,19 @@ var tree = [
                             ]
                           },
                           {
-                            "name": "RID13869: left occipital lobe [2 descendants]",
-                            "children": [
-                              {
-                                "name": "RID44758: left calcarine artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID13801: occipital horn of left lateral ventricle",
-                                "children": []
-                              }
-                            ]
+                            "name": "RID13807: body of left lateral ventricle",
+                            "children": []
                           },
                           {
-                            "name": "RID13807: body of left lateral ventricle",
+                            "name": "RID650_RID5824: left A1 segment of anterior cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36393: left anterior cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID676_RID5824: left artery of central sulcus",
                             "children": []
                           },
                           {
@@ -339,7 +439,23 @@ var tree = [
                             "children": []
                           },
                           {
+                            "name": "RID36166: left deep middle cerebral vein",
+                            "children": []
+                          },
+                          {
                             "name": "RID17041: left external capsule",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36152_RID5824: left inferior cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID669_RID5824: left lateral lenticulostriate artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID44763: left lateral occipital artery",
                             "children": []
                           },
                           {
@@ -347,64 +463,71 @@ var tree = [
                             "children": []
                           },
                           {
-                            "name": "RID13496: left thalamus",
+                            "name": "RID668_RID5824: left lenticulostriate artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID666_RID5824: left M1 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID671_RID5824: left M2 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID680_RID5824: left M3 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID682_RID5824: left M4 segment of middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID670_RID5824: left medial lenticulostriate artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36444: left middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID44756: left parieto-occipital artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36435: left pericallosal artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID652_RID5824: left recurrent artery of Heubner",
+                            "children": []
+                          },
+                          {
+                            "name": "RID34446_RID5824: left superficial cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36103: left superficial middle cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36149: left superior anastomotic vein",
                             "children": []
                           }
                         ]
                       },
                       {
-                        "name": "RID13858: right cerebral hemisphere [39 descendants]",
+                        "name": "RID13858: right cerebral hemisphere [58 descendants]",
                         "children": [
                           {
-                            "name": "RID13862: right frontal lobe [9 descendants]",
+                            "name": "RID13864: right temporal lobe [8 descendants]",
                             "children": [
-                              {
-                                "name": "RID36495: artery of right precentral sulcus",
-                                "children": []
-                              },
-                              {
-                                "name": "RID13798: frontal horn of right lateral ventricle",
-                                "children": []
-                              },
-                              {
-                                "name": "RID676_RID5825: right artery of central sulcus",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36418: right callosomarginal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID652_RID5825: right distal medial striate artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36489: right lateral frontobasal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID674_RID5825: right orbitofrontal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36434: right pericallosal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID655_RID5825: right polar frontal artery",
-                                "children": []
-                              }
-                            ]
-                          },
-                          {
-                            "name": "RID13864: right temporal lobe [7 descendants]",
-                            "children": [
-                              {
-                                "name": "RID36541: right anterior choroidal artery",
-                                "children": []
-                              },
                               {
                                 "name": "RID36459: right anterior temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36150: right inferior anastomotic vein",
                                 "children": []
                               },
                               {
@@ -416,15 +539,52 @@ var tree = [
                                 "children": []
                               },
                               {
-                                "name": "RID36454: right temporal artery",
-                                "children": []
-                              },
-                              {
                                 "name": "RID36600: right uncal artery",
                                 "children": []
                               },
                               {
+                                "name": "RID36454: temporal branches of right middle cerebral artery",
+                                "children": []
+                              },
+                              {
                                 "name": "RID13802: temporal horn of right lateral ventricle",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36154: vein of right uncus",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "RID13862: right frontal lobe [7 descendants]",
+                            "children": [
+                              {
+                                "name": "RID36495: artery of right precentral sulcus",
+                                "children": []
+                              },
+                              {
+                                "name": "RID13798: frontal horn of right lateral ventricle",
+                                "children": []
+                              },
+                              {
+                                "name": "RID651_RID5825: right A2 segment of anterior cerebral artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36418: right callosomarginal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36489: right lateral frontobasal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID674_RID5825: right medial orbitofrontal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID655_RID5825: right polar frontal artery",
                                 "children": []
                               }
                             ]
@@ -472,6 +632,23 @@ var tree = [
                             ]
                           },
                           {
+                            "name": "RID13868: right occipital lobe [3 descendants]",
+                            "children": [
+                              {
+                                "name": "RID13800: occipital horn of right lateral ventricle",
+                                "children": []
+                              },
+                              {
+                                "name": "RID44757: right calcarine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID44765: right medial occipital artery",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
                             "name": "RID20917: right lentiform nucleus [2 descendants]",
                             "children": [
                               {
@@ -485,163 +662,11 @@ var tree = [
                             ]
                           },
                           {
-                            "name": "RID13868: right occipital lobe [2 descendants]",
-                            "children": [
-                              {
-                                "name": "RID13800: occipital horn of right lateral ventricle",
-                                "children": []
-                              },
-                              {
-                                "name": "RID44757: right calcarine artery",
-                                "children": []
-                              }
-                            ]
-                          },
-                          {
                             "name": "RID13806: body of right lateral ventricle",
                             "children": []
                           },
                           {
-                            "name": "RID21019: right caudate nucleus",
-                            "children": []
-                          },
-                          {
-                            "name": "RID17040: right external capsule",
-                            "children": []
-                          },
-                          {
-                            "name": "RID13788: right lateral ventricle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID13495: right thalamus",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID6391: frontal brain region [15 descendants]",
-                        "children": [
-                          {
-                            "name": "RID650: A1 segment of anterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID651: A2 segment of anterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID648: anterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID649: anterior communicating artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID36164: deep middle cerebral vein",
-                            "children": []
-                          },
-                          {
-                            "name": "RID36152: inferior cerebral vein",
-                            "children": []
-                          },
-                          {
-                            "name": "RID6459: inferior frontal sulcus",
-                            "children": []
-                          },
-                          {
-                            "name": "RID1142: internal cerebral vein",
-                            "children": []
-                          },
-                          {
-                            "name": "RID666: M1 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID671: M2 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID680: M3 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID682: M4 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID665: middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID6457: precentral sulcus",
-                            "children": []
-                          },
-                          {
-                            "name": "RID6458: superior frontal sulcus",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID6391_RID5824: left frontal brain region [11 descendants]",
-                        "children": [
-                          {
-                            "name": "RID650_RID5824: left A1 segment of anterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID651_RID5824: left A2 segment of anterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID36393: left anterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID36166: left deep middle cerebral vein",
-                            "children": []
-                          },
-                          {
-                            "name": "RID36152_RID5824: left inferior cerebral vein",
-                            "children": []
-                          },
-                          {
-                            "name": "RID36191: left internal cerebral vein",
-                            "children": []
-                          },
-                          {
-                            "name": "RID666_RID5824: left M1 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID671_RID5824: left M2 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID680_RID5824: left M3 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID682_RID5824: left M4 segment of middle cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID36444: left middle cerebral artery",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID6391_RID5825: right frontal brain region [11 descendants]",
-                        "children": [
-                          {
                             "name": "RID650_RID5825: right A1 segment of anterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID651_RID5825: right A2 segment of anterior cerebral artery",
                             "children": []
                           },
                           {
@@ -649,7 +674,19 @@ var tree = [
                             "children": []
                           },
                           {
+                            "name": "RID676_RID5825: right artery of central sulcus",
+                            "children": []
+                          },
+                          {
+                            "name": "RID21019: right caudate nucleus",
+                            "children": []
+                          },
+                          {
                             "name": "RID36165: right deep middle cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID17040: right external capsule",
                             "children": []
                           },
                           {
@@ -657,7 +694,19 @@ var tree = [
                             "children": []
                           },
                           {
-                            "name": "RID36190: right internal cerebral vein",
+                            "name": "RID669_RID5825: right lateral lenticulostriate artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID44762: right lateral occipital artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID13788: right lateral ventricle",
+                            "children": []
+                          },
+                          {
+                            "name": "RID668_RID5825: right lenticulostriate artery",
                             "children": []
                           },
                           {
@@ -677,7 +726,35 @@ var tree = [
                             "children": []
                           },
                           {
+                            "name": "RID670_RID5825: right medial lenticulostriate artery",
+                            "children": []
+                          },
+                          {
                             "name": "RID36443: right middle cerebral artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID44755: right parieto-occipital artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36434: right pericallosal artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID652_RID5825: right recurrent artery of Heubner",
+                            "children": []
+                          },
+                          {
+                            "name": "RID34446_RID5825: right superficial cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36102: right superficial middle cerebral vein",
+                            "children": []
+                          },
+                          {
+                            "name": "RID36148: right superior anastomotic vein",
                             "children": []
                           }
                         ]
@@ -742,118 +819,23 @@ var tree = [
                         ]
                       },
                       {
-                        "name": "RID6393_RID5824: left occipital brain region [4 descendants]",
-                        "children": [
-                          {
-                            "name": "RID807_RID5824: left P2 segment of posterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID818_RID5824: left P3 segment of posterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID44756: left parietal occipital artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID44717: left posterior cerebral artery",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID36161: anterior cerebral vein",
+                        "children": []
                       },
                       {
-                        "name": "RID6393: occipital brain region [4 descendants]",
-                        "children": [
-                          {
-                            "name": "RID807: P2 segment of posterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID818: P3 segment of posterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID819: parieto-occipital artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID804: posterior cerebral artery",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID6393_RID5825: right occipital brain region [4 descendants]",
-                        "children": [
-                          {
-                            "name": "RID807_RID5825: right P2 segment of posterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID818_RID5825: right P3 segment of posterior cerebral artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID44755: right parietal occipital artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID44716: right posterior cerebral artery",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID7094: falx cerebri [2 descendants]",
-                        "children": [
-                          {
-                            "name": "RID1131: inferior sagittal sinus",
-                            "children": []
-                          },
-                          {
-                            "name": "RID1127: superior sagittal sinus",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID6392: temporal brain region [2 descendants]",
-                        "children": [
-                          {
-                            "name": "RID1119: sphenoparietal sinus",
-                            "children": []
-                          },
-                          {
-                            "name": "RID6482: uncus",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID6392_RID5824: left temporal brain region [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID1119_RID5824: left sphenoparietal sinus",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "name": "RID6392_RID5825: right temporal brain region [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID1119_RID5825: right sphenoparietal sinus",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID643: anterior choroidal artery",
+                        "children": []
                       },
                       {
                         "name": "RID6911: anterior commissure",
                         "children": []
                       },
                       {
-                        "name": "RID6456: central sulcus",
+                        "name": "RID649: anterior communicating artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID810: anterior thalamoperforating artery",
                         "children": []
                       },
                       {
@@ -861,7 +843,39 @@ var tree = [
                         "children": []
                       },
                       {
+                        "name": "RID6391: frontal brain region",
+                        "children": []
+                      },
+                      {
+                        "name": "RID1142: internal cerebral vein",
+                        "children": []
+                      },
+                      {
                         "name": "RID7178: interventricular foramen",
+                        "children": []
+                      },
+                      {
+                        "name": "RID36163: left anterior cerebral vein",
+                        "children": []
+                      },
+                      {
+                        "name": "RID36542: left anterior choroidal artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID810_RID5824: left anterior thalamoperforating artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID6391_RID5824: left frontal brain region",
+                        "children": []
+                      },
+                      {
+                        "name": "RID36191: left internal cerebral vein",
+                        "children": []
+                      },
+                      {
+                        "name": "RID6393_RID5824: left occipital brain region",
                         "children": []
                       },
                       {
@@ -881,7 +895,19 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID36103: left superficial middle cerebral vein",
+                        "name": "RID6392_RID5824: left temporal brain region",
+                        "children": []
+                      },
+                      {
+                        "name": "RID44727: left thalamogeniculate artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID13496: left thalamus",
+                        "children": []
+                      },
+                      {
+                        "name": "RID6393: occipital brain region",
                         "children": []
                       },
                       {
@@ -909,6 +935,30 @@ var tree = [
                         "children": []
                       },
                       {
+                        "name": "RID36162: right anterior cerebral vein",
+                        "children": []
+                      },
+                      {
+                        "name": "RID36541: right anterior choroidal artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID810_RID5825: right anterior thalamoperforating artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID6391_RID5825: right frontal brain region",
+                        "children": []
+                      },
+                      {
+                        "name": "RID36190: right internal cerebral vein",
+                        "children": []
+                      },
+                      {
+                        "name": "RID6393_RID5825: right occipital brain region",
+                        "children": []
+                      },
+                      {
                         "name": "RID22697: right optic tract",
                         "children": []
                       },
@@ -925,7 +975,15 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID36102: right superficial middle cerebral vein",
+                        "name": "RID6392_RID5825: right temporal brain region",
+                        "children": []
+                      },
+                      {
+                        "name": "RID44726: right thalamogeniculate artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID13495: right thalamus",
                         "children": []
                       },
                       {
@@ -933,131 +991,26 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID1124: superficial middle cerebral vein",
+                        "name": "RID6392: temporal brain region",
+                        "children": []
+                      },
+                      {
+                        "name": "RID812: thalamogeniculate artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID6578: thalamus",
                         "children": []
                       },
                       {
                         "name": "RID7137: third ventricle",
                         "children": []
-                      },
-                      {
-                        "name": "RID36155: vein of left uncus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID36154: vein of right uncus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID36153: vein of uncus",
-                        "children": []
                       }
                     ]
                   },
                   {
-                    "name": "RID6381_RID6434: infratentorial brain [88 descendants]",
+                    "name": "RID6381_RID6434: infratentorial brain [63 descendants]",
                     "children": [
-                      {
-                        "name": "RID6815: cerebellum [24 descendants]",
-                        "children": [
-                          {
-                            "name": "RID781: anterior medullary segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID6893: inferior cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID787: inferior vermian artery of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID781_RID5824: left anterior medullary segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID18082: left inferior cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID787_RID5824: left inferior vermian artery of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID18080: left middle cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID783_RID5824: left posterior medullary segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID786_RID5824: left retrotonsillar segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID18078: left superior cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID784_RID5824: left supratonsillar segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID6895: middle cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID783: posterior medullary segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID786: retrotonsillar segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID781_RID5825: right anterior medullary segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID18081: right inferior cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID787_RID5825: right inferior vermian artery of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID18079: right middle cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID783_RID5825: right posterior medullary segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID786_RID5825: right retrotonsillar segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID18077: right superior cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID784_RID5825: right supratonsillar segment of PICA",
-                            "children": []
-                          },
-                          {
-                            "name": "RID6897: superior cerebellar peduncle",
-                            "children": []
-                          },
-                          {
-                            "name": "RID784: supratonsillar segment of PICA",
-                            "children": []
-                          }
-                        ]
-                      },
                       {
                         "name": "RID6677: brainstem [19 descendants]",
                         "children": [
@@ -1066,6 +1019,10 @@ var tree = [
                             "children": [
                               {
                                 "name": "RID7171: cerebral aqueduct",
+                                "children": []
+                              },
+                              {
+                                "name": "RID6770: cerebral peduncle",
                                 "children": []
                               },
                               {
@@ -1085,15 +1042,40 @@ var tree = [
                                 "children": []
                               },
                               {
-                                "name": "RID6770: peduncle of midbrain",
-                                "children": []
-                              },
-                              {
                                 "name": "RID34068: right cerebral peduncle",
                                 "children": []
                               },
                               {
                                 "name": "RID44724: right collicular artery",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "RID6728: pons [6 descendants]",
+                            "children": [
+                              {
+                                "name": "RID793: circumflex pontine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID793_RID5824: left circumflex pontine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID44662: left pontine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID44660: pontine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID793_RID5825: right circumflex pontine artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID44661: right pontine artery",
                                 "children": []
                               }
                             ]
@@ -1110,33 +1092,82 @@ var tree = [
                                 "children": []
                               }
                             ]
-                          },
+                          }
+                        ]
+                      },
+                      {
+                        "name": "RID6815: cerebellum [18 descendants]",
+                        "children": [
                           {
-                            "name": "RID814: lateral posterior choroidal artery",
+                            "name": "RID6893: inferior cerebellar peduncle",
                             "children": []
                           },
                           {
-                            "name": "RID814_RID5824: left lateral posterior choroidal artery",
+                            "name": "RID787: inferior vermian artery of posterior inferior cerebellar artery",
                             "children": []
                           },
                           {
-                            "name": "RID813_RID5824: left medial posterior choroidal artery",
+                            "name": "RID18082: left inferior cerebellar peduncle",
                             "children": []
                           },
                           {
-                            "name": "RID813: medial posterior choroidal artery",
+                            "name": "RID787_RID5824: left inferior vermian artery of posterior inferior cerebellar artery",
                             "children": []
                           },
                           {
-                            "name": "RID6728: pons",
+                            "name": "RID18080: left middle cerebellar peduncle",
                             "children": []
                           },
                           {
-                            "name": "RID814_RID5825: right lateral posterior choroidal artery",
+                            "name": "RID786_RID5824: left retrotonsillar segment of posterior inferior cerebellar artery",
                             "children": []
                           },
                           {
-                            "name": "RID813_RID5825: right medial posterior choroidal artery",
+                            "name": "RID18078: left superior cerebellar peduncle",
+                            "children": []
+                          },
+                          {
+                            "name": "RID784_RID5824: left supratonsillar segment of posterior inferior cerebellar artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID6895: middle cerebellar peduncle",
+                            "children": []
+                          },
+                          {
+                            "name": "RID786: retrotonsillar segment of posterior inferior cerebellar artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID18081: right inferior cerebellar peduncle",
+                            "children": []
+                          },
+                          {
+                            "name": "RID787_RID5825: right inferior vermian artery of posterior inferior cerebellar artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID18079: right middle cerebellar peduncle",
+                            "children": []
+                          },
+                          {
+                            "name": "RID786_RID5825: right retrotonsillar segment of posterior inferior cerebellar artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID18077: right superior cerebellar peduncle",
+                            "children": []
+                          },
+                          {
+                            "name": "RID784_RID5825: right supratonsillar segment of posterior inferior cerebellar artery",
+                            "children": []
+                          },
+                          {
+                            "name": "RID6897: superior cerebellar peduncle",
+                            "children": []
+                          },
+                          {
+                            "name": "RID784: supratonsillar segment of posterior inferior cerebellar artery",
                             "children": []
                           }
                         ]
@@ -1151,15 +1182,11 @@ var tree = [
                         ]
                       },
                       {
-                        "name": "RID36161: anterior cerebral vein",
-                        "children": []
-                      },
-                      {
                         "name": "RID794: anterior inferior cerebellar artery",
                         "children": []
                       },
                       {
-                        "name": "RID1152: basal vein",
+                        "name": "RID781: anterior medullary segment of posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
@@ -1167,19 +1194,7 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID793: circumflex pontine artery",
-                        "children": []
-                      },
-                      {
                         "name": "RID36677: inferior cerebellar vein",
-                        "children": []
-                      },
-                      {
-                        "name": "RID1093: inferior petrosal sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID36163: left anterior cerebral vein",
                         "children": []
                       },
                       {
@@ -1187,11 +1202,7 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID36160: left basal vein",
-                        "children": []
-                      },
-                      {
-                        "name": "RID793_RID5824: left circumflex pontine artery",
+                        "name": "RID781_RID5824: left anterior medullary segment of posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
@@ -1199,19 +1210,11 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID1093_RID5824: left inferior petrosal sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID44662: left pontine artery",
-                        "children": []
-                      },
-                      {
                         "name": "RID44641: left posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
-                        "name": "RID1092_RID5824: left sigmoid sinus",
+                        "name": "RID783_RID5824: left posterior medullary segment of posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
@@ -1223,27 +1226,11 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID1121_RID5824: left superior petrosal sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID1122_RID5824: left transverse sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID1126: occipital sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID44660: pontine artery",
-                        "children": []
-                      },
-                      {
                         "name": "RID779: posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
-                        "name": "RID36162: right anterior cerebral vein",
+                        "name": "RID783: posterior medullary segment of posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
@@ -1251,11 +1238,7 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID36159: right basal vein",
-                        "children": []
-                      },
-                      {
-                        "name": "RID793_RID5825: right circumflex pontine artery",
+                        "name": "RID781_RID5825: right anterior medullary segment of posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
@@ -1263,19 +1246,11 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID1093_RID5825: right inferior petrosal sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID44661: right pontine artery",
-                        "children": []
-                      },
-                      {
                         "name": "RID44640: right posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
-                        "name": "RID1092_RID5825: right sigmoid sinus",
+                        "name": "RID783_RID5825: right posterior medullary segment of posterior inferior cerebellar artery",
                         "children": []
                       },
                       {
@@ -1287,37 +1262,61 @@ var tree = [
                         "children": []
                       },
                       {
-                        "name": "RID1121_RID5825: right superior petrosal sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID1122_RID5825: right transverse sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID1092: sigmoid sinus",
-                        "children": []
-                      },
-                      {
                         "name": "RID803: superior cerebellar artery",
                         "children": []
                       },
                       {
                         "name": "RID36674: superior cerebellar vein",
                         "children": []
-                      },
-                      {
-                        "name": "RID1121: superior petrosal sinus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID1122: transverse sinus",
-                        "children": []
                       }
                     ]
                   },
                   {
+                    "name": "RID1152: basal vein",
+                    "children": []
+                  },
+                  {
+                    "name": "RID1132: great cerebral vein",
+                    "children": []
+                  },
+                  {
+                    "name": "RID814: lateral posterior choroidal artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID36160: left basal vein",
+                    "children": []
+                  },
+                  {
+                    "name": "RID814_RID5824: left lateral posterior choroidal artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID813_RID5824: left medial posterior choroidal artery",
+                    "children": []
+                  },
+                  {
                     "name": "RID805_RID5824: left P1 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID807_RID5824: left P2 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID818_RID5824: left P3 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID44717: left posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID811_RID5824: left posterior thalamoperforating artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID813: medial posterior choroidal artery",
                     "children": []
                   },
                   {
@@ -1325,7 +1324,77 @@ var tree = [
                     "children": []
                   },
                   {
+                    "name": "RID807: P2 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID818: P3 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID804: posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID811: posterior thalamoperforating artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID36159: right basal vein",
+                    "children": []
+                  },
+                  {
+                    "name": "RID814_RID5825: right lateral posterior choroidal artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID813_RID5825: right medial posterior choroidal artery",
+                    "children": []
+                  },
+                  {
                     "name": "RID805_RID5825: right P1 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID807_RID5825: right P2 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID818_RID5825: right P3 segment of posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID44716: right posterior cerebral artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID811_RID5825: right posterior thalamoperforating artery",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID7094: falx cerebri [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID1131: inferior sagittal sinus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID1127: superior sagittal sinus",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID38674: pituitary gland [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID15522: zone of adenohypophysis",
+                    "children": []
+                  },
+                  {
+                    "name": "RID15527: zone of neurohypophysis",
                     "children": []
                   }
                 ]
@@ -1335,23 +1404,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID810: anterior thalamoperforating artery",
-                "children": []
-              },
-              {
                 "name": "RID1094: cavernous sinus",
                 "children": []
               },
               {
-                "name": "RID1132: great cerebral vein",
-                "children": []
-              },
-              {
-                "name": "RID669: lateral lenticulostriate artery",
-                "children": []
-              },
-              {
-                "name": "RID810_RID5824: left anterior thalamoperforating artery",
+                "name": "RID1093: inferior petrosal sinus",
                 "children": []
               },
               {
@@ -1359,47 +1416,27 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID36189: left great cerebral vein",
+                "name": "RID1093_RID5824: left inferior petrosal sinus",
                 "children": []
               },
               {
-                "name": "RID36151: left inferior anastomotic vein",
+                "name": "RID1092_RID5824: left sigmoid sinus",
                 "children": []
               },
               {
-                "name": "RID669_RID5824: left lateral lenticulostriate artery",
+                "name": "RID1119_RID5824: left sphenoparietal sinus",
                 "children": []
               },
               {
-                "name": "RID668_RID5824: left lenticulostriate artery",
+                "name": "RID1121_RID5824: left superior petrosal sinus",
                 "children": []
               },
               {
-                "name": "RID670_RID5824: left medial lenticulostriate artery",
+                "name": "RID1122_RID5824: left transverse sinus",
                 "children": []
               },
               {
-                "name": "RID811_RID5824: left posterior thalamoperforating artery",
-                "children": []
-              },
-              {
-                "name": "RID34446_RID5824: left superficial cerebral vein",
-                "children": []
-              },
-              {
-                "name": "RID36149: left superior anastomotic vein",
-                "children": []
-              },
-              {
-                "name": "RID44727: left thalamogeniculate artery",
-                "children": []
-              },
-              {
-                "name": "RID668: lenticulostriate artery",
-                "children": []
-              },
-              {
-                "name": "RID670: medial lenticulostriate artery",
+                "name": "RID1126: occipital sinus",
                 "children": []
               },
               {
@@ -1407,51 +1444,35 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID811: posterior thalamoperforating artery",
-                "children": []
-              },
-              {
-                "name": "RID810_RID5825: right anterior thalamoperforating artery",
-                "children": []
-              },
-              {
                 "name": "RID1094_RID5825: right cavernous sinus",
                 "children": []
               },
               {
-                "name": "RID36188: right great cerebral vein",
+                "name": "RID1093_RID5825: right inferior petrosal sinus",
                 "children": []
               },
               {
-                "name": "RID36150: right inferior anastomotic vein",
+                "name": "RID1092_RID5825: right sigmoid sinus",
                 "children": []
               },
               {
-                "name": "RID669_RID5825: right lateral lenticulostriate artery",
+                "name": "RID1119_RID5825: right sphenoparietal sinus",
                 "children": []
               },
               {
-                "name": "RID668_RID5825: right lenticulostriate artery",
+                "name": "RID1121_RID5825: right superior petrosal sinus",
                 "children": []
               },
               {
-                "name": "RID670_RID5825: right medial lenticulostriate artery",
+                "name": "RID1122_RID5825: right transverse sinus",
                 "children": []
               },
               {
-                "name": "RID811_RID5825: right posterior thalamoperforating artery",
+                "name": "RID1092: sigmoid sinus",
                 "children": []
               },
               {
-                "name": "RID34446_RID5825: right superficial cerebral vein",
-                "children": []
-              },
-              {
-                "name": "RID36148: right superior anastomotic vein",
-                "children": []
-              },
-              {
-                "name": "RID44726: right thalamogeniculate artery",
+                "name": "RID1119: sphenoparietal sinus",
                 "children": []
               },
               {
@@ -1459,22 +1480,178 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID34446: superficial cerebral vein",
+                "name": "RID1121: superior petrosal sinus",
                 "children": []
               },
               {
-                "name": "RID36147: superior anastomotic vein",
+                "name": "RID1122: transverse sinus",
                 "children": []
               },
               {
-                "name": "RID812: thalamogeniculate artery",
+                "name": "RID7099: trigeminal cave",
                 "children": []
               }
             ]
           },
           {
-            "name": "RID9196: skull [90 descendants]",
+            "name": "RID13284: face [132 descendants]",
             "children": [
+              {
+                "name": "RID9082: mandible [37 descendants]",
+                "children": [
+                  {
+                    "name": "RID9108_RID5824: left ramus of mandible [2 descendants]",
+                    "children": [
+                      {
+                        "name": "RID9110_RID5824: left condyle of mandible",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9115_RID5824: left coronoid process of mandible",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID9108: ramus of mandible [2 descendants]",
+                    "children": [
+                      {
+                        "name": "RID9110: condyle of mandible",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9115: coronoid process of mandible",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID9108_RID5825: right ramus of mandible [2 descendants]",
+                    "children": [
+                      {
+                        "name": "RID9110_RID5825: right condyle of mandible",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9115_RID5825: right coronoid process of mandible",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID9083: body of mandible",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9126_RID9131_RID9106_RID5824: left deciduous mandibular canine tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9131_RID9106_RID5827_RID5824: left deciduous mandibular central incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9131_RID9106_RID5996_RID5824: left deciduous mandibular first molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9131_RID9106_RID39121_RID5824: left deciduous mandibular lateral incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9131_RID9106_RID5998_RID5824: left deciduous mandibular second molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9126_RID9106_RID5824: left mandibular canine tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9106_RID5827_RID5824: left mandibular central incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID5996_RID5824: left mandibular first molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9129_RID9106_RID5996_RID5824: left mandibular first premolar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9106_RID39121_RID5824: left mandibular lateral incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID5998_RID5824: left mandibular second molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9129_RID9106_RID5998_RID5824: left mandibular second premolar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID6000_RID5824: left mandibular third molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9106: mandibular dental arcade",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9126_RID9131_RID9106_RID5825: right deciduous mandibular canine tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9131_RID9106_RID5827_RID5825: right deciduous mandibular central incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9131_RID9106_RID5996_RID5825: right deciduous mandibular first molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9131_RID9106_RID39121_RID5825: right deciduous mandibular lateral incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9131_RID9106_RID5998_RID5825: right deciduous mandibular second molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9126_RID9106_RID5825: right mandibular canine tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9106_RID5827_RID5825: right mandibular central incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID5996_RID5825: right mandibular first molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9129_RID9106_RID5996_RID5825: right mandibular first premolar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9106_RID39121_RID5825: right mandibular lateral incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID5998_RID5825: right mandibular second molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9129_RID9106_RID5998_RID5825: right mandibular second premolar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID6000_RID5825: right mandibular third molar tooth",
+                    "children": []
+                  }
+                ]
+              },
               {
                 "name": "RID9236: maxilla [36 descendants]",
                 "children": [
@@ -1482,43 +1659,23 @@ var tree = [
                     "name": "RID9271: alveolar part of maxilla [27 descendants]",
                     "children": [
                       {
-                        "name": "RID9126_RID9131_RID9279_RID5824: deciduous left maxillary canine tooth",
+                        "name": "RID9126_RID9131_RID9279_RID5824: left deciduous maxillary canine tooth",
                         "children": []
                       },
                       {
-                        "name": "RID9127_RID9131_RID9279_RID5827_RID5824: deciduous left maxillary central incisor tooth",
+                        "name": "RID9127_RID9131_RID9279_RID5827_RID5824: left deciduous maxillary central incisor tooth",
                         "children": []
                       },
                       {
-                        "name": "RID9128_RID9131_RID9279_RID5996_RID5824: deciduous left maxillary first molar tooth",
+                        "name": "RID9128_RID9131_RID9279_RID5996_RID5824: left deciduous maxillary first molar tooth",
                         "children": []
                       },
                       {
-                        "name": "RID9127_RID9131_RID9279_RID39121_RID5824: deciduous left maxillary lateral incisor tooth",
+                        "name": "RID9127_RID9131_RID9279_RID39121_RID5824: left deciduous maxillary lateral incisor tooth",
                         "children": []
                       },
                       {
-                        "name": "RID9128_RID9131_RID9279_RID5998_RID5824: deciduous left maxillary second molar tooth",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9126_RID9131_RID9279_RID5825: deciduous right maxillary canine tooth",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9127_RID9131_RID9279_RID5827_RID5825: deciduous right maxillary central incisor tooth",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9128_RID9131_RID9279_RID5996_RID5825: deciduous right maxillary first molar tooth",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9127_RID9131_RID9279_RID39121_RID5825: deciduous right maxillary lateral incisor tooth",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9128_RID9131_RID9279_RID5998_RID5825: deciduous right maxillary second molar tooth",
+                        "name": "RID9128_RID9131_RID9279_RID5998_RID5824: left deciduous maxillary second molar tooth",
                         "children": []
                       },
                       {
@@ -1555,6 +1712,26 @@ var tree = [
                       },
                       {
                         "name": "RID9279: maxillary dental arcade",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9126_RID9131_RID9279_RID5825: right deciduous maxillary canine tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9127_RID9131_RID9279_RID5827_RID5825: right deciduous maxillary central incisor tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9128_RID9131_RID9279_RID5996_RID5825: right deciduous maxillary first molar tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9127_RID9131_RID9279_RID39121_RID5825: right deciduous maxillary lateral incisor tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9128_RID9131_RID9279_RID5998_RID5825: right deciduous maxillary second molar tooth",
                         "children": []
                       },
                       {
@@ -1626,285 +1803,6 @@ var tree = [
                 ]
               },
               {
-                "name": "RID9281: sphenoid bone [10 descendants]",
-                "children": [
-                  {
-                    "name": "RID9286: sella turcica [3 descendants]",
-                    "children": [
-                      {
-                        "name": "RID38674: pituitary gland [2 descendants]",
-                        "children": [
-                          {
-                            "name": "RID15522: zone of adenohypophysis",
-                            "children": []
-                          },
-                          {
-                            "name": "RID15527: zone of neurohypophysis",
-                            "children": []
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9316: pterygoid process of sphenoid bone [1 descendants]",
-                    "children": [
-                      {
-                        "name": "RID9320: pterygoid fossa",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9590_RID5824: left superior orbital fissure",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9298: optic canal",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9590_RID5825: right superior orbital fissure",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9590: superior orbital fissure",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID9199: ethmoid bone [7 descendants]",
-                "children": [
-                  {
-                    "name": "RID9561: ethmoid sinus [1 descendants]",
-                    "children": [
-                      {
-                        "name": "RID9567: ethmoidal infundibulum",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9561_RID5824: left ethmoid sinus [1 descendants]",
-                    "children": [
-                      {
-                        "name": "RID9567_RID5824: left ethmoidal infundibulum",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9561_RID5825: right ethmoid sinus [1 descendants]",
-                    "children": [
-                      {
-                        "name": "RID9567_RID5825: right ethmoidal infundibulum",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9202: crista galli",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID9361: temporal bone [5 descendants]",
-                "children": [
-                  {
-                    "name": "RID10143: mastoid antrum",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9364: mastoid process of temporal bone",
-                    "children": []
-                  },
-                  {
-                    "name": "RID10148: petrosquamous fissure",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9415: styloid process of temporal bone",
-                    "children": []
-                  },
-                  {
-                    "name": "RID7099: trigeminal cave",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID9207: frontal bone [4 descendants]",
-                "children": [
-                  {
-                    "name": "RID9555: frontal sinus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9555_RID5824: left frontal sinus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9555_RID5825: right frontal sinus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9578: supraorbital margin",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID28731: skull base [2 descendants]",
-                "children": [
-                  {
-                    "name": "RID9332: clivus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9501: jugular foramen",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID9361_RID5824: left temporal bone [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID10143_RID5824: left mastoid antrum",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID9330: occipital bone [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID9335: foramen magnum",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID9361_RID5825: right temporal bone [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID10143_RID5825: right mastoid antrum",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID9805: coronal suture",
-                "children": []
-              },
-              {
-                "name": "RID9591: inferior orbital fissure",
-                "children": []
-              },
-              {
-                "name": "RID9471: lacrimal bone",
-                "children": []
-              },
-              {
-                "name": "RID9807: lambdoid suture",
-                "children": []
-              },
-              {
-                "name": "RID9591_RID5824: left inferior orbital fissure",
-                "children": []
-              },
-              {
-                "name": "RID7091: meninges",
-                "children": []
-              },
-              {
-                "name": "RID9814: metopic suture",
-                "children": []
-              },
-              {
-                "name": "RID9470: nasal bone",
-                "children": []
-              },
-              {
-                "name": "RID9280: parietal bone",
-                "children": []
-              },
-              {
-                "name": "RID9591_RID5825: right inferior orbital fissure",
-                "children": []
-              },
-              {
-                "name": "RID9806: sagittal suture",
-                "children": []
-              },
-              {
-                "name": "RID28599: zygomatic arch",
-                "children": []
-              },
-              {
-                "name": "RID9458: zygomatic bone",
-                "children": []
-              },
-              {
-                "name": "RID9247: zygomaticomaxillary suture of maxilla",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "RID13284: face [71 descendants]",
-            "children": [
-              {
-                "name": "RID9082: mandible [10 descendants]",
-                "children": [
-                  {
-                    "name": "RID9108_RID5824: left ramus of mandible [2 descendants]",
-                    "children": [
-                      {
-                        "name": "RID9110_RID5824: left condyle of mandible",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9115_RID5824: left coronoid process of mandible",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9108: ramus of mandible [2 descendants]",
-                    "children": [
-                      {
-                        "name": "RID9110: condyle of mandible",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9115: coronoid process of mandible",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9108_RID5825: right ramus of mandible [2 descendants]",
-                    "children": [
-                      {
-                        "name": "RID9110_RID5825: right condyle of mandible",
-                        "children": []
-                      },
-                      {
-                        "name": "RID9115_RID5825: right coronoid process of mandible",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID9083: body of mandible",
-                    "children": []
-                  }
-                ]
-              },
-              {
                 "name": "RID10029: nose [3 descendants]",
                 "children": [
                   {
@@ -1950,6 +1848,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID9471: lacrimal bone",
+                "children": []
+              },
+              {
                 "name": "RID9866_RID5824: left buccinator muscle",
                 "children": []
               },
@@ -1978,19 +1880,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID44763: left lateral occipital artery",
-                "children": []
-              },
-              {
                 "name": "RID9855_RID5824: left levator labii superioris alaeque nasi muscle",
                 "children": []
               },
               {
                 "name": "RID9854_RID5824: left levator labii superioris muscle",
-                "children": []
-              },
-              {
-                "name": "RID44766: left medial occipital artery",
                 "children": []
               },
               {
@@ -2003,10 +1897,6 @@ var tree = [
               },
               {
                 "name": "RID9862_RID5824: left risorius muscle",
-                "children": []
-              },
-              {
-                "name": "RID9569_RID5824: left sphenoid sinus",
                 "children": []
               },
               {
@@ -2030,11 +1920,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID44764: medial occipital artery",
+                "name": "RID9867: mentalis muscle",
                 "children": []
               },
               {
-                "name": "RID9867: mentalis muscle",
+                "name": "RID9470: nasal bone",
                 "children": []
               },
               {
@@ -2082,19 +1972,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID44762: right lateral occipital artery",
-                "children": []
-              },
-              {
                 "name": "RID9855_RID5825: right levator labii superioris alaeque nasi muscle",
                 "children": []
               },
               {
                 "name": "RID9854_RID5825: right levator labii superioris muscle",
-                "children": []
-              },
-              {
-                "name": "RID44765: right medial occipital artery",
                 "children": []
               },
               {
@@ -2107,10 +1989,6 @@ var tree = [
               },
               {
                 "name": "RID9862_RID5825: right risorius muscle",
-                "children": []
-              },
-              {
-                "name": "RID9569_RID5825: right sphenoid sinus",
                 "children": []
               },
               {
@@ -2130,11 +2008,19 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID9569: sphenoid sinus",
+                "name": "RID9750: superior tarsal muscle",
                 "children": []
               },
               {
-                "name": "RID9750: superior tarsal muscle",
+                "name": "RID28599: zygomatic arch",
+                "children": []
+              },
+              {
+                "name": "RID9458: zygomatic bone",
+                "children": []
+              },
+              {
+                "name": "RID9247: zygomaticomaxillary suture",
                 "children": []
               },
               {
@@ -2148,7 +2034,263 @@ var tree = [
             ]
           },
           {
-            "name": "RID9938: oral cavity [56 descendants]",
+            "name": "RID9196: skull [59 descendants]",
+            "children": [
+              {
+                "name": "RID9281: sphenoid bone [10 descendants]",
+                "children": [
+                  {
+                    "name": "RID9316: pterygoid process of sphenoid bone [1 descendants]",
+                    "children": [
+                      {
+                        "name": "RID9320: pterygoid fossa",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID9569_RID5824: left sphenoid sinus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9590_RID5824: left superior orbital fissure",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9298: optic canal",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9569_RID5825: right sphenoid sinus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9590_RID5825: right superior orbital fissure",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9286: sella turcica",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9569: sphenoid sinus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9590: superior orbital fissure",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID9361: temporal bone [8 descendants]",
+                "children": [
+                  {
+                    "name": "RID9392: internal auditory canal [3 descendants]",
+                    "children": [
+                      {
+                        "name": "RID12165: cochlear nerve",
+                        "children": []
+                      },
+                      {
+                        "name": "RID795: labyrinthine artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID12154: vestibular nerve",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID10143: mastoid antrum",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9364: mastoid process of temporal bone",
+                    "children": []
+                  },
+                  {
+                    "name": "RID10148: petrosquamous fissure",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9415: styloid process of temporal bone",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID9199: ethmoid bone [7 descendants]",
+                "children": [
+                  {
+                    "name": "RID9561: ethmoid sinus [1 descendants]",
+                    "children": [
+                      {
+                        "name": "RID9567: ethmoidal infundibulum",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID9561_RID5824: left ethmoid sinus [1 descendants]",
+                    "children": [
+                      {
+                        "name": "RID9567_RID5824: left ethmoidal infundibulum",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID9561_RID5825: right ethmoid sinus [1 descendants]",
+                    "children": [
+                      {
+                        "name": "RID9567_RID5825: right ethmoidal infundibulum",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID9202: crista galli",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID9361_RID5824: left temporal bone [5 descendants]",
+                "children": [
+                  {
+                    "name": "RID9392_RID5824: left internal auditory canal [3 descendants]",
+                    "children": [
+                      {
+                        "name": "RID14619: left cochlear nerve",
+                        "children": []
+                      },
+                      {
+                        "name": "RID44692: left labyrinthine artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID14604: left vestibular nerve",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID10143_RID5824: left mastoid antrum",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID9361_RID5825: right temporal bone [5 descendants]",
+                "children": [
+                  {
+                    "name": "RID9392_RID5825: right internal auditory canal [3 descendants]",
+                    "children": [
+                      {
+                        "name": "RID14618: right cochlear nerve",
+                        "children": []
+                      },
+                      {
+                        "name": "RID44691: right labyrinthine artery",
+                        "children": []
+                      },
+                      {
+                        "name": "RID14603: right vestibular nerve",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "RID10143_RID5825: right mastoid antrum",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID9207: frontal bone [4 descendants]",
+                "children": [
+                  {
+                    "name": "RID9555: frontal sinus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9555_RID5824: left frontal sinus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9555_RID5825: right frontal sinus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9578: supraorbital margin",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID28731: skull base [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID9332: clivus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9501: jugular foramen",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID9330: occipital bone [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID9335: foramen magnum",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID9805: coronal suture",
+                "children": []
+              },
+              {
+                "name": "RID9591: inferior orbital fissure",
+                "children": []
+              },
+              {
+                "name": "RID9807: lambdoid suture",
+                "children": []
+              },
+              {
+                "name": "RID9591_RID5824: left inferior orbital fissure",
+                "children": []
+              },
+              {
+                "name": "RID7091: meninges",
+                "children": []
+              },
+              {
+                "name": "RID9814: metopic suture",
+                "children": []
+              },
+              {
+                "name": "RID9280: parietal bone",
+                "children": []
+              },
+              {
+                "name": "RID9591_RID5825: right inferior orbital fissure",
+                "children": []
+              },
+              {
+                "name": "RID9806: sagittal suture",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "RID9938: oral cavity [35 descendants]",
             "children": [
               {
                 "name": "RID9970: tongue [21 descendants]",
@@ -2240,44 +2382,31 @@ var tree = [
                 ]
               },
               {
-                "name": "RID9126_RID9131_RID9106_RID5824: deciduous left mandibular canine tooth",
-                "children": []
+                "name": "RID9962_RID5824: left sublingual space [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID39005: left sublingual gland",
+                    "children": []
+                  }
+                ]
               },
               {
-                "name": "RID9127_RID9131_RID9106_RID5827_RID5824: deciduous left mandibular central incisor tooth",
-                "children": []
+                "name": "RID9962_RID5825: right sublingual space [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID39004: right sublingual gland",
+                    "children": []
+                  }
+                ]
               },
               {
-                "name": "RID9128_RID9131_RID9106_RID5996_RID5824: deciduous left mandibular first molar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9127_RID9131_RID9106_RID39121_RID5824: deciduous left mandibular lateral incisor tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9131_RID9106_RID5998_RID5824: deciduous left mandibular second molar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9126_RID9131_RID9106_RID5825: deciduous right mandibular canine tooth",
-                "children": []
-              },
-              {
-                "name": "RID9127_RID9131_RID9106_RID5827_RID5825: deciduous right mandibular central incisor tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9131_RID9106_RID5996_RID5825: deciduous right mandibular first molar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9127_RID9131_RID9106_RID39121_RID5825: deciduous right mandibular lateral incisor tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9131_RID9106_RID5998_RID5825: deciduous right mandibular second molar tooth",
-                "children": []
+                "name": "RID9962: sublingual space [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID39003: sublingual gland",
+                    "children": []
+                  }
+                ]
               },
               {
                 "name": "RID9940: hard palate",
@@ -2285,38 +2414,6 @@ var tree = [
               },
               {
                 "name": "RID696_RID5824: left lingual artery",
-                "children": []
-              },
-              {
-                "name": "RID9126_RID9106_RID5824: left mandibular canine tooth",
-                "children": []
-              },
-              {
-                "name": "RID9127_RID9106_RID5827_RID5824: left mandibular central incisor tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9106_RID5996_RID5824: left mandibular first molar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9129_RID9106_RID5996_RID5824: left mandibular first premolar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9127_RID9106_RID39121_RID5824: left mandibular lateral incisor tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9106_RID5998_RID5824: left mandibular second molar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9129_RID9106_RID5998_RID5824: left mandibular second premolar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9106_RID6000_RID5824: left mandibular third molar tooth",
                 "children": []
               },
               {
@@ -2328,47 +2425,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID9106: mandibular dental arcade",
-                "children": []
-              },
-              {
                 "name": "RID9989: retromolar trigone",
                 "children": []
               },
               {
                 "name": "RID696_RID5825: right lingual artery",
-                "children": []
-              },
-              {
-                "name": "RID9126_RID9106_RID5825: right mandibular canine tooth",
-                "children": []
-              },
-              {
-                "name": "RID9127_RID9106_RID5827_RID5825: right mandibular central incisor tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9106_RID5996_RID5825: right mandibular first molar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9129_RID9106_RID5996_RID5825: right mandibular first premolar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9127_RID9106_RID39121_RID5825: right mandibular lateral incisor tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9106_RID5998_RID5825: right mandibular second molar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9129_RID9106_RID5998_RID5825: right mandibular second premolar tooth",
-                "children": []
-              },
-              {
-                "name": "RID9128_RID9106_RID6000_RID5825: right mandibular third molar tooth",
                 "children": []
               },
               {
@@ -2378,13 +2439,13 @@ var tree = [
             ]
           },
           {
-            "name": "RID10053: ear [34 descendants]",
+            "name": "RID10053: ear [30 descendants]",
             "children": [
               {
                 "name": "RID13303: middle ear [21 descendants]",
                 "children": [
                   {
-                    "name": "RID10109: tympanic cavity [20 descendants]",
+                    "name": "RID10109: tympanic cavity [19 descendants]",
                     "children": [
                       {
                         "name": "RID10163: malleus [5 descendants]",
@@ -2464,35 +2525,18 @@ var tree = [
                       {
                         "name": "RID10190: posterior fold of malleus",
                         "children": []
-                      },
-                      {
-                        "name": "RID10100: tympanic membrane",
-                        "children": []
                       }
                     ]
+                  },
+                  {
+                    "name": "RID10100: tympanic membrane",
+                    "children": []
                   }
                 ]
               },
               {
-                "name": "RID10199: inner ear [9 descendants]",
+                "name": "RID10199: inner ear [5 descendants]",
                 "children": [
-                  {
-                    "name": "RID9392: internal auditory canal [3 descendants]",
-                    "children": [
-                      {
-                        "name": "RID12165: cochlear nerve",
-                        "children": []
-                      },
-                      {
-                        "name": "RID795: labyrinthine artery",
-                        "children": []
-                      },
-                      {
-                        "name": "RID12154: vestibular nerve",
-                        "children": []
-                      }
-                    ]
-                  },
                   {
                     "name": "RID10223: cochlea",
                     "children": []
@@ -2527,13 +2571,13 @@ var tree = [
             ]
           },
           {
-            "name": "RID10053_RID5824: left ear [34 descendants]",
+            "name": "RID10053_RID5824: left ear [30 descendants]",
             "children": [
               {
                 "name": "RID13303_RID5824: left middle ear [21 descendants]",
                 "children": [
                   {
-                    "name": "RID10109_RID5824: left tympanic cavity [20 descendants]",
+                    "name": "RID10109_RID5824: left tympanic cavity [19 descendants]",
                     "children": [
                       {
                         "name": "RID10163_RID5824: left malleus [5 descendants]",
@@ -2613,35 +2657,18 @@ var tree = [
                       {
                         "name": "RID10190_RID5824: left posterior fold of malleus",
                         "children": []
-                      },
-                      {
-                        "name": "RID10100_RID5824: left tympanic membrane",
-                        "children": []
                       }
                     ]
+                  },
+                  {
+                    "name": "RID10100_RID5824: left tympanic membrane",
+                    "children": []
                   }
                 ]
               },
               {
-                "name": "RID10199_RID5824: left inner ear [9 descendants]",
+                "name": "RID10199_RID5824: left inner ear [5 descendants]",
                 "children": [
-                  {
-                    "name": "RID9392_RID5824: left internal auditory canal [3 descendants]",
-                    "children": [
-                      {
-                        "name": "RID14619: left cochlear nerve",
-                        "children": []
-                      },
-                      {
-                        "name": "RID44692: left labyrinthine artery",
-                        "children": []
-                      },
-                      {
-                        "name": "RID14604: left vestibular nerve",
-                        "children": []
-                      }
-                    ]
-                  },
                   {
                     "name": "RID10223_RID5824: left cochlea",
                     "children": []
@@ -2676,13 +2703,13 @@ var tree = [
             ]
           },
           {
-            "name": "RID10053_RID5825: right ear [34 descendants]",
+            "name": "RID10053_RID5825: right ear [30 descendants]",
             "children": [
               {
                 "name": "RID13303_RID5825: right middle ear [21 descendants]",
                 "children": [
                   {
-                    "name": "RID10109_RID5825: right tympanic cavity [20 descendants]",
+                    "name": "RID10109_RID5825: right tympanic cavity [19 descendants]",
                     "children": [
                       {
                         "name": "RID10163_RID5825: right malleus [5 descendants]",
@@ -2762,35 +2789,18 @@ var tree = [
                       {
                         "name": "RID10190_RID5825: right posterior fold of malleus",
                         "children": []
-                      },
-                      {
-                        "name": "RID10100_RID5825: right tympanic membrane",
-                        "children": []
                       }
                     ]
+                  },
+                  {
+                    "name": "RID10100_RID5825: right tympanic membrane",
+                    "children": []
                   }
                 ]
               },
               {
-                "name": "RID10199_RID5825: right inner ear [9 descendants]",
+                "name": "RID10199_RID5825: right inner ear [5 descendants]",
                 "children": [
-                  {
-                    "name": "RID9392_RID5825: right internal auditory canal [3 descendants]",
-                    "children": [
-                      {
-                        "name": "RID14618: right cochlear nerve",
-                        "children": []
-                      },
-                      {
-                        "name": "RID44691: right labyrinthine artery",
-                        "children": []
-                      },
-                      {
-                        "name": "RID14603: right vestibular nerve",
-                        "children": []
-                      }
-                    ]
-                  },
                   {
                     "name": "RID10223_RID5825: right cochlea",
                     "children": []
@@ -2873,18 +2883,10 @@ var tree = [
                 ]
               },
               {
-                "name": "RID9725_RID5824: left intraconal space of orbit [3 descendants]",
+                "name": "RID9725_RID5824: left intraconal space of orbit [1 descendants]",
                 "children": [
                   {
-                    "name": "RID36101: left inferior ophthalmic vein",
-                    "children": []
-                  },
-                  {
                     "name": "RID36255: left ophthalmic artery",
-                    "children": []
-                  },
-                  {
-                    "name": "RID36056: left superior ophthalmic vein",
                     "children": []
                   }
                 ]
@@ -2899,6 +2901,10 @@ var tree = [
               },
               {
                 "name": "RID9709_RID5824: left inferior oblique muscle",
+                "children": []
+              },
+              {
+                "name": "RID36101: left inferior ophthalmic vein",
                 "children": []
               },
               {
@@ -2923,6 +2929,10 @@ var tree = [
               },
               {
                 "name": "RID9706_RID5824: left superior oblique muscle",
+                "children": []
+              },
+              {
+                "name": "RID36056: left superior ophthalmic vein",
                 "children": []
               },
               {
@@ -3093,18 +3103,10 @@ var tree = [
                 ]
               },
               {
-                "name": "RID9725: intraconal space of orbit [3 descendants]",
+                "name": "RID9725: intraconal space of orbit [1 descendants]",
                 "children": [
                   {
-                    "name": "RID1117: inferior ophthalmic vein",
-                    "children": []
-                  },
-                  {
                     "name": "RID607: ophthalmic artery",
-                    "children": []
-                  },
-                  {
-                    "name": "RID1095: superior ophthalmic vein",
                     "children": []
                   }
                 ]
@@ -3119,6 +3121,10 @@ var tree = [
               },
               {
                 "name": "RID9709: inferior oblique muscle",
+                "children": []
+              },
+              {
+                "name": "RID1117: inferior ophthalmic vein",
                 "children": []
               },
               {
@@ -3143,6 +3149,10 @@ var tree = [
               },
               {
                 "name": "RID9706: superior oblique muscle",
+                "children": []
+              },
+              {
+                "name": "RID1095: superior ophthalmic vein",
                 "children": []
               },
               {
@@ -3204,18 +3214,10 @@ var tree = [
                 ]
               },
               {
-                "name": "RID9725_RID5825: right intraconal space of orbit [3 descendants]",
+                "name": "RID9725_RID5825: right intraconal space of orbit [1 descendants]",
                 "children": [
                   {
-                    "name": "RID36100: right inferior ophthalmic vein",
-                    "children": []
-                  },
-                  {
                     "name": "RID36254: right ophthalmic artery",
-                    "children": []
-                  },
-                  {
-                    "name": "RID36055: right superior ophthalmic vein",
                     "children": []
                   }
                 ]
@@ -3230,6 +3232,10 @@ var tree = [
               },
               {
                 "name": "RID9709_RID5825: right inferior oblique muscle",
+                "children": []
+              },
+              {
+                "name": "RID36100: right inferior ophthalmic vein",
                 "children": []
               },
               {
@@ -3257,11 +3263,32 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID36055: right superior ophthalmic vein",
+                "children": []
+              },
+              {
                 "name": "RID9701_RID5825: right superior rectus muscle",
                 "children": []
               },
               {
                 "name": "RID9707_RID5825: right trochlea of superior oblique muscle",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "RID9919: scalp [3 descendants]",
+            "children": [
+              {
+                "name": "RID9887_RID5824: left occipitofrontalis muscle",
+                "children": []
+              },
+              {
+                "name": "RID9887: occipitofrontalis muscle",
+                "children": []
+              },
+              {
+                "name": "RID9887_RID5825: right occipitofrontalis muscle",
                 "children": []
               }
             ]
@@ -3291,10 +3318,6 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID9887_RID5824: left occipitofrontalis muscle",
-            "children": []
-          },
-          {
             "name": "RID22695: left optic nerve",
             "children": []
           },
@@ -3316,10 +3339,6 @@ var tree = [
           },
           {
             "name": "RID711: occipital artery",
-            "children": []
-          },
-          {
-            "name": "RID9887: occipitofrontalis muscle",
             "children": []
           },
           {
@@ -3351,10 +3370,6 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID9887_RID5825: right occipitofrontalis muscle",
-            "children": []
-          },
-          {
             "name": "RID22694: right optic nerve",
             "children": []
           },
@@ -3368,10 +3383,6 @@ var tree = [
           },
           {
             "name": "RID9779_RID5825: right temporomandibular joint",
-            "children": []
-          },
-          {
-            "name": "RID9919: scalp",
             "children": []
           },
           {
@@ -3393,11 +3404,60 @@ var tree = [
         ]
       },
       {
-        "name": "RID7488: neck [274 descendants]",
+        "name": "RID7488: neck [269 descendants]",
         "children": [
           {
-            "name": "RID7540: suprahyoid neck [52 descendants]",
+            "name": "RID7540: suprahyoid neck [61 descendants]",
             "children": [
+              {
+                "name": "RID10003: oropharynx [11 descendants]",
+                "children": [
+                  {
+                    "name": "RID10008_RID5824: left lingual tonsil",
+                    "children": []
+                  },
+                  {
+                    "name": "RID10010_RID5824: left palatine tonsil",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9899_RID5824: left palatoglossus muscle",
+                    "children": []
+                  },
+                  {
+                    "name": "RID10008: lingual tonsil",
+                    "children": []
+                  },
+                  {
+                    "name": "RID10010: palatine tonsil",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9899: palatoglossus muscle",
+                    "children": []
+                  },
+                  {
+                    "name": "RID10008_RID5825: right lingual tonsil",
+                    "children": []
+                  },
+                  {
+                    "name": "RID10010_RID5825: right palatine tonsil",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9899_RID5825: right palatoglossus muscle",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9942: soft palate",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9943: uvula",
+                    "children": []
+                  }
+                ]
+              },
               {
                 "name": "RID7569_RID5824: left masticator space [6 descendants]",
                 "children": [
@@ -3460,7 +3520,7 @@ var tree = [
                 "name": "RID9990: nasopharynx [6 descendants]",
                 "children": [
                   {
-                    "name": "RID9993_RID5824: left pharyngeal tonsil",
+                    "name": "RID9993_RID5824: left half of pharyngeal tonsil",
                     "children": []
                   },
                   {
@@ -3472,7 +3532,7 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID9993_RID5825: right pharyngeal tonsil",
+                    "name": "RID9993_RID5825: right half of pharyngeal tonsil",
                     "children": []
                   },
                   {
@@ -3515,36 +3575,23 @@ var tree = [
                 ]
               },
               {
-                "name": "RID10003: oropharynx [5 descendants]",
-                "children": [
-                  {
-                    "name": "RID9899_RID5824: left palatoglossus muscle",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9899: palatoglossus muscle",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9899_RID5825: right palatoglossus muscle",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9942: soft palate",
-                    "children": []
-                  },
-                  {
-                    "name": "RID9943: uvula",
-                    "children": []
-                  }
-                ]
-              },
-              {
                 "name": "RID7512: digastric muscle",
                 "children": []
               },
               {
+                "name": "RID7517: geniohyoid muscle",
+                "children": []
+              },
+              {
                 "name": "RID7512_RID5824: left digastric muscle",
+                "children": []
+              },
+              {
+                "name": "RID7517_RID5824: left geniohyoid muscle",
+                "children": []
+              },
+              {
+                "name": "RID7516_RID5824: left mylohyoid muscle",
                 "children": []
               },
               {
@@ -3560,11 +3607,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID39005: left sublingual gland",
+                "name": "RID39007: left submandibular gland",
                 "children": []
               },
               {
-                "name": "RID39007: left submandibular gland",
+                "name": "RID7516: mylohyoid muscle",
                 "children": []
               },
               {
@@ -3580,6 +3627,14 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID7517_RID5825: right geniohyoid muscle",
+                "children": []
+              },
+              {
+                "name": "RID7516_RID5825: right mylohyoid muscle",
+                "children": []
+              },
+              {
                 "name": "RID38998: right parotid gland",
                 "children": []
               },
@@ -3592,19 +3647,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID39004: right sublingual gland",
-                "children": []
-              },
-              {
                 "name": "RID39006: right submandibular gland",
                 "children": []
               },
               {
                 "name": "RID7515: stylohyoid muscle",
-                "children": []
-              },
-              {
-                "name": "RID39003: sublingual gland",
                 "children": []
               },
               {
@@ -3614,10 +3661,10 @@ var tree = [
             ]
           },
           {
-            "name": "RID7576: infrahyoid neck [43 descendants]",
+            "name": "RID7576: infrahyoid neck [42 descendants]",
             "children": [
               {
-                "name": "RID7589: larynx [23 descendants]",
+                "name": "RID7589: larynx [22 descendants]",
                 "children": [
                   {
                     "name": "RID7606: arytenoid cartilage",
@@ -3637,6 +3684,10 @@ var tree = [
                   },
                   {
                     "name": "RID7621: cuneiform cartilage",
+                    "children": []
+                  },
+                  {
+                    "name": "RID7657: epiglottis",
                     "children": []
                   },
                   {
@@ -3661,10 +3712,6 @@ var tree = [
                   },
                   {
                     "name": "RID7647_RID5824: left thyroarytenoid muscle",
-                    "children": []
-                  },
-                  {
-                    "name": "RID7651_RID5824: left transverse arytenoid muscle",
                     "children": []
                   },
                   {
@@ -3693,10 +3740,6 @@ var tree = [
                   },
                   {
                     "name": "RID7647_RID5825: right thyroarytenoid muscle",
-                    "children": []
-                  },
-                  {
-                    "name": "RID7651_RID5825: right transverse arytenoid muscle",
                     "children": []
                   },
                   {
@@ -3943,107 +3986,6 @@ var tree = [
             ]
           },
           {
-            "name": "RID13211: pharynx [24 descendants]",
-            "children": [
-              {
-                "name": "RID7556: inferior constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID7556_RID5824: left inferior constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID10008_RID5824: left lingual tonsil",
-                "children": []
-              },
-              {
-                "name": "RID7553_RID5824: left middle constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID10010_RID5824: left palatine tonsil",
-                "children": []
-              },
-              {
-                "name": "RID7560_RID5824: left palatopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7563_RID5824: left salpingopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7559_RID5824: left stylopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7548_RID5824: left superior constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID10008: lingual tonsil",
-                "children": []
-              },
-              {
-                "name": "RID7553: middle constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID10010: palatine tonsil",
-                "children": []
-              },
-              {
-                "name": "RID7560: palatopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7556_RID5825: right inferior constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID10008_RID5825: right lingual tonsil",
-                "children": []
-              },
-              {
-                "name": "RID7553_RID5825: right middle constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID10010_RID5825: right palatine tonsil",
-                "children": []
-              },
-              {
-                "name": "RID7560_RID5825: right palatopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7563_RID5825: right salpingopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7559_RID5825: right stylopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7548_RID5825: right superior constrictor muscle",
-                "children": []
-              },
-              {
-                "name": "RID7563: salpingopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7559: stylopharyngeus muscle",
-                "children": []
-              },
-              {
-                "name": "RID7548: superior constrictor muscle",
-                "children": []
-              }
-            ]
-          },
-          {
             "name": "RID7572_RID5824: left perivertebral space [22 descendants]",
             "children": [
               {
@@ -4055,7 +3997,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43051: left levator scapulae",
+                "name": "RID43051: left levator scapulae muscle",
                 "children": []
               },
               {
@@ -4148,7 +4090,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43050: right levator scapulae",
+                "name": "RID43050: right levator scapulae muscle",
                 "children": []
               },
               {
@@ -4225,6 +4167,83 @@ var tree = [
               },
               {
                 "name": "RID1079_RID5825: right vertebral vein",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "RID13211: pharynx [18 descendants]",
+            "children": [
+              {
+                "name": "RID7556: inferior constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7556_RID5824: left inferior constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7553_RID5824: left middle constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7560_RID5824: left palatopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7563_RID5824: left salpingopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7559_RID5824: left stylopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7548_RID5824: left superior constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7553: middle constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7560: palatopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7556_RID5825: right inferior constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7553_RID5825: right middle constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7560_RID5825: right palatopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7563_RID5825: right salpingopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7559_RID5825: right stylopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7548_RID5825: right superior constrictor muscle",
+                "children": []
+              },
+              {
+                "name": "RID7563: salpingopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7559: stylopharyngeus muscle",
+                "children": []
+              },
+              {
+                "name": "RID7548: superior constrictor muscle",
                 "children": []
               }
             ]
@@ -4318,19 +4337,11 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID7657: epiglottis",
-            "children": []
-          },
-          {
             "name": "RID684: external carotid artery",
             "children": []
           },
           {
             "name": "RID1018: external jugular vein",
-            "children": []
-          },
-          {
-            "name": "RID7517: geniohyoid muscle",
             "children": []
           },
           {
@@ -4366,19 +4377,11 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID7517_RID5824: left geniohyoid muscle",
-            "children": []
-          },
-          {
             "name": "RID44843: left inferior thyroid artery",
             "children": []
           },
           {
             "name": "RID585_RID5824: left internal carotid artery",
-            "children": []
-          },
-          {
-            "name": "RID7516_RID5824: left mylohyoid muscle",
             "children": []
           },
           {
@@ -4410,10 +4413,6 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID7516: mylohyoid muscle",
-            "children": []
-          },
-          {
             "name": "RID7565: retropharyngeal space",
             "children": []
           },
@@ -4438,19 +4437,11 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID7517_RID5825: right geniohyoid muscle",
-            "children": []
-          },
-          {
             "name": "RID44842: right inferior thyroid artery",
             "children": []
           },
           {
             "name": "RID585_RID5825: right internal carotid artery",
-            "children": []
-          },
-          {
-            "name": "RID7516_RID5825: right mylohyoid muscle",
             "children": []
           },
           {
@@ -4512,25 +4503,20 @@ var tree = [
         ]
       },
       {
-        "name": "RID1243: thorax [236 descendants]",
+        "name": "RID1243: thorax [235 descendants]",
         "children": [
           {
-            "name": "RID2468: chest wall [120 descendants]",
+            "name": "RID2468: chest wall [126 descendants]",
             "children": [
               {
-                "name": "RID29859: anterior chest wall [56 descendants]",
+                "name": "RID29859: anterior chest wall [59 descendants]",
                 "children": [
                   {
                     "name": "RID29895: female breast [12 descendants]",
                     "children": [
                       {
-                        "name": "RID29917: areola of female breast [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID29906: nipple of female breast",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID29917: areola of female breast",
+                        "children": []
                       },
                       {
                         "name": "RID29949: central region of female breast",
@@ -4557,6 +4543,10 @@ var tree = [
                         "children": []
                       },
                       {
+                        "name": "RID29906: nipple of female breast",
+                        "children": []
+                      },
+                      {
                         "name": "RID29952: subareolar region of female breast",
                         "children": []
                       },
@@ -4578,13 +4568,8 @@ var tree = [
                     "name": "RID29897: left female breast [12 descendants]",
                     "children": [
                       {
-                        "name": "RID29919: areola of left female breast [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID29908: nipple of left female breast",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID29919: areola of left female breast",
+                        "children": []
                       },
                       {
                         "name": "RID29951: central region of left female breast",
@@ -4611,6 +4596,10 @@ var tree = [
                         "children": []
                       },
                       {
+                        "name": "RID29908: nipple of left female breast",
+                        "children": []
+                      },
+                      {
                         "name": "RID29954: subareolar region of left female breast",
                         "children": []
                       },
@@ -4632,13 +4621,8 @@ var tree = [
                     "name": "RID29896: right female breast [12 descendants]",
                     "children": [
                       {
-                        "name": "RID29918: areola of right female breast [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID29907: nipple of right female breast",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID29918: areola of right female breast",
+                        "children": []
                       },
                       {
                         "name": "RID29950: central region of right female breast",
@@ -4658,6 +4642,10 @@ var tree = [
                       },
                       {
                         "name": "RID29944: medial region of right female breast",
+                        "children": []
+                      },
+                      {
+                        "name": "RID29907: nipple of right female breast",
                         "children": []
                       },
                       {
@@ -4686,13 +4674,12 @@ var tree = [
                     "name": "RID29900: left male breast [2 descendants]",
                     "children": [
                       {
-                        "name": "RID29916: areola of left male breast [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID29905: nipple of left male breast",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID29916: areola of left male breast",
+                        "children": []
+                      },
+                      {
+                        "name": "RID29905: nipple of left male breast",
+                        "children": []
                       }
                     ]
                   },
@@ -4700,13 +4687,12 @@ var tree = [
                     "name": "RID29898: male breast [2 descendants]",
                     "children": [
                       {
-                        "name": "RID29914: areola of male breast [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID29903: nipple of male breast",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID29914: areola of male breast",
+                        "children": []
+                      },
+                      {
+                        "name": "RID29903: nipple of male breast",
+                        "children": []
                       }
                     ]
                   },
@@ -4714,13 +4700,12 @@ var tree = [
                     "name": "RID29899: right male breast [2 descendants]",
                     "children": [
                       {
-                        "name": "RID29915: areola of right male breast [1 descendants]",
-                        "children": [
-                          {
-                            "name": "RID29904: nipple of right male breast",
-                            "children": []
-                          }
-                        ]
+                        "name": "RID29915: areola of right male breast",
+                        "children": []
+                      },
+                      {
+                        "name": "RID29904: nipple of right male breast",
+                        "children": []
                       }
                     ]
                   },
@@ -4734,11 +4719,19 @@ var tree = [
                     ]
                   },
                   {
-                    "name": "RID43072: left pectoralis major",
+                    "name": "RID29955: accessory breast tissue",
                     "children": []
                   },
                   {
-                    "name": "RID43074: left pectoralis minor",
+                    "name": "RID29955_RID5824: left accessory breast tissue",
+                    "children": []
+                  },
+                  {
+                    "name": "RID43072: left pectoralis major muscle",
+                    "children": []
+                  },
+                  {
+                    "name": "RID43074: left pectoralis minor muscle",
                     "children": []
                   },
                   {
@@ -4750,11 +4743,15 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID43071: right pectoralis major",
+                    "name": "RID29955_RID5825: right accessory breast tissue",
                     "children": []
                   },
                   {
-                    "name": "RID43073: right pectoralis minor",
+                    "name": "RID43071: right pectoralis major muscle",
+                    "children": []
+                  },
+                  {
+                    "name": "RID43073: right pectoralis minor muscle",
                     "children": []
                   }
                 ]
@@ -4763,7 +4760,7 @@ var tree = [
                 "name": "RID34572: thoracic vertebral column [12 descendants]",
                 "children": [
                   {
-                    "name": "RID29205: eight thoracic vertebra",
+                    "name": "RID29205: eighth thoracic vertebra",
                     "children": []
                   },
                   {
@@ -4841,6 +4838,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID43951: lateral thoracic vein",
+                "children": []
+              },
+              {
                 "name": "RID28591_RID6158_RID5824: left eighth rib",
                 "children": []
               },
@@ -4865,6 +4866,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID43953: left lateral thoracic vein",
+                "children": []
+              },
+              {
                 "name": "RID28591_RID6159_RID5824: left ninth rib",
                 "children": []
               },
@@ -4873,7 +4878,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43053: left serratus anterior",
+                "name": "RID43053: left serratus anterior muscle",
                 "children": []
               },
               {
@@ -4929,6 +4934,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID43952: right lateral thoracic vein",
+                "children": []
+              },
+              {
                 "name": "RID28591_RID6159_RID5825: right ninth rib",
                 "children": []
               },
@@ -4937,7 +4946,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43052: right serratus anterior",
+                "name": "RID43052: right serratus anterior muscle",
                 "children": []
               },
               {
@@ -5015,7 +5024,7 @@ var tree = [
             ]
           },
           {
-            "name": "RID1384: mediastinum [62 descendants]",
+            "name": "RID1384: mediastinum [68 descendants]",
             "children": [
               {
                 "name": "RID1385: heart [18 descendants]",
@@ -5096,7 +5105,7 @@ var tree = [
                 ]
               },
               {
-                "name": "RID879: thoracic aorta [3 descendants]",
+                "name": "RID879: thoracic aorta [4 descendants]",
                 "children": [
                   {
                     "name": "RID581: aortic arch",
@@ -5109,6 +5118,10 @@ var tree = [
                   {
                     "name": "RID35844: descending thoracic aorta",
                     "children": []
+                  },
+                  {
+                    "name": "RID579: sinotubular junction",
+                    "children": []
                   }
                 ]
               },
@@ -5118,6 +5131,10 @@ var tree = [
               },
               {
                 "name": "RID1169: azygos vein",
+                "children": []
+              },
+              {
+                "name": "RID582: brachiocephalic artery",
                 "children": []
               },
               {
@@ -5137,6 +5154,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID1238: left common pulmonary vein",
+                "children": []
+              },
+              {
                 "name": "RID1494: left inferior pulmonary ligament lymph node (station 9)",
                 "children": []
               },
@@ -5146,6 +5167,10 @@ var tree = [
               },
               {
                 "name": "RID1488: left paraesophageal lymph node (station 8)",
+                "children": []
+              },
+              {
+                "name": "RID44773: left pericardiacophrenic artery",
                 "children": []
               },
               {
@@ -5185,6 +5210,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID44771: pericardiacophrenic artery",
+                "children": []
+              },
+              {
                 "name": "RID1521: pericardial lymph node",
                 "children": []
               },
@@ -5209,6 +5238,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID1232: right common pulmonary vein",
+                "children": []
+              },
+              {
                 "name": "RID1492: right inferior pulmonary ligament lymph node (station 9)",
                 "children": []
               },
@@ -5218,6 +5251,10 @@ var tree = [
               },
               {
                 "name": "RID1486: right paraesophageal lymph node (station 8)",
+                "children": []
+              },
+              {
+                "name": "RID44772: right pericardiacophrenic artery",
                 "children": []
               },
               {
@@ -5238,10 +5275,6 @@ var tree = [
               },
               {
                 "name": "RID28852: set of mediastinal lymph nodes",
-                "children": []
-              },
-              {
-                "name": "RID579: sinotubular junction",
                 "children": []
               },
               {
@@ -5290,7 +5323,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID1499: right hilar lymph node (station 10)",
+                "name": "RID1499: right hilar lymph node (station 10R)",
                 "children": []
               },
               {
@@ -5345,7 +5378,7 @@ var tree = [
                 ]
               },
               {
-                "name": "RID1501: left hilar lymph node (station 10)",
+                "name": "RID1501: left hilar lymph node (station 10L)",
                 "children": []
               },
               {
@@ -5376,39 +5409,7 @@ var tree = [
             ]
           },
           {
-            "name": "RID1517: axillary lymph node",
-            "children": []
-          },
-          {
-            "name": "RID582: brachiocephalic artery",
-            "children": []
-          },
-          {
             "name": "RID95: esophagus",
-            "children": []
-          },
-          {
-            "name": "RID94: gastrointestinal tract",
-            "children": []
-          },
-          {
-            "name": "RID43951: lateral thoracic vein",
-            "children": []
-          },
-          {
-            "name": "RID1517_RID5824: left axillary lymph node",
-            "children": []
-          },
-          {
-            "name": "RID1238: left common pulmonary vein",
-            "children": []
-          },
-          {
-            "name": "RID43953: left lateral thoracic vein",
-            "children": []
-          },
-          {
-            "name": "RID44773: left pericardiacophrenic artery",
             "children": []
           },
           {
@@ -5424,31 +5425,11 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID44771: pericardiacophrenic artery",
-            "children": []
-          },
-          {
             "name": "RID7201: phrenic nerve",
             "children": []
           },
           {
             "name": "RID1362: pleura",
-            "children": []
-          },
-          {
-            "name": "RID1517_RID5825: right axillary lymph node",
-            "children": []
-          },
-          {
-            "name": "RID1232: right common pulmonary vein",
-            "children": []
-          },
-          {
-            "name": "RID43952: right lateral thoracic vein",
-            "children": []
-          },
-          {
-            "name": "RID44772: right pericardiacophrenic artery",
             "children": []
           },
           {
@@ -5486,10 +5467,10 @@ var tree = [
         ]
       },
       {
-        "name": "RID56: abdomen [231 descendants]",
+        "name": "RID56: abdomen [228 descendants]",
         "children": [
           {
-            "name": "RID431: retroperitoneal space [90 descendants]",
+            "name": "RID431: retroperitoneal space [92 descendants]",
             "children": [
               {
                 "name": "RID170: pancreas [8 descendants]",
@@ -5683,10 +5664,6 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID948: iliolumbar artery",
-                "children": []
-              },
-              {
                 "name": "RID939: inferior mesenteric artery",
                 "children": []
               },
@@ -5723,6 +5700,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID940: left colic artery",
+                "children": []
+              },
+              {
                 "name": "RID944_RID5824: left common iliac artery",
                 "children": []
               },
@@ -5732,10 +5713,6 @@ var tree = [
               },
               {
                 "name": "RID1193_RID5824: left common iliac vein",
-                "children": []
-              },
-              {
-                "name": "RID948_RID5824: left iliolumbar artery",
                 "children": []
               },
               {
@@ -5767,7 +5744,15 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID31931: pancreatic lymph node group",
+                "children": []
+              },
+              {
                 "name": "RID38296: pancreatic tributary of splenic vein",
+                "children": []
+              },
+              {
+                "name": "RID28857: pancreaticoduodenal lymph node",
                 "children": []
               },
               {
@@ -5799,6 +5784,14 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID929: right colic artery",
+                "children": []
+              },
+              {
+                "name": "RID38290: right colic vein",
+                "children": []
+              },
+              {
                 "name": "RID944_RID5825: right common iliac artery",
                 "children": []
               },
@@ -5808,10 +5801,6 @@ var tree = [
               },
               {
                 "name": "RID1193_RID5825: right common iliac vein",
-                "children": []
-              },
-              {
-                "name": "RID948_RID5825: right iliolumbar artery",
                 "children": []
               },
               {
@@ -5861,7 +5850,7 @@ var tree = [
             ]
           },
           {
-            "name": "RID397: peritoneal cavity [66 descendants]",
+            "name": "RID397: peritoneal cavity [61 descendants]",
             "children": [
               {
                 "name": "RID58: liver [17 descendants]",
@@ -5939,39 +5928,6 @@ var tree = [
                 ]
               },
               {
-                "name": "RID415: hepatoduodenal ligament [7 descendants]",
-                "children": [
-                  {
-                    "name": "RID200: common hepatic duct",
-                    "children": []
-                  },
-                  {
-                    "name": "RID919: cystic artery",
-                    "children": []
-                  },
-                  {
-                    "name": "RID201: cystic duct",
-                    "children": []
-                  },
-                  {
-                    "name": "RID31997: hepatoportal lymph node group",
-                    "children": []
-                  },
-                  {
-                    "name": "RID916: left hepatic artery",
-                    "children": []
-                  },
-                  {
-                    "name": "RID914: proper hepatic artery",
-                    "children": []
-                  },
-                  {
-                    "name": "RID918: right hepatic artery",
-                    "children": []
-                  }
-                ]
-              },
-              {
                 "name": "RID430: greater omentum [6 descendants]",
                 "children": [
                   {
@@ -6001,10 +5957,35 @@ var tree = [
                 ]
               },
               {
+                "name": "RID415: hepatoduodenal ligament [5 descendants]",
+                "children": [
+                  {
+                    "name": "RID200: common hepatic duct",
+                    "children": []
+                  },
+                  {
+                    "name": "RID31997: hepatoportal lymph node group",
+                    "children": []
+                  },
+                  {
+                    "name": "RID916: left hepatic artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID914: proper hepatic artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID918: right hepatic artery",
+                    "children": []
+                  }
+                ]
+              },
+              {
                 "name": "RID413: hepatogastric ligament [5 descendants]",
                 "children": [
                   {
-                    "name": "RID453: gastrohepatic ligament node",
+                    "name": "RID453: gastrohepatic ligament lymph node",
                     "children": []
                   },
                   {
@@ -6095,6 +6076,10 @@ var tree = [
                 ]
               },
               {
+                "name": "RID168: appendix",
+                "children": []
+              },
+              {
                 "name": "RID29245: first part of duodenum",
                 "children": []
               },
@@ -6107,10 +6092,6 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID940: left colic artery",
-                "children": []
-              },
-              {
                 "name": "RID931: middle colic artery",
                 "children": []
               },
@@ -6119,19 +6100,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID929: right colic artery",
-                "children": []
-              },
-              {
-                "name": "RID38290: right colic vein",
-                "children": []
-              },
-              {
                 "name": "RID86: spleen",
-                "children": []
-              },
-              {
-                "name": "RID942: superior rectal artery",
                 "children": []
               },
               {
@@ -6144,25 +6113,26 @@ var tree = [
             "name": "RID30014: wall of abdomen [51 descendants]",
             "children": [
               {
-                "name": "RID30008: anterior abdominal wall [26 descendants]",
+                "name": "RID30008: anterior abdominal wall [27 descendants]",
                 "children": [
                   {
                     "name": "RID2485: inguinal canal [4 descendants]",
                     "children": [
                       {
+                        "name": "RID375: spermatic cord [1 descendants]",
+                        "children": [
+                          {
+                            "name": "RID376: pampiniform plexus",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
                         "name": "RID375_RID5824: left spermatic cord",
                         "children": []
                       },
                       {
-                        "name": "RID376: pampiniform plexus",
-                        "children": []
-                      },
-                      {
                         "name": "RID375_RID5825: right spermatic cord",
-                        "children": []
-                      },
-                      {
-                        "name": "RID375: spermatic cord",
                         "children": []
                       }
                     ]
@@ -6209,6 +6179,10 @@ var tree = [
                   },
                   {
                     "name": "RID31604: left transversus abdominis",
+                    "children": []
+                  },
+                  {
+                    "name": "RID32809: musculature of anterior abdominal wall",
                     "children": []
                   },
                   {
@@ -6302,11 +6276,11 @@ var tree = [
                     ]
                   },
                   {
-                    "name": "RID32249: left psoas major",
+                    "name": "RID32249: left psoas major muscle",
                     "children": []
                   },
                   {
-                    "name": "RID32251: left psoas minor",
+                    "name": "RID32251: left psoas minor muscle",
                     "children": []
                   },
                   {
@@ -6330,11 +6304,11 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID32248: right psoas major",
+                    "name": "RID32248: right psoas major muscle",
                     "children": []
                   },
                   {
-                    "name": "RID32250: right psoas minor",
+                    "name": "RID32250: right psoas minor muscle",
                     "children": []
                   },
                   {
@@ -6345,10 +6319,6 @@ var tree = [
               },
               {
                 "name": "RID32811: musculature of abdomen",
-                "children": []
-              },
-              {
-                "name": "RID32809: musculature of anterior abdominal wall",
                 "children": []
               }
             ]
@@ -6370,6 +6340,14 @@ var tree = [
             "children": []
           },
           {
+            "name": "RID919: cystic artery",
+            "children": []
+          },
+          {
+            "name": "RID201: cystic duct",
+            "children": []
+          },
+          {
             "name": "RID31919: gastric lymph node group",
             "children": []
           },
@@ -6387,14 +6365,6 @@ var tree = [
           },
           {
             "name": "RID30845: left ureter",
-            "children": []
-          },
-          {
-            "name": "RID31931: pancreatic lymph node group",
-            "children": []
-          },
-          {
-            "name": "RID28857: pancreaticoduodenal lymph node",
             "children": []
           },
           {
@@ -6639,7 +6609,7 @@ var tree = [
             "name": "RID2177: wrist [47 descendants]",
             "children": [
               {
-                "name": "RID2202: wrist joint [12 descendants]",
+                "name": "RID2202: wrist joint [10 descendants]",
                 "children": [
                   {
                     "name": "RID2249: capitohamate joint",
@@ -6654,19 +6624,11 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID2229: dorsal radioulnar ligament",
-                    "children": []
-                  },
-                  {
                     "name": "RID40937: palmar intercarpal ligament",
                     "children": []
                   },
                   {
                     "name": "RID40874: palmar radiocarpal ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2230: palmar radioulnar ligament",
                     "children": []
                   },
                   {
@@ -6692,6 +6654,19 @@ var tree = [
                 ]
               },
               {
+                "name": "RID2203: distal radioulnar joint [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID2229: dorsal radioulnar ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID2230: palmar radioulnar ligament",
+                    "children": []
+                  }
+                ]
+              },
+              {
                 "name": "RID2198: hamate [1 descendants]",
                 "children": [
                   {
@@ -6706,10 +6681,6 @@ var tree = [
               },
               {
                 "name": "RID2197: capitate",
-                "children": []
-              },
-              {
-                "name": "RID2203: distal radioulnar joint",
                 "children": []
               },
               {
@@ -6831,7 +6802,7 @@ var tree = [
             ]
           },
           {
-            "name": "RID39518: shoulder [35 descendants]",
+            "name": "RID39518: shoulder [36 descendants]",
             "children": [
               {
                 "name": "RID1905: glenohumeral joint [5 descendants]",
@@ -6876,22 +6847,8 @@ var tree = [
                 ]
               },
               {
-                "name": "RID1895: acromioclavicular joint [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID1901: coracoclavicular ligament",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID1884: sternoclavicular joint [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID1892: costoclavicular ligament",
-                    "children": []
-                  }
-                ]
+                "name": "RID1895: acromioclavicular joint",
+                "children": []
               },
               {
                 "name": "RID1972: anatomical neck of humerus",
@@ -6899,6 +6856,10 @@ var tree = [
               },
               {
                 "name": "RID860: axillary artery",
+                "children": []
+              },
+              {
+                "name": "RID1517: axillary lymph node",
                 "children": []
               },
               {
@@ -6915,6 +6876,14 @@ var tree = [
               },
               {
                 "name": "RID1915: coracoacromial ligament",
+                "children": []
+              },
+              {
+                "name": "RID1901: coracoclavicular ligament",
+                "children": []
+              },
+              {
+                "name": "RID1892: costoclavicular ligament",
                 "children": []
               },
               {
@@ -6947,6 +6916,10 @@ var tree = [
               },
               {
                 "name": "RID1945: short head of biceps brachii tendon",
+                "children": []
+              },
+              {
+                "name": "RID1884: sternoclavicular joint",
                 "children": []
               },
               {
@@ -7246,10 +7219,6 @@ var tree = [
                 "children": []
               }
             ]
-          },
-          {
-            "name": "RID29955: accessory breast tissue",
-            "children": []
           }
         ]
       },
@@ -7260,7 +7229,7 @@ var tree = [
             "name": "RID2177_RID5824: left wrist [47 descendants]",
             "children": [
               {
-                "name": "RID2202_RID5824: left wrist joint [12 descendants]",
+                "name": "RID2202_RID5824: left wrist joint [10 descendants]",
                 "children": [
                   {
                     "name": "RID2249_RID5824: left capitohamate joint",
@@ -7275,19 +7244,11 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID2229_RID5824: left dorsal radioulnar ligament",
-                    "children": []
-                  },
-                  {
                     "name": "RID40939: left palmar intercarpal ligament",
                     "children": []
                   },
                   {
                     "name": "RID40876: left palmar radiocarpal ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2230_RID5824: left palmar radioulnar ligament",
                     "children": []
                   },
                   {
@@ -7308,6 +7269,19 @@ var tree = [
                   },
                   {
                     "name": "RID2235_RID5824: left ulnar collateral ligament of wrist",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID2203_RID5824: left distal radioulnar joint [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID2229_RID5824: left dorsal radioulnar ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID2230_RID5824: left palmar radioulnar ligament",
                     "children": []
                   }
                 ]
@@ -7359,10 +7333,6 @@ var tree = [
               },
               {
                 "name": "RID2197_RID5824: left capitate",
-                "children": []
-              },
-              {
-                "name": "RID2203_RID5824: left distal radioulnar joint",
                 "children": []
               },
               {
@@ -7455,7 +7425,7 @@ var tree = [
             "name": "RID2318_RID5824: left hand [44 descendants]",
             "children": [
               {
-                "name": "RID43144: abductor digiti minimi of left hand",
+                "name": "RID43144: abductor digiti minimi muscle of left hand",
                 "children": []
               },
               {
@@ -7495,7 +7465,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43146: flexor digiti minimi brevis of left hand",
+                "name": "RID43146: flexor digiti minimi brevis muscle of left hand",
                 "children": []
               },
               {
@@ -7591,7 +7561,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43148: opponens digiti minimi of left hand",
+                "name": "RID43148: opponens digiti minimi muscle of left hand",
                 "children": []
               },
               {
@@ -7633,7 +7603,7 @@ var tree = [
             ]
           },
           {
-            "name": "RID39518_RID5824: left shoulder [35 descendants]",
+            "name": "RID39518_RID5824: left shoulder [36 descendants]",
             "children": [
               {
                 "name": "RID42241: left glenohumeral joint [5 descendants]",
@@ -7678,25 +7648,11 @@ var tree = [
                 ]
               },
               {
-                "name": "RID42239: left acromioclavicular joint [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID42243: left coracoclavicular ligament",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID42237: left sternoclavicular joint [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID1892_RID5824: left costoclavicular ligament",
-                    "children": []
-                  }
-                ]
-              },
-              {
                 "name": "RID39922: head of left humerus",
+                "children": []
+              },
+              {
+                "name": "RID42239: left acromioclavicular joint",
                 "children": []
               },
               {
@@ -7705,6 +7661,10 @@ var tree = [
               },
               {
                 "name": "RID45199: left axillary artery",
+                "children": []
+              },
+              {
+                "name": "RID1517_RID5824: left axillary lymph node",
                 "children": []
               },
               {
@@ -7721,6 +7681,14 @@ var tree = [
               },
               {
                 "name": "RID40843: left coracoacromial ligament",
+                "children": []
+              },
+              {
+                "name": "RID42243: left coracoclavicular ligament",
+                "children": []
+              },
+              {
+                "name": "RID1892_RID5824: left costoclavicular ligament",
                 "children": []
               },
               {
@@ -7749,6 +7717,10 @@ var tree = [
               },
               {
                 "name": "RID1945_RID5824: left short head of biceps brachii tendon",
+                "children": []
+              },
+              {
+                "name": "RID42237: left sternoclavicular joint",
                 "children": []
               },
               {
@@ -8048,10 +8020,6 @@ var tree = [
                 "children": []
               }
             ]
-          },
-          {
-            "name": "RID29955_RID5824: left accessory breast tissue",
-            "children": []
           }
         ]
       },
@@ -8062,7 +8030,7 @@ var tree = [
             "name": "RID2177_RID5825: right wrist [47 descendants]",
             "children": [
               {
-                "name": "RID2202_RID5825: right wrist joint [12 descendants]",
+                "name": "RID2202_RID5825: right wrist joint [10 descendants]",
                 "children": [
                   {
                     "name": "RID2249_RID5825: right capitohamate joint",
@@ -8077,19 +8045,11 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID2229_RID5825: right dorsal radioulnar ligament",
-                    "children": []
-                  },
-                  {
                     "name": "RID40938: right palmar intercarpal ligament",
                     "children": []
                   },
                   {
                     "name": "RID40875: right palmar radiocarpal ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2230_RID5825: right palmar radioulnar ligament",
                     "children": []
                   },
                   {
@@ -8110,6 +8070,19 @@ var tree = [
                   },
                   {
                     "name": "RID2235_RID5825: right ulnar collateral ligament of wrist",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID2203_RID5825: right distal radioulnar joint [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID2229_RID5825: right dorsal radioulnar ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID2230_RID5825: right palmar radioulnar ligament",
                     "children": []
                   }
                 ]
@@ -8161,10 +8134,6 @@ var tree = [
               },
               {
                 "name": "RID2197_RID5825: right capitate",
-                "children": []
-              },
-              {
-                "name": "RID2203_RID5825: right distal radioulnar joint",
                 "children": []
               },
               {
@@ -8257,7 +8226,7 @@ var tree = [
             "name": "RID2318_RID5825: right hand [44 descendants]",
             "children": [
               {
-                "name": "RID43143: abductor digiti minimi of right hand",
+                "name": "RID43143: abductor digiti minimi muscle of right hand",
                 "children": []
               },
               {
@@ -8297,7 +8266,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43145: flexor digiti minimi brevis of right hand",
+                "name": "RID43145: flexor digiti minimi brevis muscle of right hand",
                 "children": []
               },
               {
@@ -8341,7 +8310,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID43147: opponens digiti minimi of right hand",
+                "name": "RID43147: opponens digiti minimi muscle of right hand",
                 "children": []
               },
               {
@@ -8435,7 +8404,7 @@ var tree = [
             ]
           },
           {
-            "name": "RID39518_RID5825: right shoulder [35 descendants]",
+            "name": "RID39518_RID5825: right shoulder [36 descendants]",
             "children": [
               {
                 "name": "RID42240: right glenohumeral joint [5 descendants]",
@@ -8480,25 +8449,11 @@ var tree = [
                 ]
               },
               {
-                "name": "RID42238: right acromioclavicular joint [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID42242: right coracoclavicular ligament",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID42236: right sternoclavicular joint [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID1892_RID5825: right costoclavicular ligament",
-                    "children": []
-                  }
-                ]
-              },
-              {
                 "name": "RID39921: head of right humerus",
+                "children": []
+              },
+              {
+                "name": "RID42238: right acromioclavicular joint",
                 "children": []
               },
               {
@@ -8507,6 +8462,10 @@ var tree = [
               },
               {
                 "name": "RID45198: right axillary artery",
+                "children": []
+              },
+              {
+                "name": "RID1517_RID5825: right axillary lymph node",
                 "children": []
               },
               {
@@ -8523,6 +8482,14 @@ var tree = [
               },
               {
                 "name": "RID40842: right coracoacromial ligament",
+                "children": []
+              },
+              {
+                "name": "RID42242: right coracoclavicular ligament",
+                "children": []
+              },
+              {
+                "name": "RID1892_RID5825: right costoclavicular ligament",
                 "children": []
               },
               {
@@ -8551,6 +8518,10 @@ var tree = [
               },
               {
                 "name": "RID1945_RID5825: right short head of biceps brachii tendon",
+                "children": []
+              },
+              {
+                "name": "RID42236: right sternoclavicular joint",
                 "children": []
               },
               {
@@ -8850,19 +8821,28 @@ var tree = [
                 "children": []
               }
             ]
-          },
-          {
-            "name": "RID29955_RID5825: right accessory breast tissue",
-            "children": []
           }
         ]
       },
       {
-        "name": "RID2638_RID5824: left lower extremity [192 descendants]",
+        "name": "RID2638_RID5824: left lower extremity [190 descendants]",
         "children": [
           {
-            "name": "RID28829_RID5824: left foot [54 descendants]",
+            "name": "RID28829_RID5824: left foot [61 descendants]",
             "children": [
+              {
+                "name": "RID2949_RID5824: left talus [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID2952_RID5824: left medial tubercle of talus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID2957_RID5824: left talar sulcus",
+                    "children": []
+                  }
+                ]
+              },
               {
                 "name": "RID2959_RID5824: left calcaneus [1 descendants]",
                 "children": [
@@ -8929,11 +8909,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID3182_RID5824: left dorsal interossei muscle of foot",
+                "name": "RID3182_RID5824: left dorsal interosseous muscle of foot",
                 "children": []
               },
               {
-                "name": "RID972_RID5824: left dorsal pedal artery",
+                "name": "RID972_RID5824: left dorsalis pedis artery",
                 "children": []
               },
               {
@@ -9021,11 +9001,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID970_RID5824: left plantar arch",
+                "name": "RID970_RID5824: left plantar arterial arch",
                 "children": []
               },
               {
-                "name": "RID3181_RID5824: left plantar interossei muscle of foot",
+                "name": "RID3181_RID5824: left plantar interosseous muscle of foot",
                 "children": []
               },
               {
@@ -9079,14 +9059,30 @@ var tree = [
               {
                 "name": "RID2986_RID2997_RID5824: left third metatarsal",
                 "children": []
+              },
+              {
+                "name": "RID41202: tendon of left extensor digitorum longus to left fifth toe",
+                "children": []
+              },
+              {
+                "name": "RID41199: tendon of left extensor digitorum longus to left fourth toe",
+                "children": []
+              },
+              {
+                "name": "RID41193: tendon of left extensor digitorum longus to left second toe",
+                "children": []
+              },
+              {
+                "name": "RID41196: tendon of left extensor digitorum longus to left third toe",
+                "children": []
               }
             ]
           },
           {
-            "name": "RID2869_RID5824: left leg [30 descendants]",
+            "name": "RID2869_RID5824: left leg [29 descendants]",
             "children": [
               {
-                "name": "RID2934_RID5824: left deep posterior compartment of leg [5 descendants]",
+                "name": "RID2934_RID5824: left deep posterior compartment of leg [7 descendants]",
                 "children": [
                   {
                     "name": "RID48479: left flexor digitorum longus muscle",
@@ -9105,7 +9101,15 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID48481: left tibialis posterior",
+                    "name": "RID967_RID5824: left posterior tibial artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID1207_RID5824: left posterior tibial vein",
+                    "children": []
+                  },
+                  {
+                    "name": "RID48481: left tibialis posterior muscle",
                     "children": []
                   }
                 ]
@@ -9170,23 +9174,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID7348_RID5824: left common peroneal nerve",
-                "children": []
-              },
-              {
                 "name": "RID15800: left deep peroneal nerve",
                 "children": []
               },
               {
                 "name": "RID49437: left fibula",
-                "children": []
-              },
-              {
-                "name": "RID967_RID5824: left posterior tibial artery",
-                "children": []
-              },
-              {
-                "name": "RID1207_RID5824: left posterior tibial vein",
                 "children": []
               },
               {
@@ -9212,10 +9204,10 @@ var tree = [
             ]
           },
           {
-            "name": "RID2660_RID5824: left thigh [30 descendants]",
+            "name": "RID2660_RID5824: left thigh [28 descendants]",
             "children": [
               {
-                "name": "RID48158: anterior compartment of left thigh [11 descendants]",
+                "name": "RID48158: anterior compartment of left thigh [10 descendants]",
                 "children": [
                   {
                     "name": "RID48213: left articularis genus",
@@ -9227,10 +9219,6 @@ var tree = [
                   },
                   {
                     "name": "RID1199_RID5824: left femoral vein",
-                    "children": []
-                  },
-                  {
-                    "name": "RID1197_RID5824: left great saphenous vein",
                     "children": []
                   },
                   {
@@ -9314,10 +9302,6 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID39755: greater trochanter of left femur",
-                "children": []
-              },
-              {
                 "name": "RID959_RID5824: left deep femoral artery",
                 "children": []
               },
@@ -9330,40 +9314,131 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID25685: left sciatic nerve",
+                "name": "RID465_RID5824: left inguinal lymph node",
                 "children": []
               },
               {
-                "name": "RID39757: lesser trochanter of left femur",
+                "name": "RID25685: left sciatic nerve",
                 "children": []
               }
             ]
           },
           {
-            "name": "RID28545_RID5824: left ankle [28 descendants]",
+            "name": "RID49360: left knee [25 descendants]",
             "children": [
               {
-                "name": "RID3004_RID5824: left ankle joint [14 descendants]",
+                "name": "RID49393: left knee joint [6 descendants]",
                 "children": [
                   {
-                    "name": "RID2949_RID5824: left talus [2 descendants]",
-                    "children": [
-                      {
-                        "name": "RID2952_RID5824: left medial tubercle of talus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID2957_RID5824: left sulcus tali",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID3022_RID5824: left anterior talofibular ligament",
+                    "name": "RID48972: left anterior cruciate ligament",
                     "children": []
                   },
                   {
-                    "name": "RID38808_RID5824: left anterior tibiofibular ligament",
+                    "name": "RID48951: left lateral collateral ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID49365: left lateral meniscus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID48949: left medial collateral ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID49363: left medial meniscus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID48974: left posterior cruciate ligament",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID39860: lateral condyle of left femur [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID49285: lateral epicondyle of left femur",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID39858: medial condyle of left femur [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID49267: medial epicondyle of left femur",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID39631: lateral condyle of left tibia",
+                "children": []
+              },
+              {
+                "name": "RID41144: left biceps femoris tendon",
+                "children": []
+              },
+              {
+                "name": "RID7348_RID5824: left common peroneal nerve",
+                "children": []
+              },
+              {
+                "name": "RID49395: left fabella",
+                "children": []
+              },
+              {
+                "name": "RID2872_RID5824: left head of fibula",
+                "children": []
+              },
+              {
+                "name": "RID39647: left lateral tibial spine",
+                "children": []
+              },
+              {
+                "name": "RID39649: left medial tibial spine",
+                "children": []
+              },
+              {
+                "name": "RID2875_RID5824: left neck of fibula",
+                "children": []
+              },
+              {
+                "name": "RID48531: left patella",
+                "children": []
+              },
+              {
+                "name": "RID48959: left patellar tendon",
+                "children": []
+              },
+              {
+                "name": "RID962_RID5824: left popliteal artery",
+                "children": []
+              },
+              {
+                "name": "RID1201_RID5824: left popliteal vein",
+                "children": []
+              },
+              {
+                "name": "RID48533: left quadriceps tendon",
+                "children": []
+              },
+              {
+                "name": "RID39628: medial condyle of left tibia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "RID28545_RID5824: left ankle [21 descendants]",
+            "children": [
+              {
+                "name": "RID3004_RID5824: left ankle joint [7 descendants]",
+                "children": [
+                  {
+                    "name": "RID3022_RID5824: left anterior talofibular ligament",
                     "children": []
                   },
                   {
@@ -9379,19 +9454,7 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID39865: left lateral malleolus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39872: left medial malleolus",
-                    "children": []
-                  },
-                  {
                     "name": "RID3024_RID5824: left posterior talofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID38809_RID5824: left posterior tibiofibular ligament",
                     "children": []
                   },
                   {
@@ -9409,6 +9472,10 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID38808_RID5824: left anterior tibiofibular ligament",
+                "children": []
+              },
+              {
                 "name": "RID41187: left extensor hallucis longus tendon",
                 "children": []
               },
@@ -9418,6 +9485,14 @@ var tree = [
               },
               {
                 "name": "RID41226: left flexor hallucis longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID39865: left lateral malleolus",
+                "children": []
+              },
+              {
+                "name": "RID39872: left medial malleolus",
                 "children": []
               },
               {
@@ -9433,161 +9508,27 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID38809_RID5824: left posterior tibiofibular ligament",
+                "children": []
+              },
+              {
                 "name": "RID41177: left tibialis anterior tendon",
                 "children": []
               },
               {
                 "name": "RID41179: left tibialis posterior tendon",
                 "children": []
-              },
-              {
-                "name": "RID41202: tendon of left extensor digitorum longus to left fifth toe",
-                "children": []
-              },
-              {
-                "name": "RID41199: tendon of left extensor digitorum longus to left fourth toe",
-                "children": []
-              },
-              {
-                "name": "RID41193: tendon of left extensor digitorum longus to left second toe",
-                "children": []
-              },
-              {
-                "name": "RID41196: tendon of left extensor digitorum longus to left third toe",
-                "children": []
               }
             ]
           },
           {
-            "name": "RID49360: left knee [24 descendants]",
+            "name": "RID2639_RID5824: left hip [19 descendants]",
             "children": [
               {
-                "name": "RID49393: left knee joint [12 descendants]",
+                "name": "RID2640_RID5824: left hip joint [4 descendants]",
                 "children": [
-                  {
-                    "name": "RID39631: lateral condyle of left tibia",
-                    "children": []
-                  },
-                  {
-                    "name": "RID48972: left anterior cruciate ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2872_RID5824: left head of fibula",
-                    "children": []
-                  },
-                  {
-                    "name": "RID48951: left lateral collateral ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID49365: left lateral meniscus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39647: left lateral tibial spine",
-                    "children": []
-                  },
-                  {
-                    "name": "RID48949: left medial collateral ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID49363: left medial meniscus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39649: left medial tibial spine",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2875_RID5824: left neck of fibula",
-                    "children": []
-                  },
-                  {
-                    "name": "RID48974: left posterior cruciate ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39628: medial condyle of left tibia",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID39860: lateral condyle of left femur [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID49285: lateral epicondyle of left femur",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID48533: left quadriceps tendon [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID48531: left patella",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID39858: medial condyle of left femur [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID49267: medial epicondyle of left femur",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID49395: left fabella",
-                "children": []
-              },
-              {
-                "name": "RID48959: left patellar tendon",
-                "children": []
-              },
-              {
-                "name": "RID962_RID5824: left popliteal artery",
-                "children": []
-              },
-              {
-                "name": "RID1201_RID5824: left popliteal vein",
-                "children": []
-              },
-              {
-                "name": "RID41144: tendon of left biceps femoris",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "RID2639_RID5824: left hip [20 descendants]",
-            "children": [
-              {
-                "name": "RID2640_RID5824: left hip joint [8 descendants]",
-                "children": [
-                  {
-                    "name": "RID2564_RID5824: left acetabulum [1 descendants]",
-                    "children": [
-                      {
-                        "name": "RID2567_RID5824: left acetabular notch",
-                        "children": []
-                      }
-                    ]
-                  },
                   {
                     "name": "RID2644_RID5824: left acetabular labrum",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2668_RID5824: left femoral neck",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2664_RID5824: left head of femur",
                     "children": []
                   },
                   {
@@ -9605,6 +9546,23 @@ var tree = [
                 ]
               },
               {
+                "name": "RID2564_RID5824: left acetabulum [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID2567_RID5824: left acetabular notch",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID39755: greater trochanter of left femur",
+                "children": []
+              },
+              {
+                "name": "RID2668_RID5824: left femoral neck",
+                "children": []
+              },
+              {
                 "name": "RID2629_RID5824: left gluteus maximus muscle",
                 "children": []
               },
@@ -9617,7 +9575,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID2531_RID5824: left ilium",
+                "name": "RID2664_RID5824: left head of femur",
                 "children": []
               },
               {
@@ -9626,14 +9584,6 @@ var tree = [
               },
               {
                 "name": "RID25681: left inferior gluteal nerve",
-                "children": []
-              },
-              {
-                "name": "RID465_RID5824: left inguinal lymph node",
-                "children": []
-              },
-              {
-                "name": "RID2545_RID5824: left ischium",
                 "children": []
               },
               {
@@ -9647,17 +9597,38 @@ var tree = [
               {
                 "name": "RID2703_RID5824: left tensor fasciae latae muscle",
                 "children": []
+              },
+              {
+                "name": "RID39757: lesser trochanter of left femur",
+                "children": []
               }
             ]
+          },
+          {
+            "name": "RID1197_RID5824: left great saphenous vein",
+            "children": []
           }
         ]
       },
       {
-        "name": "RID2638: lower extremity [192 descendants]",
+        "name": "RID2638: lower extremity [190 descendants]",
         "children": [
           {
-            "name": "RID28829: foot [54 descendants]",
+            "name": "RID28829: foot [61 descendants]",
             "children": [
+              {
+                "name": "RID2949: talus [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID2952: medial tubercle of talus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID2957: talar sulcus",
+                    "children": []
+                  }
+                ]
+              },
               {
                 "name": "RID2959: calcaneus [1 descendants]",
                 "children": [
@@ -9724,11 +9695,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID3182: dorsal interossei muscle of foot",
+                "name": "RID3182: dorsal interosseous muscle of foot",
                 "children": []
               },
               {
-                "name": "RID972: dorsal pedal artery",
+                "name": "RID972: dorsalis pedis artery",
                 "children": []
               },
               {
@@ -9816,11 +9787,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID970: plantar arch",
+                "name": "RID970: plantar arterial arch",
                 "children": []
               },
               {
-                "name": "RID3181: plantar interossei muscle of foot",
+                "name": "RID3181: plantar interosseous muscle of foot",
                 "children": []
               },
               {
@@ -9872,16 +9843,32 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID41200: tendon of extensor digitorum longus to fifth toe",
+                "children": []
+              },
+              {
+                "name": "RID41197: tendon of extensor digitorum longus to fourth toe",
+                "children": []
+              },
+              {
+                "name": "RID41191: tendon of extensor digitorum longus to second toe",
+                "children": []
+              },
+              {
+                "name": "RID41194: tendon of extensor digitorum longus to third toe",
+                "children": []
+              },
+              {
                 "name": "RID2986_RID2997: third metatarsal",
                 "children": []
               }
             ]
           },
           {
-            "name": "RID2869: leg [30 descendants]",
+            "name": "RID2869: leg [29 descendants]",
             "children": [
               {
-                "name": "RID2934: deep posterior compartment of leg [5 descendants]",
+                "name": "RID2934: deep posterior compartment of leg [7 descendants]",
                 "children": [
                   {
                     "name": "RID2929: flexor digitorum longus muscle",
@@ -9897,6 +9884,14 @@ var tree = [
                   },
                   {
                     "name": "RID1206: peroneal vein",
+                    "children": []
+                  },
+                  {
+                    "name": "RID967: posterior tibial artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID1207: posterior tibial vein",
                     "children": []
                   },
                   {
@@ -9961,10 +9956,6 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID7348: common peroneal nerve",
-                "children": []
-              },
-              {
                 "name": "RID7359: deep peroneal nerve",
                 "children": []
               },
@@ -9974,14 +9965,6 @@ var tree = [
               },
               {
                 "name": "RID2871: fibula",
-                "children": []
-              },
-              {
-                "name": "RID967: posterior tibial artery",
-                "children": []
-              },
-              {
-                "name": "RID1207: posterior tibial vein",
                 "children": []
               },
               {
@@ -10007,10 +9990,10 @@ var tree = [
             ]
           },
           {
-            "name": "RID2660: thigh [30 descendants]",
+            "name": "RID2660: thigh [28 descendants]",
             "children": [
               {
-                "name": "RID2691: anterior compartment of thigh [11 descendants]",
+                "name": "RID2691: anterior compartment of thigh [10 descendants]",
                 "children": [
                   {
                     "name": "RID48211: articularis genus",
@@ -10022,10 +10005,6 @@ var tree = [
                   },
                   {
                     "name": "RID1199: femoral vein",
-                    "children": []
-                  },
-                  {
-                    "name": "RID1197: great saphenous vein",
                     "children": []
                   },
                   {
@@ -10117,15 +10096,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID2671: greater trochanter of femur",
-                "children": []
-              },
-              {
                 "name": "RID2723: iliotibial band",
                 "children": []
               },
               {
-                "name": "RID2673: lesser trochanter of femur",
+                "name": "RID465: inguinal lymph node",
                 "children": []
               },
               {
@@ -10135,136 +10110,13 @@ var tree = [
             ]
           },
           {
-            "name": "RID28545: ankle [28 descendants]",
+            "name": "RID2743: knee [25 descendants]",
             "children": [
               {
-                "name": "RID3004: ankle joint [14 descendants]",
-                "children": [
-                  {
-                    "name": "RID2949: talus [2 descendants]",
-                    "children": [
-                      {
-                        "name": "RID2952: medial tubercle of talus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID2957: sulcus tali",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID3022: anterior talofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID38808: anterior tibiofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3015: anterior tibiotalar ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3023: calcaneofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3016: deep posterior tibiotalar ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2883: lateral malleolus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2904: medial malleolus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3024: posterior talofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID38809: posterior tibiofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3018: tibiocalcaneal ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3020: tibionavicular ligament",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID3184: Achilles tendon",
-                "children": []
-              },
-              {
-                "name": "RID3188: extensor hallucis longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID3192: flexor digitorum longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID3193: flexor hallucis longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID3197: peroneus brevis tendon",
-                "children": []
-              },
-              {
-                "name": "RID41206: peroneus longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID41203: peroneus tertius tendon",
-                "children": []
-              },
-              {
-                "name": "RID41200: tendon of extensor digitorum longus to fifth toe",
-                "children": []
-              },
-              {
-                "name": "RID41197: tendon of extensor digitorum longus to fourth toe",
-                "children": []
-              },
-              {
-                "name": "RID41191: tendon of extensor digitorum longus to second toe",
-                "children": []
-              },
-              {
-                "name": "RID41194: tendon of extensor digitorum longus to third toe",
-                "children": []
-              },
-              {
-                "name": "RID41175: tibialis anterior tendon",
-                "children": []
-              },
-              {
-                "name": "RID3194: tibialis posterior tendon",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "RID2743: knee [24 descendants]",
-            "children": [
-              {
-                "name": "RID2751: knee joint [12 descendants]",
+                "name": "RID2751: knee joint [6 descendants]",
                 "children": [
                   {
                     "name": "RID2781: anterior cruciate ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2872: head of fibula",
                     "children": []
                   },
                   {
@@ -10272,15 +10124,7 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID39629: lateral condyle of tibia",
-                    "children": []
-                  },
-                  {
                     "name": "RID2763: lateral meniscus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2889: lateral tibial spine",
                     "children": []
                   },
                   {
@@ -10288,19 +10132,7 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID39626: medial condyle of tibia",
-                    "children": []
-                  },
-                  {
                     "name": "RID2772: medial meniscus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2892: medial tibial spine",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2875: neck of fibula",
                     "children": []
                   },
                   {
@@ -10328,20 +10160,43 @@ var tree = [
                 ]
               },
               {
-                "name": "RID2848: quadriceps tendon [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID2746: patella",
-                    "children": []
-                  }
-                ]
-              },
-              {
                 "name": "RID2851: biceps femoris tendon",
                 "children": []
               },
               {
+                "name": "RID7348: common peroneal nerve",
+                "children": []
+              },
+              {
                 "name": "RID2745: fabella",
+                "children": []
+              },
+              {
+                "name": "RID2872: head of fibula",
+                "children": []
+              },
+              {
+                "name": "RID39629: lateral condyle of tibia",
+                "children": []
+              },
+              {
+                "name": "RID2889: lateral tibial spine",
+                "children": []
+              },
+              {
+                "name": "RID39626: medial condyle of tibia",
+                "children": []
+              },
+              {
+                "name": "RID2892: medial tibial spine",
+                "children": []
+              },
+              {
+                "name": "RID2875: neck of fibula",
+                "children": []
+              },
+              {
+                "name": "RID2746: patella",
                 "children": []
               },
               {
@@ -10355,34 +10210,111 @@ var tree = [
               {
                 "name": "RID1201: popliteal vein",
                 "children": []
+              },
+              {
+                "name": "RID2848: quadriceps tendon",
+                "children": []
               }
             ]
           },
           {
-            "name": "RID2639: hip [20 descendants]",
+            "name": "RID28545: ankle [21 descendants]",
             "children": [
               {
-                "name": "RID2640: hip joint [8 descendants]",
+                "name": "RID3004: ankle joint [7 descendants]",
                 "children": [
                   {
-                    "name": "RID2564: acetabulum [1 descendants]",
-                    "children": [
-                      {
-                        "name": "RID2567: acetabular notch",
-                        "children": []
-                      }
-                    ]
+                    "name": "RID3022: anterior talofibular ligament",
+                    "children": []
                   },
+                  {
+                    "name": "RID3015: anterior tibiotalar ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3023: calcaneofibular ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3016: deep posterior tibiotalar ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3024: posterior talofibular ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3018: tibiocalcaneal ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3020: tibionavicular ligament",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID3184: Achilles tendon",
+                "children": []
+              },
+              {
+                "name": "RID38808: anterior tibiofibular ligament",
+                "children": []
+              },
+              {
+                "name": "RID3188: extensor hallucis longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID3192: flexor digitorum longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID3193: flexor hallucis longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID2883: lateral malleolus",
+                "children": []
+              },
+              {
+                "name": "RID2904: medial malleolus",
+                "children": []
+              },
+              {
+                "name": "RID3197: peroneus brevis tendon",
+                "children": []
+              },
+              {
+                "name": "RID41206: peroneus longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID41203: peroneus tertius tendon",
+                "children": []
+              },
+              {
+                "name": "RID38809: posterior tibiofibular ligament",
+                "children": []
+              },
+              {
+                "name": "RID41175: tibialis anterior tendon",
+                "children": []
+              },
+              {
+                "name": "RID3194: tibialis posterior tendon",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "RID2639: hip [19 descendants]",
+            "children": [
+              {
+                "name": "RID2640: hip joint [4 descendants]",
+                "children": [
                   {
                     "name": "RID2644: acetabular labrum",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2668: femoral neck",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2664: head of femur",
                     "children": []
                   },
                   {
@@ -10400,6 +10332,19 @@ var tree = [
                 ]
               },
               {
+                "name": "RID2564: acetabulum [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID2567: acetabular notch",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID2668: femoral neck",
+                "children": []
+              },
+              {
                 "name": "RID2629: gluteus maximus muscle",
                 "children": []
               },
@@ -10412,7 +10357,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID2531: ilium",
+                "name": "RID2671: greater trochanter of femur",
+                "children": []
+              },
+              {
+                "name": "RID2664: head of femur",
                 "children": []
               },
               {
@@ -10424,11 +10373,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID465: inguinal lymph node",
-                "children": []
-              },
-              {
-                "name": "RID2545: ischium",
+                "name": "RID2673: lesser trochanter of femur",
                 "children": []
               },
               {
@@ -10444,15 +10389,32 @@ var tree = [
                 "children": []
               }
             ]
+          },
+          {
+            "name": "RID1197: great saphenous vein",
+            "children": []
           }
         ]
       },
       {
-        "name": "RID2638_RID5825: right lower extremity [192 descendants]",
+        "name": "RID2638_RID5825: right lower extremity [190 descendants]",
         "children": [
           {
-            "name": "RID28829_RID5825: right foot [54 descendants]",
+            "name": "RID28829_RID5825: right foot [61 descendants]",
             "children": [
+              {
+                "name": "RID2949_RID5825: right talus [2 descendants]",
+                "children": [
+                  {
+                    "name": "RID2952_RID5825: right medial tubercle of talus",
+                    "children": []
+                  },
+                  {
+                    "name": "RID2957_RID5825: right talar sulcus",
+                    "children": []
+                  }
+                ]
+              },
               {
                 "name": "RID2959_RID5825: right calcaneus [1 descendants]",
                 "children": [
@@ -10519,11 +10481,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID3182_RID5825: right dorsal interossei muscle of foot",
+                "name": "RID3182_RID5825: right dorsal interosseous muscle of foot",
                 "children": []
               },
               {
-                "name": "RID972_RID5825: right dorsal pedal artery",
+                "name": "RID972_RID5825: right dorsalis pedis artery",
                 "children": []
               },
               {
@@ -10611,11 +10573,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID970_RID5825: right plantar arch",
+                "name": "RID970_RID5825: right plantar arterial arch",
                 "children": []
               },
               {
-                "name": "RID3181_RID5825: right plantar interossei muscle of foot",
+                "name": "RID3181_RID5825: right plantar interosseous muscle of foot",
                 "children": []
               },
               {
@@ -10669,14 +10631,30 @@ var tree = [
               {
                 "name": "RID2986_RID2997_RID5825: right third metatarsal",
                 "children": []
+              },
+              {
+                "name": "RID41201: tendon of right extensor digitorum longus to right fifth toe",
+                "children": []
+              },
+              {
+                "name": "RID41198: tendon of right extensor digitorum longus to right fourth toe",
+                "children": []
+              },
+              {
+                "name": "RID41192: tendon of right extensor digitorum longus to right second toe",
+                "children": []
+              },
+              {
+                "name": "RID41195: tendon of right extensor digitorum longus to right third toe",
+                "children": []
               }
             ]
           },
           {
-            "name": "RID2869_RID5825: right leg [30 descendants]",
+            "name": "RID2869_RID5825: right leg [29 descendants]",
             "children": [
               {
-                "name": "RID2934_RID5825: right deep posterior compartment of leg [5 descendants]",
+                "name": "RID2934_RID5825: right deep posterior compartment of leg [7 descendants]",
                 "children": [
                   {
                     "name": "RID48478: right flexor digitorum longus muscle",
@@ -10695,7 +10673,15 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID48480: right tibialis posterior",
+                    "name": "RID967_RID5825: right posterior tibial artery",
+                    "children": []
+                  },
+                  {
+                    "name": "RID1207_RID5825: right posterior tibial vein",
+                    "children": []
+                  },
+                  {
+                    "name": "RID48480: right tibialis posterior muscle",
                     "children": []
                   }
                 ]
@@ -10760,23 +10746,11 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID7348_RID5825: right common peroneal nerve",
-                "children": []
-              },
-              {
                 "name": "RID15801: right deep peroneal nerve",
                 "children": []
               },
               {
                 "name": "RID49436: right fibula",
-                "children": []
-              },
-              {
-                "name": "RID967_RID5825: right posterior tibial artery",
-                "children": []
-              },
-              {
-                "name": "RID1207_RID5825: right posterior tibial vein",
                 "children": []
               },
               {
@@ -10802,10 +10776,10 @@ var tree = [
             ]
           },
           {
-            "name": "RID2660_RID5825: right thigh [30 descendants]",
+            "name": "RID2660_RID5825: right thigh [28 descendants]",
             "children": [
               {
-                "name": "RID48157: anterior compartment of right thigh [11 descendants]",
+                "name": "RID48157: anterior compartment of right thigh [10 descendants]",
                 "children": [
                   {
                     "name": "RID48212: right articularis genus",
@@ -10817,10 +10791,6 @@ var tree = [
                   },
                   {
                     "name": "RID1199_RID5825: right femoral vein",
-                    "children": []
-                  },
-                  {
-                    "name": "RID1197_RID5825: right great saphenous vein",
                     "children": []
                   },
                   {
@@ -10904,14 +10874,6 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID39754: greater trochanter of right femur",
-                "children": []
-              },
-              {
-                "name": "RID39756: lesser trochanter of right femur",
-                "children": []
-              },
-              {
                 "name": "RID959_RID5825: right deep femoral artery",
                 "children": []
               },
@@ -10924,150 +10886,23 @@ var tree = [
                 "children": []
               },
               {
+                "name": "RID465_RID5825: right inguinal lymph node",
+                "children": []
+              },
+              {
                 "name": "RID25684: right sciatic nerve",
                 "children": []
               }
             ]
           },
           {
-            "name": "RID28545_RID5825: right ankle [28 descendants]",
+            "name": "RID49359: right knee [25 descendants]",
             "children": [
               {
-                "name": "RID3004_RID5825: right ankle joint [14 descendants]",
+                "name": "RID49392: right knee joint [6 descendants]",
                 "children": [
-                  {
-                    "name": "RID2949_RID5825: right talus [2 descendants]",
-                    "children": [
-                      {
-                        "name": "RID2952_RID5825: right medial tubercle of talus",
-                        "children": []
-                      },
-                      {
-                        "name": "RID2957_RID5825: right sulcus tali",
-                        "children": []
-                      }
-                    ]
-                  },
-                  {
-                    "name": "RID3022_RID5825: right anterior talofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID38808_RID5825: right anterior tibiofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3015_RID5825: right anterior tibiotalar ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3023_RID5825: right calcaneofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3016_RID5825: right deep posterior tibiotalar ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39864: right lateral malleolus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39871: right medial malleolus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3024_RID5825: right posterior talofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID38809_RID5825: right posterior tibiofibular ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3018_RID5825: right tibiocalcaneal ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID3020_RID5825: right tibionavicular ligament",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "RID3184_RID5825: right Achilles tendon",
-                "children": []
-              },
-              {
-                "name": "RID41186: right extensor hallucis longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID41227: right flexor digitorum longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID41225: right flexor hallucis longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID41209: right peroneus brevis tendon",
-                "children": []
-              },
-              {
-                "name": "RID41207: right peroneus longus tendon",
-                "children": []
-              },
-              {
-                "name": "RID41204: right peroneus tertius tendon",
-                "children": []
-              },
-              {
-                "name": "RID41176: right tibialis anterior tendon",
-                "children": []
-              },
-              {
-                "name": "RID41178: right tibialis posterior tendon",
-                "children": []
-              },
-              {
-                "name": "RID41201: tendon of right extensor digitorum longus to right fifth toe",
-                "children": []
-              },
-              {
-                "name": "RID41198: tendon of right extensor digitorum longus to right fourth toe",
-                "children": []
-              },
-              {
-                "name": "RID41192: tendon of right extensor digitorum longus to right second toe",
-                "children": []
-              },
-              {
-                "name": "RID41195: tendon of right extensor digitorum longus to right third toe",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "RID49359: right knee [24 descendants]",
-            "children": [
-              {
-                "name": "RID49392: right knee joint [12 descendants]",
-                "children": [
-                  {
-                    "name": "RID39630: lateral condyle of right tibia",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39627: medial condyle of right tibia",
-                    "children": []
-                  },
                   {
                     "name": "RID48971: right anterior cruciate ligament",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2872_RID5825: right head of fibula",
                     "children": []
                   },
                   {
@@ -11079,23 +10914,11 @@ var tree = [
                     "children": []
                   },
                   {
-                    "name": "RID39646: right lateral tibial spine",
-                    "children": []
-                  },
-                  {
                     "name": "RID48948: right medial collateral ligament",
                     "children": []
                   },
                   {
                     "name": "RID49362: right medial meniscus",
-                    "children": []
-                  },
-                  {
-                    "name": "RID39648: right medial tibial spine",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2875_RID5825: right neck of fibula",
                     "children": []
                   },
                   {
@@ -11123,16 +10946,43 @@ var tree = [
                 ]
               },
               {
-                "name": "RID48532: right quadriceps tendon [1 descendants]",
-                "children": [
-                  {
-                    "name": "RID48530: right patella",
-                    "children": []
-                  }
-                ]
+                "name": "RID39630: lateral condyle of right tibia",
+                "children": []
+              },
+              {
+                "name": "RID39627: medial condyle of right tibia",
+                "children": []
+              },
+              {
+                "name": "RID41143: right biceps femoris tendon",
+                "children": []
+              },
+              {
+                "name": "RID7348_RID5825: right common peroneal nerve",
+                "children": []
               },
               {
                 "name": "RID49394: right fabella",
+                "children": []
+              },
+              {
+                "name": "RID2872_RID5825: right head of fibula",
+                "children": []
+              },
+              {
+                "name": "RID39646: right lateral tibial spine",
+                "children": []
+              },
+              {
+                "name": "RID39648: right medial tibial spine",
+                "children": []
+              },
+              {
+                "name": "RID2875_RID5825: right neck of fibula",
+                "children": []
+              },
+              {
+                "name": "RID48530: right patella",
                 "children": []
               },
               {
@@ -11148,36 +10998,109 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID41143: tendon of right biceps femoris",
+                "name": "RID48532: right quadriceps tendon",
                 "children": []
               }
             ]
           },
           {
-            "name": "RID2639_RID5825: right hip [20 descendants]",
+            "name": "RID28545_RID5825: right ankle [21 descendants]",
             "children": [
               {
-                "name": "RID2640_RID5825: right hip joint [8 descendants]",
+                "name": "RID3004_RID5825: right ankle joint [7 descendants]",
                 "children": [
                   {
-                    "name": "RID2564_RID5825: right acetabulum [1 descendants]",
-                    "children": [
-                      {
-                        "name": "RID2567_RID5825: right acetabular notch",
-                        "children": []
-                      }
-                    ]
+                    "name": "RID3022_RID5825: right anterior talofibular ligament",
+                    "children": []
                   },
+                  {
+                    "name": "RID3015_RID5825: right anterior tibiotalar ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3023_RID5825: right calcaneofibular ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3016_RID5825: right deep posterior tibiotalar ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3024_RID5825: right posterior talofibular ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3018_RID5825: right tibiocalcaneal ligament",
+                    "children": []
+                  },
+                  {
+                    "name": "RID3020_RID5825: right tibionavicular ligament",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID3184_RID5825: right Achilles tendon",
+                "children": []
+              },
+              {
+                "name": "RID38808_RID5825: right anterior tibiofibular ligament",
+                "children": []
+              },
+              {
+                "name": "RID41186: right extensor hallucis longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID41227: right flexor digitorum longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID41225: right flexor hallucis longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID39864: right lateral malleolus",
+                "children": []
+              },
+              {
+                "name": "RID39871: right medial malleolus",
+                "children": []
+              },
+              {
+                "name": "RID41209: right peroneus brevis tendon",
+                "children": []
+              },
+              {
+                "name": "RID41207: right peroneus longus tendon",
+                "children": []
+              },
+              {
+                "name": "RID41204: right peroneus tertius tendon",
+                "children": []
+              },
+              {
+                "name": "RID38809_RID5825: right posterior tibiofibular ligament",
+                "children": []
+              },
+              {
+                "name": "RID41176: right tibialis anterior tendon",
+                "children": []
+              },
+              {
+                "name": "RID41178: right tibialis posterior tendon",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "RID2639_RID5825: right hip [19 descendants]",
+            "children": [
+              {
+                "name": "RID2640_RID5825: right hip joint [4 descendants]",
+                "children": [
                   {
                     "name": "RID2644_RID5825: right acetabular labrum",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2668_RID5825: right femoral neck",
-                    "children": []
-                  },
-                  {
-                    "name": "RID2664_RID5825: right head of femur",
                     "children": []
                   },
                   {
@@ -11195,6 +11118,27 @@ var tree = [
                 ]
               },
               {
+                "name": "RID2564_RID5825: right acetabulum [1 descendants]",
+                "children": [
+                  {
+                    "name": "RID2567_RID5825: right acetabular notch",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "RID39754: greater trochanter of right femur",
+                "children": []
+              },
+              {
+                "name": "RID39756: lesser trochanter of right femur",
+                "children": []
+              },
+              {
+                "name": "RID2668_RID5825: right femoral neck",
+                "children": []
+              },
+              {
                 "name": "RID2629_RID5825: right gluteus maximus muscle",
                 "children": []
               },
@@ -11207,7 +11151,7 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID2531_RID5825: right ilium",
+                "name": "RID2664_RID5825: right head of femur",
                 "children": []
               },
               {
@@ -11216,14 +11160,6 @@ var tree = [
               },
               {
                 "name": "RID25680: right inferior gluteal nerve",
-                "children": []
-              },
-              {
-                "name": "RID465_RID5825: right inguinal lymph node",
-                "children": []
-              },
-              {
-                "name": "RID2545_RID5825: right ischium",
                 "children": []
               },
               {
@@ -11239,11 +11175,15 @@ var tree = [
                 "children": []
               }
             ]
+          },
+          {
+            "name": "RID1197_RID5825: right great saphenous vein",
+            "children": []
           }
         ]
       },
       {
-        "name": "RID2507: pelvis [130 descendants]",
+        "name": "RID2507: pelvis [139 descendants]",
         "children": [
           {
             "name": "RID302: uterus [8 descendants]",
@@ -11444,10 +11384,6 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID168: appendix",
-            "children": []
-          },
-          {
             "name": "RID237: bladder",
             "children": []
           },
@@ -11480,7 +11416,11 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID342: genital system of the male human body",
+            "name": "RID948: iliolumbar artery",
+            "children": []
+          },
+          {
+            "name": "RID2531: ilium",
             "children": []
           },
           {
@@ -11497,6 +11437,10 @@ var tree = [
           },
           {
             "name": "RID954: internal pudendal artery",
+            "children": []
+          },
+          {
+            "name": "RID2545: ischium",
             "children": []
           },
           {
@@ -11520,11 +11464,23 @@ var tree = [
             "children": []
           },
           {
+            "name": "RID948_RID5824: left iliolumbar artery",
+            "children": []
+          },
+          {
+            "name": "RID2531_RID5824: left ilium",
+            "children": []
+          },
+          {
             "name": "RID13086_RID5824: left inferior vesical artery",
             "children": []
           },
           {
             "name": "RID954_RID5824: left internal pudendal artery",
+            "children": []
+          },
+          {
+            "name": "RID2545_RID5824: left ischium",
             "children": []
           },
           {
@@ -11592,6 +11548,10 @@ var tree = [
             "children": []
           },
           {
+            "name": "RID342: male genital system",
+            "children": []
+          },
+          {
             "name": "RID466: mesorectal lymph node",
             "children": []
           },
@@ -11636,6 +11596,10 @@ var tree = [
             "children": []
           },
           {
+            "name": "RID2594: pubic symphysis",
+            "children": []
+          },
+          {
             "name": "RID2553: pubis",
             "children": []
           },
@@ -11668,11 +11632,23 @@ var tree = [
             "children": []
           },
           {
+            "name": "RID948_RID5825: right iliolumbar artery",
+            "children": []
+          },
+          {
+            "name": "RID2531_RID5825: right ilium",
+            "children": []
+          },
+          {
             "name": "RID13086_RID5825: right inferior vesical artery",
             "children": []
           },
           {
             "name": "RID954_RID5825: right internal pudendal artery",
+            "children": []
+          },
+          {
+            "name": "RID2545_RID5825: right ischium",
             "children": []
           },
           {
@@ -11752,11 +11728,11 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID13087: superior vesical artery",
+            "name": "RID942: superior rectal artery",
             "children": []
           },
           {
-            "name": "RID2594: symphysis pubis",
+            "name": "RID13087: superior vesical artery",
             "children": []
           },
           {
@@ -11801,15 +11777,15 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID43055: left rhomboid major",
+            "name": "RID43055: left rhomboid major muscle",
             "children": []
           },
           {
-            "name": "RID43057: left rhomboid minor",
+            "name": "RID43057: left rhomboid minor muscle",
             "children": []
           },
           {
-            "name": "RID43046: left trapezius",
+            "name": "RID43046: left trapezius muscle",
             "children": []
           },
           {
@@ -11821,11 +11797,11 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID2500: rhomboideus major muscle",
+            "name": "RID2500: rhomboid major muscle",
             "children": []
           },
           {
-            "name": "RID2501: rhomboideus minor muscle",
+            "name": "RID2501: rhomboid minor muscle",
             "children": []
           },
           {
@@ -11837,15 +11813,15 @@ var tree = [
             "children": []
           },
           {
-            "name": "RID43054: right rhomboid major",
+            "name": "RID43054: right rhomboid major muscle",
             "children": []
           },
           {
-            "name": "RID43056: right rhomboid minor",
+            "name": "RID43056: right rhomboid minor muscle",
             "children": []
           },
           {
-            "name": "RID43045: right trapezius",
+            "name": "RID43045: right trapezius muscle",
             "children": []
           },
           {
@@ -11855,18 +11831,10 @@ var tree = [
         ]
       },
       {
-        "name": "RID7741: spine [5 descendants]",
+        "name": "RID7741: spine [3 descendants]",
         "children": [
           {
             "name": "RID789: anterior spinal artery",
-            "children": []
-          },
-          {
-            "name": "RID44639: left anterior spinal artery",
-            "children": []
-          },
-          {
-            "name": "RID44638: right anterior spinal artery",
             "children": []
           },
           {
@@ -11885,6 +11853,10 @@ var tree = [
       },
       {
         "name": "RID13183: arterial system",
+        "children": []
+      },
+      {
+        "name": "RID94: gastrointestinal tract",
         "children": []
       },
       {
