@@ -45776,7 +45776,7 @@
     {
       "radlexId": "RID28600",
       "description": "circle of Willis",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "codes": [
         {
           "system": "FMA",
@@ -46009,7 +46009,7 @@
     {
       "radlexId": "RID649",
       "description": "anterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "codes": [
         {
@@ -46756,7 +46756,7 @@
     {
       "radlexId": "RID643",
       "description": "anterior choroidal artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36542",
       "rightId": "RID36541",
       "codes": [
@@ -46777,7 +46777,7 @@
     {
       "radlexId": "RID36541",
       "description": "right anterior choroidal artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36542",
       "unsidedId": "RID643",
       "codes": [
@@ -46794,7 +46794,7 @@
     {
       "radlexId": "RID36542",
       "description": "left anterior choroidal artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID36541",
       "unsidedId": "RID643",
       "codes": [
@@ -47214,7 +47214,7 @@
     {
       "radlexId": "RID642",
       "description": "posterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "leftId": "RID36505",
       "rightId": "RID36504",
@@ -47236,7 +47236,7 @@
     {
       "radlexId": "RID36504",
       "description": "right posterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "leftId": "RID36505",
       "unsidedId": "RID642",
@@ -47254,7 +47254,7 @@
     {
       "radlexId": "RID36505",
       "description": "left posterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "rightId": "RID36504",
       "unsidedId": "RID642",
@@ -47696,21 +47696,21 @@
     {
       "radlexId": "RID810",
       "description": "anterior thalamoperforating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID810_RID5824",
       "rightId": "RID810_RID5825"
     },
     {
       "radlexId": "RID810_RID5824",
       "description": "left anterior thalamoperforating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID810_RID5825",
       "unsidedId": "RID810"
     },
     {
       "radlexId": "RID810_RID5825",
       "description": "right anterior thalamoperforating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID810_RID5824",
       "unsidedId": "RID810"
     },
@@ -47738,7 +47738,7 @@
     {
       "radlexId": "RID812",
       "description": "thalamogeniculate artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44727",
       "rightId": "RID44726",
       "codes": [
@@ -47751,7 +47751,7 @@
     {
       "radlexId": "RID44726",
       "description": "right thalamogeniculate artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44727",
       "unsidedId": "RID812",
       "codes": [
@@ -47764,7 +47764,7 @@
     {
       "radlexId": "RID44727",
       "description": "left thalamogeniculate artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID44726",
       "unsidedId": "RID812",
       "codes": [
@@ -47990,7 +47990,7 @@
     {
       "radlexId": "RID821",
       "description": "splenial artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44751",
       "rightId": "RID44750",
       "synonyms": [
@@ -48006,7 +48006,7 @@
     {
       "radlexId": "RID44750",
       "description": "right splenial artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44751",
       "unsidedId": "RID821",
       "codes": [
@@ -48019,7 +48019,7 @@
     {
       "radlexId": "RID44751",
       "description": "left splenial artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID44750",
       "unsidedId": "RID821",
       "codes": [
@@ -48097,7 +48097,7 @@
       "radlexId": "RID791",
       "description": "basilar artery",
       "definition": "The artery formed by the union of the right and left vertebral arteries; it runs from the lower to the upper border of the pons, where it bifurcates into the two posterior cerebral arteries. [MeSH]",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "codes": [
         {
           "system": "FMA",
@@ -48124,7 +48124,7 @@
     {
       "radlexId": "RID803",
       "description": "superior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44671",
       "rightId": "RID44670",
       "codes": [
@@ -48145,7 +48145,7 @@
     {
       "radlexId": "RID44670",
       "description": "right superior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44671",
       "unsidedId": "RID803",
       "codes": [
@@ -48162,7 +48162,7 @@
     {
       "radlexId": "RID44671",
       "description": "left superior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID44670",
       "unsidedId": "RID803",
       "codes": [
@@ -48179,7 +48179,7 @@
     {
       "radlexId": "RID794",
       "description": "anterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44690",
       "rightId": "RID44689",
       "synonyms": [
@@ -48203,7 +48203,7 @@
     {
       "radlexId": "RID44689",
       "description": "right anterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44690",
       "unsidedId": "RID794",
       "codes": [
@@ -48220,7 +48220,7 @@
     {
       "radlexId": "RID44690",
       "description": "left anterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID44689",
       "unsidedId": "RID794",
       "codes": [
@@ -48237,7 +48237,7 @@
     {
       "radlexId": "RID779",
       "description": "posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44641",
       "rightId": "RID44640",
       "synonyms": [
@@ -48261,7 +48261,7 @@
     {
       "radlexId": "RID44640",
       "description": "right posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44641",
       "unsidedId": "RID779",
       "codes": [
@@ -48278,7 +48278,7 @@
     {
       "radlexId": "RID44641",
       "description": "left posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID44640",
       "unsidedId": "RID779",
       "codes": [
@@ -48295,7 +48295,7 @@
     {
       "radlexId": "RID781",
       "description": "anterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID779",
       "leftId": "RID781_RID5824",
       "rightId": "RID781_RID5825",
@@ -48306,7 +48306,7 @@
     {
       "radlexId": "RID781_RID5824",
       "description": "left anterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44641",
       "rightId": "RID781_RID5825",
       "unsidedId": "RID781",
@@ -48317,7 +48317,7 @@
     {
       "radlexId": "RID781_RID5825",
       "description": "right anterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44640",
       "leftId": "RID781_RID5824",
       "unsidedId": "RID781",
@@ -48328,7 +48328,7 @@
     {
       "radlexId": "RID783",
       "description": "posterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID779",
       "leftId": "RID783_RID5824",
       "rightId": "RID783_RID5825",
@@ -48339,7 +48339,7 @@
     {
       "radlexId": "RID783_RID5824",
       "description": "left posterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44641",
       "rightId": "RID783_RID5825",
       "unsidedId": "RID783",
@@ -48350,7 +48350,7 @@
     {
       "radlexId": "RID783_RID5825",
       "description": "right posterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44640",
       "leftId": "RID783_RID5824",
       "unsidedId": "RID783",
@@ -49149,7 +49149,7 @@
     {
       "radlexId": "RID36161",
       "description": "anterior cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36163",
       "rightId": "RID36162",
       "codes": [
@@ -49170,7 +49170,7 @@
     {
       "radlexId": "RID36162",
       "description": "right anterior cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36163",
       "unsidedId": "RID36161",
       "codes": [
@@ -49187,7 +49187,7 @@
     {
       "radlexId": "RID36163",
       "description": "left anterior cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID36162",
       "unsidedId": "RID36161",
       "codes": [
@@ -49204,7 +49204,7 @@
     {
       "radlexId": "RID1142",
       "description": "internal cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36191",
       "rightId": "RID36190",
       "codes": [
@@ -49225,7 +49225,7 @@
     {
       "radlexId": "RID36190",
       "description": "right internal cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36191",
       "unsidedId": "RID1142",
       "codes": [
@@ -49242,7 +49242,7 @@
     {
       "radlexId": "RID36191",
       "description": "left internal cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID36190",
       "unsidedId": "RID1142",
       "codes": [
@@ -49340,7 +49340,7 @@
     {
       "radlexId": "RID36674",
       "description": "superior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36676",
       "rightId": "RID36675",
       "codes": [
@@ -49357,7 +49357,7 @@
     {
       "radlexId": "RID36675",
       "description": "right superior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36676",
       "unsidedId": "RID36674",
       "codes": [
@@ -49374,7 +49374,7 @@
     {
       "radlexId": "RID36676",
       "description": "left superior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID36675",
       "unsidedId": "RID36674",
       "codes": [
@@ -49391,7 +49391,7 @@
     {
       "radlexId": "RID36677",
       "description": "inferior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36679",
       "rightId": "RID36678",
       "codes": [
@@ -49408,7 +49408,7 @@
     {
       "radlexId": "RID36678",
       "description": "right inferior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36679",
       "unsidedId": "RID36677",
       "codes": [
@@ -49425,7 +49425,7 @@
     {
       "radlexId": "RID36679",
       "description": "left inferior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID36678",
       "unsidedId": "RID36677",
       "codes": [
@@ -53906,7 +53906,7 @@
       ]
     },
     {
-      "radlexId": "RID6389_RID6434",
+      "radlexId": "RID6434_RID6389",
       "description": "supratentorial brain",
       "containedById": "RID6434",
       "partOfId": "RID6434",
@@ -53918,7 +53918,7 @@
       ]
     },
     {
-      "radlexId": "RID6381_RID6434",
+      "radlexId": "RID6434_RID6381",
       "description": "infratentorial brain",
       "containedById": "RID6434",
       "partOfId": "RID6434",
@@ -53933,7 +53933,7 @@
       "radlexId": "RID6677",
       "description": "brainstem",
       "definition": "The part of the brain that connects the cerebral hemispheres with the spinal cord. It consists of the mesencephalon; pons; and medulla oblongata. [MeSH]",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID6434",
       "codes": [
         {
@@ -54186,7 +54186,7 @@
       "radlexId": "RID6815",
       "description": "cerebellum",
       "definition": "Segment of neuraxis that has as its parts the cerebellar cortex, cerebellar nuclear complex and cerebellar white matter.",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID6434",
       "codes": [
         {
@@ -54616,7 +54616,7 @@
       "radlexId": "RID6641",
       "description": "optic chiasm",
       "definition": "Nerve trunk which is continuous with right and left optic nerves and right and left optic tracts.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "optic chiasma",
         "decussation of optic nerve fibers"
@@ -54648,7 +54648,7 @@
       "radlexId": "RID22696",
       "description": "optic tract",
       "definition": "Nerve trunk which is continuous with the optic chiasm and the lateral geniculate nucleus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID22698",
       "rightId": "RID22697",
       "synonyms": [
@@ -54681,7 +54681,7 @@
       "radlexId": "RID22697",
       "description": "right optic tract",
       "definition": "Optic tract which is continuous with the optic chiasm and the right lateral geniculate nucleus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID22698",
       "unsidedId": "RID22696",
       "codes": [
@@ -54703,7 +54703,7 @@
       "radlexId": "RID22698",
       "description": "left optic tract",
       "definition": "Optic tract which is continuous with the optic chiasm and the left lateral geniculate nucleus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID22697",
       "unsidedId": "RID22696",
       "codes": [
@@ -57065,7 +57065,7 @@
       "radlexId": "RID6576",
       "description": "pineal gland",
       "definition": "Circumventricular organ of neuraxis which is shaped like a pine cone and attached on the midline near the posterior and habenular commissures of the epithalamus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "synonyms": [
         "pineal body"
@@ -57097,7 +57097,7 @@
       "radlexId": "RID6578",
       "description": "thalamus",
       "definition": "Paired bodies containing mostly gray substance and forming part of the lateral wall of the third ventricle of the brain. The thalamus represents the major portion of the diencephalon and is commonly divided into cellular aggregates known as nuclear groups. [MeSH]",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13496",
       "rightId": "RID13495",
@@ -57130,7 +57130,7 @@
     {
       "radlexId": "RID13495",
       "description": "right thalamus",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13496",
       "unsidedId": "RID6578",
@@ -57152,7 +57152,7 @@
     {
       "radlexId": "RID13496",
       "description": "left thalamus",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "rightId": "RID13495",
       "unsidedId": "RID6578",
@@ -57174,7 +57174,7 @@
     {
       "radlexId": "RID6911",
       "description": "anterior commissure",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "codes": [
         {
           "system": "FMA",
@@ -57197,7 +57197,7 @@
     {
       "radlexId": "RID6914",
       "description": "posterior commissure",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "epithalamic commissure",
         "caudal commissure"
@@ -57225,7 +57225,7 @@
       "radlexId": "RID6915",
       "description": "corpus callosum",
       "definition": "Broad plate of dense myelinated fibers that reciprocally interconnect regions of the cortex in all lobes with corresponding regions of the opposite hemisphere. The corpus callosum is located deep in the longitudinal fissure. [MeSH]",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "codes": [
         {
           "system": "FMA",
@@ -57421,7 +57421,7 @@
       "radlexId": "RID6639",
       "description": "hypothalamus",
       "definition": "Ventral part of the diencephalon extending from the region of the optic chiasm to the caudal border of the mammillary bodies and forming the inferior and lateral walls of the third ventricle. [MeSH]",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "synonyms": [
         "preoptico-hypothalamic region",
@@ -57844,7 +57844,7 @@
     {
       "radlexId": "RID7137",
       "description": "third ventricle",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "3rd ventricle",
         "cavity of third ventricle"
@@ -57912,7 +57912,7 @@
     {
       "radlexId": "RID7178",
       "description": "interventricular foramen",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "foramen of Monro"
       ],
@@ -57935,7 +57935,7 @@
       "radlexId": "RID7147",
       "description": "fourth ventricle",
       "definition": "An irregularly shaped cavity in the rhombencephalon, between the medulla oblongata, the pons, and the isthmus in front, and the cerebellum behind. It is continuous with the central canal of the cord below and with the cerebral aqueduct above, and through its lateral and median apertures it communicates with the subarachnoid space. [MeSH]",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "synonyms": [
         "4th ventricle",
         "cavity of fourth ventricle"
@@ -58178,7 +58178,7 @@
       "radlexId": "RID13857",
       "description": "cerebral hemisphere",
       "definition": "One of two bilateral, largely symmetrical organ subdivisions within the telencephalon which contain the cerebral cortex and cerebral white matter.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13859",
       "rightId": "RID13858",
@@ -58201,7 +58201,7 @@
       "radlexId": "RID13858",
       "description": "right cerebral hemisphere",
       "definition": "The right cerebral hemisphere is one of two bilateral, largely symmetrical organ subdivisions within the telencephalon which contain the cerebral cortex and cerebral white matter.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13859",
       "unsidedId": "RID13857",
@@ -58220,7 +58220,7 @@
       "radlexId": "RID13859",
       "description": "left cerebral hemisphere",
       "definition": "Left cerebral hemisphere is one of two bilateral, largely symmetrical organ subdivisions within the telencephalon which contain the cerebral cortex and cerebral white matter.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "rightId": "RID13858",
       "unsidedId": "RID13857",
@@ -58734,84 +58734,84 @@
     {
       "radlexId": "RID6391",
       "description": "frontal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6391_RID5824",
       "rightId": "RID6391_RID5825"
     },
     {
       "radlexId": "RID6391_RID5824",
       "description": "left frontal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6391_RID5825",
       "unsidedId": "RID6391"
     },
     {
       "radlexId": "RID6391_RID5825",
       "description": "right frontal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6391_RID5824",
       "unsidedId": "RID6391"
     },
     {
       "radlexId": "RID6392",
       "description": "temporal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6392_RID5824",
       "rightId": "RID6392_RID5825"
     },
     {
       "radlexId": "RID6392_RID5824",
       "description": "left temporal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6392_RID5825",
       "unsidedId": "RID6392"
     },
     {
       "radlexId": "RID6392_RID5825",
       "description": "right temporal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6392_RID5824",
       "unsidedId": "RID6392"
     },
     {
       "radlexId": "RID6393",
       "description": "occipital brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6393_RID5824",
       "rightId": "RID6393_RID5825"
     },
     {
       "radlexId": "RID6393_RID5824",
       "description": "left occipital brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6393_RID5825",
       "unsidedId": "RID6393"
     },
     {
       "radlexId": "RID6393_RID5825",
       "description": "right occipital brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6393_RID5824",
       "unsidedId": "RID6393"
     },
     {
       "radlexId": "RID6394",
       "description": "parietal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6394_RID5824",
       "rightId": "RID6394_RID5825"
     },
     {
       "radlexId": "RID6394_RID5824",
       "description": "left parietal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6394_RID5825",
       "unsidedId": "RID6394"
     },
     {
       "radlexId": "RID6394_RID5825",
       "description": "right parietal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6394_RID5824",
       "unsidedId": "RID6394"
     }

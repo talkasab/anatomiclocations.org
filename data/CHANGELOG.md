@@ -16,6 +16,7 @@ Every change in this release, with its reason, is listed in [release-notes/1.0.2
 ### Changed
 - Moved `RID39003` sublingual gland, with its left and right entries, from `RID7540` suprahyoid neck into the sublingual space
 - Moved `RID30906` iliopsoas, with its left and right entries, from `RID39569` whole body to `RID2691` anterior compartment of thigh, since a muscle sits in the compartment that holds most of it
+- Renamed `RID6389_RID6434` supratentorial brain to `RID6434_RID6389` and `RID6381_RID6434` infratentorial brain to `RID6434_RID6381`, so every synthetic identifier places the structure first
 - Changed the `partOfId` of the latissimus dorsi, rhomboid major, rhomboid minor, and trapezius muscles to `RID30781` back, and of `RID28847` intramammary lymph node to `RID29895` female breast
 
 ### Fixed

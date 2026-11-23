@@ -12,7 +12,7 @@ var tree = [
                 "name": "RID6434: brain [328 descendants]",
                 "children": [
                   {
-                    "name": "RID6389_RID6434: supratentorial brain [238 descendants]",
+                    "name": "RID6434_RID6389: supratentorial brain [238 descendants]",
                     "children": [
                       {
                         "name": "RID13857: cerebral hemisphere [62 descendants]",
@@ -993,7 +993,7 @@ var tree = [
                     ]
                   },
                   {
-                    "name": "RID6381_RID6434: infratentorial brain [63 descendants]",
+                    "name": "RID6434_RID6381: infratentorial brain [63 descendants]",
                     "children": [
                       {
                         "name": "RID6677: brainstem [19 descendants]",

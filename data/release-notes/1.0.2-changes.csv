@@ -108,3 +108,5 @@ RID44762,right lateral occipital artery,remove entry,,"RadLex names this structu
 RID44763,left lateral occipital artery,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
 RID36150,right inferior anastomotic vein,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
 RID36151,left inferior anastomotic vein,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
+RID6434_RID6389,supratentorial brain,change radlexId,RID6389_RID6434 -> RID6434_RID6389,a synthetic identifier places the structure first and the modifier second
+RID6434_RID6381,infratentorial brain,change radlexId,RID6381_RID6434 -> RID6434_RID6381,a synthetic identifier places the structure first and the modifier second
