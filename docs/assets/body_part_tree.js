@@ -1,18 +1,18 @@
 var tree = [
   {
-    "name": "RID39569: whole body [2895 descendants]",
+    "name": "RID39569: whole body [2915 descendants]",
     "children": [
       {
-        "name": "RID9080: head [824 descendants]",
+        "name": "RID9080: head [846 descendants]",
         "children": [
           {
-            "name": "RID6383_RID9080: cranial cavity [362 descendants]",
+            "name": "RID6383_RID9080: cranial cavity [358 descendants]",
             "children": [
               {
-                "name": "RID6434: brain [332 descendants]",
+                "name": "RID6434: brain [328 descendants]",
                 "children": [
                   {
-                    "name": "RID6389_RID6434: supratentorial brain [242 descendants]",
+                    "name": "RID6389_RID6434: supratentorial brain [238 descendants]",
                     "children": [
                       {
                         "name": "RID13857: cerebral hemisphere [62 descendants]",
@@ -274,45 +274,8 @@ var tree = [
                         ]
                       },
                       {
-                        "name": "RID13859: left cerebral hemisphere [58 descendants]",
+                        "name": "RID13859: left cerebral hemisphere [56 descendants]",
                         "children": [
-                          {
-                            "name": "RID13865: left temporal lobe [8 descendants]",
-                            "children": [
-                              {
-                                "name": "RID36460: left anterior temporal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36151: left inferior anastomotic vein",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36458: left polar temporal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36462: left posterior temporal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36601: left uncal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36455: temporal branches of left middle cerebral artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID13803: temporal horn of left lateral ventricle",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36155: vein of left uncus",
-                                "children": []
-                              }
-                            ]
-                          },
                           {
                             "name": "RID13863: left frontal lobe [7 descendants]",
                             "children": [
@@ -342,6 +305,39 @@ var tree = [
                               },
                               {
                                 "name": "RID655_RID5824: left polar frontal artery",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "RID13865: left temporal lobe [7 descendants]",
+                            "children": [
+                              {
+                                "name": "RID36460: left anterior temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36458: left polar temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36462: left posterior temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36601: left uncal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36455: temporal branches of left middle cerebral artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID13803: temporal horn of left lateral ventricle",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36155: vein of left uncus",
                                 "children": []
                               }
                             ]
@@ -455,10 +451,6 @@ var tree = [
                             "children": []
                           },
                           {
-                            "name": "RID44763: left lateral occipital artery",
-                            "children": []
-                          },
-                          {
                             "name": "RID13789: left lateral ventricle",
                             "children": []
                           },
@@ -517,45 +509,8 @@ var tree = [
                         ]
                       },
                       {
-                        "name": "RID13858: right cerebral hemisphere [58 descendants]",
+                        "name": "RID13858: right cerebral hemisphere [56 descendants]",
                         "children": [
-                          {
-                            "name": "RID13864: right temporal lobe [8 descendants]",
-                            "children": [
-                              {
-                                "name": "RID36459: right anterior temporal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36150: right inferior anastomotic vein",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36457: right polar temporal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36461: right posterior temporal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36600: right uncal artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36454: temporal branches of right middle cerebral artery",
-                                "children": []
-                              },
-                              {
-                                "name": "RID13802: temporal horn of right lateral ventricle",
-                                "children": []
-                              },
-                              {
-                                "name": "RID36154: vein of right uncus",
-                                "children": []
-                              }
-                            ]
-                          },
                           {
                             "name": "RID13862: right frontal lobe [7 descendants]",
                             "children": [
@@ -585,6 +540,39 @@ var tree = [
                               },
                               {
                                 "name": "RID655_RID5825: right polar frontal artery",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "RID13864: right temporal lobe [7 descendants]",
+                            "children": [
+                              {
+                                "name": "RID36459: right anterior temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36457: right polar temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36461: right posterior temporal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36600: right uncal artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36454: temporal branches of right middle cerebral artery",
+                                "children": []
+                              },
+                              {
+                                "name": "RID13802: temporal horn of right lateral ventricle",
+                                "children": []
+                              },
+                              {
+                                "name": "RID36154: vein of right uncus",
                                 "children": []
                               }
                             ]
@@ -695,10 +683,6 @@ var tree = [
                           },
                           {
                             "name": "RID669_RID5825: right lateral lenticulostriate artery",
-                            "children": []
-                          },
-                          {
-                            "name": "RID44762: right lateral occipital artery",
                             "children": []
                           },
                           {
@@ -1494,10 +1478,10 @@ var tree = [
             ]
           },
           {
-            "name": "RID13284: face [132 descendants]",
+            "name": "RID13284: face [158 descendants]",
             "children": [
               {
-                "name": "RID9082: mandible [37 descendants]",
+                "name": "RID9082: mandible [50 descendants]",
                 "children": [
                   {
                     "name": "RID9108_RID5824: left ramus of mandible [2 descendants]",
@@ -1540,6 +1524,26 @@ var tree = [
                   },
                   {
                     "name": "RID9083: body of mandible",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9126_RID9131_RID9106: deciduous mandibular canine tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9131_RID9106_RID5827: deciduous mandibular central incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9131_RID9106_RID5996: deciduous mandibular first molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9131_RID9106_RID39121: deciduous mandibular lateral incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9131_RID9106_RID5998: deciduous mandibular second molar tooth",
                     "children": []
                   },
                   {
@@ -1595,7 +1599,39 @@ var tree = [
                     "children": []
                   },
                   {
+                    "name": "RID9126_RID9106: mandibular canine tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9106_RID5827: mandibular central incisor tooth",
+                    "children": []
+                  },
+                  {
                     "name": "RID9106: mandibular dental arcade",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID5996: mandibular first molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9129_RID9106_RID5996: mandibular first premolar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9127_RID9106_RID39121: mandibular lateral incisor tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID5998: mandibular second molar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9129_RID9106_RID5998: mandibular second premolar tooth",
+                    "children": []
+                  },
+                  {
+                    "name": "RID9128_RID9106_RID6000: mandibular third molar tooth",
                     "children": []
                   },
                   {
@@ -1653,11 +1689,31 @@ var tree = [
                 ]
               },
               {
-                "name": "RID9236: maxilla [36 descendants]",
+                "name": "RID9236: maxilla [49 descendants]",
                 "children": [
                   {
-                    "name": "RID9271: alveolar part of maxilla [27 descendants]",
+                    "name": "RID9271: alveolar part of maxilla [40 descendants]",
                     "children": [
+                      {
+                        "name": "RID9126_RID9131_RID9279: deciduous maxillary canine tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9127_RID9131_RID9279_RID5827: deciduous maxillary central incisor tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9128_RID9131_RID9279_RID5996: deciduous maxillary first molar tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9127_RID9131_RID9279_RID39121: deciduous maxillary lateral incisor tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9128_RID9131_RID9279_RID5998: deciduous maxillary second molar tooth",
+                        "children": []
+                      },
                       {
                         "name": "RID9126_RID9131_RID9279_RID5824: left deciduous maxillary canine tooth",
                         "children": []
@@ -1711,7 +1767,39 @@ var tree = [
                         "children": []
                       },
                       {
+                        "name": "RID9126_RID9279: maxillary canine tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9127_RID9279_RID5827: maxillary central incisor tooth",
+                        "children": []
+                      },
+                      {
                         "name": "RID9279: maxillary dental arcade",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9128_RID9279_RID5996: maxillary first molar tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9129_RID9279_RID5996: maxillary first premolar tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9127_RID9279_RID39121: maxillary lateral incisor tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9128_RID9279_RID5998: maxillary second molar tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9129_RID9279_RID5998: maxillary second premolar tooth",
+                        "children": []
+                      },
+                      {
+                        "name": "RID9128_RID9279_RID6000: maxillary third molar tooth",
                         "children": []
                       },
                       {
@@ -4503,7 +4591,7 @@ var tree = [
         ]
       },
       {
-        "name": "RID1243: thorax [235 descendants]",
+        "name": "RID1243: thorax [233 descendants]",
         "children": [
           {
             "name": "RID2468: chest wall [126 descendants]",
@@ -5024,7 +5112,7 @@ var tree = [
             ]
           },
           {
-            "name": "RID1384: mediastinum [68 descendants]",
+            "name": "RID1384: mediastinum [66 descendants]",
             "children": [
               {
                 "name": "RID1385: heart [18 descendants]",
@@ -5154,10 +5242,6 @@ var tree = [
                 "children": []
               },
               {
-                "name": "RID1238: left common pulmonary vein",
-                "children": []
-              },
-              {
                 "name": "RID1494: left inferior pulmonary ligament lymph node (station 9)",
                 "children": []
               },
@@ -5235,10 +5319,6 @@ var tree = [
               },
               {
                 "name": "RID1011_RID5825: right brachiocephalic vein",
-                "children": []
-              },
-              {
-                "name": "RID1232: right common pulmonary vein",
                 "children": []
               },
               {

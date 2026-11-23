@@ -33507,48 +33507,6 @@
       ]
     },
     {
-      "radlexId": "RID1232",
-      "description": "right common pulmonary vein",
-      "containedById": "RID1384",
-      "partOfId": "RID49962",
-      "leftId": "RID1238",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "9416"
-        },
-        {
-          "system": "SNOMED",
-          "code": "443591004"
-        },
-        {
-          "system": "UMLS",
-          "code": "C0503948"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID1238",
-      "description": "left common pulmonary vein",
-      "containedById": "RID1384",
-      "partOfId": "RID49962",
-      "rightId": "RID1232",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "9417"
-        },
-        {
-          "system": "SNOMED",
-          "code": "443705001"
-        },
-        {
-          "system": "UMLS",
-          "code": "C0503949"
-        }
-      ]
-    },
-    {
       "radlexId": "RID43951",
       "description": "lateral thoracic vein",
       "containedById": "RID2468",
@@ -47923,30 +47881,6 @@
       ]
     },
     {
-      "radlexId": "RID44762",
-      "description": "right lateral occipital artery",
-      "containedById": "RID13858",
-      "leftId": "RID44763",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "50643"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID44763",
-      "description": "left lateral occipital artery",
-      "containedById": "RID13859",
-      "rightId": "RID44762",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "50644"
-        }
-      ]
-    },
-    {
       "radlexId": "RID44764",
       "description": "medial occipital artery",
       "containedById": "RID6502",
@@ -49145,38 +49079,6 @@
         {
           "system": "SNOMED",
           "code": "8133004:272741003=7771000"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID36150",
-      "description": "right inferior anastomotic vein",
-      "containedById": "RID13864",
-      "leftId": "RID36151",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "51242"
-        },
-        {
-          "system": "SNOMED",
-          "code": "64745007:272741003=24028007"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID36151",
-      "description": "left inferior anastomotic vein",
-      "containedById": "RID13865",
-      "rightId": "RID36150",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "51243"
-        },
-        {
-          "system": "SNOMED",
-          "code": "64745007:272741003=7771000"
         }
       ]
     },
@@ -55380,11 +55282,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9279_RID5827",
+      "description": "maxillary central incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9279_RID5827_RID5824",
+      "rightId": "RID9127_RID9279_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9279_RID5827_RID5825",
       "description": "right maxillary central incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9279_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9279_RID5827",
       "synonyms": [
         "ADA 8",
         "tooth 8",
@@ -55406,11 +55317,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9279_RID39121",
+      "description": "maxillary lateral incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9279_RID39121_RID5824",
+      "rightId": "RID9127_RID9279_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9279_RID39121_RID5825",
       "description": "right maxillary lateral incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9279_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9279_RID39121",
       "synonyms": [
         "ADA 7",
         "tooth 7"
@@ -55431,11 +55351,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9279",
+      "description": "maxillary canine tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9126_RID9279_RID5824",
+      "rightId": "RID9126_RID9279_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9279_RID5825",
       "description": "right maxillary canine tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9126_RID9279_RID5824",
+      "unsidedId": "RID9126_RID9279",
       "synonyms": [
         "ADA 6",
         "tooth 6",
@@ -55457,11 +55386,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9279_RID5996",
+      "description": "maxillary first premolar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9129_RID9279_RID5996_RID5824",
+      "rightId": "RID9129_RID9279_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9279_RID5996_RID5825",
       "description": "right maxillary first premolar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9129_RID9279_RID5996_RID5824",
+      "unsidedId": "RID9129_RID9279_RID5996",
       "synonyms": [
         "ADA 5",
         "tooth 5",
@@ -55483,11 +55421,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9279_RID5998",
+      "description": "maxillary second premolar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9129_RID9279_RID5998_RID5824",
+      "rightId": "RID9129_RID9279_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9279_RID5998_RID5825",
       "description": "right maxillary second premolar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9129_RID9279_RID5998_RID5824",
+      "unsidedId": "RID9129_RID9279_RID5998",
       "synonyms": [
         "ADA 4",
         "tooth 4",
@@ -55509,11 +55456,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9279_RID5996",
+      "description": "maxillary first molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9279_RID5996_RID5824",
+      "rightId": "RID9128_RID9279_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9279_RID5996_RID5825",
       "description": "right maxillary first molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9279_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9279_RID5996",
       "synonyms": [
         "ADA 3",
         "tooth 3",
@@ -55535,11 +55491,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9279_RID5998",
+      "description": "maxillary second molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9279_RID5998_RID5824",
+      "rightId": "RID9128_RID9279_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9279_RID5998_RID5825",
       "description": "right maxillary second molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9279_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9279_RID5998",
       "synonyms": [
         "ADA 2",
         "tooth 2"
@@ -55560,11 +55525,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9279_RID6000",
+      "description": "maxillary third molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9279_RID6000_RID5824",
+      "rightId": "RID9128_RID9279_RID6000_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9279_RID6000_RID5825",
       "description": "right maxillary third molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9279_RID6000_RID5824",
+      "unsidedId": "RID9128_RID9279_RID6000",
       "synonyms": [
         "ADA 1",
         "tooth 1",
@@ -55591,6 +55565,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9279_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9279_RID5827",
       "synonyms": [
         "ADA 9",
         "tooth 9"
@@ -55616,6 +55591,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9279_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9279_RID39121",
       "synonyms": [
         "ADA 10",
         "tooth 10"
@@ -55641,6 +55617,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9126_RID9279_RID5825",
+      "unsidedId": "RID9126_RID9279",
       "synonyms": [
         "ADA 11",
         "tooth 11"
@@ -55666,6 +55643,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9129_RID9279_RID5996_RID5825",
+      "unsidedId": "RID9129_RID9279_RID5996",
       "synonyms": [
         "ADA 12",
         "tooth 12"
@@ -55691,6 +55669,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9129_RID9279_RID5998_RID5825",
+      "unsidedId": "RID9129_RID9279_RID5998",
       "synonyms": [
         "ADA 13",
         "tooth 13"
@@ -55716,6 +55695,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9279_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9279_RID5996",
       "synonyms": [
         "ADA 14",
         "tooth 14"
@@ -55741,6 +55721,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9279_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9279_RID5998",
       "synonyms": [
         "ADA 15",
         "tooth 15"
@@ -55766,6 +55747,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9279_RID6000_RID5825",
+      "unsidedId": "RID9128_RID9279_RID6000",
       "synonyms": [
         "ADA 16",
         "tooth 16"
@@ -55786,11 +55768,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9106_RID5827",
+      "description": "mandibular central incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9106_RID5827_RID5824",
+      "rightId": "RID9127_RID9106_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9106_RID5827_RID5825",
       "description": "right mandibular central incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9106_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9106_RID5827",
       "synonyms": [
         "ADA 25",
         "tooth 25"
@@ -55811,11 +55802,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9106_RID39121",
+      "description": "mandibular lateral incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9106_RID39121_RID5824",
+      "rightId": "RID9127_RID9106_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9106_RID39121_RID5825",
       "description": "right mandibular lateral incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9106_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9106_RID39121",
       "synonyms": [
         "ADA 26",
         "tooth 26"
@@ -55836,11 +55836,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9106",
+      "description": "mandibular canine tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9126_RID9106_RID5824",
+      "rightId": "RID9126_RID9106_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9106_RID5825",
       "description": "right mandibular canine tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9126_RID9106_RID5824",
+      "unsidedId": "RID9126_RID9106",
       "synonyms": [
         "ADA 27",
         "tooth 27"
@@ -55861,11 +55870,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9106_RID5996",
+      "description": "mandibular first premolar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9129_RID9106_RID5996_RID5824",
+      "rightId": "RID9129_RID9106_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9106_RID5996_RID5825",
       "description": "right mandibular first premolar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9129_RID9106_RID5996_RID5824",
+      "unsidedId": "RID9129_RID9106_RID5996",
       "synonyms": [
         "ADA 28",
         "tooth 28"
@@ -55886,11 +55904,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9106_RID5998",
+      "description": "mandibular second premolar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9129_RID9106_RID5998_RID5824",
+      "rightId": "RID9129_RID9106_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9106_RID5998_RID5825",
       "description": "right mandibular second premolar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9129_RID9106_RID5998_RID5824",
+      "unsidedId": "RID9129_RID9106_RID5998",
       "synonyms": [
         "ADA 29",
         "tooth 29"
@@ -55911,11 +55938,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9106_RID5996",
+      "description": "mandibular first molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9106_RID5996_RID5824",
+      "rightId": "RID9128_RID9106_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9106_RID5996_RID5825",
       "description": "right mandibular first molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9106_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9106_RID5996",
       "synonyms": [
         "ADA 30",
         "tooth 30"
@@ -55936,11 +55972,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9106_RID5998",
+      "description": "mandibular second molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9106_RID5998_RID5824",
+      "rightId": "RID9128_RID9106_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9106_RID5998_RID5825",
       "description": "right mandibular second molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9106_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9106_RID5998",
       "synonyms": [
         "ADA 31",
         "tooth 31"
@@ -55961,11 +56006,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9106_RID6000",
+      "description": "mandibular third molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9106_RID6000_RID5824",
+      "rightId": "RID9128_RID9106_RID6000_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9106_RID6000_RID5825",
       "description": "right mandibular third molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9106_RID6000_RID5824",
+      "unsidedId": "RID9128_RID9106_RID6000",
       "synonyms": [
         "ADA 32",
         "tooth 32"
@@ -55991,6 +56045,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9106_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9106_RID5827",
       "synonyms": [
         "ADA 24",
         "tooth 24"
@@ -56016,6 +56071,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9106_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9106_RID39121",
       "synonyms": [
         "ADA 23",
         "tooth 23"
@@ -56041,6 +56097,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9126_RID9106_RID5825",
+      "unsidedId": "RID9126_RID9106",
       "synonyms": [
         "ADA 22",
         "tooth 22"
@@ -56066,6 +56123,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9129_RID9106_RID5996_RID5825",
+      "unsidedId": "RID9129_RID9106_RID5996",
       "synonyms": [
         "ADA 21",
         "tooth 21"
@@ -56091,6 +56149,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9129_RID9106_RID5998_RID5825",
+      "unsidedId": "RID9129_RID9106_RID5998",
       "synonyms": [
         "ADA 20",
         "tooth 20"
@@ -56116,6 +56175,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9106_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9106_RID5996",
       "synonyms": [
         "ADA 19",
         "tooth 19"
@@ -56141,6 +56201,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9106_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9106_RID5998",
       "synonyms": [
         "ADA 18",
         "tooth 18"
@@ -56166,6 +56227,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9106_RID6000_RID5825",
+      "unsidedId": "RID9128_RID9106_RID6000",
       "synonyms": [
         "ADA 17",
         "tooth 17"
@@ -56186,11 +56248,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9279_RID5827",
+      "description": "deciduous maxillary central incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9131_RID9279_RID5827_RID5824",
+      "rightId": "RID9127_RID9131_RID9279_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9279_RID5827_RID5825",
       "description": "right deciduous maxillary central incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9131_RID9279_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9279_RID5827",
       "synonyms": [
         "deciduous right maxillary central incisor tooth",
         "ADA E",
@@ -56212,11 +56283,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9279_RID39121",
+      "description": "deciduous maxillary lateral incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9131_RID9279_RID39121_RID5824",
+      "rightId": "RID9127_RID9131_RID9279_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9279_RID39121_RID5825",
       "description": "right deciduous maxillary lateral incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9131_RID9279_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9279_RID39121",
       "synonyms": [
         "deciduous right maxillary lateral incisor tooth",
         "ADA D",
@@ -56238,11 +56318,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9131_RID9279",
+      "description": "deciduous maxillary canine tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9126_RID9131_RID9279_RID5824",
+      "rightId": "RID9126_RID9131_RID9279_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9131_RID9279_RID5825",
       "description": "right deciduous maxillary canine tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9126_RID9131_RID9279_RID5824",
+      "unsidedId": "RID9126_RID9131_RID9279",
       "synonyms": [
         "deciduous right maxillary canine tooth",
         "ADA C",
@@ -56264,11 +56353,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9279_RID5996",
+      "description": "deciduous maxillary first molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9131_RID9279_RID5996_RID5824",
+      "rightId": "RID9128_RID9131_RID9279_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9279_RID5996_RID5825",
       "description": "right deciduous maxillary first molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9131_RID9279_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5996",
       "synonyms": [
         "deciduous right maxillary first molar tooth",
         "ADA B",
@@ -56290,11 +56388,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9279_RID5998",
+      "description": "deciduous maxillary second molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9131_RID9279_RID5998_RID5824",
+      "rightId": "RID9128_RID9131_RID9279_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9279_RID5998_RID5825",
       "description": "right deciduous maxillary second molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9131_RID9279_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5998",
       "synonyms": [
         "deciduous right maxillary second molar tooth",
         "ADA A",
@@ -56321,6 +56428,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9131_RID9279_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9279_RID5827",
       "synonyms": [
         "deciduous left maxillary central incisor tooth",
         "ADA F",
@@ -56347,6 +56455,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9131_RID9279_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9279_RID39121",
       "synonyms": [
         "deciduous left maxillary lateral incisor tooth",
         "ADA G",
@@ -56373,6 +56482,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9126_RID9131_RID9279_RID5825",
+      "unsidedId": "RID9126_RID9131_RID9279",
       "synonyms": [
         "deciduous left maxillary canine tooth",
         "ADA H",
@@ -56399,6 +56509,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9131_RID9279_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5996",
       "synonyms": [
         "deciduous left maxillary first molar tooth",
         "ADA I",
@@ -56425,6 +56536,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9131_RID9279_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5998",
       "synonyms": [
         "deciduous left maxillary second molar tooth",
         "ADA J",
@@ -56446,11 +56558,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9106_RID5827",
+      "description": "deciduous mandibular central incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9131_RID9106_RID5827_RID5824",
+      "rightId": "RID9127_RID9131_RID9106_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9106_RID5827_RID5825",
       "description": "right deciduous mandibular central incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9131_RID9106_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9106_RID5827",
       "synonyms": [
         "deciduous right mandibular central incisor tooth",
         "ADA P",
@@ -56472,11 +56593,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9106_RID39121",
+      "description": "deciduous mandibular lateral incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9131_RID9106_RID39121_RID5824",
+      "rightId": "RID9127_RID9131_RID9106_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9106_RID39121_RID5825",
       "description": "right deciduous mandibular lateral incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9131_RID9106_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9106_RID39121",
       "synonyms": [
         "deciduous right mandibular lateral incisor tooth",
         "ADA Q",
@@ -56498,11 +56628,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9131_RID9106",
+      "description": "deciduous mandibular canine tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9126_RID9131_RID9106_RID5824",
+      "rightId": "RID9126_RID9131_RID9106_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9131_RID9106_RID5825",
       "description": "right deciduous mandibular canine tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9126_RID9131_RID9106_RID5824",
+      "unsidedId": "RID9126_RID9131_RID9106",
       "synonyms": [
         "deciduous right mandibular canine tooth",
         "ADA R",
@@ -56524,11 +56663,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9106_RID5996",
+      "description": "deciduous mandibular first molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9131_RID9106_RID5996_RID5824",
+      "rightId": "RID9128_RID9131_RID9106_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9106_RID5996_RID5825",
       "description": "right deciduous mandibular first molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9131_RID9106_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5996",
       "synonyms": [
         "deciduous right mandibular first molar tooth",
         "ADA S",
@@ -56550,11 +56698,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9106_RID5998",
+      "description": "deciduous mandibular second molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9131_RID9106_RID5998_RID5824",
+      "rightId": "RID9128_RID9131_RID9106_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9106_RID5998_RID5825",
       "description": "right deciduous mandibular second molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9131_RID9106_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5998",
       "synonyms": [
         "deciduous right mandibular second molar tooth",
         "ADA T",
@@ -56581,6 +56738,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9131_RID9106_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9106_RID5827",
       "synonyms": [
         "deciduous left mandibular central incisor tooth",
         "ADA O",
@@ -56607,6 +56765,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9131_RID9106_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9106_RID39121",
       "synonyms": [
         "deciduous left mandibular lateral incisor tooth",
         "ADA N",
@@ -56633,6 +56792,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9126_RID9131_RID9106_RID5825",
+      "unsidedId": "RID9126_RID9131_RID9106",
       "synonyms": [
         "deciduous left mandibular canine tooth",
         "ADA M",
@@ -56659,6 +56819,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9131_RID9106_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5996",
       "synonyms": [
         "deciduous left mandibular first molar tooth",
         "ADA L",
@@ -56685,6 +56846,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9131_RID9106_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5998",
       "synonyms": [
         "deciduous left mandibular second molar tooth",
         "ADA K",
