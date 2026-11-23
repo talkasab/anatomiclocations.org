@@ -1,6 +1,6 @@
 {
-  "$version": "1.0.1",
-  "$schema": "https://raw.githubusercontent.com/talkasab/anatomiclocations.org/1.0.1/data/body_parts_schema.json",
+  "$version": "1.0.2",
+  "$schema": "https://raw.githubusercontent.com/talkasab/anatomiclocations.org/1.0.2/data/body_parts_schema.json",
   "bodyParts": [
     {
       "radlexId": "RID56",
@@ -14922,7 +14922,7 @@
     {
       "radlexId": "RID30906",
       "description": "iliopsoas muscle",
-      "containedById": "RID39569",
+      "containedById": "RID2691",
       "partOfId": "RID2660",
       "leftId": "RID30908",
       "rightId": "RID30907",
@@ -14947,7 +14947,7 @@
     {
       "radlexId": "RID30907",
       "description": "right iliopsoas muscle",
-      "containedById": "RID39569",
+      "containedById": "RID48157",
       "partOfId": "RID2660_RID5825",
       "leftId": "RID30908",
       "unsidedId": "RID30906",
@@ -14968,7 +14968,7 @@
     {
       "radlexId": "RID30908",
       "description": "left iliopsoas muscle",
-      "containedById": "RID39569",
+      "containedById": "RID48158",
       "partOfId": "RID2660_RID5824",
       "rightId": "RID30907",
       "unsidedId": "RID30906",
@@ -29297,7 +29297,7 @@
       "radlexId": "RID13374",
       "description": "latissimus dorsi muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32755",
+      "partOfId": "RID30781",
       "leftId": "RID13374_RID5824",
       "rightId": "RID13374_RID5825",
       "synonyms": [
@@ -29326,7 +29326,7 @@
       "radlexId": "RID13374_RID5824",
       "description": "left latissimus dorsi muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32755",
+      "partOfId": "RID30781",
       "rightId": "RID13374_RID5825",
       "unsidedId": "RID13374",
       "codes": [
@@ -29344,7 +29344,7 @@
       "radlexId": "RID13374_RID5825",
       "description": "right latissimus dorsi muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32755",
+      "partOfId": "RID30781",
       "leftId": "RID13374_RID5824",
       "unsidedId": "RID13374",
       "codes": [
@@ -32947,7 +32947,7 @@
       "radlexId": "RID2500",
       "description": "rhomboid major muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43055",
       "rightId": "RID43054",
       "synonyms": [
@@ -32977,7 +32977,7 @@
       "radlexId": "RID43054",
       "description": "right rhomboid major muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43055",
       "unsidedId": "RID2500",
       "synonyms": [
@@ -33003,7 +33003,7 @@
       "radlexId": "RID43055",
       "description": "left rhomboid major muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "rightId": "RID43054",
       "unsidedId": "RID2500",
       "synonyms": [
@@ -33029,7 +33029,7 @@
       "radlexId": "RID2501",
       "description": "rhomboid minor muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43057",
       "rightId": "RID43056",
       "synonyms": [
@@ -33058,7 +33058,7 @@
       "radlexId": "RID43056",
       "description": "right rhomboid minor muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43057",
       "unsidedId": "RID2501",
       "synonyms": [
@@ -33084,7 +33084,7 @@
       "radlexId": "RID43057",
       "description": "left rhomboid minor muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "rightId": "RID43056",
       "unsidedId": "RID2501",
       "synonyms": [
@@ -33110,7 +33110,7 @@
       "radlexId": "RID1937",
       "description": "trapezius muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43046",
       "rightId": "RID43045",
       "codes": [
@@ -33136,7 +33136,7 @@
       "radlexId": "RID43045",
       "description": "right trapezius muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "leftId": "RID43046",
       "unsidedId": "RID1937",
       "synonyms": [
@@ -33161,7 +33161,7 @@
       "radlexId": "RID43046",
       "description": "left trapezius muscle",
       "containedById": "RID30781",
-      "partOfId": "RID32807",
+      "partOfId": "RID30781",
       "rightId": "RID43045",
       "unsidedId": "RID1937",
       "synonyms": [
@@ -33503,48 +33503,6 @@
         {
           "system": "SNOMED",
           "code": "24720008"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID1232",
-      "description": "right common pulmonary vein",
-      "containedById": "RID1384",
-      "partOfId": "RID49962",
-      "leftId": "RID1238",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "9416"
-        },
-        {
-          "system": "SNOMED",
-          "code": "443591004"
-        },
-        {
-          "system": "UMLS",
-          "code": "C0503948"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID1238",
-      "description": "left common pulmonary vein",
-      "containedById": "RID1384",
-      "partOfId": "RID49962",
-      "rightId": "RID1232",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "9417"
-        },
-        {
-          "system": "SNOMED",
-          "code": "443705001"
-        },
-        {
-          "system": "UMLS",
-          "code": "C0503949"
         }
       ]
     },
@@ -35849,7 +35807,7 @@
       "radlexId": "RID34263",
       "description": "intramammary lymph node",
       "containedById": "RID29895",
-      "partOfId": "RID28847",
+      "partOfId": "RID29895",
       "leftId": "RID34263_RID5824",
       "rightId": "RID34263_RID5825",
       "codes": [
@@ -35867,7 +35825,7 @@
       "radlexId": "RID34263_RID5824",
       "description": "left intramammary lymph node",
       "containedById": "RID29897",
-      "partOfId": "RID28847",
+      "partOfId": "RID29897",
       "rightId": "RID34263_RID5825",
       "unsidedId": "RID34263",
       "codes": [
@@ -35881,7 +35839,7 @@
       "radlexId": "RID34263_RID5825",
       "description": "right intramammary lymph node",
       "containedById": "RID29896",
-      "partOfId": "RID28847",
+      "partOfId": "RID29896",
       "leftId": "RID34263_RID5824",
       "unsidedId": "RID34263",
       "codes": [
@@ -45818,7 +45776,7 @@
     {
       "radlexId": "RID28600",
       "description": "circle of Willis",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "codes": [
         {
           "system": "FMA",
@@ -46051,7 +46009,7 @@
     {
       "radlexId": "RID649",
       "description": "anterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "codes": [
         {
@@ -46798,7 +46756,7 @@
     {
       "radlexId": "RID643",
       "description": "anterior choroidal artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36542",
       "rightId": "RID36541",
       "codes": [
@@ -46819,7 +46777,7 @@
     {
       "radlexId": "RID36541",
       "description": "right anterior choroidal artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36542",
       "unsidedId": "RID643",
       "codes": [
@@ -46836,7 +46794,7 @@
     {
       "radlexId": "RID36542",
       "description": "left anterior choroidal artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID36541",
       "unsidedId": "RID643",
       "codes": [
@@ -47256,7 +47214,7 @@
     {
       "radlexId": "RID642",
       "description": "posterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "leftId": "RID36505",
       "rightId": "RID36504",
@@ -47278,7 +47236,7 @@
     {
       "radlexId": "RID36504",
       "description": "right posterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "leftId": "RID36505",
       "unsidedId": "RID642",
@@ -47296,7 +47254,7 @@
     {
       "radlexId": "RID36505",
       "description": "left posterior communicating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID28600",
       "rightId": "RID36504",
       "unsidedId": "RID642",
@@ -47738,21 +47696,21 @@
     {
       "radlexId": "RID810",
       "description": "anterior thalamoperforating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID810_RID5824",
       "rightId": "RID810_RID5825"
     },
     {
       "radlexId": "RID810_RID5824",
       "description": "left anterior thalamoperforating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID810_RID5825",
       "unsidedId": "RID810"
     },
     {
       "radlexId": "RID810_RID5825",
       "description": "right anterior thalamoperforating artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID810_RID5824",
       "unsidedId": "RID810"
     },
@@ -47780,7 +47738,7 @@
     {
       "radlexId": "RID812",
       "description": "thalamogeniculate artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44727",
       "rightId": "RID44726",
       "codes": [
@@ -47793,7 +47751,7 @@
     {
       "radlexId": "RID44726",
       "description": "right thalamogeniculate artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44727",
       "unsidedId": "RID812",
       "codes": [
@@ -47806,7 +47764,7 @@
     {
       "radlexId": "RID44727",
       "description": "left thalamogeniculate artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID44726",
       "unsidedId": "RID812",
       "codes": [
@@ -47923,30 +47881,6 @@
       ]
     },
     {
-      "radlexId": "RID44762",
-      "description": "right lateral occipital artery",
-      "containedById": "RID13858",
-      "leftId": "RID44763",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "50643"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID44763",
-      "description": "left lateral occipital artery",
-      "containedById": "RID13859",
-      "rightId": "RID44762",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "50644"
-        }
-      ]
-    },
-    {
       "radlexId": "RID44764",
       "description": "medial occipital artery",
       "containedById": "RID6502",
@@ -48056,7 +47990,7 @@
     {
       "radlexId": "RID821",
       "description": "splenial artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44751",
       "rightId": "RID44750",
       "synonyms": [
@@ -48072,7 +48006,7 @@
     {
       "radlexId": "RID44750",
       "description": "right splenial artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID44751",
       "unsidedId": "RID821",
       "codes": [
@@ -48085,7 +48019,7 @@
     {
       "radlexId": "RID44751",
       "description": "left splenial artery",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID44750",
       "unsidedId": "RID821",
       "codes": [
@@ -48163,7 +48097,7 @@
       "radlexId": "RID791",
       "description": "basilar artery",
       "definition": "The artery formed by the union of the right and left vertebral arteries; it runs from the lower to the upper border of the pons, where it bifurcates into the two posterior cerebral arteries. [MeSH]",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "codes": [
         {
           "system": "FMA",
@@ -48190,7 +48124,7 @@
     {
       "radlexId": "RID803",
       "description": "superior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44671",
       "rightId": "RID44670",
       "codes": [
@@ -48211,7 +48145,7 @@
     {
       "radlexId": "RID44670",
       "description": "right superior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44671",
       "unsidedId": "RID803",
       "codes": [
@@ -48228,7 +48162,7 @@
     {
       "radlexId": "RID44671",
       "description": "left superior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID44670",
       "unsidedId": "RID803",
       "codes": [
@@ -48245,7 +48179,7 @@
     {
       "radlexId": "RID794",
       "description": "anterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44690",
       "rightId": "RID44689",
       "synonyms": [
@@ -48269,7 +48203,7 @@
     {
       "radlexId": "RID44689",
       "description": "right anterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44690",
       "unsidedId": "RID794",
       "codes": [
@@ -48286,7 +48220,7 @@
     {
       "radlexId": "RID44690",
       "description": "left anterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID44689",
       "unsidedId": "RID794",
       "codes": [
@@ -48303,7 +48237,7 @@
     {
       "radlexId": "RID779",
       "description": "posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44641",
       "rightId": "RID44640",
       "synonyms": [
@@ -48327,7 +48261,7 @@
     {
       "radlexId": "RID44640",
       "description": "right posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID44641",
       "unsidedId": "RID779",
       "codes": [
@@ -48344,7 +48278,7 @@
     {
       "radlexId": "RID44641",
       "description": "left posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID44640",
       "unsidedId": "RID779",
       "codes": [
@@ -48361,7 +48295,7 @@
     {
       "radlexId": "RID781",
       "description": "anterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID779",
       "leftId": "RID781_RID5824",
       "rightId": "RID781_RID5825",
@@ -48372,7 +48306,7 @@
     {
       "radlexId": "RID781_RID5824",
       "description": "left anterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44641",
       "rightId": "RID781_RID5825",
       "unsidedId": "RID781",
@@ -48383,7 +48317,7 @@
     {
       "radlexId": "RID781_RID5825",
       "description": "right anterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44640",
       "leftId": "RID781_RID5824",
       "unsidedId": "RID781",
@@ -48394,7 +48328,7 @@
     {
       "radlexId": "RID783",
       "description": "posterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID779",
       "leftId": "RID783_RID5824",
       "rightId": "RID783_RID5825",
@@ -48405,7 +48339,7 @@
     {
       "radlexId": "RID783_RID5824",
       "description": "left posterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44641",
       "rightId": "RID783_RID5825",
       "unsidedId": "RID783",
@@ -48416,7 +48350,7 @@
     {
       "radlexId": "RID783_RID5825",
       "description": "right posterior medullary segment of posterior inferior cerebellar artery",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID44640",
       "leftId": "RID783_RID5824",
       "unsidedId": "RID783",
@@ -49149,38 +49083,6 @@
       ]
     },
     {
-      "radlexId": "RID36150",
-      "description": "right inferior anastomotic vein",
-      "containedById": "RID13864",
-      "leftId": "RID36151",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "51242"
-        },
-        {
-          "system": "SNOMED",
-          "code": "64745007:272741003=24028007"
-        }
-      ]
-    },
-    {
-      "radlexId": "RID36151",
-      "description": "left inferior anastomotic vein",
-      "containedById": "RID13865",
-      "rightId": "RID36150",
-      "codes": [
-        {
-          "system": "FMA",
-          "code": "51243"
-        },
-        {
-          "system": "SNOMED",
-          "code": "64745007:272741003=7771000"
-        }
-      ]
-    },
-    {
       "radlexId": "RID36153",
       "description": "vein of uncus",
       "containedById": "RID6476",
@@ -49247,7 +49149,7 @@
     {
       "radlexId": "RID36161",
       "description": "anterior cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36163",
       "rightId": "RID36162",
       "codes": [
@@ -49268,7 +49170,7 @@
     {
       "radlexId": "RID36162",
       "description": "right anterior cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36163",
       "unsidedId": "RID36161",
       "codes": [
@@ -49285,7 +49187,7 @@
     {
       "radlexId": "RID36163",
       "description": "left anterior cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID36162",
       "unsidedId": "RID36161",
       "codes": [
@@ -49302,7 +49204,7 @@
     {
       "radlexId": "RID1142",
       "description": "internal cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36191",
       "rightId": "RID36190",
       "codes": [
@@ -49323,7 +49225,7 @@
     {
       "radlexId": "RID36190",
       "description": "right internal cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID36191",
       "unsidedId": "RID1142",
       "codes": [
@@ -49340,7 +49242,7 @@
     {
       "radlexId": "RID36191",
       "description": "left internal cerebral vein",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID36190",
       "unsidedId": "RID1142",
       "codes": [
@@ -49438,7 +49340,7 @@
     {
       "radlexId": "RID36674",
       "description": "superior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36676",
       "rightId": "RID36675",
       "codes": [
@@ -49455,7 +49357,7 @@
     {
       "radlexId": "RID36675",
       "description": "right superior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36676",
       "unsidedId": "RID36674",
       "codes": [
@@ -49472,7 +49374,7 @@
     {
       "radlexId": "RID36676",
       "description": "left superior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID36675",
       "unsidedId": "RID36674",
       "codes": [
@@ -49489,7 +49391,7 @@
     {
       "radlexId": "RID36677",
       "description": "inferior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36679",
       "rightId": "RID36678",
       "codes": [
@@ -49506,7 +49408,7 @@
     {
       "radlexId": "RID36678",
       "description": "right inferior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "leftId": "RID36679",
       "unsidedId": "RID36677",
       "codes": [
@@ -49523,7 +49425,7 @@
     {
       "radlexId": "RID36679",
       "description": "left inferior cerebellar vein",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "rightId": "RID36678",
       "unsidedId": "RID36677",
       "codes": [
@@ -52226,9 +52128,52 @@
       ]
     },
     {
+      "radlexId": "RID9962",
+      "description": "sublingual space",
+      "containedById": "RID9938",
+      "leftId": "RID9962_RID5824",
+      "rightId": "RID9962_RID5825",
+      "codes": [
+        {
+          "system": "FMA",
+          "code": "323792"
+        },
+        {
+          "system": "SNOMED",
+          "code": "122861001"
+        }
+      ]
+    },
+    {
+      "radlexId": "RID9962_RID5824",
+      "description": "left sublingual space",
+      "containedById": "RID9938",
+      "rightId": "RID9962_RID5825",
+      "unsidedId": "RID9962",
+      "codes": [
+        {
+          "system": "SNOMED",
+          "code": "122861001:272741003=7771000"
+        }
+      ]
+    },
+    {
+      "radlexId": "RID9962_RID5825",
+      "description": "right sublingual space",
+      "containedById": "RID9938",
+      "leftId": "RID9962_RID5824",
+      "unsidedId": "RID9962",
+      "codes": [
+        {
+          "system": "SNOMED",
+          "code": "122861001:272741003=24028007"
+        }
+      ]
+    },
+    {
       "radlexId": "RID39003",
       "description": "sublingual gland",
-      "containedById": "RID7540",
+      "containedById": "RID9962",
       "leftId": "RID39005",
       "rightId": "RID39004",
       "synonyms": [
@@ -52257,7 +52202,7 @@
     {
       "radlexId": "RID39004",
       "description": "right sublingual gland",
-      "containedById": "RID7540",
+      "containedById": "RID9962_RID5825",
       "leftId": "RID39005",
       "unsidedId": "RID39003",
       "codes": [
@@ -52274,7 +52219,7 @@
     {
       "radlexId": "RID39005",
       "description": "left sublingual gland",
-      "containedById": "RID7540",
+      "containedById": "RID9962_RID5824",
       "rightId": "RID39004",
       "unsidedId": "RID39003",
       "codes": [
@@ -53862,7 +53807,6 @@
       "radlexId": "RID7527",
       "description": "hyoid bone",
       "containedById": "RID7488",
-      "partOfId": "RID9196",
       "codes": [
         {
           "system": "FMA",
@@ -53962,7 +53906,7 @@
       ]
     },
     {
-      "radlexId": "RID6389_RID6434",
+      "radlexId": "RID6434_RID6389",
       "description": "supratentorial brain",
       "containedById": "RID6434",
       "partOfId": "RID6434",
@@ -53974,7 +53918,7 @@
       ]
     },
     {
-      "radlexId": "RID6381_RID6434",
+      "radlexId": "RID6434_RID6381",
       "description": "infratentorial brain",
       "containedById": "RID6434",
       "partOfId": "RID6434",
@@ -53989,7 +53933,7 @@
       "radlexId": "RID6677",
       "description": "brainstem",
       "definition": "The part of the brain that connects the cerebral hemispheres with the spinal cord. It consists of the mesencephalon; pons; and medulla oblongata. [MeSH]",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID6434",
       "codes": [
         {
@@ -54242,7 +54186,7 @@
       "radlexId": "RID6815",
       "description": "cerebellum",
       "definition": "Segment of neuraxis that has as its parts the cerebellar cortex, cerebellar nuclear complex and cerebellar white matter.",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "partOfId": "RID6434",
       "codes": [
         {
@@ -54672,7 +54616,7 @@
       "radlexId": "RID6641",
       "description": "optic chiasm",
       "definition": "Nerve trunk which is continuous with right and left optic nerves and right and left optic tracts.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "optic chiasma",
         "decussation of optic nerve fibers"
@@ -54704,7 +54648,7 @@
       "radlexId": "RID22696",
       "description": "optic tract",
       "definition": "Nerve trunk which is continuous with the optic chiasm and the lateral geniculate nucleus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID22698",
       "rightId": "RID22697",
       "synonyms": [
@@ -54737,7 +54681,7 @@
       "radlexId": "RID22697",
       "description": "right optic tract",
       "definition": "Optic tract which is continuous with the optic chiasm and the right lateral geniculate nucleus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID22698",
       "unsidedId": "RID22696",
       "codes": [
@@ -54759,7 +54703,7 @@
       "radlexId": "RID22698",
       "description": "left optic tract",
       "definition": "Optic tract which is continuous with the optic chiasm and the left lateral geniculate nucleus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID22697",
       "unsidedId": "RID22696",
       "codes": [
@@ -55338,11 +55282,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9279_RID5827",
+      "description": "maxillary central incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9279_RID5827_RID5824",
+      "rightId": "RID9127_RID9279_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9279_RID5827_RID5825",
       "description": "right maxillary central incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9279_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9279_RID5827",
       "synonyms": [
         "ADA 8",
         "tooth 8",
@@ -55364,11 +55317,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9279_RID39121",
+      "description": "maxillary lateral incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9279_RID39121_RID5824",
+      "rightId": "RID9127_RID9279_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9279_RID39121_RID5825",
       "description": "right maxillary lateral incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9279_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9279_RID39121",
       "synonyms": [
         "ADA 7",
         "tooth 7"
@@ -55389,11 +55351,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9279",
+      "description": "maxillary canine tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9126_RID9279_RID5824",
+      "rightId": "RID9126_RID9279_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9279_RID5825",
       "description": "right maxillary canine tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9126_RID9279_RID5824",
+      "unsidedId": "RID9126_RID9279",
       "synonyms": [
         "ADA 6",
         "tooth 6",
@@ -55415,11 +55386,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9279_RID5996",
+      "description": "maxillary first premolar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9129_RID9279_RID5996_RID5824",
+      "rightId": "RID9129_RID9279_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9279_RID5996_RID5825",
       "description": "right maxillary first premolar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9129_RID9279_RID5996_RID5824",
+      "unsidedId": "RID9129_RID9279_RID5996",
       "synonyms": [
         "ADA 5",
         "tooth 5",
@@ -55441,11 +55421,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9279_RID5998",
+      "description": "maxillary second premolar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9129_RID9279_RID5998_RID5824",
+      "rightId": "RID9129_RID9279_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9279_RID5998_RID5825",
       "description": "right maxillary second premolar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9129_RID9279_RID5998_RID5824",
+      "unsidedId": "RID9129_RID9279_RID5998",
       "synonyms": [
         "ADA 4",
         "tooth 4",
@@ -55467,11 +55456,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9279_RID5996",
+      "description": "maxillary first molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9279_RID5996_RID5824",
+      "rightId": "RID9128_RID9279_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9279_RID5996_RID5825",
       "description": "right maxillary first molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9279_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9279_RID5996",
       "synonyms": [
         "ADA 3",
         "tooth 3",
@@ -55493,11 +55491,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9279_RID5998",
+      "description": "maxillary second molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9279_RID5998_RID5824",
+      "rightId": "RID9128_RID9279_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9279_RID5998_RID5825",
       "description": "right maxillary second molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9279_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9279_RID5998",
       "synonyms": [
         "ADA 2",
         "tooth 2"
@@ -55518,11 +55525,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9279_RID6000",
+      "description": "maxillary third molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9279_RID6000_RID5824",
+      "rightId": "RID9128_RID9279_RID6000_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9279_RID6000_RID5825",
       "description": "right maxillary third molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9279_RID6000_RID5824",
+      "unsidedId": "RID9128_RID9279_RID6000",
       "synonyms": [
         "ADA 1",
         "tooth 1",
@@ -55549,6 +55565,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9279_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9279_RID5827",
       "synonyms": [
         "ADA 9",
         "tooth 9"
@@ -55574,6 +55591,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9279_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9279_RID39121",
       "synonyms": [
         "ADA 10",
         "tooth 10"
@@ -55599,6 +55617,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9126_RID9279_RID5825",
+      "unsidedId": "RID9126_RID9279",
       "synonyms": [
         "ADA 11",
         "tooth 11"
@@ -55624,6 +55643,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9129_RID9279_RID5996_RID5825",
+      "unsidedId": "RID9129_RID9279_RID5996",
       "synonyms": [
         "ADA 12",
         "tooth 12"
@@ -55649,6 +55669,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9129_RID9279_RID5998_RID5825",
+      "unsidedId": "RID9129_RID9279_RID5998",
       "synonyms": [
         "ADA 13",
         "tooth 13"
@@ -55674,6 +55695,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9279_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9279_RID5996",
       "synonyms": [
         "ADA 14",
         "tooth 14"
@@ -55699,6 +55721,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9279_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9279_RID5998",
       "synonyms": [
         "ADA 15",
         "tooth 15"
@@ -55724,6 +55747,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9279_RID6000_RID5825",
+      "unsidedId": "RID9128_RID9279_RID6000",
       "synonyms": [
         "ADA 16",
         "tooth 16"
@@ -55744,11 +55768,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9106_RID5827",
+      "description": "mandibular central incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9106_RID5827_RID5824",
+      "rightId": "RID9127_RID9106_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9106_RID5827_RID5825",
       "description": "right mandibular central incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9106_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9106_RID5827",
       "synonyms": [
         "ADA 25",
         "tooth 25"
@@ -55769,11 +55802,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9106_RID39121",
+      "description": "mandibular lateral incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9106_RID39121_RID5824",
+      "rightId": "RID9127_RID9106_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9106_RID39121_RID5825",
       "description": "right mandibular lateral incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9106_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9106_RID39121",
       "synonyms": [
         "ADA 26",
         "tooth 26"
@@ -55794,11 +55836,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9106",
+      "description": "mandibular canine tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9126_RID9106_RID5824",
+      "rightId": "RID9126_RID9106_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9106_RID5825",
       "description": "right mandibular canine tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9126_RID9106_RID5824",
+      "unsidedId": "RID9126_RID9106",
       "synonyms": [
         "ADA 27",
         "tooth 27"
@@ -55819,11 +55870,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9106_RID5996",
+      "description": "mandibular first premolar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9129_RID9106_RID5996_RID5824",
+      "rightId": "RID9129_RID9106_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9106_RID5996_RID5825",
       "description": "right mandibular first premolar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9129_RID9106_RID5996_RID5824",
+      "unsidedId": "RID9129_RID9106_RID5996",
       "synonyms": [
         "ADA 28",
         "tooth 28"
@@ -55844,11 +55904,20 @@
       ]
     },
     {
+      "radlexId": "RID9129_RID9106_RID5998",
+      "description": "mandibular second premolar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9129_RID9106_RID5998_RID5824",
+      "rightId": "RID9129_RID9106_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9129_RID9106_RID5998_RID5825",
       "description": "right mandibular second premolar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9129_RID9106_RID5998_RID5824",
+      "unsidedId": "RID9129_RID9106_RID5998",
       "synonyms": [
         "ADA 29",
         "tooth 29"
@@ -55869,11 +55938,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9106_RID5996",
+      "description": "mandibular first molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9106_RID5996_RID5824",
+      "rightId": "RID9128_RID9106_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9106_RID5996_RID5825",
       "description": "right mandibular first molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9106_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9106_RID5996",
       "synonyms": [
         "ADA 30",
         "tooth 30"
@@ -55894,11 +55972,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9106_RID5998",
+      "description": "mandibular second molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9106_RID5998_RID5824",
+      "rightId": "RID9128_RID9106_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9106_RID5998_RID5825",
       "description": "right mandibular second molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9106_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9106_RID5998",
       "synonyms": [
         "ADA 31",
         "tooth 31"
@@ -55919,11 +56006,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9106_RID6000",
+      "description": "mandibular third molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9106_RID6000_RID5824",
+      "rightId": "RID9128_RID9106_RID6000_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9106_RID6000_RID5825",
       "description": "right mandibular third molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9106_RID6000_RID5824",
+      "unsidedId": "RID9128_RID9106_RID6000",
       "synonyms": [
         "ADA 32",
         "tooth 32"
@@ -55949,6 +56045,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9106_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9106_RID5827",
       "synonyms": [
         "ADA 24",
         "tooth 24"
@@ -55974,6 +56071,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9106_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9106_RID39121",
       "synonyms": [
         "ADA 23",
         "tooth 23"
@@ -55999,6 +56097,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9126_RID9106_RID5825",
+      "unsidedId": "RID9126_RID9106",
       "synonyms": [
         "ADA 22",
         "tooth 22"
@@ -56024,6 +56123,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9129_RID9106_RID5996_RID5825",
+      "unsidedId": "RID9129_RID9106_RID5996",
       "synonyms": [
         "ADA 21",
         "tooth 21"
@@ -56049,6 +56149,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9129_RID9106_RID5998_RID5825",
+      "unsidedId": "RID9129_RID9106_RID5998",
       "synonyms": [
         "ADA 20",
         "tooth 20"
@@ -56074,6 +56175,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9106_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9106_RID5996",
       "synonyms": [
         "ADA 19",
         "tooth 19"
@@ -56099,6 +56201,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9106_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9106_RID5998",
       "synonyms": [
         "ADA 18",
         "tooth 18"
@@ -56124,6 +56227,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9106_RID6000_RID5825",
+      "unsidedId": "RID9128_RID9106_RID6000",
       "synonyms": [
         "ADA 17",
         "tooth 17"
@@ -56144,11 +56248,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9279_RID5827",
+      "description": "deciduous maxillary central incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9131_RID9279_RID5827_RID5824",
+      "rightId": "RID9127_RID9131_RID9279_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9279_RID5827_RID5825",
       "description": "right deciduous maxillary central incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9131_RID9279_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9279_RID5827",
       "synonyms": [
         "deciduous right maxillary central incisor tooth",
         "ADA E",
@@ -56170,11 +56283,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9279_RID39121",
+      "description": "deciduous maxillary lateral incisor tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9127_RID9131_RID9279_RID39121_RID5824",
+      "rightId": "RID9127_RID9131_RID9279_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9279_RID39121_RID5825",
       "description": "right deciduous maxillary lateral incisor tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9127_RID9131_RID9279_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9279_RID39121",
       "synonyms": [
         "deciduous right maxillary lateral incisor tooth",
         "ADA D",
@@ -56196,11 +56318,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9131_RID9279",
+      "description": "deciduous maxillary canine tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9126_RID9131_RID9279_RID5824",
+      "rightId": "RID9126_RID9131_RID9279_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9131_RID9279_RID5825",
       "description": "right deciduous maxillary canine tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9126_RID9131_RID9279_RID5824",
+      "unsidedId": "RID9126_RID9131_RID9279",
       "synonyms": [
         "deciduous right maxillary canine tooth",
         "ADA C",
@@ -56222,11 +56353,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9279_RID5996",
+      "description": "deciduous maxillary first molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9131_RID9279_RID5996_RID5824",
+      "rightId": "RID9128_RID9131_RID9279_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9279_RID5996_RID5825",
       "description": "right deciduous maxillary first molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9131_RID9279_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5996",
       "synonyms": [
         "deciduous right maxillary first molar tooth",
         "ADA B",
@@ -56248,11 +56388,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9279_RID5998",
+      "description": "deciduous maxillary second molar tooth",
+      "containedById": "RID9271",
+      "partOfId": "RID9279",
+      "leftId": "RID9128_RID9131_RID9279_RID5998_RID5824",
+      "rightId": "RID9128_RID9131_RID9279_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9279_RID5998_RID5825",
       "description": "right deciduous maxillary second molar tooth",
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "leftId": "RID9128_RID9131_RID9279_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5998",
       "synonyms": [
         "deciduous right maxillary second molar tooth",
         "ADA A",
@@ -56279,6 +56428,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9131_RID9279_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9279_RID5827",
       "synonyms": [
         "deciduous left maxillary central incisor tooth",
         "ADA F",
@@ -56305,6 +56455,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9127_RID9131_RID9279_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9279_RID39121",
       "synonyms": [
         "deciduous left maxillary lateral incisor tooth",
         "ADA G",
@@ -56331,6 +56482,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9126_RID9131_RID9279_RID5825",
+      "unsidedId": "RID9126_RID9131_RID9279",
       "synonyms": [
         "deciduous left maxillary canine tooth",
         "ADA H",
@@ -56357,6 +56509,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9131_RID9279_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5996",
       "synonyms": [
         "deciduous left maxillary first molar tooth",
         "ADA I",
@@ -56383,6 +56536,7 @@
       "containedById": "RID9271",
       "partOfId": "RID9279",
       "rightId": "RID9128_RID9131_RID9279_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9279_RID5998",
       "synonyms": [
         "deciduous left maxillary second molar tooth",
         "ADA J",
@@ -56404,11 +56558,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9106_RID5827",
+      "description": "deciduous mandibular central incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9131_RID9106_RID5827_RID5824",
+      "rightId": "RID9127_RID9131_RID9106_RID5827_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9106_RID5827_RID5825",
       "description": "right deciduous mandibular central incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9131_RID9106_RID5827_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9106_RID5827",
       "synonyms": [
         "deciduous right mandibular central incisor tooth",
         "ADA P",
@@ -56430,11 +56593,20 @@
       ]
     },
     {
+      "radlexId": "RID9127_RID9131_RID9106_RID39121",
+      "description": "deciduous mandibular lateral incisor tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9127_RID9131_RID9106_RID39121_RID5824",
+      "rightId": "RID9127_RID9131_RID9106_RID39121_RID5825"
+    },
+    {
       "radlexId": "RID9127_RID9131_RID9106_RID39121_RID5825",
       "description": "right deciduous mandibular lateral incisor tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9127_RID9131_RID9106_RID39121_RID5824",
+      "unsidedId": "RID9127_RID9131_RID9106_RID39121",
       "synonyms": [
         "deciduous right mandibular lateral incisor tooth",
         "ADA Q",
@@ -56456,11 +56628,20 @@
       ]
     },
     {
+      "radlexId": "RID9126_RID9131_RID9106",
+      "description": "deciduous mandibular canine tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9126_RID9131_RID9106_RID5824",
+      "rightId": "RID9126_RID9131_RID9106_RID5825"
+    },
+    {
       "radlexId": "RID9126_RID9131_RID9106_RID5825",
       "description": "right deciduous mandibular canine tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9126_RID9131_RID9106_RID5824",
+      "unsidedId": "RID9126_RID9131_RID9106",
       "synonyms": [
         "deciduous right mandibular canine tooth",
         "ADA R",
@@ -56482,11 +56663,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9106_RID5996",
+      "description": "deciduous mandibular first molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9131_RID9106_RID5996_RID5824",
+      "rightId": "RID9128_RID9131_RID9106_RID5996_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9106_RID5996_RID5825",
       "description": "right deciduous mandibular first molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9131_RID9106_RID5996_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5996",
       "synonyms": [
         "deciduous right mandibular first molar tooth",
         "ADA S",
@@ -56508,11 +56698,20 @@
       ]
     },
     {
+      "radlexId": "RID9128_RID9131_RID9106_RID5998",
+      "description": "deciduous mandibular second molar tooth",
+      "containedById": "RID9082",
+      "partOfId": "RID9106",
+      "leftId": "RID9128_RID9131_RID9106_RID5998_RID5824",
+      "rightId": "RID9128_RID9131_RID9106_RID5998_RID5825"
+    },
+    {
       "radlexId": "RID9128_RID9131_RID9106_RID5998_RID5825",
       "description": "right deciduous mandibular second molar tooth",
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "leftId": "RID9128_RID9131_RID9106_RID5998_RID5824",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5998",
       "synonyms": [
         "deciduous right mandibular second molar tooth",
         "ADA T",
@@ -56539,6 +56738,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9131_RID9106_RID5827_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9106_RID5827",
       "synonyms": [
         "deciduous left mandibular central incisor tooth",
         "ADA O",
@@ -56565,6 +56765,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9127_RID9131_RID9106_RID39121_RID5825",
+      "unsidedId": "RID9127_RID9131_RID9106_RID39121",
       "synonyms": [
         "deciduous left mandibular lateral incisor tooth",
         "ADA N",
@@ -56591,6 +56792,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9126_RID9131_RID9106_RID5825",
+      "unsidedId": "RID9126_RID9131_RID9106",
       "synonyms": [
         "deciduous left mandibular canine tooth",
         "ADA M",
@@ -56617,6 +56819,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9131_RID9106_RID5996_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5996",
       "synonyms": [
         "deciduous left mandibular first molar tooth",
         "ADA L",
@@ -56643,6 +56846,7 @@
       "containedById": "RID9082",
       "partOfId": "RID9106",
       "rightId": "RID9128_RID9131_RID9106_RID5998_RID5825",
+      "unsidedId": "RID9128_RID9131_RID9106_RID5998",
       "synonyms": [
         "deciduous left mandibular second molar tooth",
         "ADA K",
@@ -56861,7 +57065,7 @@
       "radlexId": "RID6576",
       "description": "pineal gland",
       "definition": "Circumventricular organ of neuraxis which is shaped like a pine cone and attached on the midline near the posterior and habenular commissures of the epithalamus.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "synonyms": [
         "pineal body"
@@ -56893,7 +57097,7 @@
       "radlexId": "RID6578",
       "description": "thalamus",
       "definition": "Paired bodies containing mostly gray substance and forming part of the lateral wall of the third ventricle of the brain. The thalamus represents the major portion of the diencephalon and is commonly divided into cellular aggregates known as nuclear groups. [MeSH]",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13496",
       "rightId": "RID13495",
@@ -56926,7 +57130,7 @@
     {
       "radlexId": "RID13495",
       "description": "right thalamus",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13496",
       "unsidedId": "RID6578",
@@ -56948,7 +57152,7 @@
     {
       "radlexId": "RID13496",
       "description": "left thalamus",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "rightId": "RID13495",
       "unsidedId": "RID6578",
@@ -56970,7 +57174,7 @@
     {
       "radlexId": "RID6911",
       "description": "anterior commissure",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "codes": [
         {
           "system": "FMA",
@@ -56993,7 +57197,7 @@
     {
       "radlexId": "RID6914",
       "description": "posterior commissure",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "epithalamic commissure",
         "caudal commissure"
@@ -57021,7 +57225,7 @@
       "radlexId": "RID6915",
       "description": "corpus callosum",
       "definition": "Broad plate of dense myelinated fibers that reciprocally interconnect regions of the cortex in all lobes with corresponding regions of the opposite hemisphere. The corpus callosum is located deep in the longitudinal fissure. [MeSH]",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "codes": [
         {
           "system": "FMA",
@@ -57217,7 +57421,7 @@
       "radlexId": "RID6639",
       "description": "hypothalamus",
       "definition": "Ventral part of the diencephalon extending from the region of the optic chiasm to the caudal border of the mammillary bodies and forming the inferior and lateral walls of the third ventricle. [MeSH]",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "synonyms": [
         "preoptico-hypothalamic region",
@@ -57640,7 +57844,7 @@
     {
       "radlexId": "RID7137",
       "description": "third ventricle",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "3rd ventricle",
         "cavity of third ventricle"
@@ -57708,7 +57912,7 @@
     {
       "radlexId": "RID7178",
       "description": "interventricular foramen",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "synonyms": [
         "foramen of Monro"
       ],
@@ -57731,7 +57935,7 @@
       "radlexId": "RID7147",
       "description": "fourth ventricle",
       "definition": "An irregularly shaped cavity in the rhombencephalon, between the medulla oblongata, the pons, and the isthmus in front, and the cerebellum behind. It is continuous with the central canal of the cord below and with the cerebral aqueduct above, and through its lateral and median apertures it communicates with the subarachnoid space. [MeSH]",
-      "containedById": "RID6381_RID6434",
+      "containedById": "RID6434_RID6381",
       "synonyms": [
         "4th ventricle",
         "cavity of fourth ventricle"
@@ -57974,7 +58178,7 @@
       "radlexId": "RID13857",
       "description": "cerebral hemisphere",
       "definition": "One of two bilateral, largely symmetrical organ subdivisions within the telencephalon which contain the cerebral cortex and cerebral white matter.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13859",
       "rightId": "RID13858",
@@ -57997,7 +58201,7 @@
       "radlexId": "RID13858",
       "description": "right cerebral hemisphere",
       "definition": "The right cerebral hemisphere is one of two bilateral, largely symmetrical organ subdivisions within the telencephalon which contain the cerebral cortex and cerebral white matter.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "leftId": "RID13859",
       "unsidedId": "RID13857",
@@ -58016,7 +58220,7 @@
       "radlexId": "RID13859",
       "description": "left cerebral hemisphere",
       "definition": "Left cerebral hemisphere is one of two bilateral, largely symmetrical organ subdivisions within the telencephalon which contain the cerebral cortex and cerebral white matter.",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "partOfId": "RID6434",
       "rightId": "RID13858",
       "unsidedId": "RID13857",
@@ -58530,84 +58734,84 @@
     {
       "radlexId": "RID6391",
       "description": "frontal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6391_RID5824",
       "rightId": "RID6391_RID5825"
     },
     {
       "radlexId": "RID6391_RID5824",
       "description": "left frontal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6391_RID5825",
       "unsidedId": "RID6391"
     },
     {
       "radlexId": "RID6391_RID5825",
       "description": "right frontal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6391_RID5824",
       "unsidedId": "RID6391"
     },
     {
       "radlexId": "RID6392",
       "description": "temporal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6392_RID5824",
       "rightId": "RID6392_RID5825"
     },
     {
       "radlexId": "RID6392_RID5824",
       "description": "left temporal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6392_RID5825",
       "unsidedId": "RID6392"
     },
     {
       "radlexId": "RID6392_RID5825",
       "description": "right temporal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6392_RID5824",
       "unsidedId": "RID6392"
     },
     {
       "radlexId": "RID6393",
       "description": "occipital brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6393_RID5824",
       "rightId": "RID6393_RID5825"
     },
     {
       "radlexId": "RID6393_RID5824",
       "description": "left occipital brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6393_RID5825",
       "unsidedId": "RID6393"
     },
     {
       "radlexId": "RID6393_RID5825",
       "description": "right occipital brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6393_RID5824",
       "unsidedId": "RID6393"
     },
     {
       "radlexId": "RID6394",
       "description": "parietal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6394_RID5824",
       "rightId": "RID6394_RID5825"
     },
     {
       "radlexId": "RID6394_RID5824",
       "description": "left parietal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "rightId": "RID6394_RID5825",
       "unsidedId": "RID6394"
     },
     {
       "radlexId": "RID6394_RID5825",
       "description": "right parietal brain region",
-      "containedById": "RID6389_RID6434",
+      "containedById": "RID6434_RID6389",
       "leftId": "RID6394_RID5824",
       "unsidedId": "RID6394"
     }

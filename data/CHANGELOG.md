@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-11-22
+Every change in this release, with its reason, is listed in [release-notes/1.0.2-changes.csv](release-notes/1.0.2-changes.csv).
+
+### Added
+- Added `RID9962` sublingual space, with its left and right entries, in `RID9938` oral cavity
+- Added an unsided entry for each of the 26 tooth pairs, such as `RID9126_RID9279` maxillary canine tooth, so every left and right pair has its unsided entry
+
+### Changed
+- Moved `RID39003` sublingual gland, with its left and right entries, from `RID7540` suprahyoid neck into the sublingual space
+- Moved `RID30906` iliopsoas, with its left and right entries, from `RID39569` whole body to `RID2691` anterior compartment of thigh, since a muscle sits in the compartment that holds most of it
+- Renamed `RID6389_RID6434` supratentorial brain to `RID6434_RID6389` and `RID6381_RID6434` infratentorial brain to `RID6434_RID6381`, so every synthetic identifier places the structure first
+- Changed the `partOfId` of the latissimus dorsi, rhomboid major, rhomboid minor, and trapezius muscles to `RID30781` back, and of `RID28847` intramammary lymph node to `RID29895` female breast
+
+### Fixed
+- Removed the `partOfId` link from `RID7527` hyoid bone to `RID9196` skull, since the hyoid bone is in the neck and is not part of the skull
+- Pointed the `$schema` declaration at the schema in the 1.0.2 release
+
+### Removed
+- Removed the right and left common pulmonary veins, lateral occipital arteries, and inferior anastomotic veins, which RadLex names only with a side, so every pair in the release is a full laterality triad
+
 ## [1.0.1] - 2026-11-08
 Every change in this release, with its reason, is listed in [release-notes/1.0.1-changes.csv](release-notes/1.0.1-changes.csv).
 

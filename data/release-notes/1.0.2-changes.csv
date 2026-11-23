@@ -1,0 +1,112 @@
+radlexId,description,change,detail,reason
+RID30906,iliopsoas muscle,change containedById,RID39569 -> RID2691,"a muscle sits in the compartment that holds most of it, not at whole body"
+RID30907,right iliopsoas muscle,change containedById,RID39569 -> RID48157,"a muscle sits in the compartment that holds most of it, not at whole body"
+RID30908,left iliopsoas muscle,change containedById,RID39569 -> RID48158,"a muscle sits in the compartment that holds most of it, not at whole body"
+RID13374,latissimus dorsi muscle,change partOfId,RID32755 -> RID30781,"part of the back, which contains it"
+RID13374_RID5824,left latissimus dorsi muscle,change partOfId,RID32755 -> RID30781,"part of the back, which contains it"
+RID13374_RID5825,right latissimus dorsi muscle,change partOfId,RID32755 -> RID30781,"part of the back, which contains it"
+RID2500,rhomboid major muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43054,right rhomboid major muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43055,left rhomboid major muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID2501,rhomboid minor muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43056,right rhomboid minor muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43057,left rhomboid minor muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID1937,trapezius muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43045,right trapezius muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID43046,left trapezius muscle,change partOfId,RID32807 -> RID30781,"part of the back, which contains it"
+RID34263,intramammary lymph node,change partOfId,RID28847 -> RID29895,"part of the female breast, which contains it"
+RID34263_RID5824,left intramammary lymph node,change partOfId,RID28847 -> RID29897,"part of the left female breast, which contains it"
+RID34263_RID5825,right intramammary lymph node,change partOfId,RID28847 -> RID29896,"part of the right female breast, which contains it"
+RID9962,sublingual space,add entry,in RID9938,added to hold the sublingual gland
+RID9962_RID5824,left sublingual space,add entry,in RID9938,added to hold the sublingual gland
+RID9962_RID5825,right sublingual space,add entry,in RID9938,added to hold the sublingual gland
+RID39003,sublingual gland,change containedById,RID7540 -> RID9962,"the sublingual gland sits in the sublingual space, now an entry"
+RID39004,right sublingual gland,change containedById,RID7540 -> RID9962_RID5825,"the sublingual gland sits in the sublingual space, now an entry"
+RID39005,left sublingual gland,change containedById,RID7540 -> RID9962_RID5824,"the sublingual gland sits in the sublingual space, now an entry"
+RID7527,hyoid bone,change partOfId,RID9196 -> None,the hyoid bone is in the neck and is not part of the skull
+RID9127_RID9279_RID5827,maxillary central incisor tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9127_RID9279_RID39121,maxillary lateral incisor tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9126_RID9279,maxillary canine tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9129_RID9279_RID5996,maxillary first premolar tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9129_RID9279_RID5998,maxillary second premolar tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9128_RID9279_RID5996,maxillary first molar tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9128_RID9279_RID5998,maxillary second molar tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9128_RID9279_RID6000,maxillary third molar tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9127_RID9106_RID5827,mandibular central incisor tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9127_RID9106_RID39121,mandibular lateral incisor tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9126_RID9106,mandibular canine tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9129_RID9106_RID5996,mandibular first premolar tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9129_RID9106_RID5998,mandibular second premolar tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9128_RID9106_RID5996,mandibular first molar tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9128_RID9106_RID5998,mandibular second molar tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9128_RID9106_RID6000,mandibular third molar tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9127_RID9131_RID9279_RID5827,deciduous maxillary central incisor tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9127_RID9131_RID9279_RID39121,deciduous maxillary lateral incisor tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9126_RID9131_RID9279,deciduous maxillary canine tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9128_RID9131_RID9279_RID5996,deciduous maxillary first molar tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9128_RID9131_RID9279_RID5998,deciduous maxillary second molar tooth,add entry,in RID9271,completes the laterality triad of its left and right entries
+RID9127_RID9131_RID9106_RID5827,deciduous mandibular central incisor tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9127_RID9131_RID9106_RID39121,deciduous mandibular lateral incisor tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9126_RID9131_RID9106,deciduous mandibular canine tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9128_RID9131_RID9106_RID5996,deciduous mandibular first molar tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9128_RID9131_RID9106_RID5998,deciduous mandibular second molar tooth,add entry,in RID9082,completes the laterality triad of its left and right entries
+RID9127_RID9279_RID5827_RID5825,right maxillary central incisor tooth,change unsidedId,None -> RID9127_RID9279_RID5827,links the tooth to its new unsided entry
+RID9127_RID9279_RID39121_RID5825,right maxillary lateral incisor tooth,change unsidedId,None -> RID9127_RID9279_RID39121,links the tooth to its new unsided entry
+RID9126_RID9279_RID5825,right maxillary canine tooth,change unsidedId,None -> RID9126_RID9279,links the tooth to its new unsided entry
+RID9129_RID9279_RID5996_RID5825,right maxillary first premolar tooth,change unsidedId,None -> RID9129_RID9279_RID5996,links the tooth to its new unsided entry
+RID9129_RID9279_RID5998_RID5825,right maxillary second premolar tooth,change unsidedId,None -> RID9129_RID9279_RID5998,links the tooth to its new unsided entry
+RID9128_RID9279_RID5996_RID5825,right maxillary first molar tooth,change unsidedId,None -> RID9128_RID9279_RID5996,links the tooth to its new unsided entry
+RID9128_RID9279_RID5998_RID5825,right maxillary second molar tooth,change unsidedId,None -> RID9128_RID9279_RID5998,links the tooth to its new unsided entry
+RID9128_RID9279_RID6000_RID5825,right maxillary third molar tooth,change unsidedId,None -> RID9128_RID9279_RID6000,links the tooth to its new unsided entry
+RID9127_RID9279_RID5827_RID5824,left maxillary central incisor tooth,change unsidedId,None -> RID9127_RID9279_RID5827,links the tooth to its new unsided entry
+RID9127_RID9279_RID39121_RID5824,left maxillary lateral incisor tooth,change unsidedId,None -> RID9127_RID9279_RID39121,links the tooth to its new unsided entry
+RID9126_RID9279_RID5824,left maxillary canine tooth,change unsidedId,None -> RID9126_RID9279,links the tooth to its new unsided entry
+RID9129_RID9279_RID5996_RID5824,left maxillary first premolar tooth,change unsidedId,None -> RID9129_RID9279_RID5996,links the tooth to its new unsided entry
+RID9129_RID9279_RID5998_RID5824,left maxillary second premolar tooth,change unsidedId,None -> RID9129_RID9279_RID5998,links the tooth to its new unsided entry
+RID9128_RID9279_RID5996_RID5824,left maxillary first molar tooth,change unsidedId,None -> RID9128_RID9279_RID5996,links the tooth to its new unsided entry
+RID9128_RID9279_RID5998_RID5824,left maxillary second molar tooth,change unsidedId,None -> RID9128_RID9279_RID5998,links the tooth to its new unsided entry
+RID9128_RID9279_RID6000_RID5824,left maxillary third molar tooth,change unsidedId,None -> RID9128_RID9279_RID6000,links the tooth to its new unsided entry
+RID9127_RID9106_RID5827_RID5825,right mandibular central incisor tooth,change unsidedId,None -> RID9127_RID9106_RID5827,links the tooth to its new unsided entry
+RID9127_RID9106_RID39121_RID5825,right mandibular lateral incisor tooth,change unsidedId,None -> RID9127_RID9106_RID39121,links the tooth to its new unsided entry
+RID9126_RID9106_RID5825,right mandibular canine tooth,change unsidedId,None -> RID9126_RID9106,links the tooth to its new unsided entry
+RID9129_RID9106_RID5996_RID5825,right mandibular first premolar tooth,change unsidedId,None -> RID9129_RID9106_RID5996,links the tooth to its new unsided entry
+RID9129_RID9106_RID5998_RID5825,right mandibular second premolar tooth,change unsidedId,None -> RID9129_RID9106_RID5998,links the tooth to its new unsided entry
+RID9128_RID9106_RID5996_RID5825,right mandibular first molar tooth,change unsidedId,None -> RID9128_RID9106_RID5996,links the tooth to its new unsided entry
+RID9128_RID9106_RID5998_RID5825,right mandibular second molar tooth,change unsidedId,None -> RID9128_RID9106_RID5998,links the tooth to its new unsided entry
+RID9128_RID9106_RID6000_RID5825,right mandibular third molar tooth,change unsidedId,None -> RID9128_RID9106_RID6000,links the tooth to its new unsided entry
+RID9127_RID9106_RID5827_RID5824,left mandibular central incisor tooth,change unsidedId,None -> RID9127_RID9106_RID5827,links the tooth to its new unsided entry
+RID9127_RID9106_RID39121_RID5824,left mandibular lateral incisor tooth,change unsidedId,None -> RID9127_RID9106_RID39121,links the tooth to its new unsided entry
+RID9126_RID9106_RID5824,left mandibular canine tooth,change unsidedId,None -> RID9126_RID9106,links the tooth to its new unsided entry
+RID9129_RID9106_RID5996_RID5824,left mandibular first premolar tooth,change unsidedId,None -> RID9129_RID9106_RID5996,links the tooth to its new unsided entry
+RID9129_RID9106_RID5998_RID5824,left mandibular second premolar tooth,change unsidedId,None -> RID9129_RID9106_RID5998,links the tooth to its new unsided entry
+RID9128_RID9106_RID5996_RID5824,left mandibular first molar tooth,change unsidedId,None -> RID9128_RID9106_RID5996,links the tooth to its new unsided entry
+RID9128_RID9106_RID5998_RID5824,left mandibular second molar tooth,change unsidedId,None -> RID9128_RID9106_RID5998,links the tooth to its new unsided entry
+RID9128_RID9106_RID6000_RID5824,left mandibular third molar tooth,change unsidedId,None -> RID9128_RID9106_RID6000,links the tooth to its new unsided entry
+RID9127_RID9131_RID9279_RID5827_RID5825,right deciduous maxillary central incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9279_RID5827,links the tooth to its new unsided entry
+RID9127_RID9131_RID9279_RID39121_RID5825,right deciduous maxillary lateral incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9279_RID39121,links the tooth to its new unsided entry
+RID9126_RID9131_RID9279_RID5825,right deciduous maxillary canine tooth,change unsidedId,None -> RID9126_RID9131_RID9279,links the tooth to its new unsided entry
+RID9128_RID9131_RID9279_RID5996_RID5825,right deciduous maxillary first molar tooth,change unsidedId,None -> RID9128_RID9131_RID9279_RID5996,links the tooth to its new unsided entry
+RID9128_RID9131_RID9279_RID5998_RID5825,right deciduous maxillary second molar tooth,change unsidedId,None -> RID9128_RID9131_RID9279_RID5998,links the tooth to its new unsided entry
+RID9127_RID9131_RID9279_RID5827_RID5824,left deciduous maxillary central incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9279_RID5827,links the tooth to its new unsided entry
+RID9127_RID9131_RID9279_RID39121_RID5824,left deciduous maxillary lateral incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9279_RID39121,links the tooth to its new unsided entry
+RID9126_RID9131_RID9279_RID5824,left deciduous maxillary canine tooth,change unsidedId,None -> RID9126_RID9131_RID9279,links the tooth to its new unsided entry
+RID9128_RID9131_RID9279_RID5996_RID5824,left deciduous maxillary first molar tooth,change unsidedId,None -> RID9128_RID9131_RID9279_RID5996,links the tooth to its new unsided entry
+RID9128_RID9131_RID9279_RID5998_RID5824,left deciduous maxillary second molar tooth,change unsidedId,None -> RID9128_RID9131_RID9279_RID5998,links the tooth to its new unsided entry
+RID9127_RID9131_RID9106_RID5827_RID5825,right deciduous mandibular central incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9106_RID5827,links the tooth to its new unsided entry
+RID9127_RID9131_RID9106_RID39121_RID5825,right deciduous mandibular lateral incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9106_RID39121,links the tooth to its new unsided entry
+RID9126_RID9131_RID9106_RID5825,right deciduous mandibular canine tooth,change unsidedId,None -> RID9126_RID9131_RID9106,links the tooth to its new unsided entry
+RID9128_RID9131_RID9106_RID5996_RID5825,right deciduous mandibular first molar tooth,change unsidedId,None -> RID9128_RID9131_RID9106_RID5996,links the tooth to its new unsided entry
+RID9128_RID9131_RID9106_RID5998_RID5825,right deciduous mandibular second molar tooth,change unsidedId,None -> RID9128_RID9131_RID9106_RID5998,links the tooth to its new unsided entry
+RID9127_RID9131_RID9106_RID5827_RID5824,left deciduous mandibular central incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9106_RID5827,links the tooth to its new unsided entry
+RID9127_RID9131_RID9106_RID39121_RID5824,left deciduous mandibular lateral incisor tooth,change unsidedId,None -> RID9127_RID9131_RID9106_RID39121,links the tooth to its new unsided entry
+RID9126_RID9131_RID9106_RID5824,left deciduous mandibular canine tooth,change unsidedId,None -> RID9126_RID9131_RID9106,links the tooth to its new unsided entry
+RID9128_RID9131_RID9106_RID5996_RID5824,left deciduous mandibular first molar tooth,change unsidedId,None -> RID9128_RID9131_RID9106_RID5996,links the tooth to its new unsided entry
+RID9128_RID9131_RID9106_RID5998_RID5824,left deciduous mandibular second molar tooth,change unsidedId,None -> RID9128_RID9131_RID9106_RID5998,links the tooth to its new unsided entry
+RID1232,right common pulmonary vein,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
+RID1238,left common pulmonary vein,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
+RID44762,right lateral occipital artery,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
+RID44763,left lateral occipital artery,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
+RID36150,right inferior anastomotic vein,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
+RID36151,left inferior anastomotic vein,remove entry,,"RadLex names this structure only with a side, so no unsided entry can complete its triad"
+RID6434_RID6389,supratentorial brain,change radlexId,RID6389_RID6434 -> RID6434_RID6389,a synthetic identifier places the structure first and the modifier second
+RID6434_RID6381,infratentorial brain,change radlexId,RID6381_RID6434 -> RID6434_RID6381,a synthetic identifier places the structure first and the modifier second
